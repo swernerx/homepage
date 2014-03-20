@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html lang="{{current.lang}}">
+	<head>
+		<title>{{current.title}} - {{config.site.name}}</title>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<link rel="stylesheet" href="{{@part.url main css}}">
+	</head>
+
+	<body>
+		<header>
+			<img src="{{@asset.url swerner/k.png}}" alt="Konstrukteur">
+		</header>
+
+		<navigation>
+			{{>mainmenu}}
+		</navigation>
+
+		{{=content}}
+		
+		<footer >
+			{{>footer}}
+		</footer>
+	</body>
+</html>
