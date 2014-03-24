@@ -52,7 +52,7 @@ def process(url):
                 photoLinkUrl = post.find("photo-link-url").text
                 photoUrl = post.find("photo-url").text
 
-                photoText = markdownify.markdownify(photoText)
+                photoText = markdownify.markdownify(photoDescription)
                 print(">>> PHOTO: %s" % photoText)
 
             elif postType == "link":
