@@ -1,5 +1,5 @@
 @task
-def build(regenerate = False):
+def build(regenerate=False):
 	"""Generate build version"""
 
 	profile = Profile(session)
@@ -10,3 +10,9 @@ def build(regenerate = False):
 	konstrukteur.build(profile, regenerate)
 
 	Build.run(profile)
+
+
+@task
+def sync():
+  Console.info("Syncing build to public server...")
+  executeCommand("rsync --recursive --verbose --links --perms --times --compress --delete --human-readable build/asset build/css build/en build/de homepage:~/html/", wrapOutput=False)
