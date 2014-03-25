@@ -120,35 +120,48 @@ def process(url):
 
                 photoExtension = os.path.splitext(photoUrl)[1]
 
-                # Downloading photo locally
-                photoResponse = requests.get(photoUrl)
-
                 # Fill missing extension based on response headers
                 if photoExtension == "":
+                    photoResponse = requests.head(photoUrl)
                     photoType = photoResponse.headers["content-type"]
+
                     if "png" in photoType:
                         photoExtension = ".png"
                     elif "jpeg" in photoType or "jpg" in photoType:
                         photoExtension = ".jpeg"
                     elif "gif" in photoType:
                         photoExtension = ".gif"
+                    else:
+                        raise Exception("Unknown photo format: %s" % photoType)
 
                 # Normalize jpeg extension
                 elif photoExtension == ".jpg":
                     photoExtension = ".jpeg"
 
+                # Downloading image
+                photoResponse = requests.get(photoUrl)
+
+                # Generating checksum
                 photoHash = hashlib.sha1(photoResponse.content).hexdigest()
 
+                # Generate file name and path from existing data
                 photoFileName = "%s-%s-%s%s" % (postDateOnly, postSlug, photoHash[0:10], photoExtension)
-                photoFile = open(os.path.join(photoFolder, photoFileName), "wb")
-                photoFile.write(photoResponse.content)
-                photoFile.close()
+                photoPath = os.path.join(photoFolder, photoFileName)
 
+                # Do not repeatly write identical files
+                if not os.path.exists(photoPath):
+                    photoFile = open(photoPath, "wb")
+                    photoFile.write(photoResponse.content)
+                    photoFile.close()
+
+                # Generate basic image tag
                 photoAsset = '<img src="{{@asset.url %s/%s/%s}}"/>' % (projectName, photoAssetFolder, photoFileName)
 
+                # Wrap with a link when it should be link to an external site
                 if photoLinkUrl:
                     photoAsset = '<a href="%s">%s</a>' % (photoLinkUrl, photoAsset)
 
+                # Convert the markup to markdown
                 photoAsset = markdownify.markdownify(photoAsset).rstrip("\n")
 
                 fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
