@@ -4,25 +4,62 @@ import requests
 import xml.etree.ElementTree as ElementTree
 import markdownify
 import hashlib
+import datetime
 import os.path
 
-template = """
-title: %s
+quoteTemplate = """slug: %s
 date: %s
+type: quote
 ---
 
 %s
 """
 
-photoAssetFolder = "tumblr"
-photoFolder = "source/asset/%s" % photoAssetFolder
+photoTemplate = """slug: %s
+date: %s
+type: photo
+---
+
+%s
+"""
+
+linkTemplate = """slug: %s
+date: %s
+type: link
+---
+
+%s
+"""
+
+regularTemplate = """slug: %s
+date: %s
+title: %s
+type: regular
+---
+
+%s
+"""
+
+
 projectName = "swerner"
 
+photoAssetFolder = "tumblr"
+
+articleFolder = "source/content/article"
+photoFolder = "source/asset/%s" % photoAssetFolder
+
+
+
+
+
+# Pre-create photo folder
 if not os.path.isdir(photoFolder):
     os.mkdir(photoFolder)
 
 
 def process(url):
+    """ Main processing engine """
+
     pos = 0
     fetch = 50
     end = fetch
@@ -41,23 +78,27 @@ def process(url):
         allPosts = tree.find("posts")
 
         # Update end pointer
-        #end = allPosts.get("total")
-
+        end = allPosts.get("total")
 
         # Iterate trough all posts
         for post in allPosts:
             postType = post.get("type")
-            postDate = post.get("date-gmt")
+            postTimeStamp = post.get("unix-timestamp")
+            postExportDate = str(datetime.datetime.fromtimestamp(int(postTimeStamp)))
+
             postSlug = post.get("slug")
             postFormat = post.get("format")
+            postDateOnly = postExportDate[0:postExportDate.find(" ")]
+            postFileName = "%s-%s" % (postDateOnly, postSlug)
 
             if postType == "quote":
                 quoteText = post.find("quote-text").text
                 quoteSourceComment = post.find("quote-source").text
 
-                quoteText = markdownify.markdownify(quoteText).rstrip("\n")
+                quoteText = markdownify.markdownify("<blockquote>" + quoteText + "</blockquote>").rstrip("\n").lstrip("\n")
                 quoteSourceComment = markdownify.markdownify(quoteSourceComment).rstrip("\n")
-                print(">>> QUOTE: %s " % quoteText)
+
+                fileContent = quoteTemplate % (postSlug, postExportDate, quoteText + "\n\n" + quoteSourceComment)
 
             elif postType == "photo":
                 photoText = post.find("photo-caption").text
@@ -65,7 +106,6 @@ def process(url):
                 photoUrl = post.find("photo-url").text
 
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
-                print(">>> PHOTO: %s" % photoText)
 
                 photoExtension = os.path.splitext(photoUrl)[1]
                 photoResponse = requests.get(photoUrl)
@@ -77,33 +117,34 @@ def process(url):
                 photoFile.close()
 
                 photoAsset = '<img src="{{@asset.url %s/%s/%s}}"/>' % (projectName, photoAssetFolder, photoFileName)
-                print(">>> PHOTO ASSET: %s" % photoAsset)
+                photoAsset = markdownify.markdownify(photoAsset).rstrip("\n")
+
+                fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
 
             elif postType == "link":
                 linkText = post.find("link-text").text
                 linkUrl = post.find("link-url").text
 
                 linkText = markdownify.markdownify(linkText).rstrip("\n")
-                print(">>> LINK: %s" % linkText)
+
+                fileContent = linkTemplate % (postSlug, postExportDate, "[%s](%s)" % (linkText, linkUrl))
 
             elif postType == "regular":
                 postTitle = post.find("regular-title").text
                 postText = post.find("regular-body").text
 
                 postText = markdownify.markdownify(postText).rstrip("\n")
-                print(">>> REGULAR: %s" % postText)
+                fileContent = regularTemplate % (postExportDate, postTitle, postSlug, postText)
 
             else:
                 print("Unknown POST-TYPE: %s" % postType)
                 print(ElementTree.dump(post))
+                continue
 
-
-
-
-
-
-
-
+            # Write post file
+            fileHandle = open(os.path.join(articleFolder, postDateOnly + "-" + postType + "-" + postSlug + ".markdown"), "w")
+            fileHandle.write(fileContent)
+            fileHandle.close()
 
         # Update for next requests
         pos = pos + fetch
