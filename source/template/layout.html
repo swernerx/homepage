@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{current.lang}}">
   <head>
-    <title>{{current.title}} - {{config.site.name}}</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>{{current.title}} - {{config.site.name}}</title>
     <script src="{{@part.url kernel js}}"></script>
     <link rel="stylesheet" href="{{@part.url main css}}">
   </head>
@@ -23,7 +23,7 @@
     </main>
     <footer>
       <div class="languages">
-        Languages:
+        Alternative Languages:
         {{#languages}}
           {{^current}}
             <a href="{{relativeUrl}}">{{name}}</a>
