@@ -119,7 +119,24 @@ def process(url):
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
 
                 photoExtension = os.path.splitext(photoUrl)[1]
+
+                # Downloading photo locally
                 photoResponse = requests.get(photoUrl)
+
+                # Fill missing extension based on response headers
+                if photoExtension == "":
+                    photoType = photoResponse.headers["content-type"]
+                    if "png" in photoType:
+                        photoExtension = ".png"
+                    elif "jpeg" in photoType or "jpg" in photoType:
+                        photoExtension = ".jpeg"
+                    elif "gif" in photoType:
+                        photoExtension = ".gif"
+
+                # Normalize jpeg extension
+                elif photoExtension == ".jpg":
+                    photoExtension = ".jpeg"
+
                 photoHash = hashlib.sha1(photoResponse.content).hexdigest()
 
                 photoFileName = "%s-%s-%s%s" % (postDateOnly, postSlug, photoHash[0:10], photoExtension)
