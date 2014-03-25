@@ -180,7 +180,7 @@ def process(url):
                     postTitle = ""
 
                 postText = markdownify.markdownify(postText).rstrip("\n")
-                fileContent = regularTemplate % (postExportDate, postTitle, postSlug, postText)
+                fileContent = regularTemplate % (postSlug, postExportDate, postTitle, postText)
 
             else:
                 print("Unknown POST-TYPE: %s" % postType)
