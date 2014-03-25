@@ -2,6 +2,7 @@ profile = Profile(session)
 profile.registerPart("swerner", styleName="swerner.Main")
 profile.setHashAssets(True)
 profile.setCopyAssets(True)
+profile.setDestinationPath("build")
 
 
 @task

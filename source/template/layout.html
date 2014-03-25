@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <title>{{current.title}} - {{config.site.name}}</title>
-    <script src="{{@part.url kernel js}}"></script>
     <link rel="stylesheet" href="{{@part.url main css}}">
   </head>
   <body>
@@ -15,18 +14,14 @@
         <ul>
           {{#pages}}
             <li>
-              <a href="{{relativeUrl}}" {{?active}}class="active"{{/active}}>{{title}}</a>
+              {{?active}}
+                <a href="#" class="active">{{title}}</a>
+              {{/active}}
+              {{^active}}
+                <a href="{{relativeUrl}}">{{title}}</a>
+              {{/active}}
             </li>
           {{/pages}}
-        </ul>
-
-        <h2>Posts</h2>
-        <ul>
-          {{#posts}}
-            <li>
-              <a href="{{relativeUrl}}" {{?active}}class="active"{{/active}}>{{title}}</a>
-            </li>
-          {{/posts}}
         </ul>
       </nav>
     </header>
