@@ -53,7 +53,7 @@ projectName = "swerner"
 
 photoAssetFolder = "tumblr"
 
-articleFolder = "source/content/article"
+postFolder = "source/content/post"
 photoFolder = "source/asset/%s" % photoAssetFolder
 
 
@@ -201,7 +201,7 @@ def process(url):
                 continue
 
             # Write post file
-            fileHandle = open(os.path.join(articleFolder, postDateOnly + "-" + postType + "-" + postSlug + ".markdown"), "w")
+            fileHandle = open(os.path.join(postFolder, postDateOnly + "-" + postType + "-" + postSlug + ".markdown"), "w")
             fileHandle.write(fileContent)
             fileHandle.close()
 
