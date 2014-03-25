@@ -185,14 +185,11 @@ def process(url, start=0, fetch=50):
                     photoFile.close()
 
                 # Generate basic image tag
-                photoAsset = '<img src="{{@asset.url %s/%s/%s}}"/>' % (projectName, photoAssetFolder, photoFileName)
+                photoAsset = '<img src="{{@asset.url %s/%s/%s}}" alt=""/>' % (projectName, photoAssetFolder, photoFileName)
 
                 # Wrap with a link when it should be link to an external site
                 if photoLinkUrl:
                     photoAsset = '<a href="%s">%s</a>' % (photoLinkUrl, photoAsset)
-
-                # Convert the markup to markdown
-                photoAsset = markdownify.markdownify(photoAsset).rstrip("\n")
 
                 fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
 
