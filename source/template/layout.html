@@ -11,14 +11,25 @@
     <header>
       <h1>Sebastian Werner</h1>
       <nav>
-        {{>mainmenu}}
+        <ul>
+          {{#pages}}
+            <li><a href="{{relativeUrl}}" {{?active}}class="active"{{/active}}>{{title}}</a></li>
+          {{/pages}}
+        </ul>
       </nav>
     </header>
     <main>
       {{=content}}
     </main>
     <footer>
-      {{>footer}}
+      <div class="languages">
+        Languages:
+        {{#languages}}
+          {{^current}}
+            <a href="{{relativeUrl}}">{{name}}</a>
+          {{/current}}
+        {{/languages}}
+      </div>
     </footer>
   </body>
 </html>
