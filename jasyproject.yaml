@@ -20,12 +20,9 @@ konstrukteur:
     defaultAuthor: Sebastian Werner
     itemsInFeed: 25
     itemsInIndex: 10
-    postUrl: "archive/{{current.slug}}-{{current.hash}}.html"
-    feedUrl: "feed.xml"
+    postUrl: "archive/{{current.date}}/{{current.slug}}.html"
     archiveUrl: "archive-{{current.pageno}}.html"
-    archiveTitle:
-      de: "Archiv {{current.pageno}}"
-      en: "Archive {{current.pageno}}"
+    feedUrl: "feed.xml"
 
   pageUrl: "{{current.slug}}.html"
   extensions:
