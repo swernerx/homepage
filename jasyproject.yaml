@@ -1,7 +1,6 @@
 name: swerner
 
 requires:
-# - source: https://github.com/fastner/konstrukteur.git
 - source: /Users/Sebastian/Workspace/konstrukteur
 - source: https://github.com/sebastian-software/core.git
 
@@ -21,12 +20,11 @@ konstrukteur:
     defaultAuthor: Sebastian Werner
     itemsInFeed: 25
     itemsInIndex: 10
-    articleurl: "{{current.lang}}/blog/{{current.slug}}"
-    feedurl: "feed.{{current.lang}}.xml"
-    indexurl: "{{current.lang}}/blog/index-{{current.pageno}}"
+    articleurl: "post/{{current.slug}}.html"
+    feedurl: "feed.xml"
+    indexurl: "post/index-{{current.pageno}}.html"
     indexTitle:
-      de: "Blog-Index {{current.pageno}}"
-      en: "blog index {{current.pageno}}"
+      en: "Archive {{current.pageno}}"
 
   pageurl: "{{current.lang}}/{{current.slug}}.html"
   extensions:
@@ -34,5 +32,3 @@ konstrukteur:
     - html
 
   defaultLanguage: en
-
-  #theme: swerner
