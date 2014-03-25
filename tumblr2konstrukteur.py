@@ -94,15 +94,15 @@ if not os.path.isdir(photoFolder):
     os.mkdir(photoFolder)
 
 
-def process(url):
+def process(url, start=0, fetch=50):
     """ Main processing engine """
 
-    Console.header("Tumblr Import")
+    pos = start
 
-    pos = 2000
-    fetch = 50
+    # End will be updated during each request with incoming data
     end = pos + fetch
 
+    Console.header("Tumblr Import")
     Console.info("Importing data...")
     Console.indent()
 
