@@ -1,4 +1,5 @@
 slug: index
+title: Home
 ---
 
 # Sebastian Werner

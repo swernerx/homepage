@@ -32,6 +32,7 @@ logging.getLogger("requests").setLevel(logging.WARNING)
 
 quoteTemplate = """slug: %s
 date: %s
+title: %s
 type: quote
 ---
 
@@ -136,11 +137,16 @@ def process(url, start=0, fetch=50):
             if postType == "quote":
                 quoteText = post.find("quote-text").text
                 quoteSourceComment = post.find("quote-source").text
+                quoteTitleEndPos = quoteText.find(".")
+                if quoteTitleEndPos == -1:
+                    quoteTitle = quoteText
+                else:
+                    quoteTitle = quoteText[0:quoteTitleEndPos] + "..."
 
                 quoteText = markdownify.markdownify("<blockquote>" + quoteText + "</blockquote>").rstrip("\n").lstrip("\n")
                 quoteSourceComment = markdownify.markdownify(quoteSourceComment).rstrip("\n")
 
-                fileContent = quoteTemplate % (postSlug, postExportDate, quoteText + "\n\n" + quoteSourceComment)
+                fileContent = quoteTemplate % (postSlug, postExportDate, quoteTitle, quoteText + "\n\n" + quoteSourceComment)
 
             elif postType == "photo":
                 photoText = post.find("photo-caption").text
