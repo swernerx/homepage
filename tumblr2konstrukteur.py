@@ -151,28 +151,25 @@ def process(url, start=0, fetch=50):
                 photoUrl = post.find("photo-url").text
 
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
-                photoExtension = os.path.splitext(photoUrl)[1]
 
                 # Downloading image
                 photoResponse = requests.get(photoUrl, allow_redirects=True)
+                if photoResponse.status_code != 200:
+                    Console.error("Unable to load photo. Status: %s; URL: %s", photoResponse.status_code, photoUrl)
+                    continue
 
-                # Fill missing extension based on response headers
-                if photoExtension == "":
-                    photoType = photoResponse.headers["content-type"]
+                # Build extension based on response headers (safer than using file extension)
+                photoType = photoResponse.headers["content-type"]
 
-                    if "png" in photoType:
-                        photoExtension = ".png"
-                    elif "jpeg" in photoType or "jpg" in photoType:
-                        photoExtension = ".jpeg"
-                    elif "gif" in photoType:
-                        photoExtension = ".gif"
-                    else:
-                        Console.error("Unknown photo format: %s; Status %s: %s", photoType, photoResponse.status_code, photoResponse.status)
-                        Console.info("URL: %s" % photoUrl)
-
-                # Normalize jpeg extension
-                elif photoExtension == ".jpg":
+                if "png" in photoType:
+                    photoExtension = ".png"
+                elif "jpeg" in photoType or "jpg" in photoType:
                     photoExtension = ".jpeg"
+                elif "gif" in photoType:
+                    photoExtension = ".gif"
+                else:
+                    Console.error("Unknown photo format: %s; Status: %s; URL: %s", photoType, photoResponse.status_code, photoUrl)
+                    continue
 
                 # Generating checksum
                 photoHash = hashlib.sha1(photoResponse.content).hexdigest()
