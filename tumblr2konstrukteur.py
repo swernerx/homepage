@@ -6,6 +6,29 @@ import markdownify
 import hashlib
 import datetime
 import os.path
+import jasy.core.Console as Console
+
+
+#
+# LOGGING CONFIGURATION
+#
+
+import logging
+
+# Configure log level for root logger first (enable debug level when either logfile or console verbosity is activated)
+loglevel = logging.INFO
+# if options.log or options.verbose is True:
+#    loglevel = logging.DEBUG
+
+# Basic configuration of console logging
+logging.basicConfig(level=loglevel, format="%(message)s")
+
+logging.getLogger("requests").setLevel(logging.WARNING)
+
+
+#
+# TEMPLATES FOR OUTPUT FILES
+#
 
 quoteTemplate = """slug: %s
 date: %s
@@ -49,6 +72,10 @@ type: regular
 """
 
 
+#
+# PROJECT CONFIGURATION
+#
+
 projectName = "swerner"
 
 photoAssetFolder = "tumblr"
@@ -58,7 +85,9 @@ photoFolder = "source/asset/%s" % photoAssetFolder
 
 
 
-
+#
+# MAIN
+#
 
 # Pre-create photo folder
 if not os.path.isdir(photoFolder):
@@ -68,12 +97,17 @@ if not os.path.isdir(photoFolder):
 def process(url):
     """ Main processing engine """
 
+    Console.header("Tumblr Import")
+
     pos = 0
     fetch = 50
     end = fetch
 
+    Console.info("Importing data...")
+    Console.indent()
+
     while pos < end:
-        print("Requesting %s-%s of %s" % (pos, pos+fetch-1, end))
+        Console.info("Requesting %s-%s of %s" % (pos, pos+fetch-1, end))
 
         response = requests.get(url % (pos, fetch))
 
@@ -132,7 +166,7 @@ def process(url):
                     elif "gif" in photoType:
                         photoExtension = ".gif"
                     else:
-                        raise Exception("Unknown photo format: %s" % photoType)
+                        Console.error("Unknown photo format: %s" % photoType)
 
                 # Normalize jpeg extension
                 elif photoExtension == ".jpg":
@@ -208,7 +242,13 @@ def process(url):
         # Update for next requests
         pos = pos + fetch
 
+    Console.outdent()
+
+    Console.info("Successfully imported")
 
 
+#
+# EXECUTE
+#
 
 process("http://sebastian-werner.com/api/read?start=%s&num=%s")
