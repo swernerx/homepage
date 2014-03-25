@@ -22,7 +22,7 @@ konstrukteur:
     itemsInIndex: 10
     postUrl: "archive/{{current.slug}}-{{current.hash}}.html"
     feedUrl: "feed.xml"
-    archiveUrl: "archive/index-{{current.pageno}}.html"
+    archiveUrl: "archive-{{current.pageno}}.html"
     archiveTitle:
       de: "Archiv {{current.pageno}}"
       en: "Archive {{current.pageno}}"
