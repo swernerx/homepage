@@ -6,7 +6,7 @@
 
   <link rel="self" href="http:{{site.url}}/{{feedurl}}"/>
 
-  {{#post}}
+  {{#posts}}
     {{?publish}}
       <entry>
         <author><name>{{config.blog.defaultAuthor}}</name></author>
@@ -18,5 +18,5 @@
         <summary>{{summary}}</summary>
       </entry>
     {{/publish}}
-  {{/post}}
+  {{/posts}}
 </feed>

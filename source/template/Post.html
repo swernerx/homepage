@@ -26,8 +26,10 @@
       </nav>
     </header>
     <main>
-      {{=title}}
-      {{=content}}
+      {{#current}}
+        {{=title}}
+        {{=content}}
+      {{/current}}
     </main>
     <footer>
       <div class="languages">
