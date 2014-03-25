@@ -1,15 +1,21 @@
+profile = Profile(session)
+profile.registerPart("swerner", styleName="swerner.Main")
+profile.setHashAssets(True)
+profile.setCopyAssets(True)
+
+
 @task
-def build(regenerate=False):
+def build():
     """Generate build version"""
 
-    profile = Profile(session)
-    profile.registerPart("swerner", styleName="swerner.Main")
-    profile.setHashAssets(True)
-    profile.setCopyAssets(True)
+    Build.run(profile)
+
+
+@task
+def content(regenerate=False):
+    """Generate content files"""
 
     konstrukteur.build(profile, regenerate)
-
-    Build.run(profile)
 
 
 @task
