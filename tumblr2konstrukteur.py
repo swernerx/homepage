@@ -31,6 +31,14 @@ type: link
 %s
 """
 
+videoTemplate = """slug: %s
+date: %s
+type: video
+---
+
+%s
+"""
+
 regularTemplate = """slug: %s
 date: %s
 title: %s
@@ -78,7 +86,7 @@ def process(url):
         allPosts = tree.find("posts")
 
         # Update end pointer
-        end = allPosts.get("total")
+        end = int(allPosts.get("total"))
 
         # Iterate trough all posts
         for post in allPosts:
@@ -111,7 +119,7 @@ def process(url):
                 photoResponse = requests.get(photoUrl)
                 photoHash = hashlib.sha1(photoResponse.content).hexdigest()
 
-                photoFileName = "%s%s" % (photoHash, photoExtension)
+                photoFileName = "%s-%s-%s%s" % (postExportDate, postSlug, photoHash[0:10], photoExtension)
                 photoFile = open(os.path.join(photoFolder, photoFileName), "wb")
                 photoFile.write(photoResponse.content)
                 photoFile.close()
@@ -122,12 +130,22 @@ def process(url):
                 fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
 
             elif postType == "link":
-                linkText = post.find("link-text").text
                 linkUrl = post.find("link-url").text
-
-                linkText = markdownify.markdownify(linkText).rstrip("\n")
+                try:
+                    linkText = post.find("link-text").text
+                    linkText = markdownify.markdownify(linkText).rstrip("\n")
+                except:
+                    linkText = linkUrl
 
                 fileContent = linkTemplate % (postSlug, postExportDate, "[%s](%s)" % (linkText, linkUrl))
+
+            elif postType == "video":
+                videoCode = post.find("video-source").text
+                videoText = post.find("video-caption").text
+
+                videoText = markdownify.markdownify(videoText).rstrip("\n")
+
+                fileContent = videoTemplate % (postSlug, postExportDate, videoCode + "\n\n" + videoText)
 
             elif postType == "regular":
                 postTitle = post.find("regular-title").text
