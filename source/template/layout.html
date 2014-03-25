@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{current.lang}}">
-	<head>
-		<title>{{current.title}} - {{config.site.name}}</title>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-		<link rel="stylesheet" href="{{@part.url main css}}">
-	</head>
-	<body>
-		<header>
-			Sebastian Werner
-		</header>
-
-		<nav>
-			{{>mainmenu}}
-		</nav>
-
-		{{=content}}
-
-		<footer >
-			{{>footer}}
-		</footer>
-	</body>
+  <head>
+    <title>{{current.title}} - {{config.site.name}}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <script src="{{@part.url kernel js}}"></script>
+    <link rel="stylesheet" href="{{@part.url main css}}">
+  </head>
+  <body>
+    <header>
+      <h1>Sebastian Werner</h1>
+      <nav>
+        {{>mainmenu}}
+      </nav>
+    </header>
+    <main>
+      {{=content}}
+    </main>
+    <footer>
+      {{>footer}}
+    </footer>
+  </body>
 </html>

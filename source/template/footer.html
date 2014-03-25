@@ -1,9 +1,8 @@
-<p>This is the footer</p>
-
-<div>
-{{#languages}}
-	{{^current}}
-	<a href="{{relativeUrl}}">{{name}}</a>
-	{{/current}}
-{{/languages}}
+<div class="languages">
+  Languages:
+  {{#languages}}
+    {{^current}}
+      <a href="{{relativeUrl}}">{{name}}</a>
+    {{/current}}
+  {{/languages}}
 </div>
