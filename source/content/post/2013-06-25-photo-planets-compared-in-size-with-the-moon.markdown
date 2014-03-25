@@ -3,7 +3,7 @@ date: 2013-06-25 20:16:33
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2013-06-25-planets-compared-in-size-with-the-moon-5414cb9b59.jpeg}})](http://www.dailymail.co.uk/sciencetech/article-2345679/Photographer-Ron-Miller-creates-incredible-pictures-look-like-planets-closer.html)
+<a href="http://www.dailymail.co.uk/sciencetech/article-2345679/Photographer-Ron-Miller-creates-incredible-pictures-look-like-planets-closer.html"><img src="{{@asset.url swerner/tumblr/2013-06-25-planets-compared-in-size-with-the-moon-5414cb9b59.jpeg}}" alt=""/></a>
 
 Planets compared in size with the moon. Impressive.
 

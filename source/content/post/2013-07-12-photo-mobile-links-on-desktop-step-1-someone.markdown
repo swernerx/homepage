@@ -3,7 +3,7 @@ date: 2013-07-12 14:50:58
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2013-07-12-mobile-links-on-desktop-step-1-someone-b8ebbfc8bc.png}})](http://bradfrostweb.com/blog/post/mobile-web-problems/)
+<a href="http://bradfrostweb.com/blog/post/mobile-web-problems/"><img src="{{@asset.url swerner/tumblr/2013-07-12-mobile-links-on-desktop-step-1-someone-b8ebbfc8bc.png}}" alt=""/></a>
 
 
 >  **Mobile links on desktop:**

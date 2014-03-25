@@ -3,7 +3,7 @@ date: 2011-10-11 15:56:12
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2011-10-11-iphone-4s-is-a-beast-via-iphone-4s-clocked-at-3968bbd59c.png}})](http://9to5mac.com/2011/10/11/iphone-4s-geekbench-glbenchmark/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed: 9To5Mac-MacAllDay (9 to 5 Mac - Apple Intelligence))
+<a href="http://9to5mac.com/2011/10/11/iphone-4s-geekbench-glbenchmark/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed: 9To5Mac-MacAllDay (9 to 5 Mac - Apple Intelligence)"><img src="{{@asset.url swerner/tumblr/2011-10-11-iphone-4s-is-a-beast-via-iphone-4s-clocked-at-3968bbd59c.png}}" alt=""/></a>
 
 iPhone 4S is a beast!
 

@@ -3,7 +3,7 @@ date: 2010-07-22 10:47:16
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2010-07-22-apples-handset-profit-is-higher-than-the-combined-33f1cb0d72.jpeg}})](http://av.r.ftdata.co.uk/files/2010/07/Apple_handset.jpg)
+<a href="http://av.r.ftdata.co.uk/files/2010/07/Apple_handset.jpg"><img src="{{@asset.url swerner/tumblr/2010-07-22-apples-handset-profit-is-higher-than-the-combined-33f1cb0d72.jpeg}}" alt=""/></a>
 
 Apple’s handset profit is higher than the combined profit of RIM, Motorola, Nokia, HTC and Sony Ericsson. Wow!
 

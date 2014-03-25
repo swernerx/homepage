@@ -3,7 +3,7 @@ date: 2013-02-13 13:31:18
 type: photo
 ---
 
-![]({{@asset.url swerner/tumblr/2013-02-13-holgerschmidt-wie-schnell-nehmen-die-menschen-4b4ef6fef6.jpeg}})
+<img src="{{@asset.url swerner/tumblr/2013-02-13-holgerschmidt-wie-schnell-nehmen-die-menschen-4b4ef6fef6.jpeg}}" alt=""/>
 
 [holgerschmidt](http://holgerschmidt.tumblr.com/post/42993223818/wie-schnell-nehmen-die-menschen-neue):
 

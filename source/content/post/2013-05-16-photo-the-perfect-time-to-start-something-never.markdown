@@ -3,7 +3,7 @@ date: 2013-05-16 17:12:56
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2013-05-16-the-perfect-time-to-start-something-never-905ececd82.jpeg}})](http://georgetasioulis.com/the-perfect-time-to-start-something-never-arrives/)
+<a href="http://georgetasioulis.com/the-perfect-time-to-start-something-never-arrives/"><img src="{{@asset.url swerner/tumblr/2013-05-16-the-perfect-time-to-start-something-never-905ececd82.jpeg}}" alt=""/></a>
 
 The perfect time to start something never arrives
 

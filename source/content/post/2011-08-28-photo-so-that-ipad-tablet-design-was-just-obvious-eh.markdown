@@ -3,7 +3,7 @@ date: 2011-08-28 18:46:52
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2011-08-28-so-that-ipad-tablet-design-was-just-obvious-eh-9e7536aaa4.png}})](http://allthingsd.com/20110818/so-that-ipad-tablet-design-was-just-obvious-eh/)
+<a href="http://allthingsd.com/20110818/so-that-ipad-tablet-design-was-just-obvious-eh/"><img src="{{@asset.url swerner/tumblr/2011-08-28-so-that-ipad-tablet-design-was-just-obvious-eh-9e7536aaa4.png}}" alt=""/></a>
 
 So That iPad Tablet Design Was Just Obvious, Eh?
 

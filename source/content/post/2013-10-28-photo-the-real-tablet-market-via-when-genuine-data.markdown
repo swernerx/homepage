@@ -3,7 +3,7 @@ date: 2013-10-28 11:43:17
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2013-10-28-the-real-tablet-market-via-when-genuine-data-61c948dffc.png}})](http://techpinions.com/when-genuine-data-leads-to-disingenuous-conclusions/24359)
+<a href="http://techpinions.com/when-genuine-data-leads-to-disingenuous-conclusions/24359"><img src="{{@asset.url swerner/tumblr/2013-10-28-the-real-tablet-market-via-when-genuine-data-61c948dffc.png}}" alt=""/></a>
 
 The “real” tablet market.
 

@@ -3,7 +3,7 @@ date: 2013-12-04 11:31:38
 type: photo
 ---
 
-[![]({{@asset.url swerner/tumblr/2013-12-04-why-responsive-design-in-one-graphic-via-how-f7698e4d66.jpeg}})](http://davidwalsh.name/design-responsively)
+<a href="http://davidwalsh.name/design-responsively"><img src="{{@asset.url swerner/tumblr/2013-12-04-why-responsive-design-in-one-graphic-via-how-f7698e4d66.jpeg}}" alt=""/></a>
 
 Why Responsive Design - in one graphic.
 

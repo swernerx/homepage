@@ -3,7 +3,7 @@ date: 2010-06-26 11:44:27
 type: photo
 ---
 
-![]({{@asset.url swerner/tumblr/2010-06-26-jjkress-very-subtle-via-nickmcglynn-6776be0273.jpeg}})
+<img src="{{@asset.url swerner/tumblr/2010-06-26-jjkress-very-subtle-via-nickmcglynn-6776be0273.jpeg}}" alt=""/>
 
 [jjkress](http://jjkress.tumblr.com/post/87648721/very-subtle):
 

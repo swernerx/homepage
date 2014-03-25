@@ -3,7 +3,7 @@ date: 2011-12-20 15:59:31
 type: photo
 ---
 
-![]({{@asset.url swerner/tumblr/2011-12-20-rickwebb-god-i-am-getting-so-fed-up-with-33609ba80e.png}})
+<img src="{{@asset.url swerner/tumblr/2011-12-20-rickwebb-god-i-am-getting-so-fed-up-with-33609ba80e.png}}" alt=""/>
 
 [rickwebb](http://rickwebb.tumblr.com/post/14467269283/god-i-am-getting-so-fed-up-with-google-this-is):
 
