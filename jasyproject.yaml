@@ -20,13 +20,14 @@ konstrukteur:
     defaultAuthor: Sebastian Werner
     itemsInFeed: 25
     itemsInIndex: 10
-    articleurl: "archive/{{current.slug}}.html"
+    articleurl: "archive/{{current.slug}}-{{current.hash}}.html"
     feedurl: "feed.xml"
     indexurl: "archive/index-{{current.pageno}}.html"
     indexTitle:
+      de: "Archiv {{current.pageno}}"
       en: "Archive {{current.pageno}}"
 
-  pageurl: "{{current.lang}}/{{current.slug}}.html"
+  pageurl: "{{current.slug}}.html"
   extensions:
     - markdown
     - html
