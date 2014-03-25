@@ -1,2 +1,43 @@
-<h1>{{=current.title}}</h1>
-{{=current.content}}
+<!DOCTYPE html>
+<html lang="{{lang}}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>{{title}} - {{config.site.name}}</title>
+    <link rel="stylesheet" href="{{@part.url main css}}">
+  </head>
+  <body>
+    <header>
+      <h1>Sebastian Werner</h1>
+      <nav>
+        <h2>Pages</h2>
+        <ul>
+          {{#pages}}
+            <li>
+              {{?active}}
+                <a href="#" class="active">{{title}}</a>
+              {{/active}}
+              {{^active}}
+                <a href="{{relativeUrl}}">{{title}}</a>
+              {{/active}}
+            </li>
+          {{/pages}}
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{=title}}
+      {{=content}}
+    </main>
+    <footer>
+      <div class="languages">
+        Alternative Languages:
+        {{#languages}}
+          {{^current}}
+            <a href="{{relativeUrl}}">{{name}}</a>
+          {{/current}}
+        {{/languages}}
+      </div>
+    </footer>
+  </body>
+</html>
