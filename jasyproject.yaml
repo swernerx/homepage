@@ -1,7 +1,8 @@
 name: swerner
 
 requires:
-- source: https://github.com/fastner/konstrukteur.git
+# - source: https://github.com/fastner/konstrukteur.git
+- source: /Users/Sebastian/Workspace/konstrukteur
 - source: https://github.com/sebastian-software/core.git
 
 scan:
