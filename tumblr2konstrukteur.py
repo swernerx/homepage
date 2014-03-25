@@ -99,9 +99,9 @@ def process(url):
 
     Console.header("Tumblr Import")
 
-    pos = 0
+    pos = 2000
     fetch = 50
-    end = fetch
+    end = pos + fetch
 
     Console.info("Importing data...")
     Console.indent()
@@ -151,12 +151,13 @@ def process(url):
                 photoUrl = post.find("photo-url").text
 
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
-
                 photoExtension = os.path.splitext(photoUrl)[1]
+
+                # Downloading image
+                photoResponse = requests.get(photoUrl, allow_redirects=True)
 
                 # Fill missing extension based on response headers
                 if photoExtension == "":
-                    photoResponse = requests.head(photoUrl)
                     photoType = photoResponse.headers["content-type"]
 
                     if "png" in photoType:
@@ -166,14 +167,12 @@ def process(url):
                     elif "gif" in photoType:
                         photoExtension = ".gif"
                     else:
-                        Console.error("Unknown photo format: %s" % photoType)
+                        Console.error("Unknown photo format: %s; Status %s: %s", photoType, photoResponse.status_code, photoResponse.status)
+                        Console.info("URL: %s" % photoUrl)
 
                 # Normalize jpeg extension
                 elif photoExtension == ".jpg":
                     photoExtension = ".jpeg"
-
-                # Downloading image
-                photoResponse = requests.get(photoUrl)
 
                 # Generating checksum
                 photoHash = hashlib.sha1(photoResponse.content).hexdigest()
