@@ -73,7 +73,7 @@ def process(url):
     end = fetch
 
     while pos < end:
-        print("Requesting %s-%s of %s" % (pos, pos+fetch, end))
+        print("Requesting %s-%s of %s" % (pos, pos+fetch-1, end))
 
         response = requests.get(url % (pos, fetch))
 
@@ -110,7 +110,10 @@ def process(url):
 
             elif postType == "photo":
                 photoText = post.find("photo-caption").text
-                photoLinkUrl = post.find("photo-link-url").text
+                try:
+                    photoLinkUrl = post.find("photo-link-url").text
+                except:
+                    photoLinkUrl = None
                 photoUrl = post.find("photo-url").text
 
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
@@ -119,12 +122,16 @@ def process(url):
                 photoResponse = requests.get(photoUrl)
                 photoHash = hashlib.sha1(photoResponse.content).hexdigest()
 
-                photoFileName = "%s-%s-%s%s" % (postExportDate, postSlug, photoHash[0:10], photoExtension)
+                photoFileName = "%s-%s-%s%s" % (postDateOnly, postSlug, photoHash[0:10], photoExtension)
                 photoFile = open(os.path.join(photoFolder, photoFileName), "wb")
                 photoFile.write(photoResponse.content)
                 photoFile.close()
 
                 photoAsset = '<img src="{{@asset.url %s/%s/%s}}"/>' % (projectName, photoAssetFolder, photoFileName)
+
+                if photoLinkUrl:
+                    photoAsset = '<a href="%s">%s</a>' % (photoLinkUrl, photoAsset)
+
                 photoAsset = markdownify.markdownify(photoAsset).rstrip("\n")
 
                 fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
@@ -148,8 +155,12 @@ def process(url):
                 fileContent = videoTemplate % (postSlug, postExportDate, videoCode + "\n\n" + videoText)
 
             elif postType == "regular":
-                postTitle = post.find("regular-title").text
                 postText = post.find("regular-body").text
+
+                try:
+                    postTitle = post.find("regular-title").text
+                except:
+                    postTitle = ""
 
                 postText = markdownify.markdownify(postText).rstrip("\n")
                 fileContent = regularTemplate % (postExportDate, postTitle, postSlug, postText)
