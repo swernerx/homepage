@@ -7,7 +7,7 @@ import hashlib
 import datetime
 import os.path
 import jasy.core.Console as Console
-
+import re
 
 #
 # LOGGING CONFIGURATION
@@ -41,6 +41,7 @@ type: quote
 
 photoTemplate = """slug: %s
 date: %s
+title: %s
 type: photo
 ---
 
@@ -49,6 +50,7 @@ type: photo
 
 linkTemplate = """slug: %s
 date: %s
+title: %s
 type: link
 ---
 
@@ -57,6 +59,7 @@ type: link
 
 videoTemplate = """slug: %s
 date: %s
+title: %s
 type: video
 ---
 
@@ -93,6 +96,28 @@ photoFolder = "source/asset/%s" % photoAssetFolder
 # Pre-create photo folder
 if not os.path.isdir(photoFolder):
     os.mkdir(photoFolder)
+
+
+def ellipseTitle(content, maxlength=70):
+    result = ""
+    splits = content.split(" ")
+    ellipse = False
+    for split in splits:
+        temp = "%s %s" % (result, split)
+
+        if len(temp) < maxlength:
+            result = temp
+        else:
+            if result.endswith("."):
+                result += ".."
+            else:
+                result += "..."
+
+            break
+
+    return result
+
+
 
 
 def process(url, start=0, fetch=50):
@@ -136,17 +161,15 @@ def process(url, start=0, fetch=50):
 
             if postType == "quote":
                 quoteText = post.find("quote-text").text
-                quoteSourceComment = post.find("quote-source").text
-                quoteTitleEndPos = quoteText.find(".")
-                if quoteTitleEndPos == -1:
-                    quoteTitle = quoteText
-                else:
-                    quoteTitle = quoteText[0:quoteTitleEndPos] + "..."
+                quoteComment = post.find("quote-source").text
+                quoteTitle = ellipseTitle(quoteText)
 
+                # Post-process
                 quoteText = markdownify.markdownify("<blockquote>" + quoteText + "</blockquote>").rstrip("\n").lstrip("\n")
-                quoteSourceComment = markdownify.markdownify(quoteSourceComment).rstrip("\n")
+                quoteComment = markdownify.markdownify(quoteComment).rstrip("\n")
+                quoteTitle = markdownify.markdownify(quoteTitle).rstrip("\n")
 
-                fileContent = quoteTemplate % (postSlug, postExportDate, quoteTitle, quoteText + "\n\n" + quoteSourceComment)
+                fileContent = quoteTemplate % (postSlug, postExportDate, quoteTitle, quoteText + "\n\n" + quoteComment)
 
             elif postType == "photo":
                 photoText = post.find("photo-caption").text
@@ -155,8 +178,11 @@ def process(url, start=0, fetch=50):
                 except:
                     photoLinkUrl = None
                 photoUrl = post.find("photo-url").text
+                photoTitle = ellipseTitle(photoText)
 
+                # Post-process
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
+                photoTitle = markdownify.markdownify(photoTitle).rstrip("\n")
 
                 # Downloading image
                 photoResponse = requests.get(photoUrl, allow_redirects=True)
@@ -197,25 +223,38 @@ def process(url, start=0, fetch=50):
                 if photoLinkUrl:
                     photoAsset = '<a href="%s">%s</a>' % (photoLinkUrl, photoAsset)
 
-                fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
+                fileContent = photoTemplate % (postSlug, postExportDate, photoTitle, photoAsset + "\n\n" + photoText)
 
             elif postType == "link":
                 linkUrl = post.find("link-url").text
                 try:
                     linkText = post.find("link-text").text
-                    linkText = markdownify.markdownify(linkText).rstrip("\n")
                 except:
                     linkText = linkUrl
 
-                fileContent = linkTemplate % (postSlug, postExportDate, "[%s](%s)" % (linkText, linkUrl))
+                # Post-process
+                if linkText != linkUrl:
+                    linkText = markdownify.markdownify(linkText).rstrip("\n")
+                    linkTitle = ellipseTitle(linkText)
+                else:
+                    shortLinkMatch = re.compile("(.*//.*?/)").search(linkUrl)
+                    if shortLinkMatch:
+                        linkTitle = "Link to %s" % shortLinkMatch.group(0)
+                    else:
+                        linkTitle = "Link to: %s" % linkUrl
+
+                fileContent = linkTemplate % (postSlug, postExportDate, linkTitle, "[%s](%s)" % (linkText, linkUrl))
 
             elif postType == "video":
                 videoCode = post.find("video-source").text
                 videoText = post.find("video-caption").text
+                videoTitle = ellipseTitle(videoText)
 
+                # Post-process
                 videoText = markdownify.markdownify(videoText).rstrip("\n")
+                videoTitle = markdownify.markdownify(videoTitle).rstrip("\n")
 
-                fileContent = videoTemplate % (postSlug, postExportDate, videoCode + "\n\n" + videoText)
+                fileContent = videoTemplate % (postSlug, postExportDate, videoTitle, videoCode + "\n\n" + videoText)
 
             elif postType == "regular":
                 postText = post.find("regular-body").text
@@ -223,7 +262,7 @@ def process(url, start=0, fetch=50):
                 try:
                     postTitle = post.find("regular-title").text
                 except:
-                    postTitle = ""
+                    postTitle = ellipseTitle(postText)
 
                 postText = markdownify.markdownify(postText).rstrip("\n")
                 fileContent = regularTemplate % (postSlug, postExportDate, postTitle, postText)
