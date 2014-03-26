@@ -1,5 +1,6 @@
 slug: user-interface-design-standards-have-reached-the
 date: 2011-07-08 09:49:31
+title: User Interface Design standards have reached the level of graphic...
 type: quote
 ---
 

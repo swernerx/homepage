@@ -1,5 +1,6 @@
 slug: i-really-dont-think-its-worth-considering
 date: 2011-02-18 15:15:59
+title: I really don’t think it’s worth considering whether Apple has the...
 type: quote
 ---
 

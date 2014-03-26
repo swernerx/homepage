@@ -1,5 +1,6 @@
 slug: einer-der-haupt-grunde-der-zeitungskrise-ist-dass
 date: 2012-12-24 12:18:49
+title: Einer der Haupt-Gründe der Zeitungskrise ist, dass die Anzeigen im...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: wenn-nur-ein-bruchteil-der-chinesen-dank-des
 date: 2011-06-10 22:54:22
+title: Wenn nur ein Bruchteil der Chinesen dank des effizienten...
 type: quote
 ---
 

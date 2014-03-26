@@ -1,5 +1,6 @@
 slug: apples-internal-release-notes-revealed-that-some
 date: 2011-07-21 13:45:26
+title: Apple’s internal release notes revealed that some iTunes plug-ins may...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-new-therapy-was-effective-against-15-viruses
 date: 2011-08-14 11:04:24
+title: The new therapy was effective against 15 viruses, including the...
 type: quote
 ---
 

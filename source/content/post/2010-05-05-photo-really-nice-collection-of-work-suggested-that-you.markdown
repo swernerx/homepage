@@ -1,5 +1,6 @@
 slug: really-nice-collection-of-work-suggested-that-you
 date: 2010-05-05 23:05:08
+title: Really nice collection of work. Suggested that you take a look for...
 type: photo
 ---
 

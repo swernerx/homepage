@@ -1,5 +1,6 @@
 slug: mobile-users-prefer-the-browser-because-it-offers
 date: 2012-12-31 18:55:24
+title: Mobile users prefer the browser because it offers access to all the...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: mit-der-fotovoltaik-treibt-die-bundesregierung
 date: 2011-01-30 21:27:40
+title: Mit der Fotovoltaik treibt die Bundesregierung ausgerechnet die...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: i-recommend-limiting-the-use-of-data-uris-to-very
 date: 2013-09-03 15:54:52
+title: I recommend limiting the use of data URIs to very small resources and...
 type: quote
 ---
 

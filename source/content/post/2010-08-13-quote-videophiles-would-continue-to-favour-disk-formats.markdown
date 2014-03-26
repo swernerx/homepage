@@ -1,5 +1,6 @@
 slug: videophiles-would-continue-to-favour-disk-formats
 date: 2010-08-13 23:14:36
+title: Videophiles would continue to favour disk formats for their film...
 type: quote
 ---
 

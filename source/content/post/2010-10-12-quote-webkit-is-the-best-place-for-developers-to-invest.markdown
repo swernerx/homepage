@@ -1,5 +1,6 @@
 slug: webkit-is-the-best-place-for-developers-to-invest
 date: 2010-10-12 16:21:15
+title: WebKit is the best place for developers to invest their time.
 type: quote
 ---
 

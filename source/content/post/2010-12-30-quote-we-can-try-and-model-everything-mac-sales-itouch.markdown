@@ -1,5 +1,6 @@
 slug: we-can-try-and-model-everything-mac-sales-itouch
 date: 2010-12-30 20:01:37
+title: We can try and model everything: Mac sales, iTouch sales, song sales,...
 type: quote
 ---
 

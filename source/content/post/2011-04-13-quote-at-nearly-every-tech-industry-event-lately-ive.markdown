@@ -1,5 +1,6 @@
 slug: at-nearly-every-tech-industry-event-lately-ive
 date: 2011-04-13 18:00:24
+title: At nearly every tech industry event lately I’ve noticed an almost...
 type: quote
 ---
 

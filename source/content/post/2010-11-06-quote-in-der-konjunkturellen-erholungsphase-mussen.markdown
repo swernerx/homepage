@@ -1,5 +1,6 @@
 slug: in-der-konjunkturellen-erholungsphase-mussen
 date: 2010-11-06 14:32:34
+title: In der konjunkturellen Erholungsphase, müssen Mehreinnahmen komplett...
 type: quote
 ---
 

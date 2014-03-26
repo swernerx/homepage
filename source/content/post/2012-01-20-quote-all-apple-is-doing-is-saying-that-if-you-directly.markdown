@@ -1,5 +1,6 @@
 slug: all-apple-is-doing-is-saying-that-if-you-directly
 date: 2012-01-20 10:11:43
+title: All Apple is doing is saying that if you directly profit from the...
 type: quote
 ---
 

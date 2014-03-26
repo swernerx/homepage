@@ -1,5 +1,6 @@
 slug: is-sugar-toxic
 date: 2011-06-26 16:57:23
+title: Is Sugar Toxic?
 type: link
 ---
 

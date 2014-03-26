@@ -1,5 +1,6 @@
 slug: 89-prozent-kommt-es-nicht-so-sehr-darauf-an
 date: 2011-05-17 09:30:39
+title: 89 Prozent kommt es nicht so sehr darauf an, nachzuvollziehen, in...
 type: quote
 ---
 

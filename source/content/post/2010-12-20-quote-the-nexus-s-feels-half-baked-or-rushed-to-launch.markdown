@@ -1,5 +1,6 @@
 slug: the-nexus-s-feels-half-baked-or-rushed-to-launch
 date: 2010-12-20 11:49:34
+title: The Nexus S feels half-baked or rushed to launch. It’s not an...
 type: quote
 ---
 

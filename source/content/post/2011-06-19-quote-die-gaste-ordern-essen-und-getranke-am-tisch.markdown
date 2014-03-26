@@ -1,5 +1,6 @@
 slug: die-gaste-ordern-essen-und-getranke-am-tisch
 date: 2011-06-19 13:49:12
+title: Die Gäste ordern Essen und Getränke am Tisch online per Touchscreen...
 type: quote
 ---
 

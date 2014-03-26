@@ -1,5 +1,6 @@
 slug: 96-of-googles-revenue-come-from-advertising-in
 date: 2012-10-24 16:27:52
+title: 96% of Google’s revenue come from advertising. In other words,...
 type: quote
 ---
 

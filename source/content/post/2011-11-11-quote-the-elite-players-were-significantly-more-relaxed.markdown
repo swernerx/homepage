@@ -1,5 +1,6 @@
 slug: the-elite-players-were-significantly-more-relaxed
 date: 2011-11-11 09:01:02
+title: The elite players were significantly more relaxed than the average...
 type: quote
 ---
 

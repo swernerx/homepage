@@ -1,5 +1,6 @@
 slug: many-of-the-interaction-design-standards-that-we
 date: 2011-08-08 18:35:08
+title: Many of the interaction design standards that we use today are not...
 type: quote
 ---
 

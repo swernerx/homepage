@@ -1,5 +1,6 @@
 slug: die-wirklich-guten-ideen-sind-erstaunlich-oft-das
 date: 2012-07-02 19:01:31
+title: Die wirklich guten Ideen sind erstaunlich oft das direkte Gegenteil...
 type: quote
 ---
 

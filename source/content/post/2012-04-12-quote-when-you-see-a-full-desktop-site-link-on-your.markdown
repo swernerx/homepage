@@ -1,5 +1,6 @@
 slug: when-you-see-a-full-desktop-site-link-on-your
 date: 2012-04-12 22:18:53
+title: When you see a “full desktop site” link on your phone, you’re looking...
 type: quote
 ---
 

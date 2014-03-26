@@ -1,5 +1,6 @@
 slug: pinch-and-zoom-is-lightning-fast-dare-i-say-it
 date: 2011-08-13 00:34:01
+title: Pinch-and-zoom is lightning fast. Dare I say it: Faster than iOS...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: we-will-automatically-upgrade-windows-customers-to
 date: 2011-12-15 15:46:51
+title: We will automatically upgrade Windows customers to the latest version...
 type: quote
 ---
 

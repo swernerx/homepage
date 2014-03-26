@@ -1,5 +1,6 @@
 slug: amazon-hat-veranlasst-dass-die-zusammenarbeit-mit
 date: 2013-02-18 13:22:47
+title: Amazon hat veranlasst, dass die Zusammenarbeit mit dem kritisierten...
 type: quote
 ---
 

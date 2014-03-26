@@ -1,5 +1,8 @@
 slug: looks-nice-i-definitely-need-a-iphone-dock-at
 date: 2010-12-14 09:01:55
+title: Looks nice. I definitely need a iPhone dock at work :)
+
+ 
 type: video
 ---
 

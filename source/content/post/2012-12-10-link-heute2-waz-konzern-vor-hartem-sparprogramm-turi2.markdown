@@ -1,5 +1,6 @@
 slug: heute2-waz-konzern-vor-hartem-sparprogramm-turi2
 date: 2012-12-10 18:27:14
+title: heute2: WAZ-Konzern vor hartem Sparprogramm. - Turi2 - für...
 type: link
 ---
 

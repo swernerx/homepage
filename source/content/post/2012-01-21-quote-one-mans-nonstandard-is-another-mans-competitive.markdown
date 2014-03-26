@@ -1,5 +1,6 @@
 slug: one-mans-nonstandard-is-another-mans-competitive
 date: 2012-01-21 20:43:52
+title: One man’s nonstandard is another man’s competitive differentiation.
 type: quote
 ---
 

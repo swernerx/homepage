@@ -1,5 +1,6 @@
 slug: twitter-4-0-for-iphone-lacks-the-surprise
 date: 2011-12-09 17:52:33
+title: Twitter 4.0 for iPhone lacks the surprise, delight, and attention to...
 type: quote
 ---
 

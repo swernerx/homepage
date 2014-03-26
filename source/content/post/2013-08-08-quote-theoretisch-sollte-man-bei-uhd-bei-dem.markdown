@@ -1,5 +1,6 @@
 slug: theoretisch-sollte-man-bei-uhd-bei-dem
 date: 2013-08-08 08:23:54
+title: Theoretisch sollte man bei UHD bei dem Einein­halb­fachen der...
 type: quote
 ---
 

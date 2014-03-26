@@ -1,5 +1,6 @@
 slug: qooxdoo-and-unify-are-both-totally-underrated
 date: 2012-01-31 10:33:59
+title: qooxdoo and Unify are both totally underrated.
 type: quote
 ---
 

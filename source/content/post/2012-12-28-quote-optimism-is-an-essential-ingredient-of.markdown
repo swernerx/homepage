@@ -1,5 +1,6 @@
 slug: optimism-is-an-essential-ingredient-of
 date: 2012-12-28 19:21:46
+title: Optimism is “an essential ingredient of innovation. How else can the...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: apple-is-sort-of-like-bmw-mercedes-porsche-and
 date: 2013-10-11 17:51:54
+title: Apple is sort of like BMW, Mercedes, Porsche, and Lexus all rolled...
 type: quote
 ---
 

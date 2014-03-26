@@ -1,5 +1,6 @@
 slug: wir-verteidigen-nicht-die-gedruckte-zeitung-wir
 date: 2012-10-22 16:59:19
+title: Wir verteidigen nicht die gedruckte Zeitung, wir verteidigen den...
 type: quote
 ---
 

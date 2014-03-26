@@ -1,5 +1,6 @@
 slug: google-doesnt-really-have-a-sense-of-humour-so
 date: 2013-07-18 12:42:49
+title: Google doesn’t really have a sense of humour, so clever, pun-ridden...
 type: quote
 ---
 

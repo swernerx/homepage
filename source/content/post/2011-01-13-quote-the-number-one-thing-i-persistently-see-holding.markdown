@@ -1,5 +1,6 @@
 slug: the-number-one-thing-i-persistently-see-holding
 date: 2011-01-13 23:46:35
+title: The number one thing I persistently see holding smart people back is...
 type: quote
 ---
 

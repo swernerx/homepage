@@ -1,5 +1,6 @@
 slug: apple-passte-die-bislang-fur-verwunderung
 date: 2010-11-02 12:39:21
+title: Apple passte die bislang für Verwunderung sorgenden Europreise des...
 type: quote
 ---
 

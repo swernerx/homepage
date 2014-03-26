@@ -1,5 +1,6 @@
 slug: the-largest-pc-maker-in-the-world-is-exiting-the
 date: 2011-08-19 09:21:49
+title: The largest PC-maker in the world is exiting the space. Think about...
 type: quote
 ---
 

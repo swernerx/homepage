@@ -1,5 +1,6 @@
 slug: soldner-fragen-sich-zuerst-wie-viel-geld-werde
 date: 2013-08-13 10:06:27
+title: Söldner fragen sich zuerst: Wie viel Geld werde ich verdienen? Bei...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: unser-steuersystem-ist-ungerecht-weil-niemand-es
 date: 2011-08-22 20:17:13
+title: Unser Steuersystem ist ungerecht, weil niemand es mehr versteht. Was...
 type: quote
 ---
 

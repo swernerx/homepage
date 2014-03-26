@@ -1,5 +1,6 @@
 slug: quirksblog-mobile-web-or-objective-c
 date: 2010-04-06 20:07:39
+title: QuirksBlog: Mobile Web or Objective-C?
 type: link
 ---
 

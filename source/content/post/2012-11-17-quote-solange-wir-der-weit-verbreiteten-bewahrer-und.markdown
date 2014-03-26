@@ -1,5 +1,6 @@
 slug: solange-wir-der-weit-verbreiteten-bewahrer-und
 date: 2012-11-17 17:54:07
+title: Solange wir der weit verbreiteten Bewahrer- und Kontrollmentalität...
 type: quote
 ---
 

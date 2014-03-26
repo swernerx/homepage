@@ -1,5 +1,6 @@
 slug: we-currently-have-a-large-position-in-apple-we
 date: 2013-08-14 10:00:56
+title: We currently have a large position in Apple. We believe the company...
 type: quote
 ---
 

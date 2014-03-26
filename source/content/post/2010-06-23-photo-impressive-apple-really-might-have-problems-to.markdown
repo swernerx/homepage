@@ -1,5 +1,6 @@
 slug: impressive-apple-really-might-have-problems-to
 date: 2010-06-23 12:56:27
+title: Impressive. Apple really might have problems to deal with so much...
 type: photo
 ---
 

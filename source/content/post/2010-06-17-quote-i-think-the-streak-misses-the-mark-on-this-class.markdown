@@ -1,5 +1,6 @@
 slug: i-think-the-streak-misses-the-mark-on-this-class
 date: 2010-06-17 08:53:29
+title: I think the Streak misses the mark on this class of device. While I...
 type: quote
 ---
 

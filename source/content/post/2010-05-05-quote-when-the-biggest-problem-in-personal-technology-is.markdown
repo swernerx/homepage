@@ -1,5 +1,6 @@
 slug: when-the-biggest-problem-in-personal-technology-is
 date: 2010-05-05 21:33:54
+title: When the biggest problem in personal technology is that the leading...
 type: quote
 ---
 

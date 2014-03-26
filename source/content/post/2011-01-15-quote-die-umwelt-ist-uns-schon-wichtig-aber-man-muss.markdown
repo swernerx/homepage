@@ -1,5 +1,6 @@
 slug: die-umwelt-ist-uns-schon-wichtig-aber-man-muss
 date: 2011-01-15 21:44:56
+title: Die Umwelt ist uns schon wichtig. Aber man muss zuerst fragen: Wird...
 type: quote
 ---
 

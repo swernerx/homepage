@@ -1,5 +1,6 @@
 slug: some-of-the-best-design-work-ive-ever-done-was
 date: 2013-07-24 10:22:01
+title: Some of the best design work I’ve ever done was drinking coffee or...
 type: quote
 ---
 

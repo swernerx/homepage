@@ -1,5 +1,6 @@
 slug: now-is-the-time-for-experiments-lots-and-lots-of
 date: 2011-06-17 22:10:19
+title: Now is the time for experiments, lots and lots of experiments, each...
 type: quote
 ---
 

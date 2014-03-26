@@ -1,5 +1,6 @@
 slug: nice-ipad-velcro-by-jesse-rosten
 date: 2010-05-22 18:21:49
+title: Nice: [iPad + Velcro](http://vimeo.com/11886557) (by 
 type: video
 ---
 

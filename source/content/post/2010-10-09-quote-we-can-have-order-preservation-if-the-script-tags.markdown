@@ -1,5 +1,6 @@
 slug: we-can-have-order-preservation-if-the-script-tags
 date: 2010-10-09 21:39:06
+title: We can have order preservation if the script tags appear in the HTML,...
 type: quote
 ---
 

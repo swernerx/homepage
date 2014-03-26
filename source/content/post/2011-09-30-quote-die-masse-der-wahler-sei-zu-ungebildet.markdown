@@ -1,5 +1,6 @@
 slug: die-masse-der-wahler-sei-zu-ungebildet
 date: 2011-09-30 13:19:46
+title: Die Masse der Wähler sei zu ungebildet.
 type: quote
 ---
 

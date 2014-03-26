@@ -1,5 +1,6 @@
 slug: welchen-grund-sollte-es-in-20-jahren-noch-geben
 date: 2013-08-12 19:13:31
+title: Welchen Grund sollte es in 20 Jahren noch geben, Nachrichten auf...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: git-move-recent-commit-to-a-new-branch-stack
 date: 2010-11-02 15:46:45
+title: Git: Move recent commit to a new branch - Stack Overflow
 type: link
 ---
 

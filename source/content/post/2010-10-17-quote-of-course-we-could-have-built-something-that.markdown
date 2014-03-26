@@ -1,5 +1,6 @@
 slug: of-course-we-could-have-built-something-that
 date: 2010-10-17 01:04:37
+title: Of course, we could have built something that worked on more...
 type: quote
 ---
 

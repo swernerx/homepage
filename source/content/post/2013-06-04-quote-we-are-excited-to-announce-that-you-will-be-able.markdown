@@ -1,5 +1,6 @@
 slug: we-are-excited-to-announce-that-you-will-be-able
 date: 2013-06-04 08:20:27
+title: We are excited to announce that you will be able to access your...
 type: quote
 ---
 

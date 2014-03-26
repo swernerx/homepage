@@ -1,5 +1,6 @@
 slug: please-stop-with-the-google-vs-apple-fight-as
 date: 2010-12-29 16:44:22
+title: Please stop with the Google vs Apple fight as being history repeating...
 type: quote
 ---
 

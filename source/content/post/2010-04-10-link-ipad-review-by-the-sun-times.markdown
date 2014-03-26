@@ -1,5 +1,6 @@
 slug: ipad-review-by-the-sun-times
 date: 2010-04-10 23:20:44
+title: iPad Review by the Sun Times 
 type: link
 ---
 

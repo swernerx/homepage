@@ -1,5 +1,6 @@
 slug: apple-certainly-wasnt-the-first-to-but-its
 date: 2011-09-26 21:30:56
+title: Apple certainly wasn’t the first to …, but it’s made a habit of...
 type: quote
 ---
 

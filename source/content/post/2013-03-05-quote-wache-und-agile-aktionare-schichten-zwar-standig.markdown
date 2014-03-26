@@ -1,5 +1,6 @@
 slug: wache-und-agile-aktionare-schichten-zwar-standig
 date: 2013-03-05 09:08:54
+title: Wache und agile Aktionäre schichten zwar ständig ihre Aktien um, aber...
 type: quote
 ---
 

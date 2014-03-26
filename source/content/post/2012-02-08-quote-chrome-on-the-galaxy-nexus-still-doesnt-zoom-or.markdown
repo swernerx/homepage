@@ -1,5 +1,6 @@
 slug: chrome-on-the-galaxy-nexus-still-doesnt-zoom-or
 date: 2012-02-08 15:38:51
+title: Chrome on the Galaxy Nexus still doesn’t zoom or scroll as well as...
 type: quote
 ---
 

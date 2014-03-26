@@ -1,5 +1,6 @@
 slug: know-your-engines-velocity-2011
 date: 2011-06-20 16:39:53
+title: Know Your Engines - Velocity 2011
 type: link
 ---
 

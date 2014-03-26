@@ -1,5 +1,6 @@
 slug: 32bit-ie9-runs-script-up-to-4-times-as-fast-as
 date: 2011-03-15 18:24:08
+title: 32bit IE9 runs script up to 4 times as fast as 64bit IE9.
 type: quote
 ---
 

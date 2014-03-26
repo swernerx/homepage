@@ -1,5 +1,6 @@
 slug: filevault-2-wont-slow-down-the-computer
 date: 2011-07-24 00:21:57
+title: FileVault 2 won’t slow down the computer.
 type: quote
 ---
 

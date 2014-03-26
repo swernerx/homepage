@@ -1,5 +1,6 @@
 slug: pc-manufacturers-have-now-significantly-reduced
 date: 2010-07-23 15:50:45
+title: PC manufacturers have now significantly reduced the practice of...
 type: quote
 ---
 

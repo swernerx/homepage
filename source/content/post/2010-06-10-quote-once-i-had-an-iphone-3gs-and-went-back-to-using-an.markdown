@@ -1,5 +1,6 @@
 slug: once-i-had-an-iphone-3gs-and-went-back-to-using-an
 date: 2010-06-10 23:33:28
+title: Once I had an iPhone 3GS and went back to using an iPhone 3G, the...
 type: quote
 ---
 

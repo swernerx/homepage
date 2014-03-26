@@ -1,5 +1,6 @@
 slug: wer-mit-dem-auto-erst-zehn-kilometer-zum-hofladen
 date: 2014-02-04 18:18:17
+title: Wer mit dem Auto erst zehn Kilometer zum Hofladen fährt, um Bio-Eier...
 type: quote
 ---
 

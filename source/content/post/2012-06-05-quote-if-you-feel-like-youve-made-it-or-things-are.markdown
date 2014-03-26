@@ -1,5 +1,6 @@
 slug: if-you-feel-like-youve-made-it-or-things-are
 date: 2012-06-05 18:21:04
+title: If you feel like you’ve “made it” or things are “going smoothly”,...
 type: quote
 ---
 

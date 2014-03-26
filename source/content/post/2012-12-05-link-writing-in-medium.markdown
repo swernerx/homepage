@@ -1,5 +1,6 @@
 slug: writing-in-medium
 date: 2012-12-05 13:24:08
+title: Writing in Medium
 type: link
 ---
 

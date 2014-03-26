@@ -1,5 +1,6 @@
 slug: with-these-agreements-apple-is-likely-going-to-be
 date: 2011-05-19 09:13:56
+title: With these agreements, Apple is likely going to be able to do the one...
 type: quote
 ---
 

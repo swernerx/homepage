@@ -1,5 +1,6 @@
 slug: iteration-is-the-key-to-design-just-keep
 date: 2013-01-27 16:03:20
+title: Iteration is the key to design. Just keep improving it until you have...
 type: quote
 ---
 

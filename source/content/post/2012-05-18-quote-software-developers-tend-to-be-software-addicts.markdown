@@ -1,5 +1,6 @@
 slug: software-developers-tend-to-be-software-addicts
 date: 2012-05-18 09:21:25
+title: Software developers tend to be software addicts who think their job...
 type: quote
 ---
 

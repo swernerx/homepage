@@ -1,5 +1,6 @@
 slug: the-real-bubble-is-weve-stopped-understanding
 date: 2011-06-23 08:38:55
+title: The real bubble is we’ve stopped understanding users.
 type: quote
 ---
 

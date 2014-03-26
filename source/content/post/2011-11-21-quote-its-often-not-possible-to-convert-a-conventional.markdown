@@ -1,5 +1,6 @@
 slug: its-often-not-possible-to-convert-a-conventional
 date: 2011-11-21 08:46:59
+title: It’s often not possible to convert a conventional web application...
 type: quote
 ---
 

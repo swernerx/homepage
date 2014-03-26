@@ -1,5 +1,6 @@
 slug: e-ink-feels-peaceful-to-me-the-kindle-doesnt
 date: 2011-09-29 14:16:46
+title: E-ink feels peaceful to me. The Kindle doesn’t feel like a computer...
 type: quote
 ---
 

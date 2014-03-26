@@ -1,5 +1,6 @@
 slug: people-want-more-different-native-apps-than-ever
 date: 2013-06-26 08:43:36
+title: People want more different native apps than ever before. And web apps...
 type: quote
 ---
 

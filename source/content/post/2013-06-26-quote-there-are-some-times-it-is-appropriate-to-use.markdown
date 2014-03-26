@@ -1,5 +1,6 @@
 slug: there-are-some-times-it-is-appropriate-to-use
 date: 2013-06-26 21:37:01
+title: There are some times it is appropriate to use Twitter Bootstrap’s...
 type: quote
 ---
 

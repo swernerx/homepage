@@ -1,5 +1,6 @@
 slug: its-hard-not-to-spend-most-of-the-day-angry-or
 date: 2011-12-03 23:14:09
+title: It’s hard not to spend most of the day angry or scared or anxious...
 type: quote
 ---
 

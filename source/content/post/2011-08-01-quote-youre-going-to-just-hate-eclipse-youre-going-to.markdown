@@ -1,5 +1,6 @@
 slug: youre-going-to-just-hate-eclipse-youre-going-to
 date: 2011-08-01 18:36:02
+title: You’re going to just hate Eclipse. You’re going to hate it with the...
 type: quote
 ---
 

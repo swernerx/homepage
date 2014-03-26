@@ -1,5 +1,6 @@
 slug: berlin-has-a-lot-to-offer-in-terms-of-networking
 date: 2011-09-09 20:49:55
+title: Berlin has a lot to offer in terms of networking, but it is hard to...
 type: quote
 ---
 

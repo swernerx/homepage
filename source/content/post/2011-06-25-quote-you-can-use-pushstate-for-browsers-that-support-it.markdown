@@ -1,5 +1,6 @@
 slug: you-can-use-pushstate-for-browsers-that-support-it
 date: 2011-06-25 10:55:52
+title: You can use pushState for browsers that support it but by all means...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: when-a-platform-emerges-that-integrates-the-web
 date: 2012-02-08 19:15:52
+title: When a platform emerges that integrates the web with conversation and...
 type: quote
 ---
 

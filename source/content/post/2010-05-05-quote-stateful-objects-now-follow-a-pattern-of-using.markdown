@@ -1,5 +1,6 @@
 slug: stateful-objects-now-follow-a-pattern-of-using
 date: 2010-05-05 22:27:12
+title: Stateful objects now follow a pattern of using get() and set()...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: feiertage-fur-ical-als-abo
 date: 2010-04-06 09:49:00
+title: Feiertage für iCal als Abo
 type: link
 ---
 

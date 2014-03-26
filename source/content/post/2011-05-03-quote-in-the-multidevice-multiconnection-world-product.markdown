@@ -1,5 +1,6 @@
 slug: in-the-multidevice-multiconnection-world-product
 date: 2011-05-03 22:05:06
+title: In the multidevice, multiconnection world, product strategists need...
 type: quote
 ---
 

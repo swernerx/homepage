@@ -1,5 +1,6 @@
 slug: there-is-mounting-evidence-that-exercise-will-not
 date: 2013-10-18 18:06:33
+title: There is mounting evidence that exercise will not undo the damage...
 type: quote
 ---
 

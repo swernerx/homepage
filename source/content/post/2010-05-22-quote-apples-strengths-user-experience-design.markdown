@@ -1,5 +1,6 @@
 slug: apples-strengths-user-experience-design
 date: 2010-05-22 20:33:58
+title: Apple’s strengths: user experience, design, consistency. Google’s...
 type: quote
 ---
 

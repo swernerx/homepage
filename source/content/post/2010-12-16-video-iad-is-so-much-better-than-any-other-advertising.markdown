@@ -1,5 +1,6 @@
 slug: iad-is-so-much-better-than-any-other-advertising
 date: 2010-12-16 12:52:44
+title: iAd is so much better than any other advertising solution...
 type: video
 ---
 

@@ -1,5 +1,6 @@
 slug: das-tolle-an-grossen-unternehmen-es-gibt-mehrere
 date: 2010-12-15 09:19:07
+title: Das tolle an großen Unternehmen: Es gibt mehrere Weihnachtsparties...
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: advertisers-are-even-willing-to-pay-more-to
 date: 2011-06-11 12:07:47
+title: Advertisers are even willing to pay more to advertise to readers who...
 type: quote
 ---
 

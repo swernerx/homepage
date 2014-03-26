@@ -1,5 +1,6 @@
 slug: mit-der-billigpreisstrategie-haben-sich-anbieter
 date: 2011-11-13 21:04:41
+title: Mit der Billigpreisstrategie haben sich Anbieter wie Samsung...
 type: quote
 ---
 

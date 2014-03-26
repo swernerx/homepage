@@ -1,5 +1,6 @@
 slug: der-bmw-i8-ware-das-ideale-auto-fur-umweltbewegte
 date: 2011-09-14 23:07:55
+title: Der BMW i8 wäre das ideale Auto für umweltbewegte Doppelverdiener, um...
 type: quote
 ---
 

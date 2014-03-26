@@ -1,5 +1,6 @@
 slug: its-not-about-money-googles-royalty-fees-for
 date: 2011-01-13 23:13:04
+title: It’s not about money. Google’s royalty fees for the H.264 codec are...
 type: quote
 ---
 

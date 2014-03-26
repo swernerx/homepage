@@ -1,5 +1,6 @@
 slug: java-code-geeks-things-every-programmer-should-know
 date: 2010-12-18 16:09:40
+title: Java Code Geeks: Things Every Programmer Should Know
 type: link
 ---
 

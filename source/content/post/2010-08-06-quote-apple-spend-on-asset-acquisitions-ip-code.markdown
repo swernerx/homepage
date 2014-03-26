@@ -1,5 +1,6 @@
 slug: apple-spend-on-asset-acquisitions-ip-code
 date: 2010-08-06 17:52:23
+title: Apple spend on asset acquisitions–IP, code, developers but not on new...
 type: quote
 ---
 

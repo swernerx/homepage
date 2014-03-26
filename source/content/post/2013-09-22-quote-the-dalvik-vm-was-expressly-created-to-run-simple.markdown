@@ -1,5 +1,6 @@
 slug: the-dalvik-vm-was-expressly-created-to-run-simple
 date: 2013-09-22 13:45:35
+title: The Dalvik VM was expressly created to run simple applets on a slow...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: while-this-version-of-the-platform-makes-great
 date: 2010-09-19 20:46:57
+title: While this version of the platform makes great strides in usability...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-current-version-of-android-lacks-some-polish
 date: 2011-09-21 14:04:11
+title: The current version of Android lacks some polish, but the next...
 type: quote
 ---
 

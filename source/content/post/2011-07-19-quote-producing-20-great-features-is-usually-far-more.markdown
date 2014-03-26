@@ -1,5 +1,6 @@
 slug: producing-20-great-features-is-usually-far-more
 date: 2011-07-19 00:35:51
+title: Producing 20 great features is usually far more profitable than...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: if-youre-serious-about-speaking-buy-a-macbook
 date: 2010-10-30 13:01:38
+title: If you’re serious about speaking, buy a MacBook just for presenting...
 type: quote
 ---
 

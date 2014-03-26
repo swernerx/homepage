@@ -1,5 +1,6 @@
 slug: almost-every-example-of-snowfalling-that-ive-seen
 date: 2013-07-18 09:28:55
+title: Almost every example of snowfalling that I’ve seen in action puts...
 type: quote
 ---
 

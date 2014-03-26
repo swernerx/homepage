@@ -1,5 +1,6 @@
 slug: to-sweat-the-small-stuff-means-to-be
 date: 2012-05-07 11:26:16
+title: To sweat the small stuff means to be uncompromising about anything...
 type: quote
 ---
 

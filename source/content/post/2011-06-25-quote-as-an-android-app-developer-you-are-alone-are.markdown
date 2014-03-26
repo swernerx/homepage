@@ -1,5 +1,6 @@
 slug: as-an-android-app-developer-you-are-alone-are
 date: 2011-06-25 10:04:52
+title: As an Android app developer you are alone are responsible for...
 type: quote
 ---
 

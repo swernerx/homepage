@@ -1,5 +1,6 @@
 slug: jaytech-live-at-ibiza-rocks
 date: 2010-07-01 22:59:01
+title: Jaytech live at Ibiza Rocks.
 type: photo
 ---
 

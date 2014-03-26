@@ -1,5 +1,6 @@
 slug: we-should-be-talking-about-new-models-for
 date: 2011-06-17 22:27:06
+title: We should be talking about new models for employing reporters rather...
 type: quote
 ---
 

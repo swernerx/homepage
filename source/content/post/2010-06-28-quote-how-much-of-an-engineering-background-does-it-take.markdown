@@ -1,5 +1,6 @@
 slug: how-much-of-an-engineering-background-does-it-take
 date: 2010-06-28 13:07:41
+title: How much of an engineering background does it take to decide which of...
 type: quote
 ---
 

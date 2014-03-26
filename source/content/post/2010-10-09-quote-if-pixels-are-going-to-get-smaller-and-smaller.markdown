@@ -1,5 +1,6 @@
 slug: if-pixels-are-going-to-get-smaller-and-smaller
 date: 2010-10-09 10:33:46
+title: If pixels are going to get smaller and smaller, and if the devices...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: italiens-privathaushalte-kommen-auf-ein
 date: 2013-04-19 08:32:39
+title: Italiens Privathaushalte kommen auf ein durchschnittliches...
 type: quote
 ---
 

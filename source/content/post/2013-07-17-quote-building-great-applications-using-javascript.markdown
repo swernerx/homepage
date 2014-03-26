@@ -1,5 +1,6 @@
 slug: building-great-applications-using-javascript
 date: 2013-07-17 18:11:34
+title: Building great applications using JavaScript, especially great mobile...
 type: quote
 ---
 

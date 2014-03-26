@@ -1,5 +1,6 @@
 slug: two-types-of-thinkers-which-are-you
 date: 2011-07-21 13:45:23
+title: Two Types of Thinkers: Which Are You?
 type: link
 ---
 

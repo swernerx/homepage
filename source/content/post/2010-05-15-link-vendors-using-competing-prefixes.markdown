@@ -1,5 +1,6 @@
 slug: vendors-using-competing-prefixes
 date: 2010-05-15 14:35:46
+title: Vendors using Competing Prefixes
 type: link
 ---
 

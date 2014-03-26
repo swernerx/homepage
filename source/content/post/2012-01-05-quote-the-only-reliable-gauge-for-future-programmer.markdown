@@ -1,5 +1,6 @@
 slug: the-only-reliable-gauge-for-future-programmer
 date: 2012-01-05 18:44:23
+title: The only reliable gauge for future programmer success is looking at...
 type: quote
 ---
 

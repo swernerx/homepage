@@ -1,5 +1,6 @@
 slug: in-an-industry-dominated-by-vertically-integrated
 date: 2013-03-21 14:18:26
+title: In an industry dominated by vertically integrated control freaks,...
 type: quote
 ---
 

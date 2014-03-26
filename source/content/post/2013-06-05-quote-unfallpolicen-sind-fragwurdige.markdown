@@ -1,5 +1,6 @@
 slug: unfallpolicen-sind-fragwurdige
 date: 2013-06-05 18:04:04
+title: Unfallpolicen sind fragwürdige Scheinversicherungen, die in vielen...
 type: quote
 ---
 

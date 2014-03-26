@@ -1,5 +1,6 @@
 slug: 13-hours-and-29-minutes-thats-all-you-really
 date: 2013-06-17 16:39:41
+title: 13 hours and 29 minutes. That’s all you really need to know — that’s...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-iphone-changed-the-game-but-android-did-too
 date: 2010-12-29 17:57:15
+title: The iPhone changed the game. But Android did too. But both have done...
 type: quote
 ---
 

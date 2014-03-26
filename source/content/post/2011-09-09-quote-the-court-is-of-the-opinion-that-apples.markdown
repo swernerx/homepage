@@ -1,5 +1,6 @@
 slug: the-court-is-of-the-opinion-that-apples
 date: 2011-09-09 20:19:53
+title: The court is of the opinion that Apple’s minimalistic design isn’t...
 type: quote
 ---
 

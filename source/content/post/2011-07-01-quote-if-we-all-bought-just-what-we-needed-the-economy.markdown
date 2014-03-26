@@ -1,5 +1,6 @@
 slug: if-we-all-bought-just-what-we-needed-the-economy
 date: 2011-07-01 08:13:18
+title: If we all bought just what we needed, the economy would collapse.
 type: quote
 ---
 

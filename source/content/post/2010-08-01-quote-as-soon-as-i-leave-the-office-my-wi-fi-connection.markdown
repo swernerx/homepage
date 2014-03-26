@@ -1,5 +1,6 @@
 slug: as-soon-as-i-leave-the-office-my-wi-fi-connection
 date: 2010-08-01 21:51:57
+title: As soon as I leave the office, my Wi-Fi connection there drops and 3G...
 type: quote
 ---
 

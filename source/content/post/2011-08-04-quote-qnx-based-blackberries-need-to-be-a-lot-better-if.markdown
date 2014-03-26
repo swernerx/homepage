@@ -1,5 +1,6 @@
 slug: qnx-based-blackberries-need-to-be-a-lot-better-if
 date: 2011-08-04 10:18:09
+title: QNX-based BlackBerries need to be a LOT better if RIM is going to be...
 type: quote
 ---
 

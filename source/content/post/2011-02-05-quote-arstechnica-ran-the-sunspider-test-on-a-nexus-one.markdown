@@ -1,5 +1,6 @@
 slug: arstechnica-ran-the-sunspider-test-on-a-nexus-one
 date: 2011-02-05 11:29:47
+title: Arstechnica ran the SunSpider test on a Nexus One with Android 2.2...
 type: quote
 ---
 

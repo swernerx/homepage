@@ -1,5 +1,6 @@
 slug: if-you-give-netflix-a-list-of-all-the-movies-you
 date: 2014-01-07 08:46:14
+title: If you give Netflix a list of all the movies you want to watch, the...
 type: quote
 ---
 

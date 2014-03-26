@@ -1,5 +1,6 @@
 slug: itll-probably-be-faster-for-me-to-write-my-own
 date: 2011-12-20 09:12:53
+title: It’ll probably be faster for me to write my own little tool for it...
 type: quote
 ---
 

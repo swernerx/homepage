@@ -1,5 +1,6 @@
 slug: googles-promise-seems-naive-at-best
 date: 2011-08-15 14:31:00
+title: Google’s promise seems naive at best.
 type: quote
 ---
 

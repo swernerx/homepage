@@ -1,5 +1,6 @@
 slug: steve-jobs-on-bild-de
 date: 2011-10-06 11:16:19
+title: Steve Jobs on [Bild.de](http://www.bild.de)
 type: photo
 ---
 

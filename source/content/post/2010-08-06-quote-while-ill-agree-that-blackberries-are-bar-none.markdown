@@ -1,5 +1,6 @@
 slug: while-ill-agree-that-blackberries-are-bar-none
 date: 2010-08-06 22:07:35
+title: While I’ll agree that Blackberries are, bar none, the best email...
 type: quote
 ---
 

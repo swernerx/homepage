@@ -1,5 +1,6 @@
 slug: ein-rumane-der-mit-anfang-60-einreist-und-funf
 date: 2010-10-23 13:03:21
+title: Ein Rumäne, der mit Anfang 60 einreist und fünf Jahre später die...
 type: quote
 ---
 

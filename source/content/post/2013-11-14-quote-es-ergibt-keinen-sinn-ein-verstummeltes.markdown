@@ -1,5 +1,6 @@
 slug: es-ergibt-keinen-sinn-ein-verstummeltes
 date: 2013-11-14 09:14:22
+title: Es ergibt keinen Sinn, ein verstümmeltes TouchWiz-Samsung für den...
 type: quote
 ---
 

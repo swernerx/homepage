@@ -1,5 +1,6 @@
 slug: when-we-were-an-agrarian-nation-all-cars-were
 date: 2010-06-02 10:09:42
+title: When we were an agrarian nation, all cars were trucks. But as people...
 type: quote
 ---
 

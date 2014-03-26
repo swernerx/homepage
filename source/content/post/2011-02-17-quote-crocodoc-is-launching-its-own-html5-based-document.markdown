@@ -1,5 +1,6 @@
 slug: crocodoc-is-launching-its-own-html5-based-document
 date: 2011-02-17 10:47:52
+title: Crocodoc is launching its own HTML5-based document viewer that’s very...
 type: quote
 ---
 

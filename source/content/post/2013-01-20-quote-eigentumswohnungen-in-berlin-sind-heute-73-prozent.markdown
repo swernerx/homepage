@@ -1,5 +1,6 @@
 slug: eigentumswohnungen-in-berlin-sind-heute-73-prozent
 date: 2013-01-20 13:49:59
+title: Eigentumswohnungen in Berlin sind heute 73 Prozent teurer als vor...
 type: quote
 ---
 

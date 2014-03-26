@@ -1,5 +1,6 @@
 slug: netbooks-are-dead-because-no-one-wants-them-this
 date: 2010-12-31 19:15:47
+title: Netbooks are dead because no one wants them. This year, though, there...
 type: quote
 ---
 

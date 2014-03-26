@@ -1,5 +1,6 @@
 slug: ext-js-4-preview-faster-easier-more-stable-sencha
 date: 2010-11-22 20:29:55
+title: Ext JS 4 Preview: Faster, Easier, More Stable - Sencha
 type: link
 ---
 

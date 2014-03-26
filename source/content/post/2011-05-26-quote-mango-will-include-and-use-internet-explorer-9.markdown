@@ -1,5 +1,6 @@
 slug: mango-will-include-and-use-internet-explorer-9
 date: 2011-05-26 22:50:48
+title: Mango will include and use Internet Explorer 9, which uses hardware...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: any-nokia-smartphone-running-symbian-is-end-of
 date: 2011-04-29 17:58:53
+title: Any Nokia smartphone running Symbian is end of life. Same can be said...
 type: quote
 ---
 

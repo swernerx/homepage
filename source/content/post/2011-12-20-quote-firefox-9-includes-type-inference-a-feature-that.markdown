@@ -1,5 +1,6 @@
 slug: firefox-9-includes-type-inference-a-feature-that
 date: 2011-12-20 18:18:05
+title: Firefox 9 includes Type Inference, a feature that Mozilla says can...
 type: quote
 ---
 

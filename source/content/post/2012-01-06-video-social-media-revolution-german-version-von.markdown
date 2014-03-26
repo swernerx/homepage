@@ -1,5 +1,6 @@
 slug: social-media-revolution-german-version-von
 date: 2012-01-06 16:14:37
+title: Social Media Revolution - German Version (von 
 type: video
 ---
 

@@ -1,5 +1,6 @@
 slug: nice-geeks-vs-non-geeks
 date: 2012-01-06 23:05:08
+title: Nice: Geeks vs. non geeks.
 type: photo
 ---
 

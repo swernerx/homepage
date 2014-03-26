@@ -1,5 +1,6 @@
 slug: hinter-der-schrumpfkur-von-gruner-jahr-ist-keine
 date: 2013-06-20 18:31:50
+title: Hinter der Schrumpfkur von Gruner + Jahr ist keine Strategie...
 type: quote
 ---
 

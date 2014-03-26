@@ -1,5 +1,6 @@
 slug: android-voice-actions-is-great-technology-and-is
 date: 2011-10-08 23:48:44
+title: Android Voice Actions is great technology, and is widely used by many...
 type: quote
 ---
 

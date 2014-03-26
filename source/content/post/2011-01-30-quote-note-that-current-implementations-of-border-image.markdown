@@ -1,5 +1,6 @@
 slug: note-that-current-implementations-of-border-image
 date: 2011-01-30 21:27:52
+title: Note that current implementations of border-image are relatively...
 type: quote
 ---
 

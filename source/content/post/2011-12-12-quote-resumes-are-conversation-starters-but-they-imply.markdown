@@ -1,5 +1,6 @@
 slug: resumes-are-conversation-starters-but-they-imply
 date: 2011-12-12 18:31:39
+title: Resumes are conversation-starters, but they imply nothing about...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: so-apples-got-their-xbox-live-this-is-kind-of
 date: 2010-04-08 19:48:12
+title: So Apple’s got their Xbox Live. This is kind of huge...
 type: quote
 ---
 

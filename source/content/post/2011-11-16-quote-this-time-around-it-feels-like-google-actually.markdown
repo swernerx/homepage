@@ -1,5 +1,6 @@
 slug: this-time-around-it-feels-like-google-actually
 date: 2011-11-16 09:08:01
+title: This time around it feels like Google actually paid attention to how...
 type: quote
 ---
 

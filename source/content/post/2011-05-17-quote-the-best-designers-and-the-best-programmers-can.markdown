@@ -1,5 +1,6 @@
 slug: the-best-designers-and-the-best-programmers-can
 date: 2011-05-17 18:47:01
+title: The best designers and the best programmers can determine what just...
 type: quote
 ---
 

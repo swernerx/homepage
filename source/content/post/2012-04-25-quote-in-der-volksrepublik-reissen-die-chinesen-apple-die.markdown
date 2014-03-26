@@ -1,5 +1,6 @@
 slug: in-der-volksrepublik-reissen-die-chinesen-apple-die
 date: 2012-04-25 10:25:07
+title: In der Volksrepublik reißen die Chinesen Apple die iPhones aus den...
 type: quote
 ---
 

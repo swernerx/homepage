@@ -1,5 +1,6 @@
 slug: bei-der-ersten-vorfuhrung-auf-der-buchmesse-wirkte
 date: 2013-10-09 16:58:25
+title: Bei der ersten Vorführung auf der Buchmesse wirkte die Oberfläche...
 type: quote
 ---
 

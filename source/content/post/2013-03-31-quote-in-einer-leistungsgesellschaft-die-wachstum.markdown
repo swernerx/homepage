@@ -1,5 +1,6 @@
 slug: in-einer-leistungsgesellschaft-die-wachstum
 date: 2013-03-31 17:27:57
+title: In einer Leistungsgesellschaft, die Wachstum, Konsum und...
 type: quote
 ---
 

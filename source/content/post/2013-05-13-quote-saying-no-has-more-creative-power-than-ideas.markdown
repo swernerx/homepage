@@ -1,5 +1,6 @@
 slug: saying-no-has-more-creative-power-than-ideas
 date: 2013-05-13 16:13:45
+title: Saying “no” has more creative power than ideas, insights and talent...
 type: quote
 ---
 

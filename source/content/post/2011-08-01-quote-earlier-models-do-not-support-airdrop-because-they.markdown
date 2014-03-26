@@ -1,5 +1,6 @@
 slug: earlier-models-do-not-support-airdrop-because-they
 date: 2011-08-01 10:07:54
+title: Earlier models do not support AirDrop because they lack the WiFi...
 type: quote
 ---
 

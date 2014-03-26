@@ -1,5 +1,6 @@
 slug: firefox-will-support-the-css-calc-value-which
 date: 2010-06-10 19:42:11
+title: Firefox will support the CSS calc() value, which lets you compute a...
 type: quote
 ---
 

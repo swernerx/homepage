@@ -1,5 +1,6 @@
 slug: most-mobile-utility-providers-have-actually-done
 date: 2010-09-25 00:55:14
+title: Most mobile utility providers have actually done very, very well in...
 type: quote
 ---
 

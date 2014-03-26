@@ -1,5 +1,6 @@
 slug: auf-einen-kunstlerisch-wertvollen-firmenausflug
 date: 2010-10-27 12:05:30
+title: Auf einen künstlerisch wertvollen Firmenausflug legen die...
 type: quote
 ---
 

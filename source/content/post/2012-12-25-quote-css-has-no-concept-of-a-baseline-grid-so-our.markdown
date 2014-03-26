@@ -1,5 +1,6 @@
 slug: css-has-no-concept-of-a-baseline-grid-so-our
 date: 2012-12-25 17:01:32
+title: CSS has no concept of a baseline grid. So, our text won’t sit exactly...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: einer-der-grundfehler-der-verlage-ist-sie
 date: 2012-11-23 17:36:22
+title: Einer der Grundfehler der Verlage ist: Sie glauben, dass...
 type: quote
 ---
 

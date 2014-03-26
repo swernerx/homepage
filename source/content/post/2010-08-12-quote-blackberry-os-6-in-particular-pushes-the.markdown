@@ -1,5 +1,6 @@
 slug: blackberry-os-6-in-particular-pushes-the
 date: 2010-08-12 13:06:43
+title: BlackBerry OS 6, in particular, pushes the Blackberry platform back...
 type: quote
 ---
 

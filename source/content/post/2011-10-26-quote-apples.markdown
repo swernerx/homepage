@@ -1,5 +1,6 @@
 slug: apples
 date: 2011-10-26 08:54:18
+title: Apple’s...
 type: quote
 ---
 

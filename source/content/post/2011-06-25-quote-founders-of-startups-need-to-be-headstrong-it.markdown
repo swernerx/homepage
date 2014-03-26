@@ -1,5 +1,6 @@
 slug: founders-of-startups-need-to-be-headstrong-it
 date: 2011-06-25 11:10:09
+title: Founders of startups need to be headstrong. It isn’t always going to...
 type: quote
 ---
 

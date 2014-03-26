@@ -1,5 +1,6 @@
 slug: the-reader-must-never-be-confused-about-the-source
 date: 2013-06-06 08:55:56
+title: The reader must never be confused about the source of content.
 type: quote
 ---
 

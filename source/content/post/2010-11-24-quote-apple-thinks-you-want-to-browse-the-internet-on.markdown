@@ -1,5 +1,6 @@
 slug: apple-thinks-you-want-to-browse-the-internet-on
 date: 2010-11-24 08:30:15
+title: Apple thinks you want to browse the internet on your iPad. Only...
 type: quote
 ---
 

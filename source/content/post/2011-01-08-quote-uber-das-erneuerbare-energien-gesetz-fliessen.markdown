@@ -1,5 +1,6 @@
 slug: uber-das-erneuerbare-energien-gesetz-fliessen
 date: 2011-01-08 16:42:38
+title: Über das Erneuerbare-Energien-Gesetz fließen Hunderte von Milliarden...
 type: quote
 ---
 

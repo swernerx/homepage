@@ -1,5 +1,6 @@
 slug: the-ipad-air-is-a-leap-and-not-a-step-it-feels
 date: 2013-11-14 08:07:39
+title: The iPad Air is a leap and not a step. It feels impossibly thin and...
 type: quote
 ---
 

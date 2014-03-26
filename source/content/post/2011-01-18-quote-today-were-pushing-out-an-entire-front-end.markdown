@@ -1,5 +1,6 @@
 slug: today-were-pushing-out-an-entire-front-end
 date: 2011-01-18 08:40:51
+title: Today we’re pushing out an entire front-end rewrite of GitHub’s Wiki...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: apple-demonstrated-that-if-designed-well
 date: 2011-02-09 10:51:30
+title: Apple demonstrated that if designed well, consumers would buy a...
 type: quote
 ---
 

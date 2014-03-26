@@ -1,5 +1,6 @@
 slug: what-responsive-design-isnt-is-a-magic-bullet-a
 date: 2012-11-13 18:25:12
+title: What responsive design isn’t is a magic bullet. A layout that looks...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: opk-bought-navteq-for-8-1-billion-in-october
 date: 2010-09-12 01:19:12
+title: OPK bought Navteq for $8.1 billion in October 2007. Intended as a...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: jeff-rock-ill-tell-you-why-movie-revenue-is
 date: 2011-12-31 12:57:53
+title: Jeff Rock: I'll tell you why movie revenue is dropping...
 type: link
 ---
 

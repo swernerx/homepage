@@ -1,5 +1,6 @@
 slug: many-tools-require-modification-to-the-existing
 date: 2010-05-16 01:35:51
+title: Many tools require modification to the existing web app to work on...
 type: quote
 ---
 

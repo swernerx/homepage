@@ -1,5 +1,6 @@
 slug: apple-has-beaten-wall-street-estimates-for-13
 date: 2011-07-19 19:12:02
+title: Apple has beaten Wall Street estimates for 13 consecutive quarters...
 type: quote
 ---
 

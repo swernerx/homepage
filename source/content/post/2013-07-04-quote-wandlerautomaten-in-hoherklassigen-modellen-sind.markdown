@@ -1,5 +1,6 @@
 slug: wandlerautomaten-in-hoherklassigen-modellen-sind
 date: 2013-07-04 16:58:24
+title: Wandlerautomaten in höherklassigen Modellen sind generell ratsam,...
 type: quote
 ---
 

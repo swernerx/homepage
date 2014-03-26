@@ -1,5 +1,6 @@
 slug: android-is-now-a-bigger-platform-than-windows
 date: 2013-07-21 00:26:08
+title: Android is now a bigger platform than Windows.
 type: quote
 ---
 

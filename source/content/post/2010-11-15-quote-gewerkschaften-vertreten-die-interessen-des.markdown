@@ -1,5 +1,6 @@
 slug: gewerkschaften-vertreten-die-interessen-des
 date: 2010-11-15 15:00:23
+title: Gewerkschaften vertreten die Interessen des Medianmitgliedes. Das hat...
 type: quote
 ---
 

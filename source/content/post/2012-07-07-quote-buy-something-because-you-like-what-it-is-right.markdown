@@ -1,5 +1,6 @@
 slug: buy-something-because-you-like-what-it-is-right
 date: 2012-07-07 09:50:24
+title: Buy something because you like what it is right now, not because you...
 type: quote
 ---
 

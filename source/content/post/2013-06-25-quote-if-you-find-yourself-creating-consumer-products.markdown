@@ -1,5 +1,6 @@
 slug: if-you-find-yourself-creating-consumer-products
 date: 2013-06-25 14:17:36
+title: If you find yourself creating consumer products with a public API, do...
 type: quote
 ---
 

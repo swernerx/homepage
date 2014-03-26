@@ -1,5 +1,6 @@
 slug: all-agree-on-the-major-points-very-good-hardware
 date: 2011-04-19 19:57:33
+title: All agree on the major points: very good hardware overall, awful...
 type: quote
 ---
 

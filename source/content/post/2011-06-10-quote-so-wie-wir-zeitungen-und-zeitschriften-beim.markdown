@@ -1,5 +1,6 @@
 slug: so-wie-wir-zeitungen-und-zeitschriften-beim
 date: 2011-06-10 09:07:38
+title: So, wie wir Zeitungen und Zeitschriften beim Endverbraucher physisch...
 type: quote
 ---
 

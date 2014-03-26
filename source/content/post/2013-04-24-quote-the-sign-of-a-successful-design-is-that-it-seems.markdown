@@ -1,5 +1,6 @@
 slug: the-sign-of-a-successful-design-is-that-it-seems
 date: 2013-04-24 09:10:46
+title: The sign of a successful design is that it seems obvious in...
 type: quote
 ---
 

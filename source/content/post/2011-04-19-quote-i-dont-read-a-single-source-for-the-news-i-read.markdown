@@ -1,5 +1,6 @@
 slug: i-dont-read-a-single-source-for-the-news-i-read
 date: 2011-04-19 22:54:42
+title: I don’t read a single source for the news—I read thousands. I consume...
 type: quote
 ---
 

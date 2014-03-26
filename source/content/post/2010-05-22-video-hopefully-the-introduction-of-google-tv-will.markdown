@@ -1,5 +1,6 @@
 slug: hopefully-the-introduction-of-google-tv-will
 date: 2010-05-22 19:33:55
+title: Hopefully the introduction of Google TV will result into a new...
 type: video
 ---
 

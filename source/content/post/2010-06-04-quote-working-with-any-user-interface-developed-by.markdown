@@ -1,5 +1,6 @@
 slug: working-with-any-user-interface-developed-by
 date: 2010-06-04 17:21:27
+title: Working with any user interface developed by Google is like making...
 type: quote
 ---
 

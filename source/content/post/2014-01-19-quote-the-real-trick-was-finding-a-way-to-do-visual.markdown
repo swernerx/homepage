@@ -1,5 +1,6 @@
 slug: the-real-trick-was-finding-a-way-to-do-visual
 date: 2014-01-19 08:53:23
+title: The real trick was finding a way to do visual testing. There are a...
 type: quote
 ---
 

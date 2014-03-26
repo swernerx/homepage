@@ -1,5 +1,6 @@
 slug: in-a-post-pc-world-the-experience-of-the-product
 date: 2011-03-05 23:52:34
+title: In a post-PC world, the experience of the product is central and...
 type: quote
 ---
 

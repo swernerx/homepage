@@ -1,5 +1,6 @@
 slug: wenn-die-deutsche-huffington-post-nur-einigermassen
 date: 2013-05-13 14:26:08
+title: Wenn die deutsche Huffington Post nur einigermaßen gut gemacht wird,...
 type: quote
 ---
 

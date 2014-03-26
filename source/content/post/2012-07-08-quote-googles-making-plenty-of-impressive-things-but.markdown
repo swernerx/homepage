@@ -1,5 +1,6 @@
 slug: googles-making-plenty-of-impressive-things-but
 date: 2012-07-08 10:16:01
+title: Google’s making plenty of impressive things—but are they impressive...
 type: quote
 ---
 

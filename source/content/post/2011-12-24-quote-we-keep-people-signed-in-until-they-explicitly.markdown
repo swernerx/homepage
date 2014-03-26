@@ -1,5 +1,6 @@
 slug: we-keep-people-signed-in-until-they-explicitly
 date: 2011-12-24 14:13:38
+title: We keep people signed in until they explicitly sign out. So,...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: online-organizations-will-soon-realize-there-is
 date: 2011-06-25 10:33:41
+title: Online organizations will soon realize there is little money to be...
 type: quote
 ---
 

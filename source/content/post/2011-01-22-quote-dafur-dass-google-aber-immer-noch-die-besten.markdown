@@ -1,5 +1,6 @@
 slug: dafur-dass-google-aber-immer-noch-die-besten
 date: 2011-01-22 17:52:17
+title: Dafür, dass Google aber immer noch die besten Ingenieure in seinen...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: when-people-spend-a-few-hundred-bucks-on-a-phone
 date: 2011-07-01 08:13:19
+title: When people spend a few hundred bucks on a phone, and sign a long...
 type: quote
 ---
 

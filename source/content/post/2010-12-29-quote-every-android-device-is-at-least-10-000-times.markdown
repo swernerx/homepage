@@ -1,5 +1,6 @@
 slug: every-android-device-is-at-least-10-000-times
 date: 2010-12-29 17:57:13
+title: Every Android device is at least 10,000 times better than any mobile...
 type: quote
 ---
 

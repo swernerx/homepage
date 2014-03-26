@@ -1,5 +1,6 @@
 slug: die-solarforderung-verschlingt-fast-40-prozent-der
 date: 2011-01-20 16:41:41
+title: Die Solarförderung verschlingt fast 40 Prozent der Öko-Förderung,...
 type: quote
 ---
 

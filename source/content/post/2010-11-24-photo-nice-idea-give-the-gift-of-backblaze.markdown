@@ -1,5 +1,6 @@
 slug: nice-idea-give-the-gift-of-backblaze
 date: 2010-11-24 10:39:20
+title: Nice idea: 
 type: photo
 ---
 

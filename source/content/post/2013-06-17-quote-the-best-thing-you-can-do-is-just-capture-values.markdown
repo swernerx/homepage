@@ -1,5 +1,6 @@
 slug: the-best-thing-you-can-do-is-just-capture-values
 date: 2013-06-17 11:06:35
+title: The best thing you can do is just capture values such as scrollTop in...
 type: quote
 ---
 

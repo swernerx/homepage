@@ -1,5 +1,6 @@
 slug: good-talk-focused-on-interface-and-application
 date: 2010-07-06 18:31:18
+title: Good talk. Focused on interface and application structure. 
 type: video
 ---
 

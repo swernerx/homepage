@@ -1,5 +1,6 @@
 slug: even-in-small-scripts-i-now-rely-on-pythons
 date: 2010-11-03 22:31:47
+title: Even in small scripts, I now rely on python’s numerous data...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: samsung-entfernte-die-tablets-und-schriftzuge-am
 date: 2011-09-06 09:49:37
+title: Samsung entfernte die Tablets und Schriftzüge am Samstagmittag mitten...
 type: quote
 ---
 

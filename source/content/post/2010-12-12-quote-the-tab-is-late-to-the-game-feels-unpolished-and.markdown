@@ -1,5 +1,6 @@
 slug: the-tab-is-late-to-the-game-feels-unpolished-and
 date: 2010-12-12 17:11:15
+title: The Tab is late to the game, feels unpolished and awkward and, well,...
 type: quote
 ---
 

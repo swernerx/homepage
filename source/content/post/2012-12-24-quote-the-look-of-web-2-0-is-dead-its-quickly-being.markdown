@@ -1,5 +1,6 @@
 slug: the-look-of-web-2-0-is-dead-its-quickly-being
 date: 2012-12-24 12:25:59
+title: The look of Web 2.0 is dead. It’s quickly being replaced by “clean...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: wonderful-click-for-the-full-version-why-i-dont
 date: 2010-11-11 14:11:28
+title: Wonderful. Click for the full version: 
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: awesome-real-racing-2-hd-dual-screen-ipad-ios-5
 date: 2011-06-20 16:15:50
+title: Awesome: Real Racing 2 HD Dual-Screen iPad iOS 5 Hands-On (von 
 type: video
 ---
 

@@ -1,5 +1,6 @@
 slug: steve-jobs-on-welt-de
 date: 2011-10-06 11:18:29
+title: Steve Jobs on [Welt.de](http://www.welt.de)
 type: photo
 ---
 

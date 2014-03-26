@@ -1,5 +1,6 @@
 slug: were-launching-a-beta-version-of-the-sencha-sdk
 date: 2011-04-26 15:25:57
+title: We’re launching a beta version of the Sencha SDK Tools today, with...
 type: quote
 ---
 

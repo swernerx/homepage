@@ -1,5 +1,6 @@
 slug: no-other-feed-reading-app-on-my-iphone-or-ipad-has
 date: 2013-09-12 23:19:48
+title: No other feed reading app on my iPhone or iPad has the level of...
 type: quote
 ---
 

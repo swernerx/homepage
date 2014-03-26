@@ -1,5 +1,6 @@
 slug: you-should-experiment-around-until-you-find-one
 date: 2013-11-04 18:45:48
+title: You should experiment around until you find one technology that you...
 type: quote
 ---
 

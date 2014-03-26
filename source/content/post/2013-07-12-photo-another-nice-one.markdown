@@ -1,5 +1,6 @@
 slug: another-nice-one
 date: 2013-07-12 14:54:50
+title: Another nice one…
 type: photo
 ---
 

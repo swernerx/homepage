@@ -1,5 +1,6 @@
 slug: we-glance-down-at-our-phones-at-stop-lights-or-in
 date: 2010-10-25 11:24:32
+title: We glance down at our phones at stop lights or in traffic to see the...
 type: quote
 ---
 

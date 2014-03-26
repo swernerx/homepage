@@ -1,5 +1,6 @@
 slug: facebook-in-deutschland-auf-dem-weg-zu-30-millionen
 date: 2011-03-23 22:05:20
+title: Facebook in Deutschland: Auf dem Weg zu 30 Millionen aktiven Nutzern
 type: link
 ---
 

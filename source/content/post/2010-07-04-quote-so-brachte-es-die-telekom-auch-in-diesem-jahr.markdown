@@ -1,5 +1,6 @@
 slug: so-brachte-es-die-telekom-auch-in-diesem-jahr
 date: 2010-07-04 14:05:02
+title: So brachte es die Telekom auch in diesem Jahr wieder erfolgreich...
 type: quote
 ---
 

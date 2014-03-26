@@ -1,5 +1,6 @@
 slug: ninety-percent-of-everything-is-crap-theodore
 date: 2013-09-09 11:12:03
+title: Ninety percent of everything is crap — Theodore Sturgeon
 type: quote
 ---
 

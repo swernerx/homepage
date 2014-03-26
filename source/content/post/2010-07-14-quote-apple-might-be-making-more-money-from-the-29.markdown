@@ -1,5 +1,6 @@
 slug: apple-might-be-making-more-money-from-the-29
 date: 2010-07-14 23:05:21
+title: Apple might be making more money from the $29 bumper than Google...
 type: quote
 ---
 

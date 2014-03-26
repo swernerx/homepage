@@ -1,5 +1,6 @@
 slug: for-maximum-reach-built-a-web-app-that-looks-like
 date: 2011-05-13 19:05:25
+title: For maximum reach: built a web app that looks like web app.
 type: quote
 ---
 

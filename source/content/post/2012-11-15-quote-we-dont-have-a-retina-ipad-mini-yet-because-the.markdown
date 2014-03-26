@@ -1,5 +1,6 @@
 slug: we-dont-have-a-retina-ipad-mini-yet-because-the
 date: 2012-11-15 10:52:48
+title: We don’t have a Retina iPad Mini yet because the resulting product...
 type: quote
 ---
 

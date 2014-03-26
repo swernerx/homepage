@@ -1,5 +1,6 @@
 slug: mobile-values-the-single-solution-one-sharp-blade
 date: 2013-07-21 00:26:25
+title: Mobile values the single solution, one sharp blade rather than a...
 type: quote
 ---
 

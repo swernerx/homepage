@@ -1,5 +1,6 @@
 slug: android-has-become-an-expensive-noose-around
 date: 2012-11-01 14:34:42
+title: Android has become an expensive noose around Google’s neck. They need...
 type: quote
 ---
 

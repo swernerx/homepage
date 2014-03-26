@@ -1,5 +1,6 @@
 slug: phone-numbers-are-a-relic-of-an-outmoded-system
 date: 2011-06-19 15:07:45
+title: Phone numbers are a relic of an outmoded system that both wireless...
 type: quote
 ---
 

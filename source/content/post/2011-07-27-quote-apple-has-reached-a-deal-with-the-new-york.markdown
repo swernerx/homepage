@@ -1,5 +1,6 @@
 slug: apple-has-reached-a-deal-with-the-new-york
 date: 2011-07-27 01:38:45
+title: Apple has reached a deal with the New York Metropolitan...
 type: quote
 ---
 

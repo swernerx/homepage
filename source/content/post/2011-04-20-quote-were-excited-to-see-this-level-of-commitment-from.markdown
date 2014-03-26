@@ -1,5 +1,6 @@
 slug: were-excited-to-see-this-level-of-commitment-from
 date: 2011-04-20 18:48:35
+title: We’re excited to see this level of commitment from RIM to not only...
 type: quote
 ---
 

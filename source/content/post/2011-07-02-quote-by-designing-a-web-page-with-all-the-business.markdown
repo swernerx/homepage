@@ -1,5 +1,6 @@
 slug: by-designing-a-web-page-with-all-the-business
 date: 2011-07-02 18:38:50
+title: By designing a Web page with all the business logic on a Web worker...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: in-germany-advertising-now-contributes-a-little
 date: 2013-10-09 18:06:07
+title: In Germany, advertising now contributes a little more than one-third...
 type: quote
 ---
 

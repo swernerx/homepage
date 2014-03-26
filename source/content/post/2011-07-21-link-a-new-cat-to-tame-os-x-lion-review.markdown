@@ -1,5 +1,6 @@
 slug: a-new-cat-to-tame-os-x-lion-review
 date: 2011-07-21 13:45:35
+title: A New Cat to Tame: OS X Lion Review
 type: link
 ---
 

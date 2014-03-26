@@ -1,5 +1,6 @@
 slug: spidermonkey-shell-will-include-a-reflection-of
 date: 2010-08-20 00:01:52
+title: SpiderMonkey shell will include a reflection of the SpiderMonkey...
 type: quote
 ---
 

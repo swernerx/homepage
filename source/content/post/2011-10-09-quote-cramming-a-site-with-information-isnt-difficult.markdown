@@ -1,5 +1,6 @@
 slug: cramming-a-site-with-information-isnt-difficult
 date: 2011-10-09 14:07:51
+title: Cramming a site with information isn’t difficult, but making it...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: whats-new-isnt-necessarily-valuable-or-better
 date: 2011-08-20 20:06:30
+title: What’s new isn’t necessarily valuable or better than the...
 type: quote
 ---
 

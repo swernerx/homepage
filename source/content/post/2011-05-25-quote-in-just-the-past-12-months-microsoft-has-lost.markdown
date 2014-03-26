@@ -1,5 +1,6 @@
 slug: in-just-the-past-12-months-microsoft-has-lost
 date: 2011-05-25 19:25:23
+title: In just the past 12 months, Microsoft has lost $2.5B in its Online...
 type: quote
 ---
 

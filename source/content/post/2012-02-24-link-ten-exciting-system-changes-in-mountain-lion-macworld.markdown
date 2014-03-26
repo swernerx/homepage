@@ -1,5 +1,6 @@
 slug: ten-exciting-system-changes-in-mountain-lion-macworld
 date: 2012-02-24 10:28:40
+title: Ten exciting system changes in Mountain Lion | Macworld
 type: link
 ---
 

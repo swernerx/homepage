@@ -1,5 +1,6 @@
 slug: compared-to-many-drug-addictions-the-effects-of
 date: 2013-08-12 19:13:28
+title: Compared to many drug addictions, the effects of caffeine are...
 type: quote
 ---
 

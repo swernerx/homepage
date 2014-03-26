@@ -1,5 +1,6 @@
 slug: most-people-perceive-a-default-as-an-authoritative
 date: 2011-10-23 13:47:18
+title: Most people perceive a default as an authoritative recommendation.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: typography-is-an-old-school-discipline-that
 date: 2012-12-26 19:51:38
+title: Typography is an old school discipline that requires a lot of...
 type: quote
 ---
 

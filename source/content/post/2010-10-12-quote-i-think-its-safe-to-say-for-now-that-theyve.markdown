@@ -1,5 +1,6 @@
 slug: i-think-its-safe-to-say-for-now-that-theyve
 date: 2010-10-12 16:40:46
+title: I think it’s safe to say for now that they’ve successfully stuck the...
 type: quote
 ---
 

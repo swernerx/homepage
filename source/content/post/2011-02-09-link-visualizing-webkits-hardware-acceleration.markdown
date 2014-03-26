@@ -1,5 +1,6 @@
 slug: visualizing-webkits-hardware-acceleration
 date: 2011-02-09 13:03:37
+title: Visualizing WebKit’s hardware acceleration
 type: link
 ---
 

@@ -1,5 +1,6 @@
 slug: since-the-iphones-release-rim-microsoft-and
 date: 2011-12-06 22:57:45
+title: Since the iPhone’s release, RIM, Microsoft, and Nokia have abandoned...
 type: quote
 ---
 

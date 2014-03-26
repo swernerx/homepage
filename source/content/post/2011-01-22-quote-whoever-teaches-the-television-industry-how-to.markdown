@@ -1,5 +1,6 @@
 slug: whoever-teaches-the-television-industry-how-to
 date: 2011-01-22 19:21:59
+title: Whoever teaches the television industry how to monetize content and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: custom-app-development-to-publish-a-magazine-is
 date: 2012-12-23 21:54:11
+title: Custom app development to publish a magazine is just nonsense.
 type: quote
 ---
 

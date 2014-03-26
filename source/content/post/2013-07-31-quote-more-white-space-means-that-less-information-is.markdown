@@ -1,5 +1,6 @@
 slug: more-white-space-means-that-less-information-is
 date: 2013-07-31 09:10:34
+title: More white space means that less information is presented. In turn,...
 type: quote
 ---
 

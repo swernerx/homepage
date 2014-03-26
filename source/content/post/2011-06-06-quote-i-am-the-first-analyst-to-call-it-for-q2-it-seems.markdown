@@ -1,5 +1,6 @@
 slug: i-am-the-first-analyst-to-call-it-for-q2-it-seems
 date: 2011-06-06 19:02:26
+title: I am the first analyst to call it, for Q2 it seems very clear that...
 type: quote
 ---
 

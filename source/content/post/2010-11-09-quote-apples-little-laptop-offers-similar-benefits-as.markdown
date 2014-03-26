@@ -1,5 +1,6 @@
 slug: apples-little-laptop-offers-similar-benefits-as
 date: 2010-11-09 12:11:43
+title: Apple’s little laptop offers similar benefits as netbooks—small size,...
 type: quote
 ---
 

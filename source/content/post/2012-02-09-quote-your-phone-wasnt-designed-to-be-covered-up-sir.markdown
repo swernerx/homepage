@@ -1,5 +1,6 @@
 slug: your-phone-wasnt-designed-to-be-covered-up-sir
 date: 2012-02-09 18:28:09
+title: Your phone wasn’t designed to be covered up. Sir Ive didn’t sit in...
 type: quote
 ---
 

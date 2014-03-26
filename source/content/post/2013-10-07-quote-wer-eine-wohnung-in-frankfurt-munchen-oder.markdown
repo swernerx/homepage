@@ -1,5 +1,6 @@
 slug: wer-eine-wohnung-in-frankfurt-munchen-oder
 date: 2013-10-07 18:48:20
+title: Wer eine Wohnung in Frankfurt, München oder Hamburg neu kauft, darf...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: you-can-almost-always-afford-to-wait-if-something
 date: 2011-06-15 12:02:58
+title: You can almost always afford to wait if something doesn’t feel...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: apple-treats-each-device-it-manufactures-with
 date: 2011-03-03 21:10:45
+title: Apple treats each device it manufactures with care, sweating the...
 type: quote
 ---
 

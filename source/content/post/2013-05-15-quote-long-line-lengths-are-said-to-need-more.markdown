@@ -1,5 +1,6 @@
 slug: long-line-lengths-are-said-to-need-more
 date: 2013-05-15 14:35:19
+title: Long line lengths are said to need more interlinear spacing to ensure...
 type: quote
 ---
 

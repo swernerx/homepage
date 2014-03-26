@@ -1,5 +1,6 @@
 slug: all-large-sites-appear-to-care-not-one-bit-about
 date: 2011-07-08 17:19:58
+title: All large sites appear to care not one bit about the aesthetics of...
 type: quote
 ---
 

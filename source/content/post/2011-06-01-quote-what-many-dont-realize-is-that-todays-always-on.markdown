@@ -1,5 +1,6 @@
 slug: what-many-dont-realize-is-that-todays-always-on
 date: 2011-06-01 18:58:42
+title: What many don’t realize is that today’s always-on economy has an...
 type: quote
 ---
 

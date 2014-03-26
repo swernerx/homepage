@@ -1,5 +1,6 @@
 slug: a-great-coder-can-easily-be-50-times-more
 date: 2011-05-15 15:51:35
+title: A great coder can easily be 50 times more productive than a mediocre...
 type: quote
 ---
 

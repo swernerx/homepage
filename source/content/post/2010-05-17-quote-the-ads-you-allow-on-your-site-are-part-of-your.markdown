@@ -1,5 +1,6 @@
 slug: the-ads-you-allow-on-your-site-are-part-of-your
 date: 2010-05-17 22:44:42
+title: The ads you allow on your site are part of your brand.
 type: quote
 ---
 

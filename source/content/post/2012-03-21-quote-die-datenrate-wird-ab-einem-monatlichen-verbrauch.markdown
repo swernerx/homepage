@@ -1,5 +1,6 @@
 slug: die-datenrate-wird-ab-einem-monatlichen-verbrauch
 date: 2012-03-21 09:21:48
+title: Die Datenrate wird ab einem monatlichen Verbrauch von 300 GB...
 type: quote
 ---
 

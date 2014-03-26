@@ -1,5 +1,6 @@
 slug: content-on-the-website-for-the-new-york-post-is-no
 date: 2011-06-19 13:20:15
+title: Content on the website for the New York Post is no longer available...
 type: quote
 ---
 

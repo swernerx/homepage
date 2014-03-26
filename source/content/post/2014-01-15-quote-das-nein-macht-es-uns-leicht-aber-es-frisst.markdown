@@ -1,5 +1,6 @@
 slug: das-nein-macht-es-uns-leicht-aber-es-frisst
 date: 2014-01-15 08:49:23
+title: Das „Nein“ macht es uns leicht, aber es frisst Energie, Fantasie und...
 type: quote
 ---
 

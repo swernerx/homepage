@@ -1,5 +1,6 @@
 slug: the-approach-rim-went-is-pretty-close-to-how
 date: 2010-10-26 22:22:24
+title: The approach RIM went is pretty close to how PhoneGap works. WebWorks...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: people-pay-you-money-because-the-product-you-sell
 date: 2013-11-28 08:55:52
+title: People pay you money because the product you sell to them saves them...
 type: quote
 ---
 

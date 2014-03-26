@@ -1,5 +1,6 @@
 slug: shot-of-qooxdoos-api-viewer-as-build-with-current
 date: 2010-11-02 19:19:25
+title: Shot of qooxdoo’s API Viewer as build with current version...
 type: photo
 ---
 

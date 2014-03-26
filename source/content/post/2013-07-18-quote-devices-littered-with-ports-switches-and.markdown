@@ -1,5 +1,6 @@
 slug: devices-littered-with-ports-switches-and
 date: 2013-07-18 09:37:41
+title: Devices littered with ports, switches and throwaway features...
 type: quote
 ---
 

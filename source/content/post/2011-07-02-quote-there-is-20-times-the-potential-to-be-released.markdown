@@ -1,5 +1,6 @@
 slug: there-is-20-times-the-potential-to-be-released
 date: 2011-07-02 14:30:42
+title: There is 20 times the potential to be released than Chernobyl.
 type: quote
 ---
 

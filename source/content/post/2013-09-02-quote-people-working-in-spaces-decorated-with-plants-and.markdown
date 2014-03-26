@@ -1,5 +1,6 @@
 slug: people-working-in-spaces-decorated-with-plants-and
 date: 2013-09-02 18:24:19
+title: People working in spaces decorated with plants and pictures were 17...
 type: quote
 ---
 

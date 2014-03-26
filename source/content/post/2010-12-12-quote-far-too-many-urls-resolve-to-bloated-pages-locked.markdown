@@ -1,5 +1,6 @@
 slug: far-too-many-urls-resolve-to-bloated-pages-locked
 date: 2010-12-12 16:18:40
+title: Far too many URLs resolve to bloated pages locked to a single-width...
 type: quote
 ---
 

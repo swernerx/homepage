@@ -1,5 +1,6 @@
 slug: i-think-there-are-android-users-like-kincaid-who
 date: 2010-06-09 22:26:50
+title: I think there are Android users like Kincaid who hoped to see Apple...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-simple-truth-is-that-mozilla-is-favoring
 date: 2012-06-12 14:06:27
+title: The simple truth is that Mozilla is favoring advertisers (read:...
 type: quote
 ---
 

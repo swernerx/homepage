@@ -1,5 +1,6 @@
 slug: most-people-stay-too-long-in-bad-jobs-because-the
 date: 2013-10-17 10:15:35
+title: Most people stay too long in bad jobs because the corporate world is...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-new-google-realtime-is-well-executed-useful
 date: 2010-08-27 17:00:33
+title: The new Google Realtime is well executed, useful and certainly better...
 type: quote
 ---
 

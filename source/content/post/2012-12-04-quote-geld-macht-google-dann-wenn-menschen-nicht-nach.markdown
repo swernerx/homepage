@@ -1,5 +1,6 @@
 slug: geld-macht-google-dann-wenn-menschen-nicht-nach
 date: 2012-12-04 12:08:56
+title: Geld macht Google dann, wenn Menschen nicht nach News, sondern nach...
 type: quote
 ---
 

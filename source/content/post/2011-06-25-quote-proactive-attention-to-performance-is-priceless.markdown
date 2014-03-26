@@ -1,5 +1,6 @@
 slug: proactive-attention-to-performance-is-priceless
 date: 2011-06-25 10:31:16
+title: Proactive attention to performance is priceless, especially for...
 type: quote
 ---
 

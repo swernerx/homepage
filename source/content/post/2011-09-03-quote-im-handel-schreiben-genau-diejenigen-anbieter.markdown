@@ -1,5 +1,6 @@
 slug: im-handel-schreiben-genau-diejenigen-anbieter
 date: 2011-09-03 09:44:35
+title: Im Handel schreiben genau diejenigen Anbieter Erfolgsgeschichten, die...
 type: quote
 ---
 

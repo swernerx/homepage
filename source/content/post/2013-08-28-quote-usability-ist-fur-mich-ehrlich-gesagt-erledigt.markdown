@@ -1,5 +1,6 @@
 slug: usability-ist-fur-mich-ehrlich-gesagt-erledigt
 date: 2013-08-28 09:27:25
+title: Usability ist für mich ehrlich gesagt erledigt. Heute frage ich:...
 type: quote
 ---
 

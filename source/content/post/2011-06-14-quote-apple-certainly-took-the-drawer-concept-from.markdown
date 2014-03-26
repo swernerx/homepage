@@ -1,5 +1,6 @@
 slug: apple-certainly-took-the-drawer-concept-from
 date: 2011-06-14 12:24:24
+title: Apple certainly took the drawer concept from Android, but as it has...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: ive-been-hooked-on-the-idea-of-frameworks-using
 date: 2010-10-14 20:36:55
+title: I’ve been hooked on the idea of frameworks using sandboxed natives...
 type: quote
 ---
 

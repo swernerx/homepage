@@ -1,5 +1,6 @@
 slug: i-think-whats-more-likely-would-be-for-apple-to
 date: 2010-09-12 02:20:05
+title: I think what’s more likely would be for Apple to break iTunes for the...
 type: quote
 ---
 

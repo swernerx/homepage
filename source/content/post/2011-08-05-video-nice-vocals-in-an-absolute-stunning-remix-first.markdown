@@ -1,5 +1,6 @@
 slug: nice-vocals-in-an-absolute-stunning-remix-first
 date: 2011-08-05 09:10:58
+title: Nice vocals in an absolute stunning remix: First State ft Sarah...
 type: video
 ---
 

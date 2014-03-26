@@ -1,5 +1,6 @@
 slug: apple-is-dominating-android-in-all-the-areas-that
 date: 2013-01-21 16:56:31
+title: Apple is dominating Android in all the areas that matter; from usage...
 type: quote
 ---
 

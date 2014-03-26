@@ -1,5 +1,6 @@
 slug: holding-down-the-option-key-when-you-quit-an-app
 date: 2011-07-21 13:45:34
+title: Holding down the option key when you quit an app ‘quits and discards...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: to-think-that-a-multi-billion-dollar-company-only
 date: 2010-10-09 22:04:38
+title: To think that a multi-billion dollar company only has 30 major...
 type: quote
 ---
 

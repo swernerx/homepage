@@ -1,5 +1,6 @@
 slug: we-want-to-waste-time-more-productively
 date: 2011-04-19 22:54:44
+title: We want to waste time more productively.
 type: quote
 ---
 

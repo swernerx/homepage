@@ -1,5 +1,6 @@
 slug: great-ideas-come-when-youre-well-rested-when
 date: 2013-10-29 18:30:59
+title: Great ideas come when you’re well rested, when you’re in an...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: couchdb-reached-a-point-where-the-consensus-based
 date: 2012-01-06 08:32:44
+title: CouchDB reached a point where the consensus based approach has...
 type: quote
 ---
 

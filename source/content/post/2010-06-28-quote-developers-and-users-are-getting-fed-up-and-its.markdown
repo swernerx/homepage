@@ -1,5 +1,6 @@
 slug: developers-and-users-are-getting-fed-up-and-its
 date: 2010-06-28 13:00:25
+title: Developers and users are getting fed up and it’s time for Google to...
 type: quote
 ---
 

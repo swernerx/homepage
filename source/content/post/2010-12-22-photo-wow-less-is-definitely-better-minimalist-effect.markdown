@@ -1,5 +1,6 @@
 slug: wow-less-is-definitely-better-minimalist-effect
 date: 2010-12-22 10:56:02
+title: Wow. Less is definitely better! 
 type: photo
 ---
 

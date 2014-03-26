@@ -1,5 +1,6 @@
 slug: html5-technologies-in-webkit-browsers-will-handle
 date: 2010-06-20 02:07:15
+title: HTML5 technologies in Webkit browsers will handle 90% of mobile web...
 type: quote
 ---
 

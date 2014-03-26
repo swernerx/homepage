@@ -1,5 +1,6 @@
 slug: the-age-of-tablets-is-different-from-the-age-of
 date: 2011-05-15 20:25:09
+title: The age of tablets is different from the age of netbooks mostly...
 type: quote
 ---
 

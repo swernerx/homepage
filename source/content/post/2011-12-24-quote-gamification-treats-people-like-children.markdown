@@ -1,5 +1,6 @@
 slug: gamification-treats-people-like-children
 date: 2011-12-24 15:24:25
+title: “Gamification” treats people like children — children who need to be...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: das-wirksamste-instrument-mit-dem-finanzprodukte
 date: 2013-05-07 08:47:43
+title: Das wirksamste Instrument, mit dem Finanzprodukte normalerweise an...
 type: quote
 ---
 

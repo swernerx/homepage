@@ -1,5 +1,6 @@
 slug: announced-months-before-it-is-available-with-a
 date: 2010-10-01 22:25:50
+title: Announced months before it is available, with a name that sounds like...
 type: quote
 ---
 

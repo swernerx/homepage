@@ -1,5 +1,6 @@
 slug: running-ie6-ie7-ie8-with-just-one-parallels-vm
 date: 2011-03-10 14:46:09
+title: Running IE6, IE7 & IE8 with just one Parallels VM (Guest Blog)
 type: link
 ---
 

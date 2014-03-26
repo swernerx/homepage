@@ -1,5 +1,6 @@
 slug: steve-jobs-at-above-beyond-the-promoted-video
 date: 2011-10-06 15:35:13
+title: Steve Jobs at [Above &...](http://aboveandbeyond.nu/)
 type: photo
 ---
 

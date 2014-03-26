@@ -1,5 +1,6 @@
 slug: withings-tried-to-shove-as-many-half-finished
 date: 2013-08-12 19:13:29
+title: Withings tried to shove as many half-finished features as it could...
 type: quote
 ---
 

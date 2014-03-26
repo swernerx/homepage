@@ -1,5 +1,6 @@
 slug: man-muss-grundsatzlich-unterscheiden-ob-eine
 date: 2011-05-31 18:53:04
+title: Man muß grundsätzlich unterscheiden, ob eine Person zum Gründer...
 type: quote
 ---
 

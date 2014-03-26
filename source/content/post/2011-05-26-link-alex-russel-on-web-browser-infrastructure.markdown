@@ -1,5 +1,6 @@
 slug: alex-russel-on-web-browser-infrastructure
 date: 2011-05-26 00:05:26
+title: Alex Russel on web browser infrastructure
 type: link
 ---
 

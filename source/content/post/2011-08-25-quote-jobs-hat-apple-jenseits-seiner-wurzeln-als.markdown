@@ -1,5 +1,6 @@
 slug: jobs-hat-apple-jenseits-seiner-wurzeln-als
 date: 2011-08-25 08:10:43
+title: Jobs hat Apple jenseits seiner Wurzeln als Computerhersteller zu...
 type: quote
 ---
 

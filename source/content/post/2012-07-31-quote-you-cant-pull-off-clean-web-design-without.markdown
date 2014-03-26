@@ -1,5 +1,6 @@
 slug: you-cant-pull-off-clean-web-design-without
 date: 2012-07-31 18:22:42
+title: You can’t pull off clean web design without seriously rethinking the...
 type: quote
 ---
 

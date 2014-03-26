@@ -1,5 +1,6 @@
 slug: thats-so-amazing-new-renders-of-apples
 date: 2013-11-11 16:12:52
+title: That’s so amazing: 
 type: photo
 ---
 

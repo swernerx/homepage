@@ -1,5 +1,6 @@
 slug: the-new-york-times-plans-to-offer-its-most-popular
 date: 2013-04-26 20:34:23
+title: The New York Times plans to offer its most popular content under a...
 type: quote
 ---
 

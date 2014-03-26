@@ -1,5 +1,6 @@
 slug: in-todays-media-rich-attention-poor-world
 date: 2011-09-08 23:52:30
+title: In today’s media rich, attention-poor world, offering people...
 type: quote
 ---
 

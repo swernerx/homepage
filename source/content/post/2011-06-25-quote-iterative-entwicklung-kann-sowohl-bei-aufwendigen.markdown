@@ -1,5 +1,6 @@
 slug: iterative-entwicklung-kann-sowohl-bei-aufwendigen
 date: 2011-06-25 10:40:14
+title: Iterative Entwicklung kann sowohl bei aufwendigen Langzeitprojekten...
 type: quote
 ---
 

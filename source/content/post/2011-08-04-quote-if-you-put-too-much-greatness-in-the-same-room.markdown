@@ -1,5 +1,6 @@
 slug: if-you-put-too-much-greatness-in-the-same-room
 date: 2011-08-04 10:49:50
+title: If you put too much greatness in the same room, things don’t always...
 type: quote
 ---
 

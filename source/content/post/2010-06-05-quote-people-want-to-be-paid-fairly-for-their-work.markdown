@@ -1,5 +1,6 @@
 slug: people-want-to-be-paid-fairly-for-their-work
 date: 2010-06-05 14:36:46
+title: People want to be paid fairly for their work.
 type: quote
 ---
 

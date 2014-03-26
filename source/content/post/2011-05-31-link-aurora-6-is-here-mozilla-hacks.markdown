@@ -1,5 +1,6 @@
 slug: aurora-6-is-here-mozilla-hacks
 date: 2011-05-31 10:53:08
+title: Aurora 6 is here - Mozilla Hacks
 type: link
 ---
 

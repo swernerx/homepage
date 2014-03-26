@@ -1,5 +1,6 @@
 slug: power-users-will-find-themselves-a-little
 date: 2011-11-14 09:47:30
+title: Power users will find themselves a little frustrated with what they...
 type: quote
 ---
 

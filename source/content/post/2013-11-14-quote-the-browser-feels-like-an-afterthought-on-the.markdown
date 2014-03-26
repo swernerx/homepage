@@ -1,5 +1,6 @@
 slug: the-browser-feels-like-an-afterthought-on-the
 date: 2013-11-14 09:14:23
+title: The browser feels like an afterthought on the Kindle HDX, and given...
 type: quote
 ---
 

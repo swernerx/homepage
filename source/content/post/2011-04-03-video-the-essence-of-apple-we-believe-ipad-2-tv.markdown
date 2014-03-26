@@ -1,5 +1,6 @@
 slug: the-essence-of-apple-we-believe-ipad-2-tv
 date: 2011-04-03 18:19:18
+title: The essence of Apple - We Believe - iPad 2 TV Ad (von 
 type: video
 ---
 

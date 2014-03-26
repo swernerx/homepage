@@ -1,5 +1,6 @@
 slug: you-can-only-pay-for-android-apps-in-13-out-of-the
 date: 2010-08-17 09:18:59
+title: You can only pay for Android apps in 13 out of the 46 or so countries...
 type: quote
 ---
 

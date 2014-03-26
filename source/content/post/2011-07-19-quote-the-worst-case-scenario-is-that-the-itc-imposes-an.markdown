@@ -1,5 +1,6 @@
 slug: the-worst-case-scenario-is-that-the-itc-imposes-an
 date: 2011-07-19 01:15:39
+title: The worst-case scenario is that the ITC imposes an US import ban...
 type: quote
 ---
 

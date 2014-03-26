@@ -1,5 +1,6 @@
 slug: once-again-apple-is-providing-amazing-frameworks
 date: 2013-09-19 14:45:22
+title: Once again Apple is providing amazing frameworks that’ll allow...
 type: quote
 ---
 

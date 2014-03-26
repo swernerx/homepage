@@ -1,5 +1,6 @@
 slug: new-customers-need-something-quick-now-regardless
 date: 2013-12-05 17:52:16
+title: New customers need something quick now, regardless of what they may...
 type: quote
 ---
 

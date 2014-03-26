@@ -1,5 +1,6 @@
 slug: sony-was-committed-to-not-releasing-a-crappy
 date: 2011-01-29 09:55:11
+title: Sony was committed to not releasing a crappy product just because the...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: google-makes-billions-of-dollars-in-revenue-each
 date: 2011-07-07 14:01:24
+title: Google makes billions of dollars in revenue each fiscal quarter. That...
 type: quote
 ---
 

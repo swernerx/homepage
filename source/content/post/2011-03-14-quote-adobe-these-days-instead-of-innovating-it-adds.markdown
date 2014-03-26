@@ -1,5 +1,6 @@
 slug: adobe-these-days-instead-of-innovating-it-adds
 date: 2011-03-14 15:02:46
+title: Adobe these days: Instead of innovating, it adds crap on top of crap.
 type: quote
 ---
 

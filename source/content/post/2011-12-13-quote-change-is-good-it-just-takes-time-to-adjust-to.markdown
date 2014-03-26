@@ -1,5 +1,6 @@
 slug: change-is-good-it-just-takes-time-to-adjust-to
 date: 2011-12-13 18:41:42
+title: Change is good; it just takes time to adjust to it. Never get too...
 type: quote
 ---
 

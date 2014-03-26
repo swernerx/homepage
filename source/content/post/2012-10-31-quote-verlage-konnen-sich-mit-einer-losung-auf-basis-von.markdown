@@ -1,5 +1,6 @@
 slug: verlage-konnen-sich-mit-einer-losung-auf-basis-von
 date: 2012-10-31 09:45:10
+title: Verlage können sich mit einer Lösung auf Basis von HTML5 gleichzeitig...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: fantastic-indeed-via-this-ipad-mini-ad-in-time-is
 date: 2012-11-28 15:30:17
+title: Fantastic indeed. Via 
 type: photo
 ---
 

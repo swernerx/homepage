@@ -1,5 +1,8 @@
 slug: first-real-dead-paper-product-on-qooxdoo
 date: 2012-01-06 16:26:03
+title: First real dead paper product on qooxdoo. Awesome!
+
+ Via 
 type: photo
 ---
 

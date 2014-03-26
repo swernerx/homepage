@@ -1,5 +1,6 @@
 slug: facebook-advertising-doesnt-work-because-they
 date: 2012-05-30 14:18:44
+title: Facebook advertising doesn’t work because they focus on showing you...
 type: quote
 ---
 

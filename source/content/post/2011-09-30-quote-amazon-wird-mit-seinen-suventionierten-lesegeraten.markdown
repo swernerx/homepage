@@ -1,5 +1,6 @@
 slug: amazon-wird-mit-seinen-suventionierten-lesegeraten
 date: 2011-09-30 12:03:54
+title: Amazon wird mit seinen suventionierten Lesegeräten und dem...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-audio-dock-produced-impressive-audio-quality
 date: 2011-02-08 17:25:25
+title: the Audio Dock produced impressive audio quality. Bass presence is...
 type: quote
 ---
 

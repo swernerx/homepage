@@ -1,5 +1,6 @@
 slug: protect-your-macbook-download-this-nice-utility
 date: 2010-12-23 11:35:11
+title: Protect your MacBook. Download this nice utility for free until...
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: die-tarife-von-vodafone-unterscheiden-sich-kaum
 date: 2010-10-26 20:57:28
+title: Die Tarife von Vodafone unterscheiden sich kaum von den...
 type: quote
 ---
 

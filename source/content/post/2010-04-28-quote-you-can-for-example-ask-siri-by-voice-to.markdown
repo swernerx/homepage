@@ -1,5 +1,6 @@
 slug: you-can-for-example-ask-siri-by-voice-to
 date: 2010-04-28 20:20:35
+title: You can, for example, ask Siri - by voice - to check for a dinner...
 type: quote
 ---
 

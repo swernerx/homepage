@@ -1,5 +1,6 @@
 slug: reading-an-email-on-my-iphone-for-example
 date: 2012-02-23 08:47:39
+title: Reading an email on my iPhone, for example, removes the notification...
 type: quote
 ---
 

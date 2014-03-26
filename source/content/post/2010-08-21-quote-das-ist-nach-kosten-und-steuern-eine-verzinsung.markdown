@@ -1,5 +1,6 @@
 slug: das-ist-nach-kosten-und-steuern-eine-verzinsung
 date: 2010-08-21 21:10:42
+title: Das ist nach Kosten und Steuern eine Verzinsung von 2,86 Prozent im...
 type: quote
 ---
 

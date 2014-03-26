@@ -1,5 +1,6 @@
 slug: id-always-have-wondered-if-i-had-what-it-takes-to
 date: 2011-06-28 19:38:41
+title: I’d always have wondered if I had what it takes to do something a...
 type: quote
 ---
 

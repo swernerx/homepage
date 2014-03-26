@@ -1,5 +1,6 @@
 slug: ios-has-a-good-number-of-applications-that-are
 date: 2011-04-19 22:54:40
+title: iOS has a good number of applications that are iOS-only, which do not...
 type: quote
 ---
 

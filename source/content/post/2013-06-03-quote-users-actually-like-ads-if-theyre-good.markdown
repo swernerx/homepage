@@ -1,5 +1,6 @@
 slug: users-actually-like-ads-if-theyre-good
 date: 2013-06-03 08:43:23
+title: Users actually like ads if they’re good.
 type: quote
 ---
 

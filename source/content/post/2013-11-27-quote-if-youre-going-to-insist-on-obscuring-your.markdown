@@ -1,5 +1,6 @@
 slug: if-youre-going-to-insist-on-obscuring-your
 date: 2013-11-27 09:33:20
+title: If you’re going to insist on obscuring your content with some...
 type: quote
 ---
 

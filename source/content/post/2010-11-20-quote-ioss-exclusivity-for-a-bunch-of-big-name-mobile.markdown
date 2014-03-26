@@ -1,5 +1,6 @@
 slug: ioss-exclusivity-for-a-bunch-of-big-name-mobile
 date: 2010-11-20 16:07:15
+title: iOS’s exclusivity for a bunch of big-name mobile games has been...
 type: quote
 ---
 

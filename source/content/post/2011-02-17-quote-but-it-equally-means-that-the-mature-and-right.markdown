@@ -1,5 +1,6 @@
 slug: but-it-equally-means-that-the-mature-and-right
 date: 2011-02-17 14:55:57
+title: But it equally means that the mature and right thing to do is to also...
 type: quote
 ---
 

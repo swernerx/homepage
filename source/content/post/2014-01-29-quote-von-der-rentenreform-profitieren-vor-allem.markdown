@@ -1,5 +1,6 @@
 slug: von-der-rentenreform-profitieren-vor-allem
 date: 2014-01-29 17:42:43
+title: Von der Rentenreform profitieren vor allem Menschen, die von...
 type: quote
 ---
 

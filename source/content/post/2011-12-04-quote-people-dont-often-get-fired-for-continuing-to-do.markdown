@@ -1,5 +1,6 @@
 slug: people-dont-often-get-fired-for-continuing-to-do
 date: 2011-12-04 21:03:36
+title: People don’t often get fired for continuing to do things the same way...
 type: quote
 ---
 

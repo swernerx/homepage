@@ -1,5 +1,6 @@
 slug: the-trend-nokia-missed-out-on-kick-ass-production
 date: 2011-02-09 22:32:40
+title: The trend Nokia missed out on? Kick-ass production values, quality,...
 type: quote
 ---
 

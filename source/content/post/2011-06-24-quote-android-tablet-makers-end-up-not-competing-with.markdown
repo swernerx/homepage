@@ -1,5 +1,6 @@
 slug: android-tablet-makers-end-up-not-competing-with
 date: 2011-06-24 17:59:16
+title: Android tablet makers end up not competing with the iPad, the logical...
 type: quote
 ---
 

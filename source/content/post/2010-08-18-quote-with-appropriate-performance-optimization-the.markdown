@@ -1,5 +1,6 @@
 slug: with-appropriate-performance-optimization-the
 date: 2010-08-18 22:47:01
+title: With appropriate performance optimization, the Torch looks like a...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: theres-no-reason-instapaper-couldnt-have-been
 date: 2012-10-31 09:38:02
+title: There’s no reason Instapaper couldn’t have been developed by a...
 type: quote
 ---
 

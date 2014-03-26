@@ -1,5 +1,6 @@
 slug: the-importance-of-any-given-experiment-isnt
 date: 2011-06-17 22:04:11
+title: The importance of any given experiment isn’t apparent at the moment...
 type: quote
 ---
 

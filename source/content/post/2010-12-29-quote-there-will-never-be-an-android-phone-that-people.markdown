@@ -1,5 +1,6 @@
 slug: there-will-never-be-an-android-phone-that-people
 date: 2010-12-29 17:56:53
+title: There will never be an Android phone that people line up for like...
 type: quote
 ---
 

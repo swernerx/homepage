@@ -1,5 +1,6 @@
 slug: airplay-works-in-the-background-want-to-write-a
 date: 2010-11-23 20:34:26
+title: AirPlay works in the background. Want to write a movie review on your...
 type: quote
 ---
 

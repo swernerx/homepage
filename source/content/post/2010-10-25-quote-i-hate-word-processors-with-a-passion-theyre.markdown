@@ -1,5 +1,6 @@
 slug: i-hate-word-processors-with-a-passion-theyre
 date: 2010-10-25 11:16:27
+title: I hate word processors with a passion. They’re horrible, horrible...
 type: quote
 ---
 

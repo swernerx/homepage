@@ -1,5 +1,8 @@
 slug: nett-vom-leben-uberfordert-via-vom-leben
 date: 2011-04-29 17:37:11
+title: Nett: Vom Leben überfordert.
+
+ (via 
 type: photo
 ---
 

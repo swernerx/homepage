@@ -1,5 +1,6 @@
 slug: both-apple-and-nintendo-dont-use-focus-groups
 date: 2011-07-11 02:50:14
+title: Both, Apple and Nintendo don’t use focus groups. Maybe a few...
 type: quote
 ---
 

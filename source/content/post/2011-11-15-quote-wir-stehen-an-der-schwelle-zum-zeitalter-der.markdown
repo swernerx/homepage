@@ -1,5 +1,6 @@
 slug: wir-stehen-an-der-schwelle-zum-zeitalter-der
 date: 2011-11-15 18:07:45
+title: Wir stehen an der Schwelle zum Zeitalter der Hyperspezialisierung -...
 type: quote
 ---
 

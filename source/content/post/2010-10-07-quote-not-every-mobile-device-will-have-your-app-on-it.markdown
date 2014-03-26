@@ -1,5 +1,6 @@
 slug: not-every-mobile-device-will-have-your-app-on-it
 date: 2010-10-07 18:32:21
+title: Not every mobile device will have your app on it but every mobile...
 type: quote
 ---
 

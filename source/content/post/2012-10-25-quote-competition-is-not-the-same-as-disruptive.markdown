@@ -1,5 +1,6 @@
 slug: competition-is-not-the-same-as-disruptive
 date: 2012-10-25 12:05:51
+title: Competition is not the same as disruptive competition — a new class...
 type: quote
 ---
 

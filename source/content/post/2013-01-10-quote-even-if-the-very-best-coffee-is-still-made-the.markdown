@@ -1,5 +1,6 @@
 slug: even-if-the-very-best-coffee-is-still-made-the
 date: 2013-01-10 16:32:29
+title: Even if the very best coffee is still made the traditional way by a...
 type: quote
 ---
 

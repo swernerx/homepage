@@ -1,5 +1,6 @@
 slug: im-pretty-impressed-with-google-currents-its-a
 date: 2011-12-09 18:00:54
+title: I’m pretty impressed with Google Currents; it’s a solid 1.0 release...
 type: quote
 ---
 

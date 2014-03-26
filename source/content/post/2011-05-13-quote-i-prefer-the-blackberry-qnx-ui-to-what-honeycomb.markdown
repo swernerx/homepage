@@ -1,5 +1,6 @@
 slug: i-prefer-the-blackberry-qnx-ui-to-what-honeycomb
 date: 2011-05-13 20:25:47
+title: I prefer the BlackBerry QNX UI to what Honeycomb has to offer so far.
 type: quote
 ---
 

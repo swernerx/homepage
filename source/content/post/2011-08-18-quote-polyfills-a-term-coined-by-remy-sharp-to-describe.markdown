@@ -1,5 +1,6 @@
 slug: polyfills-a-term-coined-by-remy-sharp-to-describe
 date: 2011-08-18 08:39:28
+title: Polyfills: a term coined by Remy Sharp to describe JavaScript shims...
 type: quote
 ---
 

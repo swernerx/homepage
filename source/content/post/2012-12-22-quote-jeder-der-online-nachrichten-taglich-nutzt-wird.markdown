@@ -1,5 +1,6 @@
 slug: jeder-der-online-nachrichten-taglich-nutzt-wird
 date: 2012-12-22 14:07:30
+title: Jeder, der Online-Nachrichten täglich nutzt, wird wissen, das...
 type: quote
 ---
 

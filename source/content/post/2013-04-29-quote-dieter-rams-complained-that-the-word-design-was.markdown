@@ -1,5 +1,6 @@
 slug: dieter-rams-complained-that-the-word-design-was
 date: 2013-04-29 15:14:00
+title: Dieter Rams complained that the word “design” was ruined by the...
 type: quote
 ---
 

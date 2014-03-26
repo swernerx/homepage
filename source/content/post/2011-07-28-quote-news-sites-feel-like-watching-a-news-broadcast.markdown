@@ -1,5 +1,6 @@
 slug: news-sites-feel-like-watching-a-news-broadcast
 date: 2011-07-28 13:03:26
+title: News sites feel like watching a news broadcast that split the screen...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: it-takes-10-000-hours-or-10-years-of-experience-to
 date: 2011-02-16 22:12:57
+title: It takes 10,000 hours or 10 years of experience to become an expert...
 type: quote
 ---
 

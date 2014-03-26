@@ -1,5 +1,6 @@
 slug: ein-von-journalisten-gegrundetes-magazin-das-noch
 date: 2011-06-24 18:15:22
+title: Ein von Journalisten gegründetes Magazin, das noch immer eine...
 type: quote
 ---
 

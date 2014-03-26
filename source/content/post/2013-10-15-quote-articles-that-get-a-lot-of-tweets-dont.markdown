@@ -1,5 +1,6 @@
 slug: articles-that-get-a-lot-of-tweets-dont
 date: 2013-10-15 18:25:20
+title: Articles that get a lot of tweets don’t necessarily get read very...
 type: quote
 ---
 

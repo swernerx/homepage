@@ -1,5 +1,6 @@
 slug: the-alternate-keyword-also-reverses-the-timing
 date: 2012-12-13 12:41:47
+title: The “alternate” keyword also reverses the timing (easing)...
 type: quote
 ---
 

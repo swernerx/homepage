@@ -1,5 +1,6 @@
 slug: interaction-design-continues-to-gain-prominence-as
 date: 2012-01-15 00:17:41
+title: Interaction design continues to gain prominence as the discipline...
 type: quote
 ---
 

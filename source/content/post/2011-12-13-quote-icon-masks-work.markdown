@@ -1,5 +1,6 @@
 slug: icon-masks-work
 date: 2011-12-13 22:33:05
+title: Icon masks work.
 type: quote
 ---
 

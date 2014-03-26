@@ -1,5 +1,6 @@
 slug: es-gibt-nur-zwei-anzeigemodi-das
 date: 2012-12-06 18:05:58
+title: Es gibt nur zwei Anzeigemodi: Das Inhaltsverzeichnis oder den...
 type: quote
 ---
 

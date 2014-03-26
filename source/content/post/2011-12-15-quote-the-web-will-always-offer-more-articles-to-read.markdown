@@ -1,5 +1,6 @@
 slug: the-web-will-always-offer-more-articles-to-read
 date: 2011-12-15 14:35:20
+title: The Web will always offer more articles to read, and Instapaper will...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: simply-put-if-i-were-in-adobes-shoes-id-be
 date: 2010-04-10 02:05:07
+title: Simply put, if I were in Adobe’s shoes, I’d be looking for a new...
 type: quote
 ---
 

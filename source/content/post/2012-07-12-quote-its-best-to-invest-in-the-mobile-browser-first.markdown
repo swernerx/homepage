@@ -1,5 +1,6 @@
 slug: its-best-to-invest-in-the-mobile-browser-first
 date: 2012-07-12 15:22:34
+title: It’s best to invest in the mobile browser first, and the app stores...
 type: quote
 ---
 

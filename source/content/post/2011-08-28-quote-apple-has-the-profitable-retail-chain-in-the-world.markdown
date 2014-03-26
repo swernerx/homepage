@@ -1,5 +1,6 @@
 slug: apple-has-the-profitable-retail-chain-in-the-world
 date: 2011-08-28 11:07:07
+title: Apple has the profitable retail chain in the world where they make 10...
 type: quote
 ---
 

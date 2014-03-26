@@ -1,5 +1,6 @@
 slug: i-most-enjoy-working-with-people-who-i-agree-with
 date: 2011-10-27 15:19:27
+title: I most enjoy working with people who I agree with around 70-80% of...
 type: quote
 ---
 

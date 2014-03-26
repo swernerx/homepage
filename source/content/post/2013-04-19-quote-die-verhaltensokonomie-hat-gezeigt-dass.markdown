@@ -1,5 +1,6 @@
 slug: die-verhaltensokonomie-hat-gezeigt-dass
 date: 2013-04-19 08:36:27
+title: Die Verhaltensökonomie hat gezeigt, dass Verpflichtungen, einen...
 type: quote
 ---
 

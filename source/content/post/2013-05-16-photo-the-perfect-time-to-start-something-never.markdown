@@ -1,5 +1,8 @@
 slug: the-perfect-time-to-start-something-never
 date: 2013-05-16 17:12:56
+title: The perfect time to start something never arrives
+
+ By 
 type: photo
 ---
 

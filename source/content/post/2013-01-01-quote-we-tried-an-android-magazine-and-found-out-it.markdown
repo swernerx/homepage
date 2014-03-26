@@ -1,5 +1,6 @@
 slug: we-tried-an-android-magazine-and-found-out-it
 date: 2013-01-01 13:05:17
+title: We tried an Android magazine, and found out it just isn’t worth the...
 type: quote
 ---
 

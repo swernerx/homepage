@@ -1,5 +1,6 @@
 slug: because-windows-phone-is-easy-to-use-and-has-a
 date: 2010-08-24 08:31:31
+title: Because Windows Phone is easy to use and has a keyboard and touch it...
 type: quote
 ---
 

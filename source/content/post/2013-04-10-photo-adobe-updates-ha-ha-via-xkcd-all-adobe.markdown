@@ -1,5 +1,6 @@
 slug: adobe-updates-ha-ha-via-xkcd-all-adobe
 date: 2013-04-10 13:05:27
+title: Adobe Updates - Ha ha - Via [xkcd:...](http://xkcd.com/1197/)
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: ten-changes-wed-like-to-see-at-the-mac-app-store
 date: 2011-01-15 19:20:10
+title: Ten changes we'd like to see at the Mac App Store | Software |...
 type: link
 ---
 

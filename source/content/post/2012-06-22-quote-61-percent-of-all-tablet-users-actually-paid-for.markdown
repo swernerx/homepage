@@ -1,5 +1,6 @@
 slug: 61-percent-of-all-tablet-users-actually-paid-for
 date: 2012-06-22 23:44:11
+title: 61 percent of all tablet users actually paid for that content.
 type: quote
 ---
 

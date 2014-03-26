@@ -1,5 +1,6 @@
 slug: in-the-past-workers-with-average-skills-doing-an
 date: 2012-01-25 18:09:10
+title: In the past, workers with average skills, doing an average job, could...
 type: quote
 ---
 

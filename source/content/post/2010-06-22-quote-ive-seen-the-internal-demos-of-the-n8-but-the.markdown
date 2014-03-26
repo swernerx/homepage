@@ -1,5 +1,6 @@
 slug: ive-seen-the-internal-demos-of-the-n8-but-the
 date: 2010-06-22 23:31:28
+title: I’ve seen the internal demos of the N8, but the opposition is too...
 type: quote
 ---
 

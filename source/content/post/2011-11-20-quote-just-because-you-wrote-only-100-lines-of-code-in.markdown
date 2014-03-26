@@ -1,5 +1,6 @@
 slug: just-because-you-wrote-only-100-lines-of-code-in
 date: 2011-11-20 11:45:35
+title: Just because you wrote only 100 lines of code in three hours doesn’t...
 type: quote
 ---
 

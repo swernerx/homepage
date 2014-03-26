@@ -1,5 +1,6 @@
 slug: infoworld-interview-why-google-dart-beats-javascript
 date: 2011-11-18 08:57:59
+title: InfoWorld interview: Why Google Dart beats JavaScript - JavaWorld
 type: link
 ---
 

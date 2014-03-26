@@ -1,5 +1,6 @@
 slug: you-will-inevitably-have-to-make-the-call-based-on
 date: 2010-11-16 11:59:26
+title: You will inevitably have to make the call based on the information...
 type: quote
 ---
 

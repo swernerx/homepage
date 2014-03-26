@@ -1,5 +1,6 @@
 slug: wenn-sie-die-fuhrenden-unternehmen-in-vielen
 date: 2010-10-12 11:43:59
+title: Wenn Sie die führenden Unternehmen in vielen Branchen nehmen, werden...
 type: quote
 ---
 

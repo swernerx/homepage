@@ -1,5 +1,6 @@
 slug: it-takes-longer-for-mac-os-xs-spotlight-to-search
 date: 2010-04-10 10:21:08
+title: It takes longer for Mac OS X’s Spotlight to search my MacBook Pro’s...
 type: quote
 ---
 

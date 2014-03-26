@@ -1,5 +1,6 @@
 slug: die-entscheidung-zum-immobilienkauf-will-sehr-gut
 date: 2011-11-01 23:22:24
+title: Die Entscheidung zum Immobilienkauf will sehr gut abgewogen sein. Es...
 type: quote
 ---
 

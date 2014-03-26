@@ -1,5 +1,6 @@
 slug: when-consumers-compare-the-ipad-to-other-choices
 date: 2011-06-22 09:15:21
+title: When consumers compare the iPad to other choices, an overwhelming...
 type: quote
 ---
 

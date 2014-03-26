@@ -1,5 +1,6 @@
 slug: we-are-born-information-overloaded
 date: 2013-07-30 18:07:07
+title: We are born “information overloaded.”
 type: quote
 ---
 

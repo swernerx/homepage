@@ -1,5 +1,6 @@
 slug: apple-could-buy-the-mobile-phone-industry-asymco
 date: 2011-06-17 16:48:58
+title: 
 type: photo
 ---
 

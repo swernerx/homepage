@@ -1,5 +1,6 @@
 slug: with-the-iphones-arrival-in-2007-the-stocks
 date: 2011-01-22 10:20:34
+title: With the iPhone’s arrival in 2007 the stocks diverged. Google gained...
 type: quote
 ---
 

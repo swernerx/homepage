@@ -1,5 +1,6 @@
 slug: are-there-any-features-i-think-are-missing-from
 date: 2010-06-18 22:07:02
+title: Are there any features I think are missing from the Mac mini that I...
 type: quote
 ---
 

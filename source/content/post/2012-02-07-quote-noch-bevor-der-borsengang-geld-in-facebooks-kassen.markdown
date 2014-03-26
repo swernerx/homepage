@@ -1,5 +1,6 @@
 slug: noch-bevor-der-borsengang-geld-in-facebooks-kassen
 date: 2012-02-07 09:11:37
+title: Noch bevor der Börsengang Geld in Facebooks Kassen spült, hat die...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: even-the-gadget-blogs-have-a-hard-time-feigning
 date: 2011-01-13 23:10:17
+title: Even the gadget blogs have a hard time feigning enthusiasm for this...
 type: quote
 ---
 

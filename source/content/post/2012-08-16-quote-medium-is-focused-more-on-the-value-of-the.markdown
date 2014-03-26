@@ -1,5 +1,6 @@
 slug: medium-is-focused-more-on-the-value-of-the
 date: 2012-08-16 18:35:01
+title: Medium is focused more on the value of the content, regardless of who...
 type: quote
 ---
 

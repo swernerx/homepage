@@ -1,5 +1,6 @@
 slug: our-labs-test-results-support-that-theory
 date: 2010-06-25 23:37:40
+title: Our lab’s test results support that theory, showing that a...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: bei-vielen-regionalzeitungen-liegt-der-abo-anteil
 date: 2011-06-24 18:07:29
+title: Bei vielen Regionalzeitungen liegt der Abo-Anteil oftmals bei weit...
 type: quote
 ---
 

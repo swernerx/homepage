@@ -1,5 +1,6 @@
 slug: apples-handset-profit-is-higher-than-the-combined
 date: 2010-07-22 10:47:16
+title: Apple’s handset profit is higher than the combined profit of...
 type: photo
 ---
 

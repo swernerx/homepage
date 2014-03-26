@@ -1,5 +1,6 @@
 slug: the-really-great-person-will-keep-on-going-and
 date: 2011-08-20 20:12:43
+title: The really great person will keep on going and find the key, the...
 type: quote
 ---
 

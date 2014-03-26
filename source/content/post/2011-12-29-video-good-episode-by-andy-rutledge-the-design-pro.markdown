@@ -1,5 +1,6 @@
 slug: good-episode-by-andy-rutledge-the-design-pro
 date: 2011-12-29 10:49:48
+title: Good episode. By Andy Rutledge. The Design Pro Show - Episode 10...
 type: video
 ---
 

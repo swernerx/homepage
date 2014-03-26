@@ -1,5 +1,6 @@
 slug: 15-9-prozent-bemangeln-dass-einige-digitale
 date: 2011-09-20 19:58:01
+title: 15,9 Prozent bemängeln, dass einige digitale Zeitschriften nur eine...
 type: quote
 ---
 

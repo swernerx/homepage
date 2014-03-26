@@ -1,5 +1,6 @@
 slug: if-your-writing-goes-up-exclusively-behind-a
 date: 2011-12-31 14:46:48
+title: If your writing goes up exclusively behind a paywall, you can’t...
 type: quote
 ---
 

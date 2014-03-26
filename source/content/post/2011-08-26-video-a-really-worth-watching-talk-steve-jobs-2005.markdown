@@ -1,5 +1,6 @@
 slug: a-really-worth-watching-talk-steve-jobs-2005
 date: 2011-08-26 23:29:26
+title: A really worth watching talk: Steve Jobs’ 2005 Stanford...
 type: video
 ---
 

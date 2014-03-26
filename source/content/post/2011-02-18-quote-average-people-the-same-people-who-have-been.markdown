@@ -1,5 +1,6 @@
 slug: average-people-the-same-people-who-have-been
 date: 2011-02-18 19:47:45
+title: Average people — the same people who have been yelled at for decades...
 type: quote
 ---
 

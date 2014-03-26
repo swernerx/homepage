@@ -1,5 +1,6 @@
 slug: samsungs-cream-of-the-crop-phone-running-ice
 date: 2011-10-30 19:21:48
+title: Samsung’s cream-of-the-crop phone running Ice Cream Sandwich is still...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-fire-does-not-have-anything-like-the-polish-or
 date: 2011-11-14 08:48:17
+title: The Fire does not have anything like the polish or speed of an iPad...
 type: quote
 ---
 

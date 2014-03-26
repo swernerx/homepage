@@ -1,5 +1,6 @@
 slug: hire-the-right-people-keep-them-happy-and-great
 date: 2013-04-05 23:22:36
+title: Hire the right people, keep them happy, and great stuff will happen.
 type: quote
 ---
 

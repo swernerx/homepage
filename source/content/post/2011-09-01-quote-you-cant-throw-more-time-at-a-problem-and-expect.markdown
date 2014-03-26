@@ -1,5 +1,6 @@
 slug: you-cant-throw-more-time-at-a-problem-and-expect
 date: 2011-09-01 21:53:32
+title: You can’t throw more time at a problem and expect it to get solved...
 type: quote
 ---
 

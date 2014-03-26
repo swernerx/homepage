@@ -1,5 +1,6 @@
 slug: if-storage-didnt-matter-i-think-this-13-inch
 date: 2010-10-26 21:13:07
+title: If storage didn’t matter, I think this 13-inch MacBook Air would...
 type: quote
 ---
 

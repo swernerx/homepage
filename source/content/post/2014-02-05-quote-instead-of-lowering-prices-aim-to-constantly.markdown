@@ -1,5 +1,6 @@
 slug: instead-of-lowering-prices-aim-to-constantly
 date: 2014-02-05 18:19:08
+title: Instead of lowering prices, aim to constantly provide more value...
 type: quote
 ---
 

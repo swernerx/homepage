@@ -1,5 +1,8 @@
 slug: impressed-blackberry-playbook-and-ipad
 date: 2010-11-16 22:40:58
+title: Impressed!
+
+ 
 type: video
 ---
 

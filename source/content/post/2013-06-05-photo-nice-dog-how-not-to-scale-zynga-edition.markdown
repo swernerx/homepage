@@ -1,5 +1,6 @@
 slug: nice-dog-how-not-to-scale-zynga-edition
 date: 2013-06-05 10:35:15
+title: Nice dog: 
 type: photo
 ---
 

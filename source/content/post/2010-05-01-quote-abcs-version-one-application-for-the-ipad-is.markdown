@@ -1,5 +1,6 @@
 slug: abcs-version-one-application-for-the-ipad-is
 date: 2010-05-01 18:37:34
+title: ABCs version one application for the iPad is awesome, and a much...
 type: quote
 ---
 

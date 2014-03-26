@@ -1,5 +1,6 @@
 slug: a-snappy-user-experience-beats-a-glamorous-one
 date: 2010-06-22 23:22:27
+title: A snappy user experience beats a glamorous one, for the simple reason...
 type: quote
 ---
 

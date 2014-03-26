@@ -1,5 +1,6 @@
 slug: the-app-store-and-its-current-offering-of-hardware
 date: 2010-06-03 17:36:24
+title: The App Store and its current offering of hardware will take Apple...
 type: quote
 ---
 

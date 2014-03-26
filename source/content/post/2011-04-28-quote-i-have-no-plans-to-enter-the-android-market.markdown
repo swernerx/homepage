@@ -1,5 +1,6 @@
 slug: i-have-no-plans-to-enter-the-android-market
 date: 2011-04-28 18:43:23
+title: I have no plans to enter the Android market.
 type: quote
 ---
 

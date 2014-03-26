@@ -1,5 +1,6 @@
 slug: vp8-may-end-up-subject-to-the-same-licensing
 date: 2010-05-22 18:14:21
+title: VP8 may end up subject to the same licensing issues as H.264. If MPEG...
 type: quote
 ---
 

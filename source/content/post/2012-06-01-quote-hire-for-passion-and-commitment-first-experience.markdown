@@ -1,5 +1,6 @@
 slug: hire-for-passion-and-commitment-first-experience
 date: 2012-06-01 17:42:22
+title: Hire for passion and commitment first, experience second, and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: a-version-of-microsoft-office-for-windows-that
 date: 2013-10-28 18:29:19
+title: A version of Microsoft Office for Windows that removed functionality...
 type: quote
 ---
 

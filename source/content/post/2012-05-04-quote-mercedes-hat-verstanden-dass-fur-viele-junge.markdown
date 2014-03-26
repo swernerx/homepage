@@ -1,5 +1,6 @@
 slug: mercedes-hat-verstanden-dass-fur-viele-junge
 date: 2012-05-04 11:59:46
+title: Mercedes hat verstanden, dass für viele junge Leute heute ihr iPhone...
 type: quote
 ---
 

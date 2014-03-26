@@ -1,5 +1,6 @@
 slug: my-interest-lies-in-having-the-best-possible-user
 date: 2011-06-15 11:06:31
+title: My interest lies in having the best possible user experience — the...
 type: quote
 ---
 

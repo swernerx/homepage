@@ -1,5 +1,6 @@
 slug: in-firefox-4-we-dynamically-set-the-cache-size
 date: 2011-01-15 19:10:39
+title: In Firefox 4 we dynamically set the cache size based on how much...
 type: quote
 ---
 

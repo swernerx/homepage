@@ -1,5 +1,6 @@
 slug: listening-to-an-explanation-you-might-be-tempted
 date: 2011-12-04 09:58:42
+title: Listening to an explanation, you might be tempted to think that...
 type: quote
 ---
 

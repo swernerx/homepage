@@ -1,5 +1,6 @@
 slug: stock-prices-never-go-up-forever
 date: 2012-02-07 10:44:57
+title: Stock prices never go up forever.
 type: quote
 ---
 

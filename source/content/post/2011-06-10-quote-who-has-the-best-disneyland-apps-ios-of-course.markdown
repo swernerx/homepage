@@ -1,5 +1,6 @@
 slug: who-has-the-best-disneyland-apps-ios-of-course
 date: 2011-06-10 08:24:15
+title: Who has the best Disneyland apps? iOS, of course with Android coming...
 type: quote
 ---
 

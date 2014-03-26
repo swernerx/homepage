@@ -1,5 +1,6 @@
 slug: beseitigen-liesse-sich-die-kalte-progression-am
 date: 2011-06-22 11:51:25
+title: Beseitigen ließe sich die kalte Progression am einfachsten, indem...
 type: quote
 ---
 

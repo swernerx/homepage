@@ -1,5 +1,6 @@
 slug: lab-testing-is-research-theater-it-is-expensive
 date: 2011-07-11 02:50:03
+title: Lab testing is research theater. It is expensive and takes place in a...
 type: quote
 ---
 

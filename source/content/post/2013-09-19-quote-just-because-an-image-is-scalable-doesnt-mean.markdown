@@ -1,5 +1,6 @@
 slug: just-because-an-image-is-scalable-doesnt-mean
 date: 2013-09-19 16:17:55
+title: Just because an image is scalable doesn’t mean it’s...
 type: quote
 ---
 

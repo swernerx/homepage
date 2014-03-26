@@ -1,5 +1,6 @@
 slug: such-dir-eine-nische-mit-grossem-optimierungsbedarf
 date: 2011-08-15 08:24:35
+title: Such Dir eine Nische mit großem Optimierungsbedarf und Marktwachstum,...
 type: quote
 ---
 

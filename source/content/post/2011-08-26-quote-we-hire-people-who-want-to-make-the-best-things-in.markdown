@@ -1,5 +1,6 @@
 slug: we-hire-people-who-want-to-make-the-best-things-in
 date: 2011-08-26 23:11:06
+title: We hire people who want to make the best things in the world.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: excellent-atmosphere-in-the-private-bus-to
 date: 2010-07-02 00:31:26
+title: Excellent atmosphere in the private bus to Amnesia. Can’t...
 type: photo
 ---
 

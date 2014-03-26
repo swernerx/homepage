@@ -1,5 +1,6 @@
 slug: wie-viele-sender-benotigen-ard-und-zdf-um
 date: 2011-06-25 09:52:49
+title: Wie viele Sender benötigen ARD und ZDF, um Freiräume zu haben für...
 type: quote
 ---
 

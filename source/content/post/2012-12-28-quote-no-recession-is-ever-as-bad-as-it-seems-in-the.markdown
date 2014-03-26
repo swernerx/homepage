@@ -1,5 +1,6 @@
 slug: no-recession-is-ever-as-bad-as-it-seems-in-the
 date: 2012-12-28 19:21:48
+title: No recession is ever as bad as it seems in the moment.
 type: quote
 ---
 

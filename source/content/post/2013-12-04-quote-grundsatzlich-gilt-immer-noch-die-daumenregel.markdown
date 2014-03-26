@@ -1,5 +1,6 @@
 slug: grundsatzlich-gilt-immer-noch-die-daumenregel
 date: 2013-12-04 18:16:16
+title: Grundsätzlich gilt immer noch die Daumenregel, dass eine Immobilie...
 type: quote
 ---
 

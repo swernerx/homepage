@@ -1,5 +1,6 @@
 slug: the-ipad-will-probably-see-its-share-eroded
 date: 2011-01-07 13:17:09
+title: The iPad will probably see its share eroded significantly, just like...
 type: quote
 ---
 

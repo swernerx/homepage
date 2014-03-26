@@ -1,5 +1,6 @@
 slug: all-of-the-pain-caused-by-inheritance-can-be
 date: 2011-07-01 11:09:26
+title: All of the pain caused by inheritance can be traced back to the fact...
 type: quote
 ---
 

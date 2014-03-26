@@ -1,5 +1,6 @@
 slug: visionaries-are-the-best-choice-to-take-the-helm
 date: 2011-01-23 14:24:30
+title: Visionaries are the best choice to take the helm when a company is...
 type: quote
 ---
 

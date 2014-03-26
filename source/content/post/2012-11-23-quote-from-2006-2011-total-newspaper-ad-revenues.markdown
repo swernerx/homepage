@@ -1,5 +1,6 @@
 slug: from-2006-2011-total-newspaper-ad-revenues
 date: 2012-11-23 17:34:01
+title: From 2006-2011, total newspaper ad revenues plunged 51.5% from $49.3...
 type: quote
 ---
 

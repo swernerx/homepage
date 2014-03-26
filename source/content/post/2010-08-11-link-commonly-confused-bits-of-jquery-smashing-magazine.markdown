@@ -1,5 +1,6 @@
 slug: commonly-confused-bits-of-jquery-smashing-magazine
 date: 2010-08-11 13:28:26
+title: Commonly Confused Bits Of jQuery - Smashing Magazine
 type: link
 ---
 

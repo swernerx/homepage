@@ -1,5 +1,6 @@
 slug: if-html5-is-an-oncoming-train-native-app
 date: 2011-02-10 00:09:44
+title: If HTML5 is an oncoming train, native app development is an oncoming...
 type: quote
 ---
 

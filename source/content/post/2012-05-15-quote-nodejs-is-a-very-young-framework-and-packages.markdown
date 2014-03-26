@@ -1,5 +1,6 @@
 slug: nodejs-is-a-very-young-framework-and-packages
 date: 2012-05-15 08:30:23
+title: NodeJS is a very young framework, and packages around it are very...
 type: quote
 ---
 

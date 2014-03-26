@@ -1,5 +1,6 @@
 slug: phones-follow-people-everywhere-so-people-use
 date: 2013-09-11 14:10:11
+title: Phones follow people everywhere, so people use them anywhere.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: deutschland-muss-wohl-erst-wieder-an-die-wand
 date: 2013-12-02 19:27:20
+title: Deutschland muss wohl erst wieder an die Wand gefahren werden, ehe...
 type: quote
 ---
 

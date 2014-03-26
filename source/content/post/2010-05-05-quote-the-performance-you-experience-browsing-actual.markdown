@@ -1,5 +1,6 @@
 slug: the-performance-you-experience-browsing-actual
 date: 2010-05-05 20:43:46
+title: The performance you experience browsing actual websites often has...
 type: quote
 ---
 

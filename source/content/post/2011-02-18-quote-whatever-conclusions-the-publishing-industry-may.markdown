@@ -1,5 +1,6 @@
 slug: whatever-conclusions-the-publishing-industry-may
 date: 2011-02-18 15:24:17
+title: Whatever conclusions the publishing industry may arrive at, there’s...
 type: quote
 ---
 

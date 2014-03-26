@@ -1,5 +1,6 @@
 slug: zynga-sells-about-38-000-virtual-items-every
 date: 2011-07-02 13:42:34
+title: Zynga sells about 38,000 virtual items every second.
 type: quote
 ---
 

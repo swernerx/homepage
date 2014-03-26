@@ -1,5 +1,6 @@
 slug: dickschiffe-wie-der-fondak-von-allianz-global
 date: 2013-06-22 23:15:42
+title: Dickschiffe wie der Fondak von Allianz Global Investors oder der...
 type: quote
 ---
 

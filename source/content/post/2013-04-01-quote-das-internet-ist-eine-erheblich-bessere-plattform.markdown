@@ -1,5 +1,6 @@
 slug: das-internet-ist-eine-erheblich-bessere-plattform
 date: 2013-04-01 11:34:38
+title: Das Internet ist eine erheblich bessere Plattform für jede Form von...
 type: quote
 ---
 

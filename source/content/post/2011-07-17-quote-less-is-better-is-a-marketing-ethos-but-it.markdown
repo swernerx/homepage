@@ -1,5 +1,6 @@
 slug: less-is-better-is-a-marketing-ethos-but-it
 date: 2011-07-17 18:40:44
+title: “Less is better” is a marketing ethos, but it begins with technology...
 type: quote
 ---
 

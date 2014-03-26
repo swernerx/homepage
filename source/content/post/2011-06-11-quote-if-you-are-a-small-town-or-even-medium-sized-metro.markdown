@@ -1,5 +1,6 @@
 slug: if-you-are-a-small-town-or-even-medium-sized-metro
 date: 2011-06-11 12:11:51
+title: If you are a small-town or even medium-sized metro paper, walling off...
 type: quote
 ---
 

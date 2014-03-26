@@ -1,5 +1,6 @@
 slug: think-about-how-ridiculous-that-is-for-a-second-a
 date: 2014-01-22 08:50:03
+title: Think about how ridiculous that is for a second. A web browser needs...
 type: quote
 ---
 

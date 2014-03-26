@@ -1,5 +1,6 @@
 slug: additional-under-the-hood-work-in-ios-4-was-done
 date: 2010-06-20 01:43:40
+title: Additional under-the-hood work in iOS 4 was done to support new...
 type: quote
 ---
 

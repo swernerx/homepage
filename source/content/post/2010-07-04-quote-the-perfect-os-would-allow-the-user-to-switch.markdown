@@ -1,5 +1,6 @@
 slug: the-perfect-os-would-allow-the-user-to-switch
 date: 2010-07-04 14:07:27
+title: The perfect OS would allow the user to switch between an expert mode...
 type: quote
 ---
 

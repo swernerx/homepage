@@ -1,5 +1,6 @@
 slug: 2-2-milliarden-dollar-risikokapital-sind-seit-dem
 date: 2012-05-18 08:12:26
+title: 2,2 Milliarden Dollar Risikokapital sind seit dem Launch von Facebook...
 type: quote
 ---
 

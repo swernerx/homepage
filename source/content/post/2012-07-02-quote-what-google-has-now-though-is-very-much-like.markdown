@@ -1,5 +1,6 @@
 slug: what-google-has-now-though-is-very-much-like
 date: 2012-07-02 21:49:47
+title: What Google has now, though, is very much like what Amazon’s EC2 was...
 type: quote
 ---
 

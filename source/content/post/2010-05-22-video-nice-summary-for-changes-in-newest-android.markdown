@@ -1,5 +1,8 @@
 slug: nice-summary-for-changes-in-newest-android
 date: 2010-05-22 20:20:22
+title: Nice summary for changes in newest Android version.
+
+ 
 type: video
 ---
 

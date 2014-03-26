@@ -1,5 +1,6 @@
 slug: wer-jetzt-einen-neuen-mercedes-benz-mit-einem-noch
 date: 2013-06-19 09:35:24
+title: Wer jetzt einen neuen Mercedes-Benz mit einem noch nicht...
 type: quote
 ---
 

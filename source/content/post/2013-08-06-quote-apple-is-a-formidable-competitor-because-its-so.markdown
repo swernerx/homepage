@@ -1,5 +1,6 @@
 slug: apple-is-a-formidable-competitor-because-its-so
 date: 2013-08-06 23:58:00
+title: Apple is a formidable competitor because it’s so massively...
 type: quote
 ---
 

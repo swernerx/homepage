@@ -1,5 +1,6 @@
 slug: there-is-no-general-model-for-newspapers-to
 date: 2011-06-17 22:02:24
+title: There is no general model for newspapers to replace the one the...
 type: quote
 ---
 

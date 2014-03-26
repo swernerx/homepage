@@ -1,5 +1,6 @@
 slug: one-of-the-most-crucial-things-i-learned-in
 date: 2011-06-10 22:49:40
+title: One of the most crucial things I learned in Accenture was how to hold...
 type: quote
 ---
 

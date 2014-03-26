@@ -1,5 +1,6 @@
 slug: there-is-a-lot-of-talk-about-what-you-see-is-what
 date: 2014-01-29 08:54:15
+title: There is a lot of talk about What You See Is What You Get writing and...
 type: quote
 ---
 

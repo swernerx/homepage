@@ -1,5 +1,6 @@
 slug: a-great-ux-ui-guy-could-save-a-company-from-having
 date: 2011-07-01 08:28:45
+title: A great UX/UI guy could save a company from having to throw out...
 type: quote
 ---
 

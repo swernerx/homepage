@@ -1,5 +1,6 @@
 slug: for-developers-who-want-to-use-css3-2d-3d
 date: 2011-12-13 22:29:39
+title: For developers who want to use CSS3 2D, 3D, animations, and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: ipad-sieht-aus-wie-ein-geschenk-ist-aber
 date: 2010-11-02 13:38:29
+title: iPad - Sieht aus wie ein Geschenk. Ist aber tausende. Mit Apps,...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-vast-vast-majority-of-that-profit-comes-from
 date: 2010-06-27 00:42:14
+title: The vast, vast majority of that profit comes from two businesses that...
 type: quote
 ---
 

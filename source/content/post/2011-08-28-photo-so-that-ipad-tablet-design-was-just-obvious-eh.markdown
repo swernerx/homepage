@@ -1,5 +1,8 @@
 slug: so-that-ipad-tablet-design-was-just-obvious-eh
 date: 2011-08-28 18:46:52
+title: So That iPad Tablet Design Was Just Obvious, Eh?
+
+ Via: 
 type: photo
 ---
 

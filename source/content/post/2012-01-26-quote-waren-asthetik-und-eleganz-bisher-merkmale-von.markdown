@@ -1,5 +1,6 @@
 slug: waren-asthetik-und-eleganz-bisher-merkmale-von
 date: 2012-01-26 16:58:45
+title: Waren Ästhetik und Eleganz bisher Merkmale von Luxusherstellern mit...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: we-tell-ourselves-well-always-come-back-and-fix
 date: 2011-02-17 15:01:02
+title: We tell ourselves we’ll always come back and fix the code later, but...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: apple-chose-to-feature-legacy-over-commerce-to
 date: 2012-10-06 09:20:52
+title: Apple chose to feature legacy over commerce to remember Steve Jobs on...
 type: quote
 ---
 

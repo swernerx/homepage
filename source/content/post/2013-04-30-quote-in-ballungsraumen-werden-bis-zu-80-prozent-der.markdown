@@ -1,5 +1,6 @@
 slug: in-ballungsraumen-werden-bis-zu-80-prozent-der
 date: 2013-04-30 08:38:20
+title: In Ballungsräumen werden bis zu 80 Prozent der Wohnungen über Makler...
 type: quote
 ---
 

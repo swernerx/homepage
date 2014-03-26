@@ -1,5 +1,6 @@
 slug: it-was-a-freaking-design-mistake-indeed-to-create
 date: 2012-01-05 11:26:20
+title: It was a freaking design mistake indeed to create a new bound object...
 type: quote
 ---
 

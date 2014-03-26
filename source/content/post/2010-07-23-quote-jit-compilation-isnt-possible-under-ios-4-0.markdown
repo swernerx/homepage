@@ -1,5 +1,6 @@
 slug: jit-compilation-isnt-possible-under-ios-4-0
 date: 2010-07-23 11:14:24
+title: JIT compilation isn’t possible under iOS 4.0 because of a security...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: design-must-be-functional-and-functionality-must
 date: 2012-04-10 10:38:10
+title: Design must be functional and functionality must be translated into...
 type: quote
 ---
 

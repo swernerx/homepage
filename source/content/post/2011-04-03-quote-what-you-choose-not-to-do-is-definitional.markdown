@@ -1,5 +1,6 @@
 slug: what-you-choose-not-to-do-is-definitional
 date: 2011-04-03 03:41:21
+title: What you choose not to do is definitional.
 type: quote
 ---
 

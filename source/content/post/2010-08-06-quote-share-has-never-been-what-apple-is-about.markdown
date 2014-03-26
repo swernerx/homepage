@@ -1,5 +1,6 @@
 slug: share-has-never-been-what-apple-is-about
 date: 2010-08-06 22:17:15
+title: Share has never been what Apple is about.
 type: quote
 ---
 

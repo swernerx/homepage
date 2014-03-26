@@ -1,5 +1,6 @@
 slug: nice-service-cant-wait-to-see-the-german-clone
 date: 2010-12-22 22:50:28
+title: Nice service. Can’t wait to see the German clone :)...
 type: video
 ---
 

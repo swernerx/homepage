@@ -1,5 +1,6 @@
 slug: i-cant-give-you-a-surefire-formula-for-success
 date: 2011-08-28 16:43:07
+title: I can’t give you a surefire formula for success, but I can give you a...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: die-behauptung-das-leben-in-unserer-modernen-welt
 date: 2013-04-06 23:42:11
+title: Die Behauptung, das Leben in unserer modernen Welt habe unser...
 type: quote
 ---
 

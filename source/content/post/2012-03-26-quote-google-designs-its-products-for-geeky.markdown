@@ -1,5 +1,6 @@
 slug: google-designs-its-products-for-geeky
 date: 2012-03-26 22:04:57
+title: Google designs its products for geeky technologists, while Apple...
 type: quote
 ---
 

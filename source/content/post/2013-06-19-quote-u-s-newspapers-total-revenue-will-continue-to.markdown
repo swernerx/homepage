@@ -1,5 +1,6 @@
 slug: u-s-newspapers-total-revenue-will-continue-to
 date: 2013-06-19 08:31:21
+title: U.S. newspapers’ total revenue will continue to decline through at...
 type: quote
 ---
 

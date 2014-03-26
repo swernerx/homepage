@@ -1,5 +1,6 @@
 slug: if-team-size-always-won-there-wouldnt-be
 date: 2010-10-02 16:58:19
+title: If team size always won, there wouldn’t be startups.
 type: quote
 ---
 

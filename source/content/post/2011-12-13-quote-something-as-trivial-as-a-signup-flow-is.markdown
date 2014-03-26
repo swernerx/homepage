@@ -1,5 +1,6 @@
 slug: something-as-trivial-as-a-signup-flow-is
 date: 2011-12-13 09:25:06
+title: Something as trivial as a signup flow is considered a commodity and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: die-leidtragenden-der-entwicklung-bei-amazon-und
 date: 2011-07-27 11:17:57
+title: Die Leidtragenden der Entwicklung [bei Amazon und Co] sind die...
 type: quote
 ---
 

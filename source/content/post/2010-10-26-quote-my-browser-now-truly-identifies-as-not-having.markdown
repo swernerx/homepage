@@ -1,5 +1,6 @@
 slug: my-browser-now-truly-identifies-as-not-having
 date: 2010-10-26 12:21:27
+title: My browser now truly identifies as not having Flash installed
 type: quote
 ---
 

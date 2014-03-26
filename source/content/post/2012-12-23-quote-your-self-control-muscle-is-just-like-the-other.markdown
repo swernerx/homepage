@@ -1,5 +1,6 @@
 slug: your-self-control-muscle-is-just-like-the-other
 date: 2012-12-23 20:14:38
+title: Your self-control “muscle” is just like the other muscles in your...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: pushing-people-to-work-more-hours-is-a-superficial
 date: 2014-01-20 18:12:59
+title: Pushing people to work more hours is a superficial solution, not a...
 type: quote
 ---
 

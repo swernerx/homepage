@@ -1,5 +1,6 @@
 slug: ive-been-looking-at-the-google-logo-on-the-iphone
 date: 2011-08-26 17:49:56
+title: I’ve been looking at the Google logo on the iPhone and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: you-can-now-choose-to-store-your-data-in-europe
 date: 2011-05-13 19:08:01
+title: You can now choose to store your data in Europe - and get the same...
 type: quote
 ---
 

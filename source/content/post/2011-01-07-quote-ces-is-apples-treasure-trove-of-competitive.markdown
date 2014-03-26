@@ -1,5 +1,6 @@
 slug: ces-is-apples-treasure-trove-of-competitive
 date: 2011-01-07 22:02:28
+title: CES is Apple’s treasure trove of competitive information...
 type: quote
 ---
 

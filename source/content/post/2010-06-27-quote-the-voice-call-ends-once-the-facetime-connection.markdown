@@ -1,5 +1,6 @@
 slug: the-voice-call-ends-once-the-facetime-connection
 date: 2010-06-27 00:34:05
+title: The voice call ends once the FaceTime connection is made.
 type: quote
 ---
 

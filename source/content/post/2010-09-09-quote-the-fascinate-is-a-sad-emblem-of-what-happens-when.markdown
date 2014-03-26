@@ -1,5 +1,6 @@
 slug: the-fascinate-is-a-sad-emblem-of-what-happens-when
 date: 2010-09-09 09:45:52
+title: The Fascinate is a sad emblem of what happens when a carrier’s...
 type: quote
 ---
 

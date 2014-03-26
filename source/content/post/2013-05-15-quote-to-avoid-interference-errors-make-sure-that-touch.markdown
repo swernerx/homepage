@@ -1,5 +1,6 @@
 slug: to-avoid-interference-errors-make-sure-that-touch
 date: 2013-05-15 14:21:23
+title: To avoid interference errors, make sure that touch targets are at...
 type: quote
 ---
 

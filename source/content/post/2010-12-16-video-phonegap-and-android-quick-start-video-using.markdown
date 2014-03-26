@@ -1,5 +1,6 @@
 slug: phonegap-and-android-quick-start-video-using
 date: 2010-12-16 16:41:00
+title: 
 type: video
 ---
 

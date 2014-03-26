@@ -1,5 +1,6 @@
 slug: apple-iphone-4-minimalism-in-package-design
 date: 2010-12-03 19:14:50
+title: Apple iPhone 4: Minimalism in package design (Taken with 
 type: photo
 ---
 

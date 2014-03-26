@@ -1,5 +1,6 @@
 slug: the-point-of-unit-testing-is-to-verify-that-the
 date: 2010-11-10 16:23:54
+title: The point of unit testing is to verify that the object’s public...
 type: quote
 ---
 

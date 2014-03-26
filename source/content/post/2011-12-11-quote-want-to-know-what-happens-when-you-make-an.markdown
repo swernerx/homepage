@@ -1,5 +1,6 @@
 slug: want-to-know-what-happens-when-you-make-an
 date: 2011-12-11 20:43:53
+title: Want to know what happens when you make an operating system open? The...
 type: quote
 ---
 

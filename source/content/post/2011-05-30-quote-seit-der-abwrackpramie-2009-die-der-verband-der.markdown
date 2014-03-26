@@ -1,5 +1,6 @@
 slug: seit-der-abwrackpramie-2009-die-der-verband-der
 date: 2011-05-30 08:57:49
+title: Seit der Abwrackprämie 2009, die der Verband der Automobilindustrie...
 type: quote
 ---
 

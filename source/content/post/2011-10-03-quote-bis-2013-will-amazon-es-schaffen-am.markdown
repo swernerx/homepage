@@ -1,5 +1,6 @@
 slug: bis-2013-will-amazon-es-schaffen-am
 date: 2011-10-03 20:44:34
+title: Bis 2013 will Amazon es schaffen, am Bestellungstag zu liefern. Diese...
 type: quote
 ---
 

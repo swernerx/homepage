@@ -1,5 +1,6 @@
 slug: the-most-effective-software-strategy-for-saving
 date: 2013-10-29 13:06:51
+title: The most effective software strategy for saving energy becomes clear:...
 type: quote
 ---
 

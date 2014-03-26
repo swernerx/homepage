@@ -1,5 +1,6 @@
 slug: the-huge-advantage-of-3d-printing-is-that-it-is
 date: 2012-12-28 19:21:42
+title: The huge advantage of 3D printing is that it is now cost effective to...
 type: quote
 ---
 

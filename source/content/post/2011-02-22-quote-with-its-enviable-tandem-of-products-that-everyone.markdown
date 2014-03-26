@@ -1,5 +1,6 @@
 slug: with-its-enviable-tandem-of-products-that-everyone
 date: 2011-02-22 03:49:49
+title: With its enviable tandem of products that everyone wants and a store...
 type: quote
 ---
 

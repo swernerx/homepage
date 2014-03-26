@@ -1,5 +1,9 @@
 slug: mobile-links-on-desktop-step-1-someone
 date: 2013-07-12 14:50:58
+title: 
+>  **Mobile links on desktop:**
+> 
+>  ...
 type: photo
 ---
 

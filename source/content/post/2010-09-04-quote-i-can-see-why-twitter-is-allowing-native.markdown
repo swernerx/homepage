@@ -1,5 +1,6 @@
 slug: i-can-see-why-twitter-is-allowing-native
 date: 2010-09-04 23:09:25
+title: I can see why Twitter is allowing native application developers to...
 type: quote
 ---
 

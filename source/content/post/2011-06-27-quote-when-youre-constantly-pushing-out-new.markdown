@@ -1,5 +1,6 @@
 slug: when-youre-constantly-pushing-out-new
 date: 2011-06-27 08:36:41
+title: When you’re constantly pushing out new applications and services that...
 type: quote
 ---
 

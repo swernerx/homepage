@@ -1,5 +1,6 @@
 slug: apples-complete-integration-of-hardware
 date: 2010-08-28 16:48:17
+title: Apple’s complete integration of hardware, software, operating system...
 type: quote
 ---
 

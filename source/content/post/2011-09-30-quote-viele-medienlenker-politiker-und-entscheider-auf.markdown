@@ -1,5 +1,6 @@
 slug: viele-medienlenker-politiker-und-entscheider-auf
 date: 2011-09-30 12:03:56
+title: Viele Medienlenker, Politiker und Entscheider auf höchster Ebene...
 type: quote
 ---
 

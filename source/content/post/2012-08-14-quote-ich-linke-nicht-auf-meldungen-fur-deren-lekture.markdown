@@ -1,5 +1,6 @@
 slug: ich-linke-nicht-auf-meldungen-fur-deren-lekture
 date: 2012-08-14 18:31:52
+title: Ich linke nicht auf Meldungen, für deren Lektüre man zahlen muss.
 type: quote
 ---
 

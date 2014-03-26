@@ -1,5 +1,6 @@
 slug: an-engineer-would-bring-steve-in-and-show-him-the
 date: 2010-10-16 00:10:15
+title: An engineer would bring Steve in and show him the latest software...
 type: quote
 ---
 

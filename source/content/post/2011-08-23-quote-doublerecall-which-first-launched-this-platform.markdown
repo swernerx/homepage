@@ -1,5 +1,6 @@
 slug: doublerecall-which-first-launched-this-platform
 date: 2011-08-23 23:40:02
+title: DoubleRecall, which first launched this platform in Europe last year,...
 type: quote
 ---
 

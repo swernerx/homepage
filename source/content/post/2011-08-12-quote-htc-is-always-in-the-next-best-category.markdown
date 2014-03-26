@@ -1,5 +1,6 @@
 slug: htc-is-always-in-the-next-best-category
 date: 2011-08-12 08:28:05
+title: HTC is always in the next-best category.
 type: quote
 ---
 

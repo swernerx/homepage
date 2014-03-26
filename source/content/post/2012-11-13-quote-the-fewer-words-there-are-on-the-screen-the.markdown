@@ -1,5 +1,6 @@
 slug: the-fewer-words-there-are-on-the-screen-the
 date: 2012-11-13 18:23:48
+title: The fewer words there are on the screen, the better it is to be able...
 type: quote
 ---
 

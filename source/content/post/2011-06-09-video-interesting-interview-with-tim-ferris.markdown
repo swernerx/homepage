@@ -1,5 +1,6 @@
 slug: interesting-interview-with-tim-ferris
 date: 2011-06-09 23:46:51
+title: Interesting interview with Tim Ferris on Entrepreneurship (via 
 type: video
 ---
 

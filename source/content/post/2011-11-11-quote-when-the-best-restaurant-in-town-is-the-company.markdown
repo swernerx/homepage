@@ -1,5 +1,6 @@
 slug: when-the-best-restaurant-in-town-is-the-company
 date: 2011-11-11 08:54:12
+title: When the best restaurant in town is the company cafeteria it...
 type: quote
 ---
 

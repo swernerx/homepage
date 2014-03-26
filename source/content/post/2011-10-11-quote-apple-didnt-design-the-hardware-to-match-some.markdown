@@ -1,5 +1,6 @@
 slug: apple-didnt-design-the-hardware-to-match-some
 date: 2011-10-11 18:53:29
+title: Apple didn’t design the hardware to match some feature checklist,...
 type: quote
 ---
 

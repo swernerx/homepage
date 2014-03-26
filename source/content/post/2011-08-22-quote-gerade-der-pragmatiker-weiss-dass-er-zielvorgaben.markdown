@@ -1,5 +1,6 @@
 slug: gerade-der-pragmatiker-weiss-dass-er-zielvorgaben
 date: 2011-08-22 20:24:49
+title: Gerade der Pragmatiker weiß, dass er Zielvorgaben, große...
 type: quote
 ---
 

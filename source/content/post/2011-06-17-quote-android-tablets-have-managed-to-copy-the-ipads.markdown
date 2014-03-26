@@ -1,5 +1,6 @@
 slug: android-tablets-have-managed-to-copy-the-ipads
 date: 2011-06-17 14:05:23
+title: Android tablets have managed to copy the iPad’s hardware well enough...
 type: quote
 ---
 

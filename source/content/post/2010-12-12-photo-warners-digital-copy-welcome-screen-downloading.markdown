@@ -1,5 +1,8 @@
 slug: warners-digital-copy-welcome-screen-downloading
 date: 2010-12-12 15:02:00
+title: Warner’s Digital Copy Welcome Screen.
+
+ Downloading a...
 type: photo
 ---
 

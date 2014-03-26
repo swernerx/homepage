@@ -1,5 +1,6 @@
 slug: print-publishers-who-wish-to-thrive-in-the-new
 date: 2010-12-23 09:00:02
+title: Print publishers who wish to thrive in the new environment will not...
 type: quote
 ---
 

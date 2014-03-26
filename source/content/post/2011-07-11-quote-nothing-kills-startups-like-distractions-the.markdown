@@ -1,5 +1,6 @@
 slug: nothing-kills-startups-like-distractions-the
 date: 2011-07-11 02:49:43
+title: Nothing kills startups like distractions. The worst type are those...
 type: quote
 ---
 

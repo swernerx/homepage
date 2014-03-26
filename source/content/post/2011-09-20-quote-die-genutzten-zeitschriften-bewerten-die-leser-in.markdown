@@ -1,5 +1,6 @@
 slug: die-genutzten-zeitschriften-bewerten-die-leser-in
 date: 2011-09-20 19:58:00
+title: Die genutzten Zeitschriften bewerten die Leser in der Umfrage...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: whereas-smartphone-distribution-is-dominated-by
 date: 2011-02-05 18:32:08
+title: Whereas smartphone distribution is dominated by wireless carriers, we...
 type: quote
 ---
 

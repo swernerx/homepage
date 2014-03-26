@@ -1,5 +1,6 @@
 slug: the-average-pc-went-from-795-retail-at-the-end-of
 date: 2011-01-29 10:22:28
+title: The average PC went from $795 retail at the end of 2007 to $615 in...
 type: quote
 ---
 

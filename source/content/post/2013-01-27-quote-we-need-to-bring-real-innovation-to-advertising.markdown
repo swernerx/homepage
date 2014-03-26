@@ -1,5 +1,6 @@
 slug: we-need-to-bring-real-innovation-to-advertising
 date: 2013-01-27 15:58:08
+title: We need to bring real innovation to advertising, and it has to be as...
 type: quote
 ---
 

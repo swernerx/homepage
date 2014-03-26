@@ -1,5 +1,6 @@
 slug: given-facebooks-limited-resources-it-doesnt
 date: 2010-11-03 21:46:38
+title: Given Facebook’s limited resources, it doesn’t really make sense to...
 type: quote
 ---
 

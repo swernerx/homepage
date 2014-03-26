@@ -1,5 +1,6 @@
 slug: my-job-isnt-just-building-product-i-also-build
 date: 2011-07-16 01:24:13
+title: My job isn’t just building product; I also build people.
 type: quote
 ---
 

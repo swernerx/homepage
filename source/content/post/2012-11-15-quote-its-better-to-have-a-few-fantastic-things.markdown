@@ -1,5 +1,6 @@
 slug: its-better-to-have-a-few-fantastic-things
 date: 2012-11-15 18:47:22
+title: It’s better to have a few fantastic things designed for you than to...
 type: quote
 ---
 

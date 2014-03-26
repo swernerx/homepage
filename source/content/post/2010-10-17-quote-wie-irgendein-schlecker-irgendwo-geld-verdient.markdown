@@ -1,5 +1,6 @@
 slug: wie-irgendein-schlecker-irgendwo-geld-verdient
 date: 2010-10-17 14:52:44
+title: Wie IRGENDEIN Schlecker IRGENDWO Geld verdient, bleibt mir ein...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: providing-new-capabilities-only-with-new-syntax
 date: 2012-07-26 11:06:05
+title: Providing new capabilities only with new syntax, as is the case with...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-api-will-expose-the-possibility-to-utilize
 date: 2011-08-15 20:34:49
+title: The API will expose the possibility to utilize features like...
 type: quote
 ---
 

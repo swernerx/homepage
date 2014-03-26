@@ -1,5 +1,6 @@
 slug: only-a-year-ago-we-were-speculating-about-whether
 date: 2011-02-14 09:26:52
+title: Only a year ago, we were speculating about whether the software...
 type: quote
 ---
 

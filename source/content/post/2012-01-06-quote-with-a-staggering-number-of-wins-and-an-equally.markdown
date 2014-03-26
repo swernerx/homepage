@@ -1,5 +1,6 @@
 slug: with-a-staggering-number-of-wins-and-an-equally
 date: 2012-01-06 16:43:10
+title: With a staggering number of wins and an equally impressive lack of...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: what-a-chart-via-the-difference-between-apple
 date: 2012-09-11 16:00:56
+title: What a chart… Via: 
 type: photo
 ---
 

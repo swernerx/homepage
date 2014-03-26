@@ -1,5 +1,6 @@
 slug: 7-habits-of-a-highly-ineffective-managermindflash
 date: 2011-08-31 10:18:27
+title: 
 type: photo
 ---
 

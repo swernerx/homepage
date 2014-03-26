@@ -1,5 +1,6 @@
 slug: auch-in-der-oberen-mittelklasse-lasst-sich-jetzt
 date: 2010-10-25 10:38:43
+title: Auch in der oberen Mittelklasse lässt sich jetzt aus dem Vollen...
 type: quote
 ---
 

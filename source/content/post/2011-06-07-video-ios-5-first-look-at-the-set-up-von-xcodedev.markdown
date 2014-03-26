@@ -1,5 +1,6 @@
 slug: ios-5-first-look-at-the-set-up-von-xcodedev
 date: 2011-06-07 09:31:27
+title: iOS 5: First Look at the Set Up! (von 
 type: video
 ---
 

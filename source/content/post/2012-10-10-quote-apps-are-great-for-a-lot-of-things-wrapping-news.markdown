@@ -1,5 +1,6 @@
 slug: apps-are-great-for-a-lot-of-things-wrapping-news
 date: 2012-10-10 11:52:35
+title: Apps are great for a lot of things. Wrapping news articles in...
 type: quote
 ---
 

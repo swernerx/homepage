@@ -1,5 +1,6 @@
 slug: the-more-distracted-we-become-and-the-more
 date: 2013-06-14 16:18:59
+title: The more distracted we become, and the more emphasis we place on...
 type: quote
 ---
 

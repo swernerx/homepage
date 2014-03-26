@@ -1,5 +1,6 @@
 slug: mcdonalds-richtet-in-seinen-7-000-filialen-in
 date: 2011-05-17 10:44:44
+title: McDonald’s richtet in seinen 7.000 Filialen in Europa...
 type: quote
 ---
 

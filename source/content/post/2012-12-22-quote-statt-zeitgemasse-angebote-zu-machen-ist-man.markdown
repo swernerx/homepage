@@ -1,5 +1,6 @@
 slug: statt-zeitgemasse-angebote-zu-machen-ist-man
 date: 2012-12-22 12:44:09
+title: Statt zeitgemäße Angebote zu machen, ist man lieber dazu...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: forklift-2-0
 date: 2010-11-22 20:24:24
+title: ForkLift 2.0
 type: link
 ---
 

@@ -1,5 +1,6 @@
 slug: nice-advertising-idea-invisible-mercedes-via
 date: 2012-03-07 15:13:00
+title: Nice advertising idea: Invisible Mercedes (via 
 type: video
 ---
 

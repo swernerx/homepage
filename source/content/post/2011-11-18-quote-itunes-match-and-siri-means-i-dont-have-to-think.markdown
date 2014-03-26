@@ -1,5 +1,6 @@
 slug: itunes-match-and-siri-means-i-dont-have-to-think
 date: 2011-11-18 13:59:06
+title: iTunes Match and Siri means I don’t have to think as much...
 type: quote
 ---
 

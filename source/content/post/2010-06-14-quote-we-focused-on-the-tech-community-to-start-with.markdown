@@ -1,5 +1,6 @@
 slug: we-focused-on-the-tech-community-to-start-with
 date: 2010-06-14 00:11:26
+title: We focused on the tech community to start with - and those...
 type: quote
 ---
 

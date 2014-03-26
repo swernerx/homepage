@@ -1,5 +1,6 @@
 slug: most-tablets-will-launch-in-a-vacuum-meaning
 date: 2011-01-26 00:04:13
+title: Most tablets will launch in a vacuum — meaning with little to no...
 type: quote
 ---
 

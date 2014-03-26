@@ -1,5 +1,6 @@
 slug: execs-love-the-ability-to-go-so-quickly-from-idea
 date: 2011-02-22 13:13:34
+title: Execs love the ability to go so quickly from idea to exploration...
 type: quote
 ---
 

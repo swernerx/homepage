@@ -1,5 +1,6 @@
 slug: if-the-name-of-your-company-doesnt-describe-what
 date: 2011-05-27 09:13:50
+title: If the name of your company doesn’t describe what you do, then make...
 type: quote
 ---
 

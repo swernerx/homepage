@@ -1,5 +1,6 @@
 slug: it-is-better-to-sell-5-applications-at-70-your
 date: 2011-01-08 16:51:34
+title: It is better to sell 5 applications at 70% your normal profit than 2...
 type: quote
 ---
 

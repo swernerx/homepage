@@ -1,5 +1,6 @@
 slug: what-is-the-appeal-of-server-side-javascript-quora
 date: 2011-01-02 22:23:19
+title: What is the appeal of server-side JavaScript? - Quora
 type: link
 ---
 

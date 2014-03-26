@@ -1,5 +1,6 @@
 slug: were-users-we-dont-consume-content-we-use-it
 date: 2011-06-17 22:25:18
+title: We’re users. We don’t consume content, we use it, and mostly what we...
 type: quote
 ---
 

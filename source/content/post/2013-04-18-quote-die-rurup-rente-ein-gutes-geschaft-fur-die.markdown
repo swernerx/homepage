@@ -1,5 +1,6 @@
 slug: die-rurup-rente-ein-gutes-geschaft-fur-die
 date: 2013-04-18 12:07:00
+title: Die Rürup-Rente ein gutes Geschäft - für die Versicherer. Für die...
 type: quote
 ---
 

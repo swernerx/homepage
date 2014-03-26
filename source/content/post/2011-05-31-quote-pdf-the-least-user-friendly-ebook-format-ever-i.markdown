@@ -1,5 +1,6 @@
 slug: pdf-the-least-user-friendly-ebook-format-ever-i
 date: 2011-05-31 11:37:45
+title: PDF: the least user-friendly ebook format ever. I don’t want to...
 type: quote
 ---
 

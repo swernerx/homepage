@@ -1,5 +1,6 @@
 slug: too-much-data-has-the-same-outcome-as-no-data-at
 date: 2010-11-30 09:50:47
+title: Too much data has the same outcome as no data at all - except that it...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-great-thing-about-the-web-is-linking
 date: 2011-12-14 16:29:24
+title: The great thing about the web is linking.
 type: quote
 ---
 

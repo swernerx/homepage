@@ -1,5 +1,6 @@
 slug: with-every-vendor-trying-to-deliver-unique-value
 date: 2013-04-05 17:03:08
+title: With every vendor trying to deliver unique value, a unique product,...
 type: quote
 ---
 

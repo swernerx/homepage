@@ -1,5 +1,6 @@
 slug: interaktivitat-sekundenschnelle-aktualisierung
 date: 2012-11-22 18:04:47
+title: Interaktivität, sekundenschnelle Aktualisierung, Verknüpfung von...
 type: quote
 ---
 

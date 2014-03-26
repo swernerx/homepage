@@ -1,5 +1,6 @@
 slug: one-of-the-most-important-concept-of-ux-and-ui-is
 date: 2011-12-13 13:41:33
+title: One of the most important concept of UX and UI is to be consistent -...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: touch-id-to-all-previous-fingerprint-scanners-is
 date: 2013-09-18 22:12:52
+title: Touch ID to all previous fingerprint scanners is what the original...
 type: quote
 ---
 

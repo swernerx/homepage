@@ -1,5 +1,6 @@
 slug: was-wo-soll-hier-das-schneechaos-sein-taken
 date: 2010-12-24 16:07:27
+title: Was? Wo soll hier das Schneechaos sein? (Taken with 
 type: photo
 ---
 

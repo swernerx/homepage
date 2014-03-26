@@ -1,5 +1,6 @@
 slug: youre-gonna-miss-us-when-were-gone-has-never
 date: 2011-06-17 22:08:16
+title: “You’re gonna miss us when we’re gone!” has never been much of a...
 type: quote
 ---
 

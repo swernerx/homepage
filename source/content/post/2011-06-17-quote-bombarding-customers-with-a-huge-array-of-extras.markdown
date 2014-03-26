@@ -1,5 +1,6 @@
 slug: bombarding-customers-with-a-huge-array-of-extras
 date: 2011-06-17 23:18:06
+title: Bombarding customers with a huge array of extras may seem like a good...
 type: quote
 ---
 

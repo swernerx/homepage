@@ -1,5 +1,6 @@
 slug: although-javascript-gets-much-of-the-focus-these
 date: 2011-01-15 19:08:05
+title: Although JavaScript gets much of the focus these days, it turns out...
 type: quote
 ---
 

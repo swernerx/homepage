@@ -1,5 +1,6 @@
 slug: angular-definitely-looks-cool-for-small-apps-not
 date: 2013-01-24 10:37:45
+title: Angular definitely looks cool for small apps. Not sure about...
 type: video
 ---
 

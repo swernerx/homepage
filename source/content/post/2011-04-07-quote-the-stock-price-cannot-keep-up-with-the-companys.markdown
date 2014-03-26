@@ -1,5 +1,6 @@
 slug: the-stock-price-cannot-keep-up-with-the-companys
 date: 2011-04-07 18:27:48
+title: The stock price cannot keep up with the company’s growth. Apple has...
 type: quote
 ---
 

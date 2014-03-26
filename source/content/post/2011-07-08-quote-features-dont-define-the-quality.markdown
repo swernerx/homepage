@@ -1,5 +1,6 @@
 slug: features-dont-define-the-quality
 date: 2011-07-08 09:51:10
+title: Features don’t define the quality.
 type: quote
 ---
 

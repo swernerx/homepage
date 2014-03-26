@@ -1,5 +1,6 @@
 slug: schon-vor-rund-zehn-jahren-hat-die-musikbranche
 date: 2011-10-26 08:07:14
+title: Schon vor rund zehn Jahren hat die Musikbranche die sinkenden...
 type: quote
 ---
 

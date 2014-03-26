@@ -1,5 +1,6 @@
 slug: the-absence-of-a-feature-is-as-a-feature
 date: 2011-06-16 13:18:39
+title: The absence of a feature is as a feature.
 type: quote
 ---
 

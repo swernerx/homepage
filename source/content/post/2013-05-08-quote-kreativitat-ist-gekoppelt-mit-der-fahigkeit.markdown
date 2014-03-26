@@ -1,5 +1,6 @@
 slug: kreativitat-ist-gekoppelt-mit-der-fahigkeit
 date: 2013-05-08 09:01:32
+title: Kreativität ist gekoppelt mit der Fähigkeit, Ungewissheit zu...
 type: quote
 ---
 

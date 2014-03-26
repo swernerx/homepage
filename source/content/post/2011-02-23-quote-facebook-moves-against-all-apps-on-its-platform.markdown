@@ -1,5 +1,6 @@
 slug: facebook-moves-against-all-apps-on-its-platform
 date: 2011-02-23 09:46:54
+title: Facebook moves against all apps on its platform using Google ads, and...
 type: quote
 ---
 

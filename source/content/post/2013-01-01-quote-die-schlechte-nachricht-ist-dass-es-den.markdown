@@ -1,5 +1,6 @@
 slug: die-schlechte-nachricht-ist-dass-es-den
 date: 2013-01-01 16:36:32
+title: Die schlechte Nachricht ist, dass es den Herstellern nicht gelingt,...
 type: quote
 ---
 

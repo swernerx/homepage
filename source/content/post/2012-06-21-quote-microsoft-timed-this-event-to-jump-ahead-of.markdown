@@ -1,5 +1,6 @@
 slug: microsoft-timed-this-event-to-jump-ahead-of
 date: 2012-06-21 10:49:39
+title: Microsoft timed this event to jump ahead of anything Google might be...
 type: quote
 ---
 

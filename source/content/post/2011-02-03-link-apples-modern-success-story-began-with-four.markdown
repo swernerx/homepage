@@ -1,5 +1,6 @@
 slug: apples-modern-success-story-began-with-four
 date: 2011-02-03 18:10:58
+title: Apple's modern success story began with four investments made 10...
 type: link
 ---
 

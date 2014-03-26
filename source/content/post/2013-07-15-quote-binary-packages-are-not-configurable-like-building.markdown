@@ -1,5 +1,6 @@
 slug: binary-packages-are-not-configurable-like-building
 date: 2013-07-15 07:28:37
+title: Binary packages are not configurable like building from source is;...
 type: quote
 ---
 

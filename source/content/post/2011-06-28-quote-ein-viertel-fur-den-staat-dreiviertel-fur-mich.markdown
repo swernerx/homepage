@@ -1,5 +1,6 @@
 slug: ein-viertel-fur-den-staat-dreiviertel-fur-mich
 date: 2011-06-28 19:26:00
+title: Ein Viertel für den Staat - Dreiviertel für mich.
 type: quote
 ---
 

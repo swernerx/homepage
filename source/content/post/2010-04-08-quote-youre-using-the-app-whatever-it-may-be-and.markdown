@@ -1,5 +1,6 @@
 slug: youre-using-the-app-whatever-it-may-be-and
 date: 2010-04-08 11:18:13
+title: You’re using the app, whatever it may be, and while you’re doing so,...
 type: quote
 ---
 

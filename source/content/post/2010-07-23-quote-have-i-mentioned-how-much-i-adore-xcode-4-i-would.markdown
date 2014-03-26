@@ -1,5 +1,6 @@
 slug: have-i-mentioned-how-much-i-adore-xcode-4-i-would
 date: 2010-07-23 11:09:29
+title: Have I mentioned how much I adore Xcode 4? I would marry it, bear its...
 type: quote
 ---
 

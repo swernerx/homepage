@@ -1,5 +1,6 @@
 slug: glucks-und-wohlfahrtsvorstellungen-sind
 date: 2013-10-05 15:19:35
+title: Glücks- und Wohlfahrtsvorstellungen sind ausschließlich individuelle...
 type: quote
 ---
 

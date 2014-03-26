@@ -1,5 +1,6 @@
 slug: its-the-awkward-people-the-creative-thinkers-and
 date: 2011-03-18 14:08:35
+title: Its the awkward people, the creative thinkers and the unconventional...
 type: quote
 ---
 

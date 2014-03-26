@@ -1,5 +1,6 @@
 slug: if-the-iphone-is-8-10-on-text-input-the-nexus-one
 date: 2010-12-07 08:32:50
+title: If the iPhone is 8/10 on text input, the Nexus One is probably 5/10...
 type: quote
 ---
 

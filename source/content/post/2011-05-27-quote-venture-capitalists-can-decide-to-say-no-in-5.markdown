@@ -1,5 +1,6 @@
 slug: venture-capitalists-can-decide-to-say-no-in-5
 date: 2011-05-27 09:11:54
+title: Venture Capitalists can decide to say NO in 5 minutes, but saying YES...
 type: quote
 ---
 

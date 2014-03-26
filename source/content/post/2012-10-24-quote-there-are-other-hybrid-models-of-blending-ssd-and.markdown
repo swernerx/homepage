@@ -1,5 +1,6 @@
 slug: there-are-other-hybrid-models-of-blending-ssd-and
 date: 2012-10-24 11:18:02
+title: There are other hybrid models of blending SSD and mechanical disks to...
 type: quote
 ---
 

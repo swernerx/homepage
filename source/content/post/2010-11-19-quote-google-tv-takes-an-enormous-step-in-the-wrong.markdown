@@ -1,5 +1,6 @@
 slug: google-tv-takes-an-enormous-step-in-the-wrong
 date: 2010-11-19 11:36:02
+title: Google TV takes an enormous step in the wrong direction: toward...
 type: quote
 ---
 

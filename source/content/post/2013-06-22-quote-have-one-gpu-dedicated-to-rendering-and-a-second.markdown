@@ -1,5 +1,6 @@
 slug: have-one-gpu-dedicated-to-rendering-and-a-second
 date: 2013-06-22 23:13:36
+title: Have one GPU dedicated to rendering and a second available for...
 type: quote
 ---
 

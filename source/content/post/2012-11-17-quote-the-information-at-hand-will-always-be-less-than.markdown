@@ -1,5 +1,6 @@
 slug: the-information-at-hand-will-always-be-less-than
 date: 2012-11-17 17:54:38
+title: The information at hand will always be less than the information you...
 type: quote
 ---
 

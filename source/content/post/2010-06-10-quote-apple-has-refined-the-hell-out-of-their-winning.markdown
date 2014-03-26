@@ -1,5 +1,6 @@
 slug: apple-has-refined-the-hell-out-of-their-winning
 date: 2010-06-10 23:50:05
+title: Apple has refined the hell out of their winning combination of...
 type: quote
 ---
 

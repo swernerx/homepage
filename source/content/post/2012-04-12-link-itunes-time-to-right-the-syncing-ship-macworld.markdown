@@ -1,5 +1,6 @@
 slug: itunes-time-to-right-the-syncing-ship-macworld
 date: 2012-04-12 22:12:31
+title: iTunes: Time to right the syncing ship | Macworld
 type: link
 ---
 

@@ -1,5 +1,6 @@
 slug: how-mobile-devices-changed-what-i-wanted-in-my-car
 date: 2012-05-10 09:08:58
+title: 
 type: photo
 ---
 

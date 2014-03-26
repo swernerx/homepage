@@ -1,5 +1,6 @@
 slug: compilation-allows-us-to-work-around
 date: 2013-02-18 14:31:39
+title: Compilation allows us to work around implementation differences,...
 type: quote
 ---
 

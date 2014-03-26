@@ -1,5 +1,6 @@
 slug: the-biggest-threats-to-newspapers-arent-just
 date: 2013-01-01 13:05:32
+title: The biggest threats to newspapers aren’t just their familiar revenue...
 type: quote
 ---
 

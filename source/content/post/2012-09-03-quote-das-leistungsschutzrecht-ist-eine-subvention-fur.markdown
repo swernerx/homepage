@@ -1,5 +1,6 @@
 slug: das-leistungsschutzrecht-ist-eine-subvention-fur
 date: 2012-09-03 22:36:14
+title: Das Leistungsschutzrecht ist eine Subvention für Verlage, die so tut,...
 type: quote
 ---
 

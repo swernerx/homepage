@@ -1,5 +1,6 @@
 slug: in-order-to-avoid-the-drawbacks-of-too-long-and
 date: 2010-11-09 12:29:20
+title: In order to avoid the drawbacks of too long and too short lines, but...
 type: quote
 ---
 

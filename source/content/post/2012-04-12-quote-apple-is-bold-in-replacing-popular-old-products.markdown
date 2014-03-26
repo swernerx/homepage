@@ -1,5 +1,6 @@
 slug: apple-is-bold-in-replacing-popular-old-products
 date: 2012-04-12 22:13:36
+title: Apple is bold in replacing popular old products with something new...
 type: quote
 ---
 

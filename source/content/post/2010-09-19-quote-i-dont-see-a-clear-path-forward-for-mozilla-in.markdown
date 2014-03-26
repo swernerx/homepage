@@ -1,5 +1,6 @@
 slug: i-dont-see-a-clear-path-forward-for-mozilla-in
 date: 2010-09-19 21:21:46
+title: I don’t see a clear path forward for Mozilla in competing with WebKit...
 type: quote
 ---
 

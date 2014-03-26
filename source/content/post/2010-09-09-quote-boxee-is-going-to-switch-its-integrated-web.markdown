@@ -1,5 +1,6 @@
 slug: boxee-is-going-to-switch-its-integrated-web
 date: 2010-09-09 16:07:33
+title: Boxee is going to switch its integrated web browser from Mozilla’s...
 type: quote
 ---
 

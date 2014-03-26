@@ -1,5 +1,6 @@
 slug: can-google-afford-to-write-off-the-ios-ecosystem
 date: 2011-01-15 20:21:29
+title: Can Google afford to write off the iOS ecosystem?
 type: quote
 ---
 

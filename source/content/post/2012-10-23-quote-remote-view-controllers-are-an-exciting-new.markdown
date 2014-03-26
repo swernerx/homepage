@@ -1,5 +1,6 @@
 slug: remote-view-controllers-are-an-exciting-new
 date: 2012-10-23 09:28:58
+title: Remote view controllers are an exciting new feature for iOS. I...
 type: quote
 ---
 

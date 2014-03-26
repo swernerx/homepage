@@ -1,5 +1,6 @@
 slug: greens-opinion-android-versus-iphone-development-a
 date: 2010-09-06 00:16:43
+title: Green's Opinion: Android versus iPhone Development: A Comparison
 type: link
 ---
 

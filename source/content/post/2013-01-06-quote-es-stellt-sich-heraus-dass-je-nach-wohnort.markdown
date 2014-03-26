@@ -1,5 +1,6 @@
 slug: es-stellt-sich-heraus-dass-je-nach-wohnort
 date: 2013-01-06 09:52:59
+title: Es stellt sich heraus, dass je nach Wohnort, Familiengröße und...
 type: quote
 ---
 

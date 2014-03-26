@@ -1,5 +1,6 @@
 slug: its-also-very-much-like-the-multitasking-system
 date: 2010-04-10 10:15:44
+title: It’s also very much like the “multitasking” system Android has had in...
 type: quote
 ---
 

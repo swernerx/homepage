@@ -1,5 +1,6 @@
 slug: page-based-sites-are-cramming-every-corner-and-bit
 date: 2012-08-17 12:13:54
+title: Page-based sites are cramming every corner and bit of white space on...
 type: quote
 ---
 

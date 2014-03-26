@@ -1,5 +1,6 @@
 slug: while-its-a-good-idea-in-theory-in-practice
 date: 2013-03-26 21:32:23
+title: While it’s a good idea in theory, in practice these emulated Browser...
 type: quote
 ---
 

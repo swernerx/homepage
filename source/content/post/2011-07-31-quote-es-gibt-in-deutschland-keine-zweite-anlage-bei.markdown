@@ -1,5 +1,6 @@
 slug: es-gibt-in-deutschland-keine-zweite-anlage-bei
 date: 2011-07-31 02:06:10
+title: Es gibt in Deutschland keine zweite Anlage, bei der Gefühl und...
 type: quote
 ---
 

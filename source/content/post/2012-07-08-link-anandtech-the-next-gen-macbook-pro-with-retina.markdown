@@ -1,5 +1,6 @@
 slug: anandtech-the-next-gen-macbook-pro-with-retina
 date: 2012-07-08 21:35:05
+title: AnandTech - The next-gen MacBook Pro with Retina Display Review
 type: link
 ---
 

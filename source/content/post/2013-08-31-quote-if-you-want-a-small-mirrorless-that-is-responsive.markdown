@@ -1,5 +1,6 @@
 slug: if-you-want-a-small-mirrorless-that-is-responsive
 date: 2013-08-31 13:04:48
+title: If you want a small mirrorless that is responsive and can deliver the...
 type: quote
 ---
 

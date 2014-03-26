@@ -1,5 +1,6 @@
 slug: tools-like-instapaper-readability-safari-reader
 date: 2012-04-27 16:46:57
+title: Tools like Instapaper, Readability, Safari Reader, and Flipboard...
 type: quote
 ---
 

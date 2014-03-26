@@ -1,5 +1,6 @@
 slug: die-deutschen-kkws-nicht-erdbebengefahrdet-sind
 date: 2011-05-05 18:55:06
+title: Die deutschen KKWs nicht erdbebengefährdet sind. Sie sind auch nicht...
 type: quote
 ---
 

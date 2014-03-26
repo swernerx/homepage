@@ -1,5 +1,6 @@
 slug: jquery-is-great-for-smaller-sites-and-its-easy
 date: 2010-11-06 14:44:19
+title: jQuery is great for smaller sites and it’s easy for anyone to pick...
 type: quote
 ---
 

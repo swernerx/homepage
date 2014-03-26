@@ -1,5 +1,6 @@
 slug: a-classic-but-still-awesome-adobe-photoshop
 date: 2011-06-24 13:49:42
+title: A “classic”, but still awesome: Adobe Photoshop CS5:...
 type: video
 ---
 

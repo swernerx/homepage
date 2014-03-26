@@ -1,5 +1,6 @@
 slug: theres-little-point-in-testing-on-hundreds-of
 date: 2013-10-17 10:18:24
+title: There’s little point in testing on hundreds of devices – you’ll never...
 type: quote
 ---
 

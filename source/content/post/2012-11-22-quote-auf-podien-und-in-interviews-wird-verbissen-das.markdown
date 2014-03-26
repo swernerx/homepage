@@ -1,5 +1,6 @@
 slug: auf-podien-und-in-interviews-wird-verbissen-das
 date: 2012-11-22 18:12:40
+title: Auf Podien und in Interviews wird verbissen das Papier verteidigt...
 type: quote
 ---
 

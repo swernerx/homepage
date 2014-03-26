@@ -1,5 +1,6 @@
 slug: only-a-few-newspapers-are-taking-the-steps-they
 date: 2011-08-18 08:21:53
+title: Only a few newspapers are taking the steps they need to in order to...
 type: quote
 ---
 

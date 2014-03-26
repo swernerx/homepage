@@ -1,5 +1,6 @@
 slug: it-is-bobs-job-to-get-you-signed-with-the-company
 date: 2012-12-30 19:28:37
+title: It is Bob’s job to get you signed with the company as cheaply as...
 type: quote
 ---
 

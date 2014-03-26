@@ -1,5 +1,6 @@
 slug: entscheidend-ist-ob-journalisten-und-fachblogger
 date: 2012-08-14 18:01:04
+title: Entscheidend ist, ob Journalisten und Fachblogger überhaupt den...
 type: quote
 ---
 

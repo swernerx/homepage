@@ -1,5 +1,6 @@
 slug: die-telekom-reagiert-auf-die-offnung-der
 date: 2010-09-30 18:08:21
+title: Die Telekom reagiert auf die Öffnung der Vertriebswege mit neuen...
 type: quote
 ---
 

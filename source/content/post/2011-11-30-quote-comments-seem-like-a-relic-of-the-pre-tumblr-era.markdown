@@ -1,5 +1,6 @@
 slug: comments-seem-like-a-relic-of-the-pre-tumblr-era
 date: 2011-11-30 09:20:36
+title: Comments seem like a relic of the pre-Tumblr era. If you have...
 type: quote
 ---
 

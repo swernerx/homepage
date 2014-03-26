@@ -1,5 +1,6 @@
 slug: apple-will-remain-well-ahead-of-amazon-in
 date: 2011-09-29 17:53:33
+title: Apple will remain well ahead of Amazon in software, hardware, and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-problem-is-that-users-cannot-calculate-option
 date: 2010-12-29 17:56:59
+title: The problem is that users cannot calculate option value in their...
 type: quote
 ---
 

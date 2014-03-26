@@ -1,5 +1,6 @@
 slug: in-the-media-player-realm-arguably-the-closer
 date: 2011-03-17 15:45:17
+title: In the media player realm — arguably the closer analog to the iPad’s...
 type: quote
 ---
 

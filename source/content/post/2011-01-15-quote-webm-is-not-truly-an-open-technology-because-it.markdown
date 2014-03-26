@@ -1,5 +1,6 @@
 slug: webm-is-not-truly-an-open-technology-because-it
 date: 2011-01-15 12:50:27
+title: WebM is not truly an open technology because it almost certainly uses...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: hell-thats-incredible-didnt-know-photoshop-can
 date: 2010-12-02 11:52:38
+title: Hell, that’s incredible. Didn’t know Photoshop can...
 type: video
 ---
 

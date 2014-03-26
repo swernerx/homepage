@@ -1,5 +1,6 @@
 slug: css-background-position-affects-paint-painting
 date: 2013-11-11 12:02:13
+title: CSS background-position affects paint. Painting involves uploading...
 type: quote
 ---
 

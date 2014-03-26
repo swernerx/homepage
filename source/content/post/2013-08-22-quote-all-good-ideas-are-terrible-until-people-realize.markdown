@@ -1,5 +1,6 @@
 slug: all-good-ideas-are-terrible-until-people-realize
 date: 2013-08-22 09:16:49
+title: All good ideas are terrible until people realize they are obvious. If...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-transition-from-paper-to-digital-is-likely-to
 date: 2011-01-30 21:27:00
+title: The transition from paper to digital is likely to cull the weak, and...
 type: quote
 ---
 

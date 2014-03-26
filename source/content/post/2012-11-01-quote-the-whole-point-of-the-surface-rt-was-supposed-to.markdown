@@ -1,5 +1,6 @@
 slug: the-whole-point-of-the-surface-rt-was-supposed-to
 date: 2012-11-01 09:49:32
+title: The whole point of the Surface RT was supposed to be a tablet that’s...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: webgl-is-now-on-by-default-in-google-chromes
 date: 2010-12-16 17:13:47
+title: WebGL is now on by default in Google Chrome’s beta.
 type: quote
 ---
 

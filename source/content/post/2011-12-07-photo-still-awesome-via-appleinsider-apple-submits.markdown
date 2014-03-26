@@ -1,5 +1,8 @@
 slug: still-awesome-via-appleinsider-apple-submits
 date: 2011-12-07 10:18:04
+title: Still awesome!
+
+ Via 
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: clarity-is-king-future-icon-designers-will-have
 date: 2012-03-22 22:05:38
+title: Clarity is king. Future icon designers will have to hand-tweak even...
 type: quote
 ---
 

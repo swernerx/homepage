@@ -1,5 +1,6 @@
 slug: bereits-im-mai-mussten-die-washington-post-und-der
 date: 2013-01-09 17:49:29
+title: Bereits im Mai mussten die Washington Post und der Guardian...
 type: quote
 ---
 

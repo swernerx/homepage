@@ -1,5 +1,6 @@
 slug: windows-8-is-a-disaster-in-every-sense-of-the
 date: 2014-02-11 09:18:16
+title: Windows 8 is a disaster in every sense of the word. This is not open...
 type: quote
 ---
 

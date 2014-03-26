@@ -1,5 +1,6 @@
 slug: the-number-one-work-motivator-was-emotion-not
 date: 2012-10-08 19:28:14
+title: The number one work motivator was emotion, not financial incentive:...
 type: quote
 ---
 

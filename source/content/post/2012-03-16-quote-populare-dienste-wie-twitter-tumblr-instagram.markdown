@@ -1,5 +1,6 @@
 slug: populare-dienste-wie-twitter-tumblr-instagram
 date: 2012-03-16 12:58:55
+title: Populäre Dienste wie Twitter, Tumblr, Instagram oder Pinterest würden...
 type: quote
 ---
 

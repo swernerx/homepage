@@ -1,5 +1,6 @@
 slug: to-your-mom-the-ipads-simplicity-is-a-feature
 date: 2010-05-22 18:24:29
+title: To your mom, the iPad’s simplicity is a feature, not a bug.
 type: quote
 ---
 

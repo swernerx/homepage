@@ -1,5 +1,6 @@
 slug: additional-features-can-often-feel-like-a-simple
 date: 2012-03-21 16:35:43
+title: Additional features can often feel like a simple and natural...
 type: quote
 ---
 

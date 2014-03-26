@@ -1,5 +1,6 @@
 slug: comic-sans-makes-products-more-friendly-comic
 date: 2011-12-15 16:31:55
+title: Comic Sans makes products more “friendly”: 
 type: photo
 ---
 

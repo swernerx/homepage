@@ -1,5 +1,6 @@
 slug: apple-has-taught-everyone-that-people-value-an
 date: 2012-01-25 18:50:23
+title: Apple has taught everyone that people value an integrated ecosystem...
 type: quote
 ---
 

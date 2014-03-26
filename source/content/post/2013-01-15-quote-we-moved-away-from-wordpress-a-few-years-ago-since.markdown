@@ -1,5 +1,6 @@
 slug: we-moved-away-from-wordpress-a-few-years-ago-since
 date: 2013-01-15 09:25:57
+title: We moved away from WordPress a few years ago since we were tired of...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-android-market-could-find-itself-in-some-deep
 date: 2011-11-02 23:57:40
+title: The Android Market could find itself in some deep trouble if the...
 type: quote
 ---
 

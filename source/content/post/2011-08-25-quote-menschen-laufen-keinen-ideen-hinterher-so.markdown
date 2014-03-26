@@ -1,5 +1,6 @@
 slug: menschen-laufen-keinen-ideen-hinterher-so
 date: 2011-08-25 18:54:08
+title: Menschen laufen keinen Ideen hinterher. So funktioniert unser...
 type: quote
 ---
 

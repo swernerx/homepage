@@ -1,5 +1,6 @@
 slug: this-release-also-includes-a-new-high-performance
 date: 2010-08-18 23:23:00
+title: This release also includes a new, high-performance image serving...
 type: quote
 ---
 

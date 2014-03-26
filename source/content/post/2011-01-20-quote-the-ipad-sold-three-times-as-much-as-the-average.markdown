@@ -1,5 +1,6 @@
 slug: the-ipad-sold-three-times-as-much-as-the-average
 date: 2011-01-20 00:15:25
+title: The iPad sold three times as much as the average tech blogger...
 type: quote
 ---
 

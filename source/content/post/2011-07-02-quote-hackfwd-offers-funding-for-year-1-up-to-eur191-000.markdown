@@ -1,5 +1,6 @@
 slug: hackfwd-offers-funding-for-year-1-up-to-eur191-000
 date: 2011-07-02 13:48:54
+title: HackFwd offers funding for year 1 up to €191,000 for 27% of the...
 type: quote
 ---
 

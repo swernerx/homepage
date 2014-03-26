@@ -1,5 +1,6 @@
 slug: the-software-architects-role-is-about-49
 date: 2010-12-24 20:15:21
+title: The software architect’s role is about 49% technical at best.
 type: quote
 ---
 

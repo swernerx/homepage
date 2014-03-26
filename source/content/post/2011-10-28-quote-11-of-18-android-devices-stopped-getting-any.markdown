@@ -1,5 +1,6 @@
 slug: 11-of-18-android-devices-stopped-getting-any
 date: 2011-10-28 18:59:37
+title: 11 of 18 Android devices stopped getting any support updates less...
 type: quote
 ---
 

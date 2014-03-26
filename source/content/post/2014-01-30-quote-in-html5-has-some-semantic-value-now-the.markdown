@@ -1,5 +1,6 @@
 slug: in-html5-has-some-semantic-value-now-the
 date: 2014-01-30 10:36:36
+title: In HTML5  has some semantic value. Now the ...
 type: quote
 ---
 

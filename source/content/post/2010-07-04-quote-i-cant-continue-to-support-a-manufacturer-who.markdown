@@ -1,5 +1,6 @@
 slug: i-cant-continue-to-support-a-manufacturer-who
 date: 2010-07-04 12:32:51
+title: I can’t continue to support a manufacturer who puts out such...
 type: quote
 ---
 

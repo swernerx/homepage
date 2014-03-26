@@ -1,5 +1,6 @@
 slug: wirtschaftsforderung-ist-immer-noch-so
 date: 2013-06-05 18:35:29
+title: Wirtschaftsförderung ist immer noch so strukturiert, dass sie vor...
 type: quote
 ---
 

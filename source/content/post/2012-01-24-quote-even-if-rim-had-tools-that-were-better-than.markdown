@@ -1,5 +1,6 @@
 slug: even-if-rim-had-tools-that-were-better-than
 date: 2012-01-24 18:17:34
+title: Even if RIM had tools that were better than Apple’s or Google’s, it...
 type: quote
 ---
 

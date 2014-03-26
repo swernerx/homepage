@@ -1,5 +1,6 @@
 slug: without-putting-your-life-on-hold-for-your-work
 date: 2013-04-04 12:46:28
+title: Without putting your life on hold for your work, you’ll somehow be...
 type: quote
 ---
 

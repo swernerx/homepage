@@ -1,5 +1,6 @@
 slug: laut-prasentation-seines-partnerprogrammes-wird
 date: 2011-08-28 11:33:36
+title: Laut Präsentation seines Partnerprogrammes wird Zalando dabei alle...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: focus-has-become-a-big-issue-google-is-an
 date: 2011-01-22 09:50:47
+title: Focus has become a big issue. Google is an engineering-driven...
 type: quote
 ---
 

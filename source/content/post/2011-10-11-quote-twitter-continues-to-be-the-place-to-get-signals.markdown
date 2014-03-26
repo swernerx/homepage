@@ -1,5 +1,6 @@
 slug: twitter-continues-to-be-the-place-to-get-signals
 date: 2011-10-11 15:57:34
+title: Twitter continues to be THE PLACE to get signals about the news.
 type: quote
 ---
 

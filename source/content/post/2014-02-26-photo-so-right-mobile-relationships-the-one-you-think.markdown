@@ -1,5 +1,6 @@
 slug: so-right-mobile-relationships-the-one-you-think
 date: 2014-02-26 14:40:45
+title: So right: 
 type: photo
 ---
 

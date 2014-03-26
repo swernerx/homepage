@@ -1,5 +1,6 @@
 slug: if-services-dont-trust-me-enough-to-give-me-an
 date: 2013-06-18 09:03:45
+title: If services don’t trust me enough to give me an RSS feed, why should...
 type: quote
 ---
 

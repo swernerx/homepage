@@ -1,5 +1,6 @@
 slug: this-is-what-a-tablet-should-be-and-apple-has-set
 date: 2011-04-27 12:04:19
+title: THIS is what a tablet should be and Apple has set the bar so high...
 type: quote
 ---
 

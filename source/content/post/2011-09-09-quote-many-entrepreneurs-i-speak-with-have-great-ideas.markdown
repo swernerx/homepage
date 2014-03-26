@@ -1,5 +1,6 @@
 slug: many-entrepreneurs-i-speak-with-have-great-ideas
 date: 2011-09-09 19:54:29
+title: Many entrepreneurs I speak with have great ideas and even a great...
 type: quote
 ---
 

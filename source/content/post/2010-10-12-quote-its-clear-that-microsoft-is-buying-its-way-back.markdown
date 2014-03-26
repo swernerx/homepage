@@ -1,5 +1,6 @@
 slug: its-clear-that-microsoft-is-buying-its-way-back
 date: 2010-10-12 16:33:13
+title: It’s clear that Microsoft is buying its way back into Mobile...
 type: quote
 ---
 

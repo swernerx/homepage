@@ -1,5 +1,6 @@
 slug: no-typeface-is-inherently-evil-its-how
 date: 2011-08-18 17:36:48
+title: No typeface is inherently evil. It’s how designer’s use it. There has...
 type: quote
 ---
 

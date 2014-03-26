@@ -1,5 +1,6 @@
 slug: as-developers-we-should-optimize-for-the-most
 date: 2011-11-21 08:43:30
+title: As developers, we should optimize for the most likely scenario.
 type: quote
 ---
 

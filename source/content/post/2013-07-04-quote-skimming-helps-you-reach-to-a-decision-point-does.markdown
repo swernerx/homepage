@@ -1,5 +1,6 @@
 slug: skimming-helps-you-reach-to-a-decision-point-does
 date: 2013-07-04 18:00:23
+title: Skimming helps you reach to a decision point: Does this book deserve...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: while-the-introduction-of-paywalls-may-be-helping
 date: 2012-10-23 13:41:03
+title: While the introduction of paywalls may be helping to delay the...
 type: quote
 ---
 

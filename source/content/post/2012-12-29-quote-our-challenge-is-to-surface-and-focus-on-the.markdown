@@ -1,5 +1,6 @@
 slug: our-challenge-is-to-surface-and-focus-on-the
 date: 2012-12-29 19:31:45
+title: Our challenge is to surface and focus on the content our users came...
 type: quote
 ---
 

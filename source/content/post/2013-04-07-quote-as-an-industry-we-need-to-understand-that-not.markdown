@@ -1,5 +1,6 @@
 slug: as-an-industry-we-need-to-understand-that-not
 date: 2013-04-07 14:00:49
+title: As an industry, we need to understand that not wanting root access...
 type: quote
 ---
 

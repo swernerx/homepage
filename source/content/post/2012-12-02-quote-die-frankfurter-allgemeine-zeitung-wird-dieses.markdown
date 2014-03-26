@@ -1,5 +1,6 @@
 slug: die-frankfurter-allgemeine-zeitung-wird-dieses
 date: 2012-12-02 20:37:01
+title: Die Frankfurter Allgemeine Zeitung wird dieses Jahr mit einem enormen...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: paywalls-werden-die-grundlegenden-probleme-von
 date: 2013-04-05 13:14:35
+title: Paywalls werden die grundlegenden Probleme von Zeitungen im Netz...
 type: quote
 ---
 

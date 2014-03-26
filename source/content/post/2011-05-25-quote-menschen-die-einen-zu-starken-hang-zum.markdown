@@ -1,5 +1,6 @@
 slug: menschen-die-einen-zu-starken-hang-zum
 date: 2011-05-25 19:25:22
+title: Menschen, die einen zu starken Hang zum Geldausgeben haben, neigen...
 type: quote
 ---
 

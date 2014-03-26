@@ -1,5 +1,6 @@
 slug: in-many-ways-nespresso-is-the-apple-of-coffee
 date: 2013-06-05 18:45:22
+title: In many ways, Nespresso is the Apple of coffee companies.
 type: quote
 ---
 

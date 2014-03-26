@@ -1,5 +1,6 @@
 slug: accessory-markets-never-fully-develop-on-android
 date: 2011-01-13 23:20:43
+title: Accessory markets never fully develop on Android. People really like...
 type: quote
 ---
 

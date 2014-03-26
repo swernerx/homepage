@@ -1,5 +1,6 @@
 slug: most-high-school-students-make-blind-choices-about
 date: 2013-01-10 10:19:34
+title: Most high school students make blind choices about college because...
 type: quote
 ---
 

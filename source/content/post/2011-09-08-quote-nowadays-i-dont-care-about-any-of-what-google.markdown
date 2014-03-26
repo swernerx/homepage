@@ -1,5 +1,6 @@
 slug: nowadays-i-dont-care-about-any-of-what-google
 date: 2011-09-08 08:56:17
+title: Nowadays, I don’t care about any of what Google does. Google+? Meh,...
 type: quote
 ---
 

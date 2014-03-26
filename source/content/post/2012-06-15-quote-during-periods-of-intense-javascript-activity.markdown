@@ -1,5 +1,6 @@
 slug: during-periods-of-intense-javascript-activity
 date: 2012-06-15 16:55:07
+title: During periods of intense JavaScript activity, Chakra can parallelize...
 type: quote
 ---
 

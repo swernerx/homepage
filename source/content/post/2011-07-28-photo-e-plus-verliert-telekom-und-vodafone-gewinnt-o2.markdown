@@ -1,5 +1,6 @@
 slug: e-plus-verliert-telekom-und-vodafone-gewinnt-o2
 date: 2011-07-28 21:45:08
+title: E-Plus verliert. Telekom und Vodafone gewinnt. O2 irgendwo...
 type: photo
 ---
 

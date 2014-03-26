@@ -1,5 +1,6 @@
 slug: steve-jobs-on-wired-com
 date: 2011-10-06 10:57:02
+title: Steve Jobs on [Wired.com](http://www.wired.com/)
 type: photo
 ---
 

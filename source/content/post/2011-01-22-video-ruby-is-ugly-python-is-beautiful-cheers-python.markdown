@@ -1,5 +1,8 @@
 slug: ruby-is-ugly-python-is-beautiful-cheers-python
 date: 2011-01-22 22:42:01
+title: Ruby is ugly. Python is beautiful. Cheers!
+
+ 
 type: video
 ---
 

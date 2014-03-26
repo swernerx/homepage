@@ -1,5 +1,6 @@
 slug: backblaze-open-sources-specs-for-a-new-135tb
 date: 2011-07-21 13:45:24
+title: Backblaze open sources specs for a new, 135TB storage pod that costs...
 type: quote
 ---
 

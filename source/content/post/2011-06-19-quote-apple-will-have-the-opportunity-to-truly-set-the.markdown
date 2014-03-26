@@ -1,5 +1,6 @@
 slug: apple-will-have-the-opportunity-to-truly-set-the
 date: 2011-06-19 20:53:45
+title: Apple will have the opportunity to truly set the stage for the next...
 type: quote
 ---
 

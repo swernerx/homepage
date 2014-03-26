@@ -1,5 +1,6 @@
 slug: extrinsic-motivation-is-a-great-way-to-get-people
 date: 2011-07-11 02:50:10
+title: Extrinsic motivation is a great way to get people to do boring and...
 type: quote
 ---
 

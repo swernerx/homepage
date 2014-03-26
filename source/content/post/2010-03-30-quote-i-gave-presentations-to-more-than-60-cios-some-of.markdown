@@ -1,5 +1,6 @@
 slug: i-gave-presentations-to-more-than-60-cios-some-of
 date: 2010-03-30 09:45:47
+title: I gave presentations to more than 60 CIOs. Some of them never heard...
 type: quote
 ---
 

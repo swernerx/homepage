@@ -1,5 +1,6 @@
 slug: if-you-start-hiring-b-players-expect-what-steve
 date: 2011-10-09 13:41:32
+title: If you start hiring B players, expect what Steve called “the bozo...
 type: quote
 ---
 

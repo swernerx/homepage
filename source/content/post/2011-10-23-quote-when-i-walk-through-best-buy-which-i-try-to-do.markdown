@@ -1,5 +1,6 @@
 slug: when-i-walk-through-best-buy-which-i-try-to-do
 date: 2011-10-23 14:05:20
+title: When I walk through Best Buy, which I try to do once every few...
 type: quote
 ---
 

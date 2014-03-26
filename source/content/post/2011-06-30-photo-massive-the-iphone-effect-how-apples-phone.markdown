@@ -1,5 +1,6 @@
 slug: massive-the-iphone-effect-how-apples-phone
 date: 2011-06-30 10:10:18
+title: Massive: 
 type: photo
 ---
 

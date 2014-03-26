@@ -1,5 +1,6 @@
 slug: python-3-x-releases-starting-with-python-3-2-are
 date: 2012-11-28 14:33:55
+title: Python 3.x releases, starting with Python 3.2, are experimentally...
 type: quote
 ---
 

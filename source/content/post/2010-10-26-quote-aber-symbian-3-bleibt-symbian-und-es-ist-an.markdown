@@ -1,5 +1,6 @@
 slug: aber-symbian-3-bleibt-symbian-und-es-ist-an
 date: 2010-10-26 21:33:50
+title: Aber Symbian 3 bleibt Symbian. Und es ist an vielen Stellen verflixt...
 type: quote
 ---
 

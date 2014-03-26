@@ -1,5 +1,6 @@
 slug: what-google-needs-now-is-a-visionary-leader-to
 date: 2011-01-23 14:21:26
+title: What Google needs now is a visionary leader to take it to new...
 type: quote
 ---
 

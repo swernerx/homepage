@@ -1,5 +1,6 @@
 slug: ces-is-the-home-of-the-mainstream-the-chorus-the
 date: 2011-01-29 09:47:27
+title: CES is the home of the mainstream, the chorus, the echo chamber; by...
 type: quote
 ---
 

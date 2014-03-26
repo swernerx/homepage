@@ -1,5 +1,6 @@
 slug: der-limitierende-faktor-wird-in-zukunft-nicht-die
 date: 2013-07-30 18:27:48
+title: Der limitierende Faktor wird in Zukunft nicht die...
 type: quote
 ---
 

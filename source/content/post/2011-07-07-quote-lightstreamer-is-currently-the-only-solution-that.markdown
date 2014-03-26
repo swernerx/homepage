@@ -1,5 +1,6 @@
 slug: lightstreamer-is-currently-the-only-solution-that
 date: 2011-07-07 08:30:50
+title: Lightstreamer is currently the only solution that is able to bypass...
 type: quote
 ---
 

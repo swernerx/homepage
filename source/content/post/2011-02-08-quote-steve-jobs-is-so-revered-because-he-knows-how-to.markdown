@@ -1,5 +1,6 @@
 slug: steve-jobs-is-so-revered-because-he-knows-how-to
 date: 2011-02-08 16:48:28
+title: Steve Jobs is so revered because he knows how to run a business and...
 type: quote
 ---
 

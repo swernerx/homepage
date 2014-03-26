@@ -1,5 +1,6 @@
 slug: its-now-only-eur0-08-per-minute-to-call-mobile
 date: 2011-08-03 08:54:35
+title: It’s now only €0.08 per minute to call mobile phones in the...
 type: quote
 ---
 

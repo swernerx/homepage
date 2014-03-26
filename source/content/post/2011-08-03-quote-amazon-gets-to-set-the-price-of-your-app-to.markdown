@@ -1,5 +1,6 @@
 slug: amazon-gets-to-set-the-price-of-your-app-to
 date: 2011-08-03 08:49:58
+title: Amazon gets to set the price of your app to whatever they want,...
 type: quote
 ---
 

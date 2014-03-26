@@ -1,5 +1,6 @@
 slug: stories-are-assigned-for-print-tablets-and-the
 date: 2011-08-09 00:11:49
+title: Stories are assigned for print, tablets and the web by the same...
 type: quote
 ---
 

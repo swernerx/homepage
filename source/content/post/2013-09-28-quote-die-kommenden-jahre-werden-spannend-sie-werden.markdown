@@ -1,5 +1,6 @@
 slug: die-kommenden-jahre-werden-spannend-sie-werden
 date: 2013-09-28 20:55:54
+title: Die kommenden Jahre werden spannend. Sie werden geprägt sein durch...
 type: quote
 ---
 

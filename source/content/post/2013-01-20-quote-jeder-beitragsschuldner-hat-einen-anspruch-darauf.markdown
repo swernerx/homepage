@@ -1,5 +1,6 @@
 slug: jeder-beitragsschuldner-hat-einen-anspruch-darauf
 date: 2013-01-20 15:56:51
+title: Jeder Beitragsschuldner hat einen Anspruch darauf, zu wissen, was mit...
 type: quote
 ---
 

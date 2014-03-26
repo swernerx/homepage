@@ -1,5 +1,6 @@
 slug: googles-engineering-culture-doesnt-quite-grok
 date: 2011-04-19 22:54:44
+title: Google’s engineering culture doesn’t quite grok why people would...
 type: quote
 ---
 

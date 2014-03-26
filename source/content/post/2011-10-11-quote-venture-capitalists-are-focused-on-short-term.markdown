@@ -1,5 +1,6 @@
 slug: venture-capitalists-are-focused-on-short-term
 date: 2011-10-11 14:03:58
+title: Venture capitalists are focused on short-term innovations and that is...
 type: quote
 ---
 

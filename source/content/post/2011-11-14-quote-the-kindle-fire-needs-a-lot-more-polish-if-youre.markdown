@@ -1,5 +1,6 @@
 slug: the-kindle-fire-needs-a-lot-more-polish-if-youre
 date: 2011-11-14 08:52:04
+title: The Kindle Fire needs a lot more polish; if you’re used to an iPad or...
 type: quote
 ---
 

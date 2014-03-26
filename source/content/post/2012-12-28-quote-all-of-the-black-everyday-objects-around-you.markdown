@@ -1,5 +1,6 @@
 slug: all-of-the-black-everyday-objects-around-you
 date: 2012-12-28 19:21:52
+title: All of the “black” everyday objects around you have some amount of...
 type: quote
 ---
 

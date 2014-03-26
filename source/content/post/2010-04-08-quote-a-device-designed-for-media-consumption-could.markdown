@@ -1,5 +1,6 @@
 slug: a-device-designed-for-media-consumption-could
 date: 2010-04-08 20:59:28
+title: A device designed for media consumption could validate Apple’s...
 type: quote
 ---
 

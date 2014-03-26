@@ -1,5 +1,6 @@
 slug: the-smartphone-is-clearly-a-bite-sized-experience
 date: 2013-05-02 17:51:14
+title: The smartphone is clearly a bite-sized experience where people are...
 type: quote
 ---
 

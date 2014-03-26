@@ -1,5 +1,6 @@
 slug: apple-just-secured-its-speed-advantage-over-the
 date: 2010-04-28 20:37:34
+title: Apple just secured its speed advantage over the competition for at...
 type: quote
 ---
 

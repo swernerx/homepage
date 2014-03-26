@@ -1,5 +1,6 @@
 slug: my-foot-taken-with-instagram
 date: 2010-10-15 13:47:56
+title: My foot! (Taken with 
 type: photo
 ---
 

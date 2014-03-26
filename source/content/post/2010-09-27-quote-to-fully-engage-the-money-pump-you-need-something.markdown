@@ -1,5 +1,6 @@
 slug: to-fully-engage-the-money-pump-you-need-something
 date: 2010-09-27 16:54:11
+title: To fully engage the money pump you need something like an iTunes...
 type: quote
 ---
 

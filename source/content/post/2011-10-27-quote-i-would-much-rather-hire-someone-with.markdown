@@ -1,5 +1,6 @@
 slug: i-would-much-rather-hire-someone-with
 date: 2011-10-27 00:30:45
+title: I would much rather hire someone with professionalism than passion...
 type: quote
 ---
 

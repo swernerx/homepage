@@ -1,5 +1,6 @@
 slug: i-think-you-really-have-four-choices
 date: 2010-05-31 23:01:49
+title: I think you really have four choices - #BlackBerry, #Apple, #Google...
 type: quote
 ---
 

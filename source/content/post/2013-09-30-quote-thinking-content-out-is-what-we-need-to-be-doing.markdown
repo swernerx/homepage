@@ -1,5 +1,6 @@
 slug: thinking-content-out-is-what-we-need-to-be-doing
 date: 2013-09-30 15:52:23
+title: Thinking content-out is what we need to be doing to create truly...
 type: quote
 ---
 

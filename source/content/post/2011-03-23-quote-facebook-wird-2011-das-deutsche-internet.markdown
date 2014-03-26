@@ -1,5 +1,6 @@
 slug: facebook-wird-2011-das-deutsche-internet
 date: 2011-03-23 22:07:37
+title: Facebook wird 2011 das deutsche Internet dominieren, wie es noch nie...
 type: quote
 ---
 

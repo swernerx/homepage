@@ -1,5 +1,6 @@
 slug: newspapers-cant-entice-us-into-small-payment
 date: 2011-06-17 22:26:18
+title: Newspapers can’t entice us into small payment systems, because we...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: one-of-the-things-the-atlantic-has-focused-its
 date: 2012-12-14 16:31:52
+title: One of the things The Atlantic has focused its attention on instead...
 type: quote
 ---
 

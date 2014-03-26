@@ -1,5 +1,6 @@
 slug: using-inheritance-as-a-vehicle-for-code-reuse-is-a
 date: 2011-05-15 20:02:06
+title: Using inheritance as a vehicle for code reuse is a bit like ordering...
 type: quote
 ---
 

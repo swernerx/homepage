@@ -1,5 +1,6 @@
 slug: most-of-the-phonegap-javascript-will-be-completely
 date: 2010-08-13 22:59:21
+title: Most of the PhoneGap JavaScript will be completely cross platform.
 type: quote
 ---
 

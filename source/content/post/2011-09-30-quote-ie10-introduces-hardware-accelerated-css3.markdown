@@ -1,5 +1,6 @@
 slug: ie10-introduces-hardware-accelerated-css3
 date: 2011-09-30 12:03:58
+title: IE10 introduces hardware-accelerated CSS3 text-shadow.
 type: quote
 ---
 

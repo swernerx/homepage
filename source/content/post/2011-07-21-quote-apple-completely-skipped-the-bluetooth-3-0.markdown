@@ -1,5 +1,6 @@
 slug: apple-completely-skipped-the-bluetooth-3-0
 date: 2011-07-21 13:45:27
+title: Apple completely skipped the Bluetooth 3.0 specification and opted...
 type: quote
 ---
 

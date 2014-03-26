@@ -1,5 +1,6 @@
 slug: the-new-york-times-expect-its-paywall-to-be
 date: 2011-06-11 12:10:22
+title: The New York Times expect its paywall to be revenue neutral — the...
 type: quote
 ---
 

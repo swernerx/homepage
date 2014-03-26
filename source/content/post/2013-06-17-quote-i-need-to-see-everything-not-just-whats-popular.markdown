@@ -1,5 +1,6 @@
 slug: i-need-to-see-everything-not-just-whats-popular
 date: 2013-06-17 08:56:51
+title: I need to see everything, not just what’s popular, to do my job.
 type: quote
 ---
 

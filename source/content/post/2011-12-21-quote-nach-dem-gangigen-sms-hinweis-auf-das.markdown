@@ -1,5 +1,6 @@
 slug: nach-dem-gangigen-sms-hinweis-auf-das
 date: 2011-12-21 16:30:44
+title: Nach dem gängigen SMS-Hinweis auf das aufgebrauchte Inklusiv-Volumen...
 type: quote
 ---
 

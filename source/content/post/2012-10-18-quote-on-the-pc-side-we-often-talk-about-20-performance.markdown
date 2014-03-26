@@ -1,5 +1,6 @@
 slug: on-the-pc-side-we-often-talk-about-20-performance
 date: 2012-10-18 07:29:33
+title: On the PC side we often talk about 20% performance improvements from...
 type: quote
 ---
 

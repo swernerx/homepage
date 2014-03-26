@@ -1,5 +1,6 @@
 slug: google-is-looking-pretty-good-almost-ungoogly
 date: 2011-06-29 11:43:40
+title: Google+ is looking pretty good. Almost unGoogly…
 type: quote
 ---
 

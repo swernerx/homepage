@@ -1,5 +1,6 @@
 slug: while-appropriateness-isnt-a-sexy-concept-its
 date: 2011-09-19 09:15:50
+title: While appropriateness isn’t a sexy concept, it’s the acid test that...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: if-the-trend-continues-apple-could-see-100
 date: 2011-01-20 00:19:52
+title: If the trend continues, Apple could see $100 billion in cash by this...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-kinect-was-supposedly-the-fastest-consumer
 date: 2011-10-17 20:31:40
+title: The Kinect was supposedly the fastest consumer electronics device to...
 type: quote
 ---
 

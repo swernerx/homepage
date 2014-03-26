@@ -1,5 +1,6 @@
 slug: there-is-no-such-thing-as-a-complete-twitter
 date: 2011-05-19 19:32:50
+title: There is no such thing as a complete Twitter client by someone other...
 type: quote
 ---
 

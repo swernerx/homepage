@@ -1,5 +1,6 @@
 slug: wenn-auf-die-frage-welcher-student-es-sich
 date: 2011-06-25 11:17:52
+title: Wenn auf die Frage, welcher Student es sich vorstellen könne, in die...
 type: quote
 ---
 

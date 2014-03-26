@@ -1,5 +1,6 @@
 slug: indexeddb-is-perhaps-one-of-the-worst-api-designs
 date: 2012-03-29 22:10:27
+title: IndexedDB is perhaps one of the worst API designs I’ve ever seen.
 type: quote
 ---
 

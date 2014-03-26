@@ -1,5 +1,6 @@
 slug: i-believe-apples-new-runtime-language-successor
 date: 2010-07-08 14:27:05
+title: I believe Apple’s new runtime language successor to be (or very close...
 type: quote
 ---
 

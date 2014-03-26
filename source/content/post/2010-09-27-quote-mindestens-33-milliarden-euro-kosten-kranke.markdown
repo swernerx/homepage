@@ -1,5 +1,6 @@
 slug: mindestens-33-milliarden-euro-kosten-kranke
 date: 2010-09-27 16:54:23
+title: Mindestens 33 Milliarden Euro kosten kranke Raucher und solche, die...
 type: quote
 ---
 

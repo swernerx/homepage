@@ -1,5 +1,6 @@
 slug: very-cool-effect-techniques-avatar-extended
 date: 2010-11-13 14:12:47
+title: Very cool effect techniques: 
 type: video
 ---
 

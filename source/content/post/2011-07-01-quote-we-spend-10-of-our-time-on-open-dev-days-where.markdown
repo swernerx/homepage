@@ -1,5 +1,6 @@
 slug: we-spend-10-of-our-time-on-open-dev-days-where
 date: 2011-07-01 08:42:42
+title: We spend 10% of our time on open dev days, where everybody is free to...
 type: quote
 ---
 

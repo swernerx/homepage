@@ -1,5 +1,6 @@
 slug: it-feels-like-it-was-rushed-to-market-and
 date: 2011-03-08 10:23:34
+title: It feels like it was rushed to market and delivered to consumers...
 type: quote
 ---
 

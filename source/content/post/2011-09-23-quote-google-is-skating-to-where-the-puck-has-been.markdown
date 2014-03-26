@@ -1,5 +1,6 @@
 slug: google-is-skating-to-where-the-puck-has-been
 date: 2011-09-23 20:28:32
+title: Google is skating to where the puck has been. Apple skates to where...
 type: quote
 ---
 

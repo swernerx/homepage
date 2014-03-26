@@ -1,5 +1,6 @@
 slug: if-you-arent-innovating-yourself-then-someone
 date: 2011-07-28 13:13:23
+title: If you aren’t innovating yourself then someone else is going to do...
 type: quote
 ---
 

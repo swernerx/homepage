@@ -1,5 +1,6 @@
 slug: blackberry-6-sneak-peak-at-wes-2010-they-will
 date: 2010-04-28 21:36:23
+title: 
 type: video
 ---
 

@@ -1,5 +1,6 @@
 slug: whenever-i-gave-away-computer-gifts-to-friends-and
 date: 2013-03-15 10:45:46
+title: Whenever I gave away computer gifts to friends and family, it was...
 type: quote
 ---
 

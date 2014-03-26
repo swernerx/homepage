@@ -1,5 +1,6 @@
 slug: javascript-is-obtuse-was-unfinished-at-the-time
 date: 2010-10-09 12:08:14
+title: Javascript is obtuse, was unfinished at the time it was released,...
 type: quote
 ---
 

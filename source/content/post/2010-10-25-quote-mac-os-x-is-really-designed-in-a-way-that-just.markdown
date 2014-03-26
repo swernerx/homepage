@@ -1,5 +1,6 @@
 slug: mac-os-x-is-really-designed-in-a-way-that-just
 date: 2010-10-25 10:47:23
+title: Mac OS X is really designed in a way that just makes sense. The best...
 type: quote
 ---
 

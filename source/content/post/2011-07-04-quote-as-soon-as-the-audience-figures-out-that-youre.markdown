@@ -1,5 +1,6 @@
 slug: as-soon-as-the-audience-figures-out-that-youre
 date: 2011-07-04 23:40:07
+title: As soon as the audience figures out that you’re reading the text, it...
 type: quote
 ---
 

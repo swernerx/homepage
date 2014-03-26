@@ -1,5 +1,6 @@
 slug: the-reason-browser-apps-lose-this-fight-is-because
 date: 2013-05-21 09:06:09
+title: The reason browser apps lose this fight is because of a raft of small...
 type: quote
 ---
 

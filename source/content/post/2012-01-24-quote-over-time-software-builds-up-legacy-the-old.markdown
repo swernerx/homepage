@@ -1,5 +1,6 @@
 slug: over-time-software-builds-up-legacy-the-old
 date: 2012-01-24 18:31:42
+title: Over time, software builds up legacy. The old technology is baked in,...
 type: quote
 ---
 

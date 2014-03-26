@@ -1,5 +1,6 @@
 slug: it-begins-to-matter-less-if-you-are-on-a-desktop
 date: 2012-02-23 08:44:47
+title: It begins to matter less if you are on a desktop, laptop, phone or a...
 type: quote
 ---
 

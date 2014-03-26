@@ -1,5 +1,6 @@
 slug: the-problem-with-it-departments-seems-to-be-that
 date: 2011-02-24 03:32:26
+title: The problem with IT departments seems to be that they’re set up as a...
 type: quote
 ---
 

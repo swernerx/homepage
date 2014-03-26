@@ -1,5 +1,6 @@
 slug: zynga-isnt-any-step-closer-to-solving-its-number
 date: 2013-07-03 09:01:34
+title: Zynga isn’t any step closer to solving its number one challenge —...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: apples-central-design-habit-is-solving-a-problem
 date: 2011-11-17 09:49:57
+title: Apple’s central design habit is solving a problem and then...
 type: quote
 ---
 

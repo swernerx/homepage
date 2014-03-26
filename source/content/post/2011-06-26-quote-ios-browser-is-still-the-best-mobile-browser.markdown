@@ -1,5 +1,6 @@
 slug: ios-browser-is-still-the-best-mobile-browser
 date: 2011-06-26 13:26:37
+title: iOS browser is still the best mobile browser.
 type: quote
 ---
 

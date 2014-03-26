@@ -1,5 +1,6 @@
 slug: apple-has-proven-they-can-break-into-the-top-5
 date: 2010-11-09 12:58:50
+title: Apple has proven they can break into the Top 5, while offering only...
 type: quote
 ---
 

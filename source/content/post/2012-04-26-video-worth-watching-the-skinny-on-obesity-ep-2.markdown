@@ -1,5 +1,6 @@
 slug: worth-watching-the-skinny-on-obesity-ep-2
 date: 2012-04-26 10:47:45
+title: Worth Watching: The Skinny on Obesity (Ep. 2): Sickeningly Sweet...
 type: video
 ---
 

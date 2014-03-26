@@ -1,5 +1,6 @@
 slug: arme-menschen-konnen-keine-steuern-bezahlen-also
 date: 2013-02-25 09:08:31
+title: Arme Menschen können keine Steuern bezahlen, also muss niemand mehr...
 type: quote
 ---
 

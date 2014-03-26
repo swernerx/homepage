@@ -1,5 +1,6 @@
 slug: twitter-can-do-whatever-they-want-its-the
 date: 2011-05-19 19:35:06
+title: Twitter can do whatever they want. It’s the simple, brutal truth...
 type: quote
 ---
 

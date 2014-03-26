@@ -1,5 +1,6 @@
 slug: in-order-to-make-good-decisions-i-have-to
 date: 2011-11-21 08:39:03
+title: In order to make good decisions I have to understand the issues, the...
 type: quote
 ---
 

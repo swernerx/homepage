@@ -1,5 +1,6 @@
 slug: mit-dem-wegfall-des-readers-gibt-es-keinen-grund
 date: 2013-07-01 18:27:19
+title: Mit dem Wegfall des Readers gibt es keinen Grund, sich weiterhin mit...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: i-want-good-storytelling-and-analysis-not-naked
 date: 2011-04-19 22:54:41
+title: I want good storytelling and analysis, not naked facts. I want news...
 type: quote
 ---
 

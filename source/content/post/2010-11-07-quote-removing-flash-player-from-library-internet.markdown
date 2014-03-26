@@ -1,5 +1,6 @@
 slug: removing-flash-player-from-library-internet
 date: 2010-11-07 16:28:14
+title: Removing Flash Player from /Library/Internet Plug-Ins/ prevents...
 type: quote
 ---
 

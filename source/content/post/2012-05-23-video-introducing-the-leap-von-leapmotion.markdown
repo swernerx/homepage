@@ -1,5 +1,6 @@
 slug: introducing-the-leap-von-leapmotion
 date: 2012-05-23 17:28:32
+title: Introducing the Leap (von 
 type: video
 ---
 

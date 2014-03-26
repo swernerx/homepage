@@ -1,5 +1,6 @@
 slug: neither-google-nor-microsoft-will-ever-be-able-to
 date: 2011-01-01 00:24:48
+title: Neither Google nor Microsoft will ever be able to tailor their...
 type: quote
 ---
 

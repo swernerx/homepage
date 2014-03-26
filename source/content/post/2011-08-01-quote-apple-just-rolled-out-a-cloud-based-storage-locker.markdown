@@ -1,5 +1,6 @@
 slug: apple-just-rolled-out-a-cloud-based-storage-locker
 date: 2011-08-01 18:59:21
+title: Apple just rolled out a cloud-based storage locker for TV shows.
 type: quote
 ---
 

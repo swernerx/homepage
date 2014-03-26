@@ -1,5 +1,6 @@
 slug: so-trauen-knapp-45-prozent-der-befragten-keinem
 date: 2011-09-22 18:05:53
+title: So trauen knapp 45 Prozent der Befragten keinem Unternehmen zu, den...
 type: quote
 ---
 

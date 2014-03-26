@@ -1,5 +1,6 @@
 slug: combine-flipboard-or-whatever-comes-along-and
 date: 2010-10-30 12:59:11
+title: Combine Flipboard or whatever comes along and improves upon it with...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: a-lot-of-open-source-companies-do-their-customers
 date: 2013-08-29 08:54:59
+title: A lot of open source companies do their customers a disservice by...
 type: quote
 ---
 

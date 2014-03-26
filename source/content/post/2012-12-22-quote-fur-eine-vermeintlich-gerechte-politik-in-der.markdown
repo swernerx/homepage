@@ -1,5 +1,6 @@
 slug: fur-eine-vermeintlich-gerechte-politik-in-der
 date: 2012-12-22 12:44:24
+title: Für eine vermeintlich gerechte Politik in der Gegenwart werden...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-over-riding-assumption-in-forecasting-seems-to
 date: 2011-04-19 22:54:50
+title: The over-riding assumption in forecasting seems to be that the future...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-engineering-background-brings-a-rigorous
 date: 2010-06-20 01:59:42
+title: The engineering background brings a rigorous thought process that...
 type: quote
 ---
 

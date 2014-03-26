@@ -1,5 +1,6 @@
 slug: there-will-be-several-big-players-when-the
 date: 2010-08-24 23:49:56
+title: There will be several big players when the smartphone wars settle...
 type: quote
 ---
 

@@ -1,5 +1,8 @@
 slug: thats-nice-via-typomaps-georgraphy-meets
 date: 2010-10-29 13:43:21
+title: That’s nice!
+
+ Via: 
 type: photo
 ---
 

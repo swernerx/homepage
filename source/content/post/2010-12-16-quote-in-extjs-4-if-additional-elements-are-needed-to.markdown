@@ -1,5 +1,6 @@
 slug: in-extjs-4-if-additional-elements-are-needed-to
 date: 2010-12-16 17:50:45
+title: In ExtJS 4 if additional elements are needed to create a component,...
 type: quote
 ---
 

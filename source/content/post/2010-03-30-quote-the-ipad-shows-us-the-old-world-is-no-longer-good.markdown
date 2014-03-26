@@ -1,5 +1,6 @@
 slug: the-ipad-shows-us-the-old-world-is-no-longer-good
 date: 2010-03-30 09:50:19
+title: The iPad shows us the old world is no longer good enough. We’ll need...
 type: quote
 ---
 

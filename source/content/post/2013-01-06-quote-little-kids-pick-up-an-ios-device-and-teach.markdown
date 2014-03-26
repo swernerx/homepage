@@ -1,5 +1,6 @@
 slug: little-kids-pick-up-an-ios-device-and-teach
 date: 2013-01-06 08:25:40
+title: Little kids pick up an iOS device and teach themselves how to use it...
 type: quote
 ---
 

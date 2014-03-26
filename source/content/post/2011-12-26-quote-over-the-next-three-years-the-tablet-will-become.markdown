@@ -1,5 +1,6 @@
 slug: over-the-next-three-years-the-tablet-will-become
 date: 2011-12-26 17:59:52
+title: Over the next three years the tablet will become the primary tool for...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: i-love-dropbox-but-itll-be-impossible-for-them
 date: 2011-10-23 13:59:47
+title: I love Dropbox, but it’ll be impossible for them to do the deep OS...
 type: quote
 ---
 

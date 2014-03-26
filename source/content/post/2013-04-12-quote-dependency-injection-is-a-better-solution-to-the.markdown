@@ -1,5 +1,6 @@
 slug: dependency-injection-is-a-better-solution-to-the
 date: 2013-04-12 16:07:53
+title: Dependency injection is a better solution to the problem that Flight...
 type: quote
 ---
 

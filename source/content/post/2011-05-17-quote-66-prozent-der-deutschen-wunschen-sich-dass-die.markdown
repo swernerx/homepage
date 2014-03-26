@@ -1,5 +1,6 @@
 slug: 66-prozent-der-deutschen-wunschen-sich-dass-die
 date: 2011-05-17 09:39:41
+title: 66 Prozent der Deutschen wünschen sich, dass die Schulen mehr...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: gesundheit-muss-vermehrt-als-ressource-von-firmen
 date: 2013-05-09 19:35:13
+title: Gesundheit muss vermehrt als Ressource von Firmen anerkannt werden.
 type: quote
 ---
 

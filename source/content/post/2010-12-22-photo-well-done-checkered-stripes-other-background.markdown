@@ -1,5 +1,6 @@
 slug: well-done-checkered-stripes-other-background
 date: 2010-12-22 23:39:33
+title: Well done: 
 type: photo
 ---
 

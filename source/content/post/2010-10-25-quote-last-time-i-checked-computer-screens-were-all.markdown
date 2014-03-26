@@ -1,5 +1,6 @@
 slug: last-time-i-checked-computer-screens-were-all
 date: 2010-10-25 11:00:45
+title: Last time I checked, computer screens were all wider than they are...
 type: quote
 ---
 

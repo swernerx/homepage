@@ -1,5 +1,6 @@
 slug: die-eigene-immobilie-spart-im-alter-zwar-viel
 date: 2012-12-19 21:19:20
+title: Die eigene Immobilie spart im Alter zwar viel Miete. Aber sie ist ein...
 type: quote
 ---
 

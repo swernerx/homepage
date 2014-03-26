@@ -1,5 +1,6 @@
 slug: professional-music-producers-generally-capture
 date: 2011-02-23 02:31:23
+title: Professional music producers generally capture studio recordings in a...
 type: quote
 ---
 

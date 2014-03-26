@@ -1,5 +1,6 @@
 slug: many-people-spend-their-entire-lives-with-a-dream
 date: 2011-12-08 18:20:32
+title: Many people spend their entire lives with a dream they keep in their...
 type: quote
 ---
 

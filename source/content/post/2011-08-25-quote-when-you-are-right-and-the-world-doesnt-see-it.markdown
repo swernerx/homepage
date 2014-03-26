@@ -1,5 +1,6 @@
 slug: when-you-are-right-and-the-world-doesnt-see-it
 date: 2011-08-25 08:19:41
+title: When you are right and the world doesn’t see it that way, you just...
 type: quote
 ---
 

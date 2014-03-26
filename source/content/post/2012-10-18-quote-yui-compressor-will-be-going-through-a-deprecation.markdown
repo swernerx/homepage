@@ -1,5 +1,6 @@
 slug: yui-compressor-will-be-going-through-a-deprecation
 date: 2012-10-18 09:00:13
+title: YUI Compressor will be going through a deprecation process as the YUI...
 type: quote
 ---
 

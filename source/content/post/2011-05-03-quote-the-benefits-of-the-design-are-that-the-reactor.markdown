@@ -1,5 +1,6 @@
 slug: the-benefits-of-the-design-are-that-the-reactor
 date: 2011-05-03 22:45:34
+title: The benefits of the design are that the reactor doesn’t have to be...
 type: quote
 ---
 

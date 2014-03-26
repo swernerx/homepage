@@ -1,5 +1,6 @@
 slug: in-our-testing-the-bada-phone-reported-17x-slower
 date: 2011-07-21 13:45:16
+title: In our testing the bada phone reported 17x slower JavaScript...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: compared-to-google-music-beta-and-amazon-web
 date: 2011-08-30 18:42:31
+title: Compared to Google Music Beta and Amazon Web Player, there’s now...
 type: quote
 ---
 

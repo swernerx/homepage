@@ -1,5 +1,6 @@
 slug: as-ie-changes-and-supports-new-technologies
 date: 2010-06-17 09:03:40
+title: As IE changes and supports new technologies, developers will still...
 type: quote
 ---
 

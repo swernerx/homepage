@@ -1,5 +1,6 @@
 slug: if-you-code-html-zen-coding-will-change-your
 date: 2010-05-02 10:14:00
+title: 
 type: photo
 ---
 

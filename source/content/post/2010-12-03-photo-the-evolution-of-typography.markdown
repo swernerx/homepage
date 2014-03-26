@@ -1,5 +1,6 @@
 slug: the-evolution-of-typography
 date: 2010-12-03 22:14:42
+title: 
 type: photo
 ---
 

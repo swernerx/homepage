@@ -1,5 +1,6 @@
 slug: we-say-its-incredible-amazing-awesome
 date: 2010-06-28 10:25:24
+title: We say it’s incredible, amazing, awesome, mind-blowing, overwhelming,...
 type: quote
 ---
 

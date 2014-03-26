@@ -1,5 +1,6 @@
 slug: wer-weiter-draussen-wohnt-soll-mehr-zahlen-als
 date: 2010-04-18 14:55:34
+title: Wer weiter draußen wohnt, soll mehr zahlen als derjenige der im...
 type: quote
 ---
 

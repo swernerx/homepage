@@ -1,5 +1,6 @@
 slug: a-product-strategy-that-appears-to-be-in-constant
 date: 2010-06-27 21:34:43
+title: A product strategy that appears to be in constant transition isn’t...
 type: quote
 ---
 

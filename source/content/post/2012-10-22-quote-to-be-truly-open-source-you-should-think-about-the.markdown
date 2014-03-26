@@ -1,5 +1,6 @@
 slug: to-be-truly-open-source-you-should-think-about-the
 date: 2012-10-22 17:08:00
+title: To be truly open source you should think about the maintenance and...
 type: quote
 ---
 

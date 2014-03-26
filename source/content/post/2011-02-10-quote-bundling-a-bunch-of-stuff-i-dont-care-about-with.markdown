@@ -1,5 +1,6 @@
 slug: bundling-a-bunch-of-stuff-i-dont-care-about-with
 date: 2011-02-10 17:05:39
+title: Bundling a bunch of stuff I don’t care about with the few pieces I...
 type: quote
 ---
 

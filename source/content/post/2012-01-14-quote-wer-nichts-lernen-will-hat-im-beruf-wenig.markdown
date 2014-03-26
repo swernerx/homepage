@@ -1,5 +1,6 @@
 slug: wer-nichts-lernen-will-hat-im-beruf-wenig
 date: 2012-01-14 20:07:56
+title: Wer nichts lernen will, hat im Beruf wenig Aussicht auf Erfolg. Da...
 type: quote
 ---
 

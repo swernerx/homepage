@@ -1,5 +1,6 @@
 slug: if-you-configure-your-imac-with-both-the
 date: 2011-05-03 21:55:34
+title: If you configure your iMac with both the solid-state drive and a...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: pretty-nice-iphone-5-case-by-switcheasy
 date: 2010-07-12 11:43:39
+title: Pretty nice 
 type: photo
 ---
 

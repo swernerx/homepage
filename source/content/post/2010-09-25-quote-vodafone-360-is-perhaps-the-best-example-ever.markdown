@@ -1,5 +1,6 @@
 slug: vodafone-360-is-perhaps-the-best-example-ever
 date: 2010-09-25 00:55:13
+title: Vodafone 360 is perhaps the best example — ever — of what happens...
 type: quote
 ---
 

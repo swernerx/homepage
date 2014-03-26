@@ -1,5 +1,6 @@
 slug: the-idea-without-the-execution-is-nothing
 date: 2011-06-25 11:11:15
+title: The idea without the execution is nothing.
 type: quote
 ---
 

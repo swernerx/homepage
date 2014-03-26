@@ -1,5 +1,6 @@
 slug: when-viewed-through-the-lens-of-twitter-sharing
 date: 2011-08-01 19:02:52
+title: When viewed through the lens of Twitter sharing the Daily is losing...
 type: quote
 ---
 

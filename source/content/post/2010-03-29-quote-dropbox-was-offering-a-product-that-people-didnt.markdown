@@ -1,5 +1,6 @@
 slug: dropbox-was-offering-a-product-that-people-didnt
 date: 2010-03-29 13:53:00
+title: Dropbox was offering a product that people didn’t know they needed...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: each-awesome-feature-might-attract-a-new-user-but
 date: 2010-11-13 10:06:50
+title: Each awesome feature might attract a new user, but each sucky feature...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: urls-are-for-humans-not-for-search-engines
 date: 2010-12-30 19:35:54
+title: URLs are for humans — not for search engines
 type: quote
 ---
 

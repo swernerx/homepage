@@ -1,5 +1,6 @@
 slug: count-how-many-professional-developers-show-me
 date: 2011-06-10 08:32:10
+title: Count how many professional developers show me Windows Phone 7 apps...
 type: quote
 ---
 

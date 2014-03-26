@@ -1,5 +1,6 @@
 slug: i-did-not-know-what-i-wanted-in-a-reminder-app
 date: 2011-10-15 13:38:09
+title: I did not know what I wanted in a reminder app. I’m very glad Steve...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: why-cant-android-decouple-its-webkit-browser-and
 date: 2011-06-27 08:26:41
+title: Why can’t Android decouple its webkit browser and make it updatable?
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: if-you-sing-in-a-band-would-you-rather-have
 date: 2010-09-04 23:09:32
+title: If you sing in a band would you rather have followers on Twitter or...
 type: quote
 ---
 

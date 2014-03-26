@@ -1,5 +1,6 @@
 slug: the-official-flyer-from-cream-amnesia-ibiza
 date: 2010-07-01 23:00:56
+title: The official flyer from Cream/Amnesia, Ibiza
 type: photo
 ---
 

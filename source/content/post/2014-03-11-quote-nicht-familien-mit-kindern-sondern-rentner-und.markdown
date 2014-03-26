@@ -1,5 +1,6 @@
 slug: nicht-familien-mit-kindern-sondern-rentner-und
 date: 2014-03-11 21:57:55
+title: Nicht Familien mit Kindern, sondern Rentner und Pensionäre bestimmen...
 type: quote
 ---
 

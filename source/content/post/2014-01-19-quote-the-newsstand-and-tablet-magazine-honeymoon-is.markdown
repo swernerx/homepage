@@ -1,5 +1,6 @@
 slug: the-newsstand-and-tablet-magazine-honeymoon-is
 date: 2014-01-19 08:40:24
+title: The Newsstand and tablet magazine honeymoon is over. Apple knows...
 type: quote
 ---
 

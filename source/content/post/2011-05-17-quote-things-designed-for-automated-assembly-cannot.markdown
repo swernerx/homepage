@@ -1,5 +1,6 @@
 slug: things-designed-for-automated-assembly-cannot
 date: 2011-05-17 10:39:18
+title: Things designed for automated assembly cannot achieve as much...
 type: quote
 ---
 

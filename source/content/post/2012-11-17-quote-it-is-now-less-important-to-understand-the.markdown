@@ -1,5 +1,6 @@
 slug: it-is-now-less-important-to-understand-the
 date: 2012-11-17 17:54:11
+title: It is now less important to understand the intricacies of meta tags,...
 type: quote
 ---
 

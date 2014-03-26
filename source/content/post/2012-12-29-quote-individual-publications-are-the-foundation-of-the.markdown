@@ -1,5 +1,6 @@
 slug: individual-publications-are-the-foundation-of-the
 date: 2012-12-29 13:55:16
+title: Individual publications are the foundation of the way we read. There...
 type: quote
 ---
 

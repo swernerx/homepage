@@ -1,5 +1,6 @@
 slug: you-dont-change-the-world-by-giving-people-what
 date: 2010-05-31 21:57:38
+title: You don’t change the world by giving people what they say they want,...
 type: quote
 ---
 

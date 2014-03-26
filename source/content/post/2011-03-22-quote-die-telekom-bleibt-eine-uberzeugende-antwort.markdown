@@ -1,5 +1,6 @@
 slug: die-telekom-bleibt-eine-uberzeugende-antwort
 date: 2011-03-22 12:55:33
+title: Die Telekom bleibt eine überzeugende Antwort darauf schuldig, wo...
 type: quote
 ---
 

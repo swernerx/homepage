@@ -1,5 +1,6 @@
 slug: the-ipad-2-went-on-sale-at-5-00-pm-local-time-on
 date: 2011-03-15 09:48:21
+title: The iPad 2 went on sale at 5:00 pm local time on Friday and by...
 type: quote
 ---
 

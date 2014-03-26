@@ -1,5 +1,6 @@
 slug: rbc-maintains-a-price-target-of-500-for-shares-of
 date: 2011-08-05 08:51:31
+title: RBC maintains a price target of $500 for shares of Apple stock,...
 type: quote
 ---
 

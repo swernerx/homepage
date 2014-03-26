@@ -1,5 +1,6 @@
 slug: thunderbolt-can-operate-as-a-true-powerful
 date: 2011-05-03 21:51:17
+title: Thunderbolt can operate as a true, powerful expansion bus, which...
 type: quote
 ---
 

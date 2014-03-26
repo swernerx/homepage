@@ -1,5 +1,6 @@
 slug: if-you-add-all-sorts-of-extra-constructs-to
 date: 2013-06-20 10:25:00
+title: If you add all sorts of extra constructs to AngularJS to make it work...
 type: quote
 ---
 

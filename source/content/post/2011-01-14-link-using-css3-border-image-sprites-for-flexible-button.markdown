@@ -1,5 +1,6 @@
 slug: using-css3-border-image-sprites-for-flexible-button
 date: 2011-01-14 14:54:22
+title: Using CSS3 border-image Sprites for Flexible Button States (Aligned...
 type: link
 ---
 

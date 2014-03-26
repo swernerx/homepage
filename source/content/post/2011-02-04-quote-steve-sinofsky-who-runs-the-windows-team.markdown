@@ -1,5 +1,6 @@
 slug: steve-sinofsky-who-runs-the-windows-team
 date: 2011-02-04 17:23:29
+title: Steve Sinofsky, who runs the Windows team, flattened Microsoft’s...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: if-you-want-to-properly-support-the-mobile-market
 date: 2011-01-12 22:49:42
+title: If you want to properly support the mobile market and offer them...
 type: quote
 ---
 

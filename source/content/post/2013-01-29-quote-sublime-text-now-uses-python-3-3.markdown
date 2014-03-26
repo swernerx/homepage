@@ -1,5 +1,6 @@
 slug: sublime-text-now-uses-python-3-3
 date: 2013-01-29 13:20:23
+title: Sublime Text now uses Python 3.3
 type: quote
 ---
 

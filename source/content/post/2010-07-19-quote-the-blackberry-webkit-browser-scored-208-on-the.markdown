@@ -1,5 +1,6 @@
 slug: the-blackberry-webkit-browser-scored-208-on-the
 date: 2010-07-19 17:14:45
+title: The BlackBerry webkit browser scored 208 on the test and outperformed...
 type: quote
 ---
 

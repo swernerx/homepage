@@ -1,5 +1,6 @@
 slug: es-drangt-sich-der-eindruck-auf-dass-der-bei-sap
 date: 2011-08-19 21:08:59
+title: Es drängt sich der Eindruck auf, dass der bei SAP so glücklose...
 type: quote
 ---
 

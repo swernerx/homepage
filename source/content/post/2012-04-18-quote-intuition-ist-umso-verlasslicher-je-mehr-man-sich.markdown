@@ -1,5 +1,6 @@
 slug: intuition-ist-umso-verlasslicher-je-mehr-man-sich
 date: 2012-04-18 17:24:20
+title: Intuition ist umso verlässlicher, je mehr man sich in der...
 type: quote
 ---
 

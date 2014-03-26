@@ -1,5 +1,6 @@
 slug: i-feel-like-there-are-so-many-reasons-to-hire-me
 date: 2012-03-12 09:10:54
+title: I feel like there are so many reasons to hire me, and it was hard to...
 type: quote
 ---
 

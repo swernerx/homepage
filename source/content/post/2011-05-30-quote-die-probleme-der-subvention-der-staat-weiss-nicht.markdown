@@ -1,5 +1,6 @@
 slug: die-probleme-der-subvention-der-staat-weiss-nicht
 date: 2011-05-30 09:02:18
+title: Die Probleme der Subvention: Der Staat weiß nicht besser als der...
 type: quote
 ---
 

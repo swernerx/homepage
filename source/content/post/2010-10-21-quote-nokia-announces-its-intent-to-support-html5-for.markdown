@@ -1,5 +1,6 @@
 slug: nokia-announces-its-intent-to-support-html5-for
 date: 2010-10-21 15:14:37
+title: Nokia announces its intent to support HTML5 for development of Web...
 type: quote
 ---
 

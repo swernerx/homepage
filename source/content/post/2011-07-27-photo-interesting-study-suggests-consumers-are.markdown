@@ -1,5 +1,6 @@
 slug: interesting-study-suggests-consumers-are
 date: 2011-07-27 01:11:58
+title: Interesting: 
 type: photo
 ---
 

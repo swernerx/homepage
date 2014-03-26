@@ -1,5 +1,6 @@
 slug: at-just-100-the-ultimate-hub-will-come-in-250
 date: 2013-06-20 18:26:10
+title: At just $100, the Ultimate Hub will come in $250 below the retail...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-web-has-the-opportunity-to-share-a-lot-of-that
 date: 2010-06-18 21:59:49
+title: The Web has the opportunity to share a lot of that code and...
 type: quote
 ---
 

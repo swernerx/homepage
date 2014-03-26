@@ -1,5 +1,6 @@
 slug: statements-of-work-project-proposals-and-design
 date: 2013-01-29 15:21:12
+title: Statements of work, project proposals and design briefs should...
 type: quote
 ---
 

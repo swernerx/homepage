@@ -1,5 +1,6 @@
 slug: the-barriers-to-accessing-a-site-via-a-browser-are
 date: 2011-05-03 21:58:40
+title: The barriers to accessing a site via a browser are lower than those...
 type: quote
 ---
 

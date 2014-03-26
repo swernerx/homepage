@@ -1,5 +1,6 @@
 slug: via-the-floppy-disk-means-save-and-14-other-old
 date: 2013-01-29 10:29:27
+title: (via 
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: spending-12-5-billion-on-motorola-mobility-was-an
 date: 2011-09-02 07:59:56
+title: Spending $12.5 billion on Motorola Mobility was an immense mistake...
 type: quote
 ---
 

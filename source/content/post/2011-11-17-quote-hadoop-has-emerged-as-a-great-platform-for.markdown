@@ -1,5 +1,6 @@
 slug: hadoop-has-emerged-as-a-great-platform-for
 date: 2011-11-17 18:25:03
+title: Hadoop has emerged as a great platform for analyzing unstructured...
 type: quote
 ---
 

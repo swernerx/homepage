@@ -1,5 +1,6 @@
 slug: the-entire-market-of-mobile-video-has-just
 date: 2010-06-08 09:07:04
+title: The entire market of mobile video has just changed.
 type: quote
 ---
 

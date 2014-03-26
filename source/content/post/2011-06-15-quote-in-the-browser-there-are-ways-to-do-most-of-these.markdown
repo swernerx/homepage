@@ -1,5 +1,6 @@
 slug: in-the-browser-there-are-ways-to-do-most-of-these
 date: 2011-06-15 12:37:04
+title: In the browser, there are ways to do most of these things, and some...
 type: quote
 ---
 

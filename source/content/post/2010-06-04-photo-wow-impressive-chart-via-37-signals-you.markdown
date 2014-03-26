@@ -1,5 +1,6 @@
 slug: wow-impressive-chart-via-37-signals-you
 date: 2010-06-04 22:47:10
+title: Wow. Impressive chart. Via 37 Signals: 
 type: photo
 ---
 

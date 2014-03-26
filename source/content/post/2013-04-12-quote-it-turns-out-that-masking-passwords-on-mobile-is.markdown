@@ -1,5 +1,6 @@
 slug: it-turns-out-that-masking-passwords-on-mobile-is
 date: 2013-04-12 15:29:11
+title: It turns out that masking passwords on mobile is really painful for...
 type: quote
 ---
 

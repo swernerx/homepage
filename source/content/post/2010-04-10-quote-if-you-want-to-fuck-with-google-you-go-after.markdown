@@ -1,5 +1,6 @@
 slug: if-you-want-to-fuck-with-google-you-go-after
 date: 2010-04-10 10:28:36
+title: If you want to fuck with Google, you go after advertising revenue...
 type: quote
 ---
 

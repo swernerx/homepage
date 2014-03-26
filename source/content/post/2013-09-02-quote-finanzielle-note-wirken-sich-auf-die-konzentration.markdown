@@ -1,5 +1,6 @@
 slug: finanzielle-note-wirken-sich-auf-die-konzentration
 date: 2013-09-02 19:34:42
+title: Finanzielle Nöte wirken sich auf die Konzentration aus, man macht...
 type: quote
 ---
 

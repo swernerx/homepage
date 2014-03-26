@@ -1,5 +1,6 @@
 slug: out-of-the-approximately-10-000-news-stories-you
 date: 2013-04-30 13:32:00
+title: Out of the approximately 10,000 news stories you have read in the...
 type: quote
 ---
 

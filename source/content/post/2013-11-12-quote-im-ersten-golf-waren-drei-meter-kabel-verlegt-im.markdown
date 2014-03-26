@@ -1,5 +1,6 @@
 slug: im-ersten-golf-waren-drei-meter-kabel-verlegt-im
 date: 2013-11-12 10:37:07
+title: Im ersten Golf waren drei Meter Kabel verlegt, im neuesten liegen...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-four-most-popular-camera-phones-on-flickr-are
 date: 2012-04-04 16:26:25
+title: The four most popular camera phones on Flickr are currently the...
 type: quote
 ---
 

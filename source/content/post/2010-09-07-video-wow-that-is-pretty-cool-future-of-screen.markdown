@@ -1,5 +1,6 @@
 slug: wow-that-is-pretty-cool-future-of-screen
 date: 2010-09-07 22:51:37
+title: Wow. That is pretty cool: 
 type: video
 ---
 

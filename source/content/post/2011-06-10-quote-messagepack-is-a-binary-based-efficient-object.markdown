@@ -1,5 +1,6 @@
 slug: messagepack-is-a-binary-based-efficient-object
 date: 2011-06-10 18:42:07
+title: MessagePack is a binary-based efficient object serialization library...
 type: quote
 ---
 

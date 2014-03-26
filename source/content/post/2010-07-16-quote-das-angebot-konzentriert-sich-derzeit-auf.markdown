@@ -1,5 +1,6 @@
 slug: das-angebot-konzentriert-sich-derzeit-auf
 date: 2010-07-16 09:14:54
+title: Das Angebot konzentriert sich derzeit auf Mobiltelefone mit...
 type: quote
 ---
 

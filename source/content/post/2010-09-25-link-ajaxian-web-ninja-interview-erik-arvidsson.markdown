@@ -1,5 +1,6 @@
 slug: ajaxian-web-ninja-interview-erik-arvidsson
 date: 2010-09-25 00:55:08
+title: Ajaxian » Web Ninja Interview: Erik Arvidsson
 type: link
 ---
 

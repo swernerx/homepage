@@ -1,5 +1,6 @@
 slug: es-gibt-keine-wie-auch-immer-geartete-politische
 date: 2010-11-08 13:27:03
+title: Es gibt keine wie auch immer geartete politische oder gar moralische...
 type: quote
 ---
 

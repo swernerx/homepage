@@ -1,5 +1,6 @@
 slug: in-dom-implementations-elements-are-represented
 date: 2010-09-11 10:26:37
+title: In DOM implementations, elements are represented by host objects,...
 type: quote
 ---
 

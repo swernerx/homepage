@@ -1,5 +1,6 @@
 slug: showing-personality-in-your-app-website-or-brand
 date: 2011-06-26 15:40:29
+title: Showing personality in your app, website, or brand can be a very...
 type: quote
 ---
 

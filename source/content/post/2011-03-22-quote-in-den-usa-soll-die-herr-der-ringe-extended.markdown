@@ -1,5 +1,6 @@
 slug: in-den-usa-soll-die-herr-der-ringe-extended
 date: 2011-03-22 12:57:31
+title: In den USA soll die Herr der Ringe “Extended Trilogy” am...
 type: quote
 ---
 

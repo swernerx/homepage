@@ -1,5 +1,6 @@
 slug: kozel-scheiterte-an-den-starren-strukturen-und-den
 date: 2011-11-18 13:28:36
+title: Kozel scheiterte an den starren Strukturen und den quälend langsamen...
 type: quote
 ---
 

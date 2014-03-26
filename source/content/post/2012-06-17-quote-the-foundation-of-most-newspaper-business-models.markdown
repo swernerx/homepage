@@ -1,5 +1,6 @@
 slug: the-foundation-of-most-newspaper-business-models
 date: 2012-06-17 17:50:51
+title: The foundation of most newspaper business models — that is, the...
 type: quote
 ---
 

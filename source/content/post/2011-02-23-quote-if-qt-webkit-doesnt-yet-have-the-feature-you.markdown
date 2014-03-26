@@ -1,5 +1,6 @@
 slug: if-qt-webkit-doesnt-yet-have-the-feature-you
 date: 2011-02-23 02:38:11
+title: If Qt WebKit doesn’t yet have the feature you need, you can use the...
 type: quote
 ---
 

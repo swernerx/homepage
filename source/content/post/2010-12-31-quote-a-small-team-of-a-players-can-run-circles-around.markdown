@@ -1,5 +1,6 @@
 slug: a-small-team-of-a-players-can-run-circles-around
 date: 2010-12-31 19:08:29
+title: A small team of A+ players can run circles around a giant team of B...
 type: quote
 ---
 

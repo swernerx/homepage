@@ -1,5 +1,6 @@
 slug: for-every-50-windows-devices-24-would-be-android
 date: 2010-11-19 11:33:50
+title: For every 50 Windows devices, 24 would be Android models and just...
 type: quote
 ---
 

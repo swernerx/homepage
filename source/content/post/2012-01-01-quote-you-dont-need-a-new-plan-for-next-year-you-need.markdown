@@ -1,5 +1,6 @@
 slug: you-dont-need-a-new-plan-for-next-year-you-need
 date: 2012-01-01 00:14:18
+title: You don’t need a new plan for next year. You need a commitment.
 type: quote
 ---
 

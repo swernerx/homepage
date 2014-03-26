@@ -1,5 +1,6 @@
 slug: ability-pride-discipline-integrity-dedication
 date: 2011-10-27 00:32:09
+title: Ability, pride, discipline, integrity, dedication, organization,...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: shahirzag-sacrilege-in-helvetica-bold
 date: 2013-03-25 08:11:29
+title: 
 type: photo
 ---
 

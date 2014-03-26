@@ -1,5 +1,6 @@
 slug: nearly-everything-that-could-be-great-someday
 date: 2013-11-24 22:06:49
+title: Nearly everything that could be great someday isn’t great right now.
 type: quote
 ---
 

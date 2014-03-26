@@ -1,5 +1,6 @@
 slug: but-right-now-it-isnt-and-thats-microsofts
 date: 2010-11-03 22:14:35
+title: But right now it isn’t, and that’s Microsoft’s most serious problem...
 type: quote
 ---
 

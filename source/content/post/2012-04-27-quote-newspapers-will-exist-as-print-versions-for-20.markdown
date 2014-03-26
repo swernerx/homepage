@@ -1,5 +1,6 @@
 slug: newspapers-will-exist-as-print-versions-for-20
 date: 2012-04-27 16:41:21
+title: Newspapers will exist as print versions for 20 more years, but with...
 type: quote
 ---
 

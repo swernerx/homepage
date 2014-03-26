@@ -1,5 +1,6 @@
 slug: people-will-never-use-the-features-if-they-dont
 date: 2010-07-19 17:38:38
+title: People will never use the features if they don’t buy the phone.
 type: quote
 ---
 

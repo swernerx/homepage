@@ -1,5 +1,6 @@
 slug: windows-phone-7-doesnt-sound-like-a-new-platform
 date: 2011-12-27 19:51:10
+title: Windows Phone 7 doesn’t sound like a new platform. It sounds like an...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: clojure-is-not-simply-a-language-implemented-on
 date: 2010-10-18 12:00:00
+title: Clojure is not simply a language implemented on top of the JVM but a...
 type: quote
 ---
 

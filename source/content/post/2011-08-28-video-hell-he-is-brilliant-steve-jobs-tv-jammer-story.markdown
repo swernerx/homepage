@@ -1,5 +1,6 @@
 slug: hell-he-is-brilliant-steve-jobs-tv-jammer-story
 date: 2011-08-28 15:05:00
+title: Hell, he is brilliant: Steve Jobs’ TV Jammer Story (von 
 type: video
 ---
 

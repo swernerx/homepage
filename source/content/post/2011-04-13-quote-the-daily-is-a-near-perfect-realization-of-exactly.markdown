@@ -1,5 +1,6 @@
 slug: the-daily-is-a-near-perfect-realization-of-exactly
 date: 2011-04-13 18:00:34
+title: The Daily is a near perfect realization of exactly the idea that...
 type: quote
 ---
 

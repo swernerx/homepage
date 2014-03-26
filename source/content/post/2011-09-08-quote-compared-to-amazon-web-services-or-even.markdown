@@ -1,5 +1,6 @@
 slug: compared-to-amazon-web-services-or-even
 date: 2011-09-08 08:57:46
+title: Compared to Amazon Web Services, or even RackSpace, Google is in the...
 type: quote
 ---
 

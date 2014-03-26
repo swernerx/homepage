@@ -1,5 +1,6 @@
 slug: es-ist-bedauerlich-dass-viele-anbieter-relevante
 date: 2011-04-13 18:03:51
+title: Es ist bedauerlich, dass viele Anbieter relevante Tarifdetails noch...
 type: quote
 ---
 

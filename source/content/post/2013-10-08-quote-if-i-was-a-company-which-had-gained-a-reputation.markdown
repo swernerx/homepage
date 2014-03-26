@@ -1,5 +1,6 @@
 slug: if-i-was-a-company-which-had-gained-a-reputation
 date: 2013-10-08 09:01:13
+title: If I was a company which had gained a reputation for copying Apple’s...
 type: quote
 ---
 

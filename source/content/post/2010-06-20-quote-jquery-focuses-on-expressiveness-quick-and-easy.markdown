@@ -1,5 +1,6 @@
 slug: jquery-focuses-on-expressiveness-quick-and-easy
 date: 2010-06-20 21:39:05
+title: jQuery focuses on expressiveness, quick and easy coding, and the DOM...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: apple-doesnt-need-to-be-bigger-than-android-but
 date: 2011-05-13 18:15:09
+title: Apple doesn’t need to be bigger than Android, but it absolutely needs...
 type: quote
 ---
 

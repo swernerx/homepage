@@ -1,5 +1,6 @@
 slug: google-is-far-more-likely-to-get-the-final
 date: 2011-08-14 11:00:40
+title: Google+ is far more likely to get the final product right than Flickr...
 type: quote
 ---
 

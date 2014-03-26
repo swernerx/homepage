@@ -1,5 +1,6 @@
 slug: german-wage-stagnation-is-it-the-real-secret-to
 date: 2012-09-28 17:42:28
+title: 
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: je-hoher-der-bildungsabschluss-desto-grosser-das
 date: 2012-11-02 12:17:28
+title: Je höher der Bildungsabschluss, desto größer das Interesse an der...
 type: quote
 ---
 

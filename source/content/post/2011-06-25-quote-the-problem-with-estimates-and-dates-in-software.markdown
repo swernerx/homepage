@@ -1,5 +1,6 @@
 slug: the-problem-with-estimates-and-dates-in-software
 date: 2011-06-25 10:57:52
+title: The problem with estimates and dates in software is simple: nearly...
 type: quote
 ---
 

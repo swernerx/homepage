@@ -1,5 +1,6 @@
 slug: if-this-subscription-policy-knocks-a-bunch-of-good
 date: 2011-02-24 11:04:52
+title: If this subscription policy knocks a bunch of good apps out of the...
 type: quote
 ---
 

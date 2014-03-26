@@ -1,5 +1,6 @@
 slug: the-first-phone-whose-design-and-build-matches-the
 date: 2011-10-26 20:47:05
+title: The first phone whose design and build matches the elegance and care...
 type: quote
 ---
 

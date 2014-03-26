@@ -1,5 +1,6 @@
 slug: all-really-great-user-interfaces-are-just-skins
 date: 2011-02-01 17:33:47
+title: All really great user interfaces are just “skins” on top of a...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: we-didnt-build-mac-for-anybody-else-we-built-it
 date: 2011-01-22 17:35:55
+title: We didn’t build Mac for anybody else. We built it for ourselves. We...
 type: quote
 ---
 

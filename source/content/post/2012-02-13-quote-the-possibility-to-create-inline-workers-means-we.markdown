@@ -1,5 +1,6 @@
 slug: the-possibility-to-create-inline-workers-means-we
 date: 2012-02-13 19:49:54
+title: The possibility to create inline Workers means we could create a sort...
 type: quote
 ---
 

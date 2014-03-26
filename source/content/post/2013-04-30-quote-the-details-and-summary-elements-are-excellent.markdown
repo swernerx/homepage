@@ -1,5 +1,6 @@
 slug: the-details-and-summary-elements-are-excellent
 date: 2013-04-30 12:32:45
+title: The details and summary elements are excellent ways to create...
 type: quote
 ---
 

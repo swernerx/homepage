@@ -1,5 +1,6 @@
 slug: nice-device-blackberry-playbook-preview-via
 date: 2010-09-28 10:48:51
+title: Nice device: 
 type: video
 ---
 

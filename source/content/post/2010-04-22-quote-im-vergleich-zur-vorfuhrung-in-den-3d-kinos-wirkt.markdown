@@ -1,5 +1,6 @@
 slug: im-vergleich-zur-vorfuhrung-in-den-3d-kinos-wirkt
 date: 2010-04-22 20:59:47
+title: Im Vergleich zur Vorführung in den 3D-Kinos wirkt...
 type: quote
 ---
 

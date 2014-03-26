@@ -1,5 +1,6 @@
 slug: apples-in-app-subscription-system-will
 date: 2011-02-17 03:14:07
+title: Apple’s in-app subscription system will undoubtedly be the most...
 type: quote
 ---
 

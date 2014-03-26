@@ -1,5 +1,6 @@
 slug: im-still-focusing-on-acorn-on-being-my-go-to
 date: 2010-04-19 09:26:12
+title: I’m still focusing on Acorn on being my go-to design application
 type: quote
 ---
 

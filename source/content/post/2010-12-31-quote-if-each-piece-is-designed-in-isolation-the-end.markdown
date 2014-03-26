@@ -1,5 +1,6 @@
 slug: if-each-piece-is-designed-in-isolation-the-end
 date: 2010-12-31 18:50:28
+title: If each piece is designed in isolation, the end result may be of...
 type: quote
 ---
 

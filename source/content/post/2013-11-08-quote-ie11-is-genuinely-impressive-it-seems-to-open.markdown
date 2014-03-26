@@ -1,5 +1,6 @@
 slug: ie11-is-genuinely-impressive-it-seems-to-open
 date: 2013-11-08 18:28:33
+title: IE11 is genuinely impressive; it seems to open, close and render...
 type: quote
 ---
 

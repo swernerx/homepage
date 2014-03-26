@@ -1,5 +1,6 @@
 slug: an-fast-keiner-anderen-stelle-im-kaufprozess-sind
 date: 2011-09-19 09:15:45
+title: An fast keiner anderen Stelle im Kaufprozess sind so extreme...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: you-can-watch-hulu-while-waiting-in-line
 date: 2010-07-08 14:27:00
+title: You can watch Hulu while waiting in line.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: i-cant-even-remember-the-last-time-i-used-the
 date: 2011-06-11 12:47:56
+title: I can’t even remember the last time I used the phrase “clever...
 type: quote
 ---
 

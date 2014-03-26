@@ -1,5 +1,6 @@
 slug: if-you-tell-a-nice-person-to-do-something-evil
 date: 2013-06-19 18:39:49
+title: If you tell a nice person to do something evil, they might do it...
 type: quote
 ---
 

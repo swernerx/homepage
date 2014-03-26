@@ -1,5 +1,6 @@
 slug: a-video-player-or-slide-switcher-that-operates
 date: 2013-10-25 12:22:11
+title: A video player or slide switcher that operates independent from...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: long-term-i-expect-four-to-five-platforms-to
 date: 2010-08-04 09:45:29
+title: Long term I expect four to five platforms to equalize in share over...
 type: quote
 ---
 

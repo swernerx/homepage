@@ -1,5 +1,6 @@
 slug: leaflet-a-new-open-source-javascript-library-for
 date: 2011-05-16 14:07:38
+title: Leaflet — a new open source JavaScript library for interactive maps...
 type: quote
 ---
 

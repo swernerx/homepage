@@ -1,5 +1,6 @@
 slug: absolutely-the-best-newspaper-solution-i-have-seen
 date: 2010-11-28 21:04:07
+title: Absolutely the best newspaper solution I have seen yet for tablet...
 type: video
 ---
 

@@ -1,5 +1,6 @@
 slug: the-n95-had-tons-more-features-and-abilities-that
 date: 2010-07-21 23:33:10
+title: The N95 had tons more features and abilities that even the latest...
 type: quote
 ---
 

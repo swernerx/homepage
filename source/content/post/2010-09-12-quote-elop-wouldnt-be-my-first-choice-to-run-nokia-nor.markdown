@@ -1,5 +1,6 @@
 slug: elop-wouldnt-be-my-first-choice-to-run-nokia-nor
 date: 2010-09-12 01:31:32
+title: Elop wouldn’t be my first choice to run Nokia, nor would he...
 type: quote
 ---
 

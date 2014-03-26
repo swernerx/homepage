@@ -1,5 +1,6 @@
 slug: apple-always-kills-off-old-technology-and-moves
 date: 2011-01-31 10:50:21
+title: Apple always kills off old technology and moves forward a little too...
 type: quote
 ---
 

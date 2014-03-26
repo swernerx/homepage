@@ -1,5 +1,6 @@
 slug: keine-uberraschung-fur-apple-kunden
 date: 2013-12-02 12:09:02
+title: Keine Überraschung für Apple-Kunden: 
 type: photo
 ---
 

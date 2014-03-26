@@ -1,5 +1,6 @@
 slug: research-is-showing-that-a-specific-level-of-noise
 date: 2013-08-22 08:57:51
+title: Research is showing that a specific level of noise (70 dB) is...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: there-is-always-a-tradeoff-between-security-and
 date: 2010-05-28 15:01:00
+title: There is always a tradeoff between security and user experience...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: taken-together-it-means-that-nokia-c7-will-not
 date: 2010-08-26 17:46:18
+title: Taken together it means that Nokia C7 will not attract new customers,...
 type: quote
 ---
 

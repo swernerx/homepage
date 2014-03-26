@@ -1,5 +1,6 @@
 slug: articles-are-wonderful-but-they-are-no-longer
 date: 2011-06-19 14:33:31
+title: Articles are wonderful. But they are no longer necessary for every...
 type: quote
 ---
 

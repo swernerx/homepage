@@ -1,5 +1,6 @@
 slug: if-you-come-from-a-position-that-anyone
 date: 2013-06-20 09:13:28
+title: If you come from a position that anyone recommending a practice to...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: these-fears-of-the-future-are-just-as-useless-as
 date: 2011-12-03 23:27:22
+title: These fears of the future are just as useless as the painful thoughts...
 type: quote
 ---
 

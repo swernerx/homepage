@@ -1,5 +1,6 @@
 slug: nachrichten-in-apps-lassen-sich-nicht-verlinken
 date: 2012-12-22 14:11:07
+title: Nachrichten in Apps lassen sich nicht verlinken, nicht twittern,...
 type: quote
 ---
 

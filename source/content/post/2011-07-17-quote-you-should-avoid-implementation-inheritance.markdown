@@ -1,5 +1,6 @@
 slug: you-should-avoid-implementation-inheritance
 date: 2011-07-17 23:54:10
+title: You should avoid implementation inheritance whenever possible.
 type: quote
 ---
 

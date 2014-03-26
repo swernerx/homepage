@@ -1,5 +1,6 @@
 slug: es-gibt-wenig-unternehmen-weltweit-die-der
 date: 2013-03-06 16:42:26
+title: Es gibt wenig Unternehmen weltweit, die der Bedeutung der...
 type: quote
 ---
 

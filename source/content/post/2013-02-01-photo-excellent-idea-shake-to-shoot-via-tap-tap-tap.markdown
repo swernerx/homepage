@@ -1,5 +1,8 @@
 slug: excellent-idea-shake-to-shoot-via-tap-tap-tap
 date: 2013-02-01 12:15:08
+title: Excellent Idea: Shake to shoot
+
+ Via 
 type: photo
 ---
 

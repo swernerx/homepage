@@ -1,5 +1,6 @@
 slug: tablets-smartphones-und-3d-fernsehen-das-ende-der
 date: 2011-01-09 17:46:52
+title: Tablets, Smartphones und 3D-Fernsehen: Das Ende der alten Hackordnung
 type: link
 ---
 

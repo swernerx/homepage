@@ -1,5 +1,6 @@
 slug: path-is-like-a-much-much-more-enjoyable-version
 date: 2011-11-30 19:41:50
+title: Path is like a much, much more enjoyable version of Facebook, with an...
 type: quote
 ---
 

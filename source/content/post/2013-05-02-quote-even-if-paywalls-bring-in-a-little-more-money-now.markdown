@@ -1,5 +1,6 @@
 slug: even-if-paywalls-bring-in-a-little-more-money-now
 date: 2013-05-02 17:36:39
+title: Even if paywalls bring in a little more money now from your loyal...
 type: quote
 ---
 

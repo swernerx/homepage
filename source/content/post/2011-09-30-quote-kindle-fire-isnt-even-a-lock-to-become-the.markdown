@@ -1,5 +1,6 @@
 slug: kindle-fire-isnt-even-a-lock-to-become-the
 date: 2011-09-30 11:27:57
+title: Kindle Fire isn’t even a lock to become the second-most-popular...
 type: quote
 ---
 

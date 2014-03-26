@@ -1,5 +1,6 @@
 slug: the-correlation-between-stated-intent-and-actual
 date: 2011-05-13 21:27:06
+title: The correlation between stated intent and actual behavior is usually...
 type: quote
 ---
 

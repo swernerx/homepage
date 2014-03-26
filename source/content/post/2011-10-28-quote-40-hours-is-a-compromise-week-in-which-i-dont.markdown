@@ -1,5 +1,6 @@
 slug: 40-hours-is-a-compromise-week-in-which-i-dont
 date: 2011-10-28 22:12:37
+title: 40 hours is a compromise week in which I don’t actually get a lot of...
 type: quote
 ---
 

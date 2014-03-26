@@ -1,5 +1,6 @@
 slug: televisions-are-no-longer-just-portals-to-free
 date: 2011-08-12 08:22:16
+title: Televisions are no longer just portals to free, ad-supported...
 type: quote
 ---
 

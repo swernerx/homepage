@@ -1,5 +1,6 @@
 slug: i-have-received-word-from-apple-that-the-above-is
 date: 2010-04-14 09:13:00
+title: I have received word from Apple that the above is still true!
 type: quote
 ---
 

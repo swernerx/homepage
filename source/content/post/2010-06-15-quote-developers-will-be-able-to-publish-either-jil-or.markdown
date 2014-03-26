@@ -1,5 +1,6 @@
 slug: developers-will-be-able-to-publish-either-jil-or
 date: 2010-06-15 23:28:00
+title: Developers will be able to publish either JIL or native Android apps...
 type: quote
 ---
 

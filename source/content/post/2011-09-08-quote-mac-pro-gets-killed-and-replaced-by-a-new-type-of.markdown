@@ -1,5 +1,6 @@
 slug: mac-pro-gets-killed-and-replaced-by-a-new-type-of
 date: 2011-09-08 09:03:32
+title: Mac Pro gets killed and replaced by a new type of desktop machine or...
 type: quote
 ---
 

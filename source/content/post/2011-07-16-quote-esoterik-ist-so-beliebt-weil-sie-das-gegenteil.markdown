@@ -1,5 +1,6 @@
 slug: esoterik-ist-so-beliebt-weil-sie-das-gegenteil
 date: 2011-07-16 07:10:42
+title: Esoterik ist so beliebt, weil sie das Gegenteil von Aufklärung ist.
 type: quote
 ---
 

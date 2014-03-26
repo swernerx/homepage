@@ -1,5 +1,6 @@
 slug: web-design-is-responsive-design
 date: 2011-02-16 22:03:59
+title: Web design is responsive design.
 type: quote
 ---
 

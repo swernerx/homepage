@@ -1,5 +1,6 @@
 slug: with-the-iphone-soon-available-on-verizon-we
 date: 2011-01-15 10:02:42
+title: With the iPhone soon available on Verizon, we suspect that virtually...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: snow-wurde-mit-instagram-aufgenommen
 date: 2010-12-17 08:23:59
+title: Snow (Wurde mit [instagram](http://instagr.am)...
 type: photo
 ---
 

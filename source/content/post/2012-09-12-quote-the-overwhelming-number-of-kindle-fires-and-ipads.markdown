@@ -1,5 +1,6 @@
 slug: the-overwhelming-number-of-kindle-fires-and-ipads
 date: 2012-09-12 09:42:17
+title: The overwhelming number of Kindle Fires and iPads that are going to...
 type: quote
 ---
 

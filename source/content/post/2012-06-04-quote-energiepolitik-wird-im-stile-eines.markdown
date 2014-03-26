@@ -1,5 +1,6 @@
 slug: energiepolitik-wird-im-stile-eines
 date: 2012-06-04 09:12:58
+title: Energiepolitik wird im Stile eines Illusionstheaters betrieben: Jede...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: via-keep-it-simple-stupid-is-great-advice
 date: 2013-07-29 16:24:51
+title: (via 
 type: photo
 ---
 

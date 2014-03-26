@@ -1,5 +1,6 @@
 slug: any-attempt-to-derive-fortune-directly-from-your
 date: 2011-06-17 22:44:36
+title: Any attempt to derive fortune directly from your potential audience...
 type: quote
 ---
 

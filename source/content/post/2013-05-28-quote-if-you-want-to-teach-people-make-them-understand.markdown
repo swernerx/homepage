@@ -1,5 +1,6 @@
 slug: if-you-want-to-teach-people-make-them-understand
 date: 2013-05-28 16:52:02
+title: If you want to teach people, make them understand the “why” and let...
 type: quote
 ---
 

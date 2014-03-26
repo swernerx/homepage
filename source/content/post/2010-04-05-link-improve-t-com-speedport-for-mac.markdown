@@ -1,5 +1,6 @@
 slug: improve-t-com-speedport-for-mac
 date: 2010-04-05 20:12:08
+title: Improve T-Com Speedport for Mac
 type: link
 ---
 

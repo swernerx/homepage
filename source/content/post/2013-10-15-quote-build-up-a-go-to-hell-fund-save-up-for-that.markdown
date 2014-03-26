@@ -1,5 +1,6 @@
 slug: build-up-a-go-to-hell-fund-save-up-for-that
 date: 2013-10-15 08:45:55
+title: Build up a Go To Hell fund; save up for that moment when you realize...
 type: quote
 ---
 

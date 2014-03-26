@@ -1,5 +1,6 @@
 slug: jeder-mensch-strebt-nach-qualitat-menschen-wollen
 date: 2011-09-03 10:18:32
+title: Jeder Mensch strebt nach Qualität. Menschen wollen das Gute. Sie...
 type: quote
 ---
 

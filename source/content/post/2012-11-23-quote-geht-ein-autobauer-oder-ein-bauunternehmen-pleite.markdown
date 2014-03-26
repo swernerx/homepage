@@ -1,5 +1,6 @@
 slug: geht-ein-autobauer-oder-ein-bauunternehmen-pleite
 date: 2012-11-23 00:31:53
+title: Geht ein Autobauer oder ein Bauunternehmen pleite, ist es eine...
 type: quote
 ---
 

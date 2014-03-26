@@ -1,5 +1,6 @@
 slug: javascript-random-hints
 date: 2010-07-04 18:50:44
+title: JavaScript Random Hints
 type: link
 ---
 

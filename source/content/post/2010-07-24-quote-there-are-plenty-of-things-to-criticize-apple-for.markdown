@@ -1,5 +1,6 @@
 slug: there-are-plenty-of-things-to-criticize-apple-for
 date: 2010-07-24 17:54:08
+title: There are plenty of things to criticize Apple for, but claiming...
 type: quote
 ---
 

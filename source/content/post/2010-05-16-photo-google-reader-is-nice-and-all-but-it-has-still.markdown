@@ -1,5 +1,6 @@
 slug: google-reader-is-nice-and-all-but-it-has-still
 date: 2010-05-16 00:24:47
+title: Google Reader is nice and all, but it has still far more memory...
 type: photo
 ---
 

@@ -1,5 +1,6 @@
 slug: die-impf-wahrscheinlichkeit-sinkt-mit-steigender
 date: 2013-07-18 09:23:56
+title: Die Impf-Wahrscheinlichkeit sinkt mit steigender Quote hoch...
 type: quote
 ---
 

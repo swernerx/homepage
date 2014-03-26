@@ -1,5 +1,6 @@
 slug: looks-like-the-first-acceptable-case-for-a
 date: 2010-08-28 20:57:20
+title: Looks like the first acceptable case for a iPhone4. 
 type: photo
 ---
 

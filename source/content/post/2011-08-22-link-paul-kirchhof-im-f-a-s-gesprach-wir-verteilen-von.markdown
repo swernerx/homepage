@@ -1,5 +1,6 @@
 slug: paul-kirchhof-im-f-a-s-gesprach-wir-verteilen-von
 date: 2011-08-22 20:10:40
+title: Paul Kirchhof im F.A.S.-Gespräch: „Wir verteilen von Arm zu Reich“
 type: link
 ---
 

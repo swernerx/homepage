@@ -1,5 +1,6 @@
 slug: symbian-becomes-a-franchise-platform-whatever
 date: 2011-02-11 15:47:51
+title: Symbian “becomes a franchise platform,” whatever the fuck that may...
 type: quote
 ---
 

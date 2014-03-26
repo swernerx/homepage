@@ -1,5 +1,6 @@
 slug: my-goal-is-to-be-someone-who-socializes-the-idea
 date: 2013-05-14 18:37:22
+title: My goal is to be someone who socializes the idea that physical...
 type: quote
 ---
 

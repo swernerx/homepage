@@ -1,5 +1,6 @@
 slug: html5-canvas-image-effects-black-white
 date: 2010-09-12 02:12:18
+title: HTML5 Canvas Image Effects: Black & White
 type: link
 ---
 

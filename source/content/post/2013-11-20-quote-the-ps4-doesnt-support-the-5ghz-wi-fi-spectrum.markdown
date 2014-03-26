@@ -1,5 +1,6 @@
 slug: the-ps4-doesnt-support-the-5ghz-wi-fi-spectrum
 date: 2013-11-20 18:45:51
+title: The PS4 doesn’t support the 5GHz Wi-Fi spectrum, nor does it support...
 type: quote
 ---
 

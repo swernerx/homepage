@@ -1,5 +1,6 @@
 slug: a-great-mind-becomes-ordinary-the-moment-its
 date: 2013-08-27 08:53:49
+title: A great mind becomes ordinary the moment its energies are dispersed.
 type: quote
 ---
 

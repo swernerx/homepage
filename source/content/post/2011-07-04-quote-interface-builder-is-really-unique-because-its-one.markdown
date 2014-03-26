@@ -1,5 +1,6 @@
 slug: interface-builder-is-really-unique-because-its-one
 date: 2011-07-04 21:28:58
+title: Interface Builder is really unique because its one of the few visual...
 type: quote
 ---
 

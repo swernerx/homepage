@@ -1,5 +1,6 @@
 slug: paul-stadig-thou-shalt-not-lie-git-rebase-ammend
 date: 2010-12-12 17:49:33
+title: Paul Stadig: Thou Shalt Not Lie: git rebase, ammend, squash, and...
 type: link
 ---
 

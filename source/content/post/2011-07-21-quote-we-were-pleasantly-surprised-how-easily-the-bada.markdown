@@ -1,5 +1,6 @@
 slug: we-were-pleasantly-surprised-how-easily-the-bada
 date: 2011-07-21 13:45:16
+title: We were pleasantly surprised how easily the bada browser was able to...
 type: quote
 ---
 

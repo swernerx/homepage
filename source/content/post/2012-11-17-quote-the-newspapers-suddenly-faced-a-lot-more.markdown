@@ -1,5 +1,6 @@
 slug: the-newspapers-suddenly-faced-a-lot-more
 date: 2012-11-17 17:52:30
+title: The newspapers suddenly faced a lot more competition for ad dollars,...
 type: quote
 ---
 

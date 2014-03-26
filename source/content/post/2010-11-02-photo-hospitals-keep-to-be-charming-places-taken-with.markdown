@@ -1,5 +1,6 @@
 slug: hospitals-keep-to-be-charming-places-taken-with
 date: 2010-11-02 09:11:05
+title: Hospitals keep to be charming places (Taken with 
 type: photo
 ---
 

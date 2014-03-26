@@ -1,5 +1,6 @@
 slug: paperboy-ist-eine-iphone-app-fur-print-anhanger
 date: 2011-10-11 13:43:49
+title: Paperboy ist eine iPhone-App für Print-Anhänger, die in Zeitungen und...
 type: quote
 ---
 

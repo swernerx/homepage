@@ -1,5 +1,6 @@
 slug: what-sadly-does-not-work-is-setting-up-an
 date: 2013-04-11 11:46:34
+title: What sadly does not work is setting up an innovative unit inside the...
 type: quote
 ---
 

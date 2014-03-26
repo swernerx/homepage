@@ -1,5 +1,6 @@
 slug: testing-just-whats-useful-takes-nuance
 date: 2012-04-12 18:22:49
+title: Testing just what’s useful takes nuance, experience, and dozens of...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-best-interface-designs-are-invisible-they-do
 date: 2011-08-01 09:32:17
+title: The best interface designs are invisible. They do not contain...
 type: quote
 ---
 

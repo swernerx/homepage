@@ -1,5 +1,6 @@
 slug: evan-williams-ten-rules-for-web-startups
 date: 2011-06-15 11:56:49
+title: Evan Williams: Ten Rules for Web Startups
 type: link
 ---
 

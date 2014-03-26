@@ -1,5 +1,6 @@
 slug: measuring-programming-progress-by-lines-of-code-is
 date: 2011-03-02 15:13:26
+title: Measuring programming progress by lines of code is like measuring...
 type: quote
 ---
 

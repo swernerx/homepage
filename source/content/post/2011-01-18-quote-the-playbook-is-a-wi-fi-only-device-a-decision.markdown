@@ -1,5 +1,6 @@
 slug: the-playbook-is-a-wi-fi-only-device-a-decision
 date: 2011-01-18 00:04:21
+title: The PlayBook is a Wi-Fi-only device, a decision RIM made to ensure...
 type: quote
 ---
 

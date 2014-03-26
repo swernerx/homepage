@@ -1,5 +1,6 @@
 slug: steve-jobs-was-a-razor-focused-deeply
 date: 2011-08-26 19:19:05
+title: Steve Jobs was a razor-focused, deeply opinionated, micromanaging,...
 type: quote
 ---
 

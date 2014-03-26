@@ -1,5 +1,6 @@
 slug: creating-an-open-source-project-isnt-just-about
 date: 2013-01-08 11:56:44
+title: Creating an open-source project isn’t just about making your code...
 type: quote
 ---
 

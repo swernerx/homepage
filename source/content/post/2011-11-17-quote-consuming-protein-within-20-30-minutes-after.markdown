@@ -1,5 +1,6 @@
 slug: consuming-protein-within-20-30-minutes-after
 date: 2011-11-17 09:37:20
+title: Consuming protein within 20-30 minutes after exercise will help you...
 type: quote
 ---
 

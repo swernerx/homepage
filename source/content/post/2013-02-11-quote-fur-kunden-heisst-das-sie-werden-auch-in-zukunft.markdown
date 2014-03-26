@@ -1,5 +1,6 @@
 slug: fur-kunden-heisst-das-sie-werden-auch-in-zukunft
 date: 2013-02-11 17:55:51
+title: Für Kunden heißt das, sie werden auch in Zukunft einen Shop wählen...
 type: quote
 ---
 

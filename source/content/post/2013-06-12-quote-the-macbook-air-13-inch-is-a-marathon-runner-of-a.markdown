@@ -1,5 +1,6 @@
 slug: the-macbook-air-13-inch-is-a-marathon-runner-of-a
 date: 2013-06-12 12:46:25
+title: The MacBook Air 13-inch is a marathon runner of a notebook, offering...
 type: quote
 ---
 

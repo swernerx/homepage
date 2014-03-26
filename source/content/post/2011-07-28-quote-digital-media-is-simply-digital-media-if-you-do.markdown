@@ -1,5 +1,6 @@
 slug: digital-media-is-simply-digital-media-if-you-do
 date: 2011-07-28 12:35:43
+title: Digital media is simply digital media; if you do it right you publish...
 type: quote
 ---
 

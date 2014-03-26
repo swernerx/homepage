@@ -1,5 +1,6 @@
 slug: when-you-open-a-native-app-mac-windows-ios
 date: 2011-05-19 11:00:57
+title: When you open a native app — Mac, Windows, iOS, Android, WebOS — you...
 type: quote
 ---
 

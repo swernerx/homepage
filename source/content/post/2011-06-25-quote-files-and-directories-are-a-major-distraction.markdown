@@ -1,5 +1,6 @@
 slug: files-and-directories-are-a-major-distraction
 date: 2011-06-25 10:26:12
+title: Files and directories are a major distraction.
 type: quote
 ---
 

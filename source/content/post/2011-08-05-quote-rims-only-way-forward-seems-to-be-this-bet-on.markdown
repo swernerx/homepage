@@ -1,5 +1,6 @@
 slug: rims-only-way-forward-seems-to-be-this-bet-on
 date: 2011-08-05 08:48:10
+title: RIM’s only way forward seems to be this bet on QNX, its new...
 type: quote
 ---
 

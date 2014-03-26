@@ -1,5 +1,6 @@
 slug: the-reason-code-is-executed-in-global-scope-is-not
 date: 2010-12-18 13:52:30
+title: The reason code is executed in global scope is not because eval is...
 type: quote
 ---
 

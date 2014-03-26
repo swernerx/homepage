@@ -1,5 +1,6 @@
 slug: google-is-starting-to-become-microsoft-the-gang
 date: 2012-03-31 09:46:46
+title: Google is starting to become Microsoft: the gang that couldn’t shoot...
 type: quote
 ---
 

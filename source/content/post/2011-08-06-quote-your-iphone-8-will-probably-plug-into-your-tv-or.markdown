@@ -1,5 +1,6 @@
 slug: your-iphone-8-will-probably-plug-into-your-tv-or
 date: 2011-08-06 14:55:13
+title: Your iPhone 8 will probably plug into your TV, or better yet,...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: should-you-pay-for-an-outside-speaker
 date: 2010-04-10 22:17:17
+title: Should you pay for an outside speaker?
 type: link
 ---
 

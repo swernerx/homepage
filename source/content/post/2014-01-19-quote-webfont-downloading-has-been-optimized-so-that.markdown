@@ -1,5 +1,6 @@
 slug: webfont-downloading-has-been-optimized-so-that
 date: 2014-01-19 08:15:35
+title: WebFont downloading has been optimized so that fonts (at the median)...
 type: quote
 ---
 

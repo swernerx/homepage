@@ -1,5 +1,6 @@
 slug: while-native-apps-make-a-lot-of-sense-from-a-user
 date: 2011-02-23 10:28:35
+title: While native apps make a lot of sense from a user experience...
 type: quote
 ---
 

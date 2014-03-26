@@ -1,5 +1,6 @@
 slug: app-inventor-has-been-overhyped-to-the-skies
 date: 2010-08-13 23:07:43
+title: App Inventor has been overhyped to the skies.
 type: quote
 ---
 

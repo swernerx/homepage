@@ -1,5 +1,6 @@
 slug: der-umgang-mit-geld-aktiviert-im-gehirn-dasselbe
 date: 2013-05-27 08:53:50
+title: Der Umgang mit Geld aktiviert im Gehirn dasselbe Areal, das auch nach...
 type: quote
 ---
 

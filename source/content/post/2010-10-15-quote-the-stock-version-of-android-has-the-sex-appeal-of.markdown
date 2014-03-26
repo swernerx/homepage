@@ -1,5 +1,6 @@
 slug: the-stock-version-of-android-has-the-sex-appeal-of
 date: 2010-10-15 16:05:21
+title: The stock version of Android has the sex appeal of a scientific...
 type: quote
 ---
 

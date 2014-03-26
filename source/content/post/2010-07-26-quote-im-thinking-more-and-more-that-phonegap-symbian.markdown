@@ -1,5 +1,6 @@
 slug: im-thinking-more-and-more-that-phonegap-symbian
 date: 2010-07-26 12:09:45
+title: I’m thinking more and more that PhoneGap Symbian using Qt for Symbian...
 type: quote
 ---
 

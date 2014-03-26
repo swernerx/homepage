@@ -1,5 +1,6 @@
 slug: companies-are-very-much-like-living-organisms
 date: 2011-02-25 22:52:27
+title: Companies are very much like living organisms, comprised of the...
 type: quote
 ---
 

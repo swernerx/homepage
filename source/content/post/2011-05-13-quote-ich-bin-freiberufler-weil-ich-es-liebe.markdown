@@ -1,5 +1,6 @@
 slug: ich-bin-freiberufler-weil-ich-es-liebe
 date: 2011-05-13 18:15:52
+title: Ich bin Freiberufler, weil ich es liebe.
 type: quote
 ---
 

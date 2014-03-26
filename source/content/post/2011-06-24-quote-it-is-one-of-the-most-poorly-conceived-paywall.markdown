@@ -1,5 +1,6 @@
 slug: it-is-one-of-the-most-poorly-conceived-paywall
 date: 2011-06-24 18:22:40
+title: It is one of the most poorly conceived paywall efforts I’ve come...
 type: quote
 ---
 

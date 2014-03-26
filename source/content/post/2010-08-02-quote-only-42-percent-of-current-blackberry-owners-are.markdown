@@ -1,5 +1,6 @@
 slug: only-42-percent-of-current-blackberry-owners-are
 date: 2010-08-02 22:05:56
+title: Only 42 percent of current BlackBerry owners are loyal to the device.
 type: quote
 ---
 

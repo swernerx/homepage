@@ -1,5 +1,6 @@
 slug: auf-52-prozent-ist-der-anteil-derer-gestiegen-die
 date: 2012-08-21 18:40:16
+title: Auf 52 Prozent ist der Anteil derer gestiegen, die seit dem iPad-Kauf...
 type: quote
 ---
 

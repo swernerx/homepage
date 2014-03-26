@@ -1,5 +1,6 @@
 slug: moving-from-print-to-digital-for-newspapers-isnt
 date: 2012-11-17 17:53:59
+title: Moving from print to digital for newspapers isn’t just a matter of...
 type: quote
 ---
 

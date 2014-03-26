@@ -1,5 +1,6 @@
 slug: your-abs-really-arent-the-issue-unless-youve
 date: 2012-01-02 09:18:39
+title: Your abs really aren’t the issue unless you’ve already got a robust...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: newspapers-and-magazines-traditionally-have-had
 date: 2011-06-17 22:58:23
+title: Newspapers and magazines traditionally have had three revenue...
 type: quote
 ---
 

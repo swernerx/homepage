@@ -1,5 +1,6 @@
 slug: improving-the-traditional-browser-plug-in-model
 date: 2010-03-30 20:34:00
+title: Improving the traditional browser plug-in model will make it possible...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: theres-a-benefit-to-coming-into-something-with-no
 date: 2012-07-01 17:08:54
+title: There’s a benefit to coming into something with no preexisting...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: treat-places-like-medium-the-way-youd-treat
 date: 2013-08-13 18:36:10
+title: Treat places like Medium the way you’d treat writing for someone...
 type: quote
 ---
 

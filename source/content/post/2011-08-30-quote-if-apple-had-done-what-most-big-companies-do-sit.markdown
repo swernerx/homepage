@@ -1,5 +1,6 @@
 slug: if-apple-had-done-what-most-big-companies-do-sit
 date: 2011-08-30 18:57:18
+title: If Apple had done what most big companies do: sit down, hire some...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: iphone-to-android-one-month-with-the-nexus-s
 date: 2011-01-15 18:57:22
+title: iPhone to Android: One Month with the Nexus S
 type: link
 ---
 

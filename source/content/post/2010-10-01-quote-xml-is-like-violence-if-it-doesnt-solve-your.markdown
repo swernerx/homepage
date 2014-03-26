@@ -1,5 +1,6 @@
 slug: xml-is-like-violence-if-it-doesnt-solve-your
 date: 2010-10-01 10:47:48
+title: XML is like violence - if it doesn’t solve your problems, you are not...
 type: quote
 ---
 

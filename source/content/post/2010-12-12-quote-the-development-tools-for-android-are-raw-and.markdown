@@ -1,5 +1,6 @@
 slug: the-development-tools-for-android-are-raw-and
 date: 2010-12-12 16:23:08
+title: The development tools for Android are raw and relatively unloved...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: sounds-interesting-i-definitely-need-more-sparse
 date: 2010-12-20 23:21:34
+title: Sounds interesting. I definitely need more sparse time...
 type: video
 ---
 

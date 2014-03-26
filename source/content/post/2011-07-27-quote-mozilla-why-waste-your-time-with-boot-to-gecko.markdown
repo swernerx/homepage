@@ -1,5 +1,6 @@
 slug: mozilla-why-waste-your-time-with-boot-to-gecko
 date: 2011-07-27 13:20:17
+title: Mozilla, why waste your time with “Boot to Gecko” and...
 type: quote
 ---
 

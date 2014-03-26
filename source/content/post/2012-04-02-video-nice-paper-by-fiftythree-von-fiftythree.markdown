@@ -1,5 +1,6 @@
 slug: nice-paper-by-fiftythree-von-fiftythree
 date: 2012-04-02 09:58:38
+title: Nice: Paper by FiftyThree (von 
 type: video
 ---
 

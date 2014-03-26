@@ -1,5 +1,6 @@
 slug: what-i-find-interesting-is-that-galaxy-s-is
 date: 2010-07-29 08:29:28
+title: What I find interesting is that “Galaxy S” is Samsung’s branding, but...
 type: quote
 ---
 

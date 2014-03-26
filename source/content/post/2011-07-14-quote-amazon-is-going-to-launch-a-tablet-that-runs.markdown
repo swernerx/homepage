@@ -1,5 +1,6 @@
 slug: amazon-is-going-to-launch-a-tablet-that-runs
 date: 2011-07-14 20:50:30
+title: Amazon is going to launch a tablet that runs Android, but it will be...
 type: quote
 ---
 

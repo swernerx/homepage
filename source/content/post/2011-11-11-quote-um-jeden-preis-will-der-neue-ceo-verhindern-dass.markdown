@@ -1,5 +1,6 @@
 slug: um-jeden-preis-will-der-neue-ceo-verhindern-dass
 date: 2011-11-11 18:54:24
+title: Um jeden Preis will der neue CEO verhindern, dass Google das...
 type: quote
 ---
 

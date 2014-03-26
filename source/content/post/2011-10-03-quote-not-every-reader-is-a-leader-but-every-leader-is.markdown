@@ -1,5 +1,6 @@
 slug: not-every-reader-is-a-leader-but-every-leader-is
 date: 2011-10-03 21:28:14
+title: Not every reader is a leader, but every leader is a reader.
 type: quote
 ---
 

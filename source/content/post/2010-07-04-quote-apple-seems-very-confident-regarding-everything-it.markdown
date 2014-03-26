@@ -1,5 +1,6 @@
 slug: apple-seems-very-confident-regarding-everything-it
 date: 2010-07-04 16:33:55
+title: Apple seems very confident regarding everything it decided for the...
 type: quote
 ---
 

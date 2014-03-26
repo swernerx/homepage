@@ -1,5 +1,8 @@
 slug: nice-one-via-40-beautiful-and-inspiring
 date: 2013-05-16 17:07:15
+title: Nice one!
+
+ Via 
 type: photo
 ---
 

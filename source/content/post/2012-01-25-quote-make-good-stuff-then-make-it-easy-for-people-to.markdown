@@ -1,5 +1,6 @@
 slug: make-good-stuff-then-make-it-easy-for-people-to
 date: 2012-01-25 16:51:26
+title: Make good stuff, then make it easy for people to buy it. There’s your...
 type: quote
 ---
 

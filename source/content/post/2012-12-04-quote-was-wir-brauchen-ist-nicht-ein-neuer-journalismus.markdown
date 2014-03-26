@@ -1,5 +1,6 @@
 slug: was-wir-brauchen-ist-nicht-ein-neuer-journalismus
 date: 2012-12-04 08:56:30
+title: Was wir brauchen ist nicht ein neuer Journalismus, was wir benötigen,...
 type: quote
 ---
 

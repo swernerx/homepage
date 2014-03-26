@@ -1,5 +1,6 @@
 slug: softbanks-flagship-stores-look-almost-comical
 date: 2011-01-29 10:02:15
+title: Softbank’s flagship stores look almost comical now, with rows and...
 type: quote
 ---
 

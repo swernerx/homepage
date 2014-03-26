@@ -1,5 +1,6 @@
 slug: every-time-a-customer-contacts-us-we-see-it-as-a
 date: 2011-11-14 09:05:02
+title: Every time a customer contacts us, we see it as a defect.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: should-managers-know-how-to-code
 date: 2010-04-06 21:06:25
+title: Should managers know how to code?
 type: link
 ---
 

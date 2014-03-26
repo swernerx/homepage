@@ -1,5 +1,6 @@
 slug: the-n8s-achilles-heel-if-we-can-imagine-an
 date: 2010-10-26 21:38:53
+title: The N8’s Achilles’ heel — if we can imagine an Achilles’ heel that...
 type: quote
 ---
 

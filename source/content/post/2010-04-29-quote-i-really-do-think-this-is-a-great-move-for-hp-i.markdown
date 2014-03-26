@@ -1,5 +1,6 @@
 slug: i-really-do-think-this-is-a-great-move-for-hp-i
 date: 2010-04-29 23:07:36
+title: I really do think this is a great move for HP. I don’t know that it’s...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: if-we-make-it-too-hard-to-enjoy-share-borrow-and
 date: 2012-01-01 13:03:34
+title: If we make it too hard to enjoy, share, borrow and read then,...
 type: quote
 ---
 

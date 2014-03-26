@@ -1,5 +1,6 @@
 slug: impressive-the-new-amazon-window-shop-hopefully
 date: 2010-10-29 14:36:34
+title: Impressive. The new 
 type: photo
 ---
 

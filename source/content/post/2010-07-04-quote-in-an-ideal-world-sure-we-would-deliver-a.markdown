@@ -1,5 +1,6 @@
 slug: in-an-ideal-world-sure-we-would-deliver-a
 date: 2010-07-04 13:09:56
+title: In an ideal world, sure, we would deliver a fantastic,...
 type: quote
 ---
 

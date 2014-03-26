@@ -1,5 +1,6 @@
 slug: there-is-no-longer-any-air-between-the-lcd-and
 date: 2010-06-08 09:16:17
+title: There is no longer any air between the LCD and touchscreen. The...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: panasonic-webkit-browser-and-viera-touchpad-controller
 date: 2012-01-12 10:21:05
+title: Panasonic WebKit browser and Viera touchpad controller prototype...
 type: link
 ---
 

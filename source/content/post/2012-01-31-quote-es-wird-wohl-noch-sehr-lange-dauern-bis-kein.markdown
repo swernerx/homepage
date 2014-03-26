@@ -1,5 +1,6 @@
 slug: es-wird-wohl-noch-sehr-lange-dauern-bis-kein
 date: 2012-01-31 09:41:17
+title: Es wird wohl noch sehr lange dauern, bis kein Schüler mehr die Schule...
 type: quote
 ---
 

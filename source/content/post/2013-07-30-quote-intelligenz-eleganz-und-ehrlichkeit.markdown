@@ -1,5 +1,6 @@
 slug: intelligenz-eleganz-und-ehrlichkeit
 date: 2013-07-30 17:50:53
+title: Intelligenz, Eleganz und Ehrlichkeit
 type: quote
 ---
 

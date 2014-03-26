@@ -1,5 +1,6 @@
 slug: thats-really-what-its-all-about-making-your
 date: 2014-02-19 22:43:02
+title: That’s really what it’s all about: making your audience reconsider...
 type: quote
 ---
 

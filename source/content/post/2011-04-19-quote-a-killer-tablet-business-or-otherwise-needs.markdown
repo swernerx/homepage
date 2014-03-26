@@ -1,5 +1,6 @@
 slug: a-killer-tablet-business-or-otherwise-needs
 date: 2011-04-19 19:55:15
+title: A killer tablet (“business” or otherwise) needs killer native apps. I...
 type: quote
 ---
 

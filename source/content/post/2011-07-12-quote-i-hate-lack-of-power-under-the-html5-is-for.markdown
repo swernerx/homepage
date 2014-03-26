@@ -1,5 +1,6 @@
 slug: i-hate-lack-of-power-under-the-html5-is-for
 date: 2011-07-12 00:00:55
+title: I hate lack of power under the HTML5 is for developers flag, I see...
 type: quote
 ---
 

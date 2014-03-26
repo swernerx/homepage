@@ -1,5 +1,6 @@
 slug: palm-developer-day-phonegap
 date: 2010-06-14 13:14:41
+title: Palm Developer Day PhoneGap
 type: link
 ---
 

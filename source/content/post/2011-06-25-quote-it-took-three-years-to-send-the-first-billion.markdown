@@ -1,5 +1,6 @@
 slug: it-took-three-years-to-send-the-first-billion
 date: 2011-06-25 10:34:25
+title: It took three years to send the first billion tweets; today, one...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-fast-web-demands-that-you-do-things-and-do
 date: 2013-06-26 18:51:59
+title: The Fast Web demands that you do things and do them now. The Fast Web...
 type: quote
 ---
 

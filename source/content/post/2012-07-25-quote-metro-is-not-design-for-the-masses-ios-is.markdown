@@ -1,5 +1,6 @@
 slug: metro-is-not-design-for-the-masses-ios-is
 date: 2012-07-25 10:15:54
+title: Metro is not design for the masses. iOS is.
 type: quote
 ---
 

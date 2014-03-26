@@ -1,5 +1,6 @@
 slug: im-hinblick-auf-einen-schnellen-ausstieg-aus-der
 date: 2011-05-05 18:55:05
+title: Im Hinblick auf einen schnellen Ausstieg aus der Kernenergie ist...
 type: quote
 ---
 

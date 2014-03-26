@@ -1,5 +1,6 @@
 slug: because-a-device-uses-only-the-centroid-to
 date: 2013-05-15 14:02:43
+title: Because a device uses only the centroid to determine what a user is...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: by-worrying-about-things-no-one-else-is-worried
 date: 2010-04-13 21:09:25
+title: By worrying about things no one else is worried about they find new...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: simplicity-is-never-achieved-through-exceptions
 date: 2012-07-09 14:12:38
+title: Simplicity is never achieved through exceptions.
 type: quote
 ---
 

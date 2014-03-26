@@ -1,5 +1,6 @@
 slug: i-was-confronted-repeatedly-with-disclaimers-which
 date: 2011-03-08 10:26:37
+title: I was confronted repeatedly with disclaimers which explained that...
 type: quote
 ---
 

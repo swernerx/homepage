@@ -1,5 +1,6 @@
 slug: the-premise-that-amazon-can-on-a-whim-change-its
 date: 2013-08-08 08:40:50
+title: The premise that Amazon can, on a whim, change its business model...
 type: quote
 ---
 

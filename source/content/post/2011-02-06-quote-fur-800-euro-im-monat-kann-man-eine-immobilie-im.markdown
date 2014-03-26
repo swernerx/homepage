@@ -1,5 +1,6 @@
 slug: fur-800-euro-im-monat-kann-man-eine-immobilie-im
 date: 2011-02-06 12:14:15
+title: Für 800 Euro im Monat kann man eine Immobilie im Wert von 160.000...
 type: quote
 ---
 

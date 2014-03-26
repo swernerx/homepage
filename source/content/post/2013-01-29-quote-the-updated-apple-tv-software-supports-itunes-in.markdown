@@ -1,5 +1,6 @@
 slug: the-updated-apple-tv-software-supports-itunes-in
 date: 2013-01-29 13:48:49
+title: The updated Apple TV software supports iTunes in the Cloud — so now...
 type: quote
 ---
 

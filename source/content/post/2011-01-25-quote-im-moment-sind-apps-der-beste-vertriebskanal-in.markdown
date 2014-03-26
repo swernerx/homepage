@@ -1,5 +1,6 @@
 slug: im-moment-sind-apps-der-beste-vertriebskanal-in
 date: 2011-01-25 23:43:33
+title: Im Moment sind Apps der beste Vertriebskanal. In Zukunft aber sei...
 type: quote
 ---
 

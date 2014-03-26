@@ -1,5 +1,6 @@
 slug: weil-es-in-deutschland-inzwischen-so-viele
 date: 2013-09-02 18:27:10
+title: Weil es in Deutschland inzwischen so viele Einkaufszentren gibt, dass...
 type: quote
 ---
 

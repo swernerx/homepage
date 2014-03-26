@@ -1,5 +1,6 @@
 slug: you-should-never-optimize-developer-convenience
 date: 2013-07-21 00:26:26
+title: You should never optimize developer convenience over user experience.
 type: quote
 ---
 

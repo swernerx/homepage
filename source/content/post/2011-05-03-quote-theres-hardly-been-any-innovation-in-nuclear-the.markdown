@@ -1,5 +1,6 @@
 slug: theres-hardly-been-any-innovation-in-nuclear-the
 date: 2011-05-03 22:35:08
+title: There’s hardly been any innovation in nuclear; the room to do things...
 type: quote
 ---
 

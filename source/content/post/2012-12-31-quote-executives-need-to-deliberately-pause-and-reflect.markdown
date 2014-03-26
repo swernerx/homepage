@@ -1,5 +1,6 @@
 slug: executives-need-to-deliberately-pause-and-reflect
 date: 2012-12-31 18:39:49
+title: Executives need to deliberately pause and reflect instead of...
 type: quote
 ---
 

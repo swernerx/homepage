@@ -1,5 +1,6 @@
 slug: nokia-its-time-to-do-something-drastic-its
 date: 2010-06-26 13:47:50
+title: Nokia, it’s time to do something drastic. It’s time to completely...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: just-take-10-minutes-and-read-the-documentation
 date: 2013-08-27 17:00:09
+title: Just take 10 minutes and read the documentation! 10 minutes!
 type: quote
 ---
 

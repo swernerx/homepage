@@ -1,5 +1,6 @@
 slug: when-you-aggregate-twitter-you-lose-everything
 date: 2012-01-04 18:43:40
+title: When you aggregate Twitter, you lose everything that’s important...
 type: quote
 ---
 

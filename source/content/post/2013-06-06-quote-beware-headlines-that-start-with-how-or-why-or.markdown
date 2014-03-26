@@ -1,5 +1,6 @@
 slug: beware-headlines-that-start-with-how-or-why-or
 date: 2013-06-06 08:44:37
+title: Beware headlines that start with “how” or “why” or include the words...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: we-all-think-journalism-is-so-special-and
 date: 2013-04-03 19:44:31
+title: We all think journalism is so special and journalism problems are...
 type: quote
 ---
 

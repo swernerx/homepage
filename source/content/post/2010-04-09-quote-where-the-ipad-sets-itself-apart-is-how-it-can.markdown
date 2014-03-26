@@ -1,5 +1,6 @@
 slug: where-the-ipad-sets-itself-apart-is-how-it-can
 date: 2010-04-09 09:47:36
+title: Where the iPad sets itself apart […] is how it can perform 80%...
 type: quote
 ---
 

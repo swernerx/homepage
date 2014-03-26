@@ -1,5 +1,6 @@
 slug: pam-made-hp-cool-again-and-made-it-something-that
 date: 2011-02-09 23:54:54
+title: Pam made HP cool again and made it something that RIM, Google, and...
 type: quote
 ---
 

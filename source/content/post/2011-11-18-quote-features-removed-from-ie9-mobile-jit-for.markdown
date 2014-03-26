@@ -1,5 +1,6 @@
 slug: features-removed-from-ie9-mobile-jit-for
 date: 2011-11-18 22:23:11
+title: Features Removed from IE9 Mobile: JIT for JavaScript
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: another-nice-ipad-2-ad-well-always-von-apple
 date: 2011-07-25 11:32:34
+title: Another nice iPad 2 ad: We’ll Always (von 
 type: video
 ---
 

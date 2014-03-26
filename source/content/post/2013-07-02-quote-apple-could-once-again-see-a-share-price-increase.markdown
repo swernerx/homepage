@@ -1,5 +1,6 @@
 slug: apple-could-once-again-see-a-share-price-increase
 date: 2013-07-02 18:25:20
+title: Apple could once again see a share price increase of 50% to 100% just...
 type: quote
 ---
 

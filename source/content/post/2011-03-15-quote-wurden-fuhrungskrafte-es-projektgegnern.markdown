@@ -1,5 +1,6 @@
 slug: wurden-fuhrungskrafte-es-projektgegnern
 date: 2011-03-15 13:45:46
+title: Würden Führungskräfte es Projektgegnern ermöglichen, ihre Einwände...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: say-goodbye-to-sdks-compilers-and-hardware
 date: 2010-11-10 13:01:31
+title: Say goodbye to SDKs, compilers and hardware. Simply write your app...
 type: quote
 ---
 

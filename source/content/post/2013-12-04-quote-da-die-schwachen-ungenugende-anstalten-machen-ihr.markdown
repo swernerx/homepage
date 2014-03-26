@@ -1,5 +1,6 @@
 slug: da-die-schwachen-ungenugende-anstalten-machen-ihr
 date: 2013-12-04 08:30:03
+title: Da die Schwachen ungenügende Anstalten machen, ihr Niveau in Richtung...
 type: quote
 ---
 

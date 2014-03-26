@@ -1,5 +1,6 @@
 slug: people-are-always-shocked-to-find-out-that-we-only
 date: 2011-07-01 08:36:18
+title: People are always shocked to find out that we only have 7 developers.
 type: quote
 ---
 

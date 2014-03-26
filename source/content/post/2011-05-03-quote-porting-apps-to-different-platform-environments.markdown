@@ -1,5 +1,6 @@
 slug: porting-apps-to-different-platform-environments
 date: 2011-05-03 22:01:32
+title: Porting apps to different platform environments costs...
 type: quote
 ---
 

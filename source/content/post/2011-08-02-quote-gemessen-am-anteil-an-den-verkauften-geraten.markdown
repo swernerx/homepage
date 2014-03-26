@@ -1,5 +1,6 @@
 slug: gemessen-am-anteil-an-den-verkauften-geraten
 date: 2011-08-02 15:19:19
+title: Gemessen am Anteil an den verkauften Geräten, liegt der Apfel-Konzern...
 type: quote
 ---
 

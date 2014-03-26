@@ -1,5 +1,6 @@
 slug: its-very-easy-to-make-some-thing-that-is-new-but
 date: 2013-09-23 14:54:53
+title: It’s very easy to make some thing that is new, but it...
 type: quote
 ---
 

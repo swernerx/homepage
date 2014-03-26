@@ -1,5 +1,6 @@
 slug: apple-gets-knocked-for-making-expensive-kit-but
 date: 2010-09-06 10:58:02
+title: Apple gets knocked for making expensive kit, but the truth is, no one...
 type: quote
 ---
 

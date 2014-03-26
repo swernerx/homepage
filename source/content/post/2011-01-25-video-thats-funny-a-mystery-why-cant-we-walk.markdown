@@ -1,5 +1,6 @@
 slug: thats-funny-a-mystery-why-cant-we-walk
 date: 2011-01-25 20:48:56
+title: That’s funny: [A Mystery:...](http://vimeo.com/17083789)
 type: video
 ---
 

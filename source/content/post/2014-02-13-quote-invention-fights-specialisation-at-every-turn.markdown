@@ -1,5 +1,6 @@
 slug: invention-fights-specialisation-at-every-turn
 date: 2014-02-13 10:37:41
+title: Invention fights specialisation at every turn.
 type: quote
 ---
 

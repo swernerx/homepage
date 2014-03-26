@@ -1,5 +1,6 @@
 slug: even-with-all-this-noise-advertising-online
 date: 2011-05-13 22:17:43
+title: Even with all this noise [advertising], online news still doesn’t...
 type: quote
 ---
 

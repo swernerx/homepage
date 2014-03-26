@@ -1,5 +1,6 @@
 slug: on-windows-the-case-for-binary-wheels-on-pypi-is
 date: 2013-09-30 17:30:36
+title: On Windows the case for binary wheels on pypi is stronger both...
 type: quote
 ---
 

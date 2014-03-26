@@ -1,5 +1,6 @@
 slug: a-device-that-in-iteration-4-4-of-its-operating
 date: 2013-11-12 11:01:03
+title: A device that in iteration 4.4 of its operating system still has no...
 type: quote
 ---
 

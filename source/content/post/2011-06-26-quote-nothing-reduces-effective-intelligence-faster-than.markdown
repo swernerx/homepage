@@ -1,5 +1,6 @@
 slug: nothing-reduces-effective-intelligence-faster-than
 date: 2011-06-26 17:01:47
+title: Nothing reduces effective intelligence faster than doing a boring...
 type: quote
 ---
 

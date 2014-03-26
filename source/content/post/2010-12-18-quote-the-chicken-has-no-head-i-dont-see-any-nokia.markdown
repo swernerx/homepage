@@ -1,5 +1,6 @@
 slug: the-chicken-has-no-head-i-dont-see-any-nokia
 date: 2010-12-18 15:01:07
+title: The chicken has no head. I don’t see any Nokia strategy to get app...
 type: quote
 ---
 

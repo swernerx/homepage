@@ -1,5 +1,6 @@
 slug: eclipse-is-a-giant-piece-of-bloatwear-that-gets-in
 date: 2010-03-29 11:55:00
+title: Eclipse is a giant piece of bloatwear that gets in the way of the...
 type: quote
 ---
 

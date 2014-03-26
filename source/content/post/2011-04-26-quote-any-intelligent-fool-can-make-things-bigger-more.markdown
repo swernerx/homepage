@@ -1,5 +1,6 @@
 slug: any-intelligent-fool-can-make-things-bigger-more
 date: 2011-04-26 16:02:43
+title: Any intelligent fool can make things bigger, more complex, and more...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: tablet-magazine-die-humpelnde-revolution
 date: 2012-10-31 09:40:53
+title: Tablet-Magazine: Die humpelnde Revolution
 type: link
 ---
 

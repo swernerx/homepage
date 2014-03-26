@@ -1,5 +1,6 @@
 slug: if-you-see-someone-recommending-a-story-online
 date: 2013-10-15 18:20:58
+title: If you see someone recommending a story online, you shouldn’t assume...
 type: quote
 ---
 

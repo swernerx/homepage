@@ -1,5 +1,6 @@
 slug: he-didnt-offer-windows-phone-7-sales-numbers-he
 date: 2011-01-06 13:37:26
+title: He didn’t offer Windows Phone 7 sales numbers. He didn’t offer any...
 type: quote
 ---
 

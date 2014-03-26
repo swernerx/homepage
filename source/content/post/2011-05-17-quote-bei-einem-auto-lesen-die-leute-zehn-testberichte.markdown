@@ -1,5 +1,6 @@
 slug: bei-einem-auto-lesen-die-leute-zehn-testberichte
 date: 2011-05-17 12:51:23
+title: Bei einem Auto lesen die Leute zehn Testberichte, aber bei der...
 type: quote
 ---
 

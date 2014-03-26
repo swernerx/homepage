@@ -1,5 +1,6 @@
 slug: if-you-want-to-just-fucking-do-it-find-someone
 date: 2013-08-27 09:57:23
+title: If you want to just fucking do it, find someone who can do it with...
 type: quote
 ---
 

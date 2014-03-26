@@ -1,5 +1,6 @@
 slug: the-human-psyche-is-so-risk-averse-that-we-would
 date: 2013-05-09 19:40:57
+title: The human psyche is so risk-averse that we would rather do almost...
 type: quote
 ---
 

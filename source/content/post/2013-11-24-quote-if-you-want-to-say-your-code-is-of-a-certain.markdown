@@ -1,5 +1,6 @@
 slug: if-you-want-to-say-your-code-is-of-a-certain
 date: 2013-11-24 22:16:44
+title: If you want to say your code is of a certain quality, talk about the...
 type: quote
 ---
 

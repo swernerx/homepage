@@ -1,5 +1,6 @@
 slug: studenten-etwa-sind-wahrend-sie-ihre-essays
 date: 2013-06-19 17:49:02
+title: Studenten etwa sind, während sie ihre Essays schreiben, auf Facebook...
 type: quote
 ---
 

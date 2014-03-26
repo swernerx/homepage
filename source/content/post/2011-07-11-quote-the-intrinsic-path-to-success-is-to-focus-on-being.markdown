@@ -1,5 +1,6 @@
 slug: the-intrinsic-path-to-success-is-to-focus-on-being
 date: 2011-07-11 02:50:09
+title: The intrinsic path to success is to focus on being the person that...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: web-companies-are-also-at-risk-your-web-apps-are
 date: 2011-06-11 12:54:24
+title: Web companies are also at risk. Your web apps are designed for a...
 type: quote
 ---
 

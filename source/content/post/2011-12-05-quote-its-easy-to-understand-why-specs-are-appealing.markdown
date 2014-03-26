@@ -1,5 +1,6 @@
 slug: its-easy-to-understand-why-specs-are-appealing
 date: 2011-12-05 08:57:25
+title: It’s easy to understand why specs are appealing. They’re objective,...
 type: quote
 ---
 

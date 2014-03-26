@@ -1,5 +1,6 @@
 slug: i-watched-an-hd-movie-streaming-wirelessly-from
 date: 2010-11-23 20:45:05
+title: I watched an HD movie streaming wirelessly from the iPad to the Apple...
 type: quote
 ---
 

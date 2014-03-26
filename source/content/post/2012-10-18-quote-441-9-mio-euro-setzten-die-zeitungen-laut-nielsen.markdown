@@ -1,5 +1,6 @@
 slug: 441-9-mio-euro-setzten-die-zeitungen-laut-nielsen
 date: 2012-10-18 08:09:52
+title: 441,9 Mio. Euro setzten die Zeitungen laut Nielsen im September mit...
 type: quote
 ---
 

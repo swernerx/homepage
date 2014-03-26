@@ -1,5 +1,6 @@
 slug: paid-content-just-doesnt-work-on-android
 date: 2010-12-29 23:59:50
+title: Paid content just doesn’t work on Android.
 type: quote
 ---
 

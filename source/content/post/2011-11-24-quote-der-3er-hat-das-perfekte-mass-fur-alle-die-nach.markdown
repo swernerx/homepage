@@ -1,5 +1,6 @@
 slug: der-3er-hat-das-perfekte-mass-fur-alle-die-nach
 date: 2011-11-24 18:07:02
+title: Der 3er hat das perfekte Maß für alle, die nach einer sportlichen...
 type: quote
 ---
 

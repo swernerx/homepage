@@ -1,5 +1,6 @@
 slug: getting-your-data-onto-a-single-platform-is-not
 date: 2012-01-15 00:19:49
+title: Getting your data onto a single platform is not going to win you any...
 type: quote
 ---
 

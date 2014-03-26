@@ -1,5 +1,6 @@
 slug: i-havent-been-this-in-the-dark-about-what-apple
 date: 2013-06-10 08:21:32
+title: I haven’t been this in the dark about what Apple was set to announce...
 type: quote
 ---
 

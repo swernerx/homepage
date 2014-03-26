@@ -1,5 +1,6 @@
 slug: the-challenge-of-a-news-organization-that-pumps
 date: 2011-07-31 16:56:30
+title: The challenge of a news organization that pumps out that much content...
 type: quote
 ---
 

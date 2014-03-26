@@ -1,5 +1,6 @@
 slug: we-have-moved-to-a-more-asynchronous-process-where
 date: 2011-11-23 18:36:33
+title: We have moved to a more asynchronous process where features are...
 type: quote
 ---
 

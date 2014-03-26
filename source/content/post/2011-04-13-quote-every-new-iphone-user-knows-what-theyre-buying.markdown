@@ -1,5 +1,6 @@
 slug: every-new-iphone-user-knows-what-theyre-buying
 date: 2011-04-13 18:00:38
+title: Every new iPhone user knows what they’re buying into. Many Android...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: im-business-der-zukunft-geht-es-zunehmend-nicht
 date: 2013-04-07 12:32:47
+title: Im Business der Zukunft geht es zunehmend nicht mehr um...
 type: quote
 ---
 

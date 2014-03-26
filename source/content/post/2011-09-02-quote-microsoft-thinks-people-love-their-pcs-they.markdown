@@ -1,5 +1,6 @@
 slug: microsoft-thinks-people-love-their-pcs-they
 date: 2011-09-02 17:56:54
+title: Microsoft thinks people love their PCs. They don’t.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: be-a-yardstick-of-quality-some-people-arent-used
 date: 2011-10-06 18:28:27
+title: Be a yardstick of quality. Some people aren’t used to an environment...
 type: quote
 ---
 

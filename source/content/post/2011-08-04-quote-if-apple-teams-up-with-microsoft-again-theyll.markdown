@@ -1,5 +1,6 @@
 slug: if-apple-teams-up-with-microsoft-again-theyll
 date: 2011-08-04 09:42:24
+title: If Apple teams up with Microsoft again, they’ll have over $100...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-itu-predicts-that-in-the-next-18-24-months
 date: 2012-04-27 17:05:57
+title: The ITU predicts that in the next 18–24 months, mobile devices will...
 type: quote
 ---
 

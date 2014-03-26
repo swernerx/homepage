@@ -1,5 +1,6 @@
 slug: a-good-product-guy-knows-your-product-and-your
 date: 2012-01-01 13:23:58
+title: A good product guy knows your product and your market inside and out...
 type: quote
 ---
 

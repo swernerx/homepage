@@ -1,5 +1,6 @@
 slug: selective-attention-is-a-hallmark-of-expertise
 date: 2013-07-21 00:26:12
+title: Selective attention is a hallmark of expertise.
 type: quote
 ---
 

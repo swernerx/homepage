@@ -1,5 +1,6 @@
 slug: at-least-sony-implement-some-orignal-designs-i
 date: 2012-01-11 10:11:29
+title: At least Sony implement some orignal designs. I like the silver...
 type: photo
 ---
 

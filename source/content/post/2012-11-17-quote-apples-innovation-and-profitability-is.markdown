@@ -1,5 +1,6 @@
 slug: apples-innovation-and-profitability-is
 date: 2012-11-17 17:51:57
+title: Apple’s innovation and profitability is unparalleled.
 type: quote
 ---
 

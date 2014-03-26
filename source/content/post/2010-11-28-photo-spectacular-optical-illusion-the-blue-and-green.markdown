@@ -1,5 +1,6 @@
 slug: spectacular-optical-illusion-the-blue-and-green
 date: 2010-11-28 19:05:36
+title: Spectacular optical illusion: 
 type: photo
 ---
 

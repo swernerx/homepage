@@ -1,5 +1,6 @@
 slug: you-should-never-have-to-bend-or-break-the-needs
 date: 2014-01-16 00:20:19
+title: You should never have to bend or break the needs of your content to...
 type: quote
 ---
 

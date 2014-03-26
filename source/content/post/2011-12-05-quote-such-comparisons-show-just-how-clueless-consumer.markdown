@@ -1,5 +1,6 @@
 slug: such-comparisons-show-just-how-clueless-consumer
 date: 2011-12-05 09:08:40
+title: Such comparisons show just how clueless Consumer Reports has become.
 type: quote
 ---
 

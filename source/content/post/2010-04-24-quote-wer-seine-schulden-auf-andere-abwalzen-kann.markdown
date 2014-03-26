@@ -1,5 +1,6 @@
 slug: wer-seine-schulden-auf-andere-abwalzen-kann
 date: 2010-04-24 08:58:05
+title: Wer seine Schulden auf andere abwälzen kann, braucht nicht zu sparen.
 type: quote
 ---
 

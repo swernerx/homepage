@@ -1,5 +1,6 @@
 slug: with-so-many-buggy-features-and-functionality
 date: 2012-07-08 20:06:01
+title: With so many buggy features and functionality gaps, the biggest...
 type: quote
 ---
 

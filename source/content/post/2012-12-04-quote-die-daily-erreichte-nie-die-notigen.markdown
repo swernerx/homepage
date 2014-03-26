@@ -1,5 +1,6 @@
 slug: die-daily-erreichte-nie-die-notigen
 date: 2012-12-04 08:44:42
+title: Die „Daily“ erreichte nie die nötigen Abonnenten-Zahlen oder genug...
 type: quote
 ---
 

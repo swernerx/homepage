@@ -1,5 +1,6 @@
 slug: honeycomb-turns-out-to-be-pretty-sweet-and-as-far
 date: 2011-02-15 11:26:47
+title: Honeycomb turns out to be pretty sweet, and as far away from Apple’s...
 type: quote
 ---
 

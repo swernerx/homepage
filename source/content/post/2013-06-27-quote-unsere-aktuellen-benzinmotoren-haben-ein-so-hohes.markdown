@@ -1,5 +1,6 @@
 slug: unsere-aktuellen-benzinmotoren-haben-ein-so-hohes
 date: 2013-06-27 09:02:51
+title: Unsere aktuellen Benzinmotoren haben ein so hohes Drehmoment und eine...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: looks-really-cool-nokia-n9-the-big-introduction
 date: 2011-06-22 10:38:47
+title: Looks really cool: Nokia N9 - The Big Introduction - Swipe with...
 type: video
 ---
 

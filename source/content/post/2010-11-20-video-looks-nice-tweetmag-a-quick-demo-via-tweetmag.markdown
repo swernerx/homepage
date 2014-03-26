@@ -1,5 +1,6 @@
 slug: looks-nice-tweetmag-a-quick-demo-via-tweetmag
 date: 2010-11-20 16:39:52
+title: Looks nice: 
 type: video
 ---
 

@@ -1,5 +1,6 @@
 slug: keynote-for-ipad-best-practices-for-creating-a
 date: 2010-04-23 23:26:55
+title: Keynote for iPad: Best practices for creating a presentation on a Mac...
 type: link
 ---
 

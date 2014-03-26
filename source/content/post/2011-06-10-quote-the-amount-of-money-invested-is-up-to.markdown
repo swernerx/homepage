@@ -1,5 +1,6 @@
 slug: the-amount-of-money-invested-is-up-to
 date: 2011-06-10 16:44:37
+title: The amount of money invested is up to pre-recession levels. That’s...
 type: quote
 ---
 

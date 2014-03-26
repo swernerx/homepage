@@ -1,5 +1,6 @@
 slug: if-you-think-that-people-dont-expect-a-discount
 date: 2010-10-07 12:38:17
+title: If you think that people don’t expect a discount for not receiving a...
 type: quote
 ---
 

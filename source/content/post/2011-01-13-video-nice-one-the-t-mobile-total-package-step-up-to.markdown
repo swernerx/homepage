@@ -1,5 +1,6 @@
 slug: nice-one-the-t-mobile-total-package-step-up-to
 date: 2011-01-13 13:09:52
+title: Nice one: [The...](http://www.youtube.com/watch?v=6pb9-LbxFeU)
 type: video
 ---
 

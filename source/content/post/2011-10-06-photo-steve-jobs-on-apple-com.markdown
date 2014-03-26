@@ -1,5 +1,6 @@
 slug: steve-jobs-on-apple-com
 date: 2011-10-06 11:02:13
+title: Steve Jobs on [Apple.com](http://apple.com)
 type: photo
 ---
 

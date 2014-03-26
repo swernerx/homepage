@@ -1,5 +1,6 @@
 slug: it-turns-out-math-is-hard-really-hard-hard
 date: 2011-08-14 11:14:16
+title: It turns out math is hard. Really hard. Hard enough that it takes...
 type: quote
 ---
 

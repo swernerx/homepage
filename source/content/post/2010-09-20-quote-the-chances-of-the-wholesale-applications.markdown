@@ -1,5 +1,6 @@
 slug: the-chances-of-the-wholesale-applications
 date: 2010-09-20 00:02:45
+title: The chances of the Wholesale Applications Community (WAC), another...
 type: quote
 ---
 

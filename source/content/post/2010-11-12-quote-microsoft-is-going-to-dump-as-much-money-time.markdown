@@ -1,5 +1,6 @@
 slug: microsoft-is-going-to-dump-as-much-money-time
 date: 2010-11-12 12:36:07
+title: Microsoft is going to dump as much money, time, and energy into the...
 type: quote
 ---
 

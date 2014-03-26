@@ -1,5 +1,6 @@
 slug: design-is-the-link-missing-from-your-founding
 date: 2012-04-03 15:06:41
+title: Design is the link missing from your founding team. The perfect...
 type: quote
 ---
 

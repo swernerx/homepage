@@ -1,5 +1,6 @@
 slug: nearly-everyone-i-know-on-facebook-restricts-their
 date: 2011-09-23 11:29:45
+title: Nearly everyone I know on Facebook restricts their wall updates to...
 type: quote
 ---
 

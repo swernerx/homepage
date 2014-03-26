@@ -1,5 +1,6 @@
 slug: a-large-company-provides-lots-of-opportunities-to
 date: 2010-12-18 12:30:30
+title: A large company provides lots of opportunities to acquire diplomacy...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: no-one-is-more-passionate-about-your-product-than
 date: 2011-06-28 19:41:05
+title: No one is more passionate about your product than you.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: will-the-paywall-result-in-a-single-new-reader
 date: 2011-08-13 00:55:42
+title: Will the paywall result in a single new reader coming to the New York...
 type: quote
 ---
 

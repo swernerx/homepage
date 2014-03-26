@@ -1,5 +1,6 @@
 slug: im-still-naive-enough-to-think-that-if-i-build-a
 date: 2011-06-25 09:59:27
+title: I’m still naive enough to think that if I build a great product then...
 type: quote
 ---
 

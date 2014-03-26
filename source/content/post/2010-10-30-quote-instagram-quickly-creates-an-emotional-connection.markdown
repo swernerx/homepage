@@ -1,5 +1,6 @@
 slug: instagram-quickly-creates-an-emotional-connection
 date: 2010-10-30 12:41:38
+title: Instagram quickly creates an emotional connection amongst its users,...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: mac-os-x-may-terminate-an-application-behind-the
 date: 2011-02-25 10:03:17
+title: Mac OS X may terminate an application behind the scenes when it goes...
 type: quote
 ---
 

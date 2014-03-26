@@ -1,5 +1,6 @@
 slug: we-cant-expect-a-lot-of-creativity-and-focus-from
 date: 2011-08-17 23:55:44
+title: We can’t expect a lot of creativity and focus from companies that...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: the-board-is-basically-a-macro-version-of
 date: 2011-05-17 10:36:14
+title: The board is basically a macro version of structures and processes of...
 type: quote
 ---
 

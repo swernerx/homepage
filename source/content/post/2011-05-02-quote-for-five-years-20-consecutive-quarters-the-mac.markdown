@@ -1,5 +1,6 @@
 slug: for-five-years-20-consecutive-quarters-the-mac
 date: 2011-05-02 20:24:43
+title: For five years, 20 consecutive quarters, the Mac outgrows the PC...
 type: quote
 ---
 

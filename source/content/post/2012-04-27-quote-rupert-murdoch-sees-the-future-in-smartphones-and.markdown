@@ -1,5 +1,6 @@
 slug: rupert-murdoch-sees-the-future-in-smartphones-and
 date: 2012-04-27 16:41:53
+title: Rupert Murdoch sees the future in smartphones and tablet computer.
 type: quote
 ---
 

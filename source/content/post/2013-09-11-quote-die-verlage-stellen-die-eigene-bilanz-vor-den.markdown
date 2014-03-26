@@ -1,5 +1,6 @@
 slug: die-verlage-stellen-die-eigene-bilanz-vor-den
 date: 2013-09-11 16:00:47
+title: Die Verlage stellen die eigene Bilanz vor den Wunsch der Kunden – und...
 type: quote
 ---
 

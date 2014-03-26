@@ -1,5 +1,6 @@
 slug: is-there-ever-a-right-time-to-ship-devices-that
 date: 2013-07-02 09:20:25
+title: Is there ever a right time to ship devices that don’t run...
 type: quote
 ---
 

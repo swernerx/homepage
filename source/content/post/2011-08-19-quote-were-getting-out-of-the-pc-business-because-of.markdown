@@ -1,5 +1,6 @@
 slug: were-getting-out-of-the-pc-business-because-of
 date: 2011-08-19 10:02:52
+title: We’re getting out of the PC business because of the iPad.
 type: quote
 ---
 

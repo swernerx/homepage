@@ -1,5 +1,6 @@
 slug: everything-on-ios-is-drawn-using-opengl-this-is
 date: 2011-08-01 18:49:57
+title: Everything on iOS is drawn using OpenGL. This is why animation on iOS...
 type: quote
 ---
 

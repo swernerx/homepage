@@ -1,5 +1,6 @@
 slug: originally-built-in-titanium-wunderlist-2-has-now
 date: 2012-12-06 16:39:44
+title: Originally built in Titanium, Wunderlist 2 has now been rebuilt into...
 type: quote
 ---
 

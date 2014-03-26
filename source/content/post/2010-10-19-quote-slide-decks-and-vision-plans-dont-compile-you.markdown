@@ -1,5 +1,6 @@
 slug: slide-decks-and-vision-plans-dont-compile-you
 date: 2010-10-19 17:05:59
+title: Slide decks and vision plans don’t compile. You can prototype and...
 type: quote
 ---
 

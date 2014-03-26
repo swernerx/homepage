@@ -1,5 +1,6 @@
 slug: understanding-hardware-acceleration-on-mobile-browsers
 date: 2011-07-16 07:01:18
+title: Understanding Hardware Acceleration on Mobile Browsers
 type: link
 ---
 

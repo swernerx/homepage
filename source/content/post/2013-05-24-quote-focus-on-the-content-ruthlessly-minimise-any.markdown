@@ -1,5 +1,6 @@
 slug: focus-on-the-content-ruthlessly-minimise-any
 date: 2013-05-24 10:57:25
+title: Focus on the content. Ruthlessly minimise any meta-elements at the...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: most-companies-are-in-a-position-to-only-make
 date: 2011-08-19 09:02:46
+title: Most companies are in a position to only make desperate guesses at...
 type: quote
 ---
 

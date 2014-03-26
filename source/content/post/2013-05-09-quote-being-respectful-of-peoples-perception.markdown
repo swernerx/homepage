@@ -1,5 +1,6 @@
 slug: being-respectful-of-peoples-perception
 date: 2013-05-09 19:31:58
+title: Being respectful of people’s perception, attention, memory and the...
 type: quote
 ---
 

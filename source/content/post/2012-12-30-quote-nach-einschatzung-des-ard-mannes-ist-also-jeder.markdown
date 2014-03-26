@@ -1,5 +1,6 @@
 slug: nach-einschatzung-des-ard-mannes-ist-also-jeder
 date: 2012-12-30 15:09:29
+title: Nach Einschätzung des ARD-Mannes ist also jeder, der die GEZ...
 type: quote
 ---
 

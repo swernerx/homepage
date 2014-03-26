@@ -1,5 +1,6 @@
 slug: weve-started-accelerating-some-content-in
 date: 2010-08-28 10:36:07
+title: We’ve started accelerating some content in Chromium.
 type: quote
 ---
 

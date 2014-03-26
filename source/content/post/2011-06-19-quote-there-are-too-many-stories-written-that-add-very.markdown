@@ -1,5 +1,6 @@
 slug: there-are-too-many-stories-written-that-add-very
 date: 2011-06-19 14:34:51
+title: There are too many stories written that add very little value — long...
 type: quote
 ---
 

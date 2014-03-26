@@ -1,5 +1,6 @@
 slug: we-will-stop-printing-the-new-york-times-sometime
 date: 2011-06-24 18:09:20
+title: We Will Stop Printing The New York Times Sometime In The Future.
 type: quote
 ---
 

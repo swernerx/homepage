@@ -1,5 +1,6 @@
 slug: it-seems-many-of-android-3-1-s-changes-are-under
 date: 2011-05-11 08:50:22
+title: It seems many of Android 3.1′s changes are under the hood. The Xoom...
 type: quote
 ---
 

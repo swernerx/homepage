@@ -1,5 +1,6 @@
 slug: its-not-a-good-idea-to-use-ms-filter-markup-with
 date: 2011-05-31 10:15:28
+title: It’s not a good idea to use -ms-filter markup with new IE9 or...
 type: quote
 ---
 

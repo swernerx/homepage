@@ -1,5 +1,6 @@
 slug: a-magazine-is-an-ipad-that-does-not-work
 date: 2011-10-13 09:58:06
+title: A Magazine Is an iPad That Does Not Work (via 
 type: video
 ---
 

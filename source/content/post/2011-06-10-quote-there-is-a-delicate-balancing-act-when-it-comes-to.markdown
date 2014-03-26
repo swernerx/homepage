@@ -1,5 +1,6 @@
 slug: there-is-a-delicate-balancing-act-when-it-comes-to
 date: 2011-06-10 17:06:14
+title: There is a delicate balancing act when it comes to highlighting new...
 type: quote
 ---
 

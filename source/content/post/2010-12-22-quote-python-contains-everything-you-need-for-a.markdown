@@ -1,5 +1,6 @@
 slug: python-contains-everything-you-need-for-a
 date: 2010-12-22 10:50:20
+title: Python contains everything you need for a completely functional...
 type: quote
 ---
 

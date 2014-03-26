@@ -1,5 +1,6 @@
 slug: ungeachtet-der-offentlich-gefuhrten-diskussionen
 date: 2013-06-19 18:15:08
+title: Ungeachtet der öffentlich geführten Diskussionen über die...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: samsung-is-offering-eur500-000-in-cash-and-prizes
 date: 2010-10-09 11:09:01
+title: Samsung is offering €500,000 in cash and prizes for the best...
 type: quote
 ---
 

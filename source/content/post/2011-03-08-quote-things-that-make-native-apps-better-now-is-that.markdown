@@ -1,5 +1,6 @@
 slug: things-that-make-native-apps-better-now-is-that
 date: 2011-03-08 20:00:03
+title: Things that make native apps better now is that their tools and...
 type: quote
 ---
 

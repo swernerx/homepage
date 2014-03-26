@@ -1,5 +1,6 @@
 slug: what-i-wasnt-expecting-is-even-at-home-i-prefer
 date: 2010-05-20 13:43:16
+title: What I wasn’t expecting is, even at home, I prefer to write on the...
 type: quote
 ---
 

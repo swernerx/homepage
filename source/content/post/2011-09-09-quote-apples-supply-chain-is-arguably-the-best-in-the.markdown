@@ -1,5 +1,6 @@
 slug: apples-supply-chain-is-arguably-the-best-in-the
 date: 2011-09-09 20:49:38
+title: Apple’s supply chain is arguably the best in the business. It...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: according-to-a-may-2012-survey-conducted-by
 date: 2013-04-24 09:59:17
+title: According to a May 2012 survey conducted by WebAIM, 98.6% of screen...
 type: quote
 ---
 

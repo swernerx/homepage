@@ -1,5 +1,6 @@
 slug: making-correct-changes-to-a-large-codebase-is
 date: 2014-01-28 10:00:14
+title: Making correct changes to a large codebase is expensive due to the...
 type: quote
 ---
 

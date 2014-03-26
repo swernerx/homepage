@@ -1,5 +1,6 @@
 slug: looks-nice-pro-git-on-your-ipad
 date: 2010-05-18 21:55:55
+title: Looks nice: 
 type: photo
 ---
 

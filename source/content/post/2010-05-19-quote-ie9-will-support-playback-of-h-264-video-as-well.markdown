@@ -1,5 +1,6 @@
 slug: ie9-will-support-playback-of-h-264-video-as-well
 date: 2010-05-19 23:05:34
+title: IE9 will support playback of H.264 video as well as VP8 video when...
 type: quote
 ---
 

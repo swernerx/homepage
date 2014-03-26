@@ -1,5 +1,6 @@
 slug: optimizely-is-a-dramatically-easier-way-for-you-to
 date: 2010-10-14 13:48:41
+title: Optimizely is a dramatically easier way for you to improve your...
 type: quote
 ---
 

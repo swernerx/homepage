@@ -1,5 +1,6 @@
 slug: wenn-man-die-regeln-einhielte-ware-griechenland
 date: 2011-09-09 20:49:46
+title: Wenn man die Regeln einhielte, wäre Griechenland zwar längst...
 type: quote
 ---
 

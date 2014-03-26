@@ -1,5 +1,6 @@
 slug: the-mistrust-that-google-earned-for-itself-with
 date: 2010-10-12 16:34:15
+title: The mistrust that Google earned for itself with operators, device...
 type: quote
 ---
 

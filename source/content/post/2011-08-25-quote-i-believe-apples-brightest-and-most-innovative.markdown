@@ -1,5 +1,6 @@
 slug: i-believe-apples-brightest-and-most-innovative
 date: 2011-08-25 07:57:35
+title: I believe Apple’s brightest and most innovative days are ahead of it.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: daring-fireball-bending-over-backwards
 date: 2011-03-11 21:19:30
+title: Daring Fireball: Bending Over Backwards
 type: link
 ---
 

@@ -1,5 +1,6 @@
 slug: if-everything-you-do-works-then-youre-not-taking
 date: 2010-12-23 08:34:22
+title: If everything you do works, then you’re not taking many risks and...
 type: quote
 ---
 

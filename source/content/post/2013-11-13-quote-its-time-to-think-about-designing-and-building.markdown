@@ -1,5 +1,6 @@
 slug: its-time-to-think-about-designing-and-building
 date: 2013-11-13 09:16:20
+title: It’s time to think about designing and building our applications...
 type: quote
 ---
 

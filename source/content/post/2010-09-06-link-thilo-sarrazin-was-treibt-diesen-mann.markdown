@@ -1,5 +1,6 @@
 slug: thilo-sarrazin-was-treibt-diesen-mann
 date: 2010-09-06 00:16:18
+title: Thilo Sarrazin: Was treibt diesen Mann?
 type: link
 ---
 

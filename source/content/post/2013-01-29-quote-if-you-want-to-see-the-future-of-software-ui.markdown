@@ -1,5 +1,6 @@
 slug: if-you-want-to-see-the-future-of-software-ui
 date: 2013-01-29 15:26:02
+title: If you want to see the future of software UI design, look to the...
 type: quote
 ---
 

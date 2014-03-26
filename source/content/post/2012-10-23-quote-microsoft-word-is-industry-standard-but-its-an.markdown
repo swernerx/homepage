@@ -1,5 +1,6 @@
 slug: microsoft-word-is-industry-standard-but-its-an
 date: 2012-10-23 09:52:30
+title: Microsoft Word is industry standard, but it’s an industry-standard...
 type: quote
 ---
 

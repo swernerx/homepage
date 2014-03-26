@@ -1,5 +1,6 @@
 slug: everything-is-nearly-instant-this-app-is
 date: 2012-12-06 11:02:03
+title: Everything is nearly instant. This app is seriously fast. I wondered...
 type: quote
 ---
 

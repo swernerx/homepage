@@ -1,5 +1,6 @@
 slug: a-designer-who-does-not-write-markup-and-css-is
 date: 2011-09-01 21:21:14
+title: A designer who does not write markup and css is not designing for the...
 type: quote
 ---
 

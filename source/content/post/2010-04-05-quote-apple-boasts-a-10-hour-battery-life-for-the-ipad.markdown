@@ -1,5 +1,6 @@
 slug: apple-boasts-a-10-hour-battery-life-for-the-ipad
 date: 2010-04-05 13:00:25
+title: Apple boasts a 10-hour battery life for the iPad, and most reports...
 type: quote
 ---
 

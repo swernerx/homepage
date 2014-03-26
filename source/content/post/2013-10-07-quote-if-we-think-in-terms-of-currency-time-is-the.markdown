@@ -1,5 +1,6 @@
 slug: if-we-think-in-terms-of-currency-time-is-the
 date: 2013-10-07 18:49:40
+title: If we think in terms of currency, time is the biggest asset we have...
 type: quote
 ---
 

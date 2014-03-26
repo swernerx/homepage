@@ -1,5 +1,6 @@
 slug: pat-cavit-automating-website-optimizations-via
 date: 2011-12-07 10:47:26
+title: Pat Cavit: Automating Website Optimizations (via 
 type: video
 ---
 

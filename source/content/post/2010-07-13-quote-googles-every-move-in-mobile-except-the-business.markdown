@@ -1,5 +1,6 @@
 slug: googles-every-move-in-mobile-except-the-business
 date: 2010-07-13 23:05:13
+title: Google’s every move in mobile—except the business model—is a copy of...
 type: quote
 ---
 

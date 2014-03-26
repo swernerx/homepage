@@ -1,5 +1,6 @@
 slug: digital-advertising-revenues-are-far-less-than
 date: 2011-08-09 00:11:48
+title: Digital advertising revenues are far less than print.
 type: quote
 ---
 

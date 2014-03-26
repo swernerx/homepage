@@ -1,5 +1,6 @@
 slug: wettergesprache-graphitti-blog
 date: 2011-06-06 18:20:09
+title: 
 type: photo
 ---
 

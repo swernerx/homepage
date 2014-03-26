@@ -1,5 +1,6 @@
 slug: the-way-to-revolutionize-the-tv-market-is-to-cut
 date: 2011-10-24 14:55:30
+title: The way to revolutionize the TV market is to cut out all of the...
 type: quote
 ---
 

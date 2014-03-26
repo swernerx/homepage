@@ -1,5 +1,6 @@
 slug: while-the-xoom-claims-up-to-10-hours-of-video
 date: 2011-02-24 10:56:29
+title: While the Xoom claims up to 10 hours of video playback, I got just 7...
 type: quote
 ---
 

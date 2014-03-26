@@ -1,5 +1,6 @@
 slug: we-think-we-already-know-how-to-complete-the-tasks
 date: 2012-06-22 17:31:13
+title: We think we already know how to complete the tasks we’re given yet...
 type: quote
 ---
 

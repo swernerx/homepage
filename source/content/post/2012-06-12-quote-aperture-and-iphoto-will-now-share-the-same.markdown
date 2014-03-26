@@ -1,5 +1,6 @@
 slug: aperture-and-iphoto-will-now-share-the-same
 date: 2012-06-12 09:14:04
+title: Aperture and iPhoto will now share the same libraries — this means...
 type: quote
 ---
 

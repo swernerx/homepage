@@ -1,5 +1,6 @@
 slug: apple-study-8-easy-steps-to-beat-microsoft-and
 date: 2010-07-11 19:06:41
+title: Apple Study: 8 easy steps to beat Microsoft (and Google)
 type: link
 ---
 

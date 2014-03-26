@@ -1,5 +1,6 @@
 slug: verlage-werden-gar-nichts-mehr-verdienen-wenn-sie
 date: 2012-07-12 15:49:52
+title: Verlage werden gar nichts mehr verdienen, wenn sie ihren Kunden keine...
 type: quote
 ---
 

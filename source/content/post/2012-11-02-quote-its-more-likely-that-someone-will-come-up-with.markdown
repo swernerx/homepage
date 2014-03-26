@@ -1,5 +1,6 @@
 slug: its-more-likely-that-someone-will-come-up-with
 date: 2012-11-02 23:14:01
+title: It’s more likely that someone will come up with your idea...
 type: quote
 ---
 

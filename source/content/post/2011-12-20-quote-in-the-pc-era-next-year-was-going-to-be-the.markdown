@@ -1,5 +1,6 @@
 slug: in-the-pc-era-next-year-was-going-to-be-the
 date: 2011-12-20 15:49:58
+title: In the PC era, “next year” was going to be the year of desktop Linux...
 type: quote
 ---
 

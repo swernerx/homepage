@@ -1,5 +1,6 @@
 slug: software-development-is-relatively-easy-taste-and
 date: 2011-12-22 18:50:51
+title: Software development is relatively easy. Taste and user experience,...
 type: quote
 ---
 

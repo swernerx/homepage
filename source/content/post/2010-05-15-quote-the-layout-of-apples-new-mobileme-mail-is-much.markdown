@@ -1,5 +1,6 @@
 slug: the-layout-of-apples-new-mobileme-mail-is-much
 date: 2010-05-15 19:44:38
+title: The layout [of Apple’s new MobileMe Mail] is much more like the...
 type: quote
 ---
 

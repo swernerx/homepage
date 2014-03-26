@@ -1,5 +1,6 @@
 slug: mobilenavigator-eu-44-99eur-instead-of-89-99eur
 date: 2010-08-12 13:01:10
+title: MobileNavigator EU: 44,99€ instead of 89,99€
 type: quote
 ---
 

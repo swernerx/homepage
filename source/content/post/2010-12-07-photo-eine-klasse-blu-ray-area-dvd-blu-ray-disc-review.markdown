@@ -1,5 +1,6 @@
 slug: eine-klasse-blu-ray-area-dvd-blu-ray-disc-review
 date: 2010-12-07 22:26:11
+title: Eine Klasse Blu-Ray: 
 type: photo
 ---
 

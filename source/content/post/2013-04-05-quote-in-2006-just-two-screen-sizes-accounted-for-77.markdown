@@ -1,5 +1,6 @@
 slug: in-2006-just-two-screen-sizes-accounted-for-77
 date: 2013-04-05 17:03:35
+title: In 2006, just two screen sizes accounted for 77% of all web usage.
 type: quote
 ---
 

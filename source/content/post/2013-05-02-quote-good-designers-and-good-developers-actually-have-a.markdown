@@ -1,5 +1,6 @@
 slug: good-designers-and-good-developers-actually-have-a
 date: 2013-05-02 13:26:00
+title: Good designers and good developers actually have a lot in common.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: for-99-of-the-designs-out-there-typography-and
 date: 2012-12-28 22:54:42
+title: For 99% of the designs out there, typography and white space are...
 type: quote
 ---
 

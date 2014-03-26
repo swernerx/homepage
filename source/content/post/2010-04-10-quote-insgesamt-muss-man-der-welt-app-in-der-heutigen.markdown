@@ -1,5 +1,6 @@
 slug: insgesamt-muss-man-der-welt-app-in-der-heutigen
 date: 2010-04-10 10:54:00
+title: Insgesamt muss man der “Welt”-App in der heutigen Form leider das...
 type: quote
 ---
 

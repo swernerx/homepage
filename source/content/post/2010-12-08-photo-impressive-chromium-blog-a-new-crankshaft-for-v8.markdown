@@ -1,5 +1,6 @@
 slug: impressive-chromium-blog-a-new-crankshaft-for-v8
 date: 2010-12-08 13:30:29
+title: Impressive: 
 type: photo
 ---
 

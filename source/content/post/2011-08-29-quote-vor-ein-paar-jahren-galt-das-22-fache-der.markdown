@@ -1,5 +1,6 @@
 slug: vor-ein-paar-jahren-galt-das-22-fache-der
 date: 2011-08-29 12:49:20
+title: Vor ein paar Jahren galt das 22-fache der Jahresmiete als „normaler...
 type: quote
 ---
 

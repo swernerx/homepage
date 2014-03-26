@@ -1,5 +1,6 @@
 slug: live-a-life-of-commitment-project-your-values-and
 date: 2012-03-27 11:40:51
+title: Live a life of commitment. Project your values and proclaim your...
 type: quote
 ---
 

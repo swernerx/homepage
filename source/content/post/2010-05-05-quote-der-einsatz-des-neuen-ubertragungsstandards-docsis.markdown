@@ -1,5 +1,6 @@
 slug: der-einsatz-des-neuen-ubertragungsstandards-docsis
 date: 2010-05-05 20:30:00
+title: Der Einsatz des neuen Übertragungsstandards Docsis 3.0 erlaubt enorm...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: ec2-instances-can-and-will-randomly-crash-expect
 date: 2012-06-22 23:50:07
+title: EC2 instances can and will randomly crash. Expect this, and you won’t...
 type: quote
 ---
 

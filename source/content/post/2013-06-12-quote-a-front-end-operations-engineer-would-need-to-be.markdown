@@ -1,5 +1,6 @@
 slug: a-front-end-operations-engineer-would-need-to-be
 date: 2013-06-12 15:47:41
+title: A front-end operations engineer would need to be an expert at serving...
 type: quote
 ---
 

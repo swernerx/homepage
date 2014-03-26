@@ -1,5 +1,6 @@
 slug: the-javascript-synth-is-less-than-10-slower-than
 date: 2011-05-11 09:51:01
+title: The JavaScript synth is less than 10% slower than the hand optimized...
 type: quote
 ---
 

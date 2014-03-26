@@ -1,5 +1,6 @@
 slug: apple-is-a-company-built-around-user-trust-they
 date: 2011-02-17 03:19:24
+title: Apple is a company built around user trust. They piss off developers...
 type: quote
 ---
 

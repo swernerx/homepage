@@ -1,5 +1,6 @@
 slug: if-google-is-giving-away-a-quite-good-service
 date: 2011-01-10 00:03:35
+title: If Google is giving away a quite good service, it’s hard to compete...
 type: quote
 ---
 

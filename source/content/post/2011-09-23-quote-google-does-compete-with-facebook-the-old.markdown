@@ -1,5 +1,6 @@
 slug: google-does-compete-with-facebook-the-old
 date: 2011-09-23 20:26:33
+title: Google+ does compete with Facebook — the old Facebook. It does not...
 type: quote
 ---
 

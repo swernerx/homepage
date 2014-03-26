@@ -1,5 +1,6 @@
 slug: ipad-air-reigns-supreme-for-tablet-battery-life
 date: 2014-02-13 10:46:43
+title: 
 type: photo
 ---
 

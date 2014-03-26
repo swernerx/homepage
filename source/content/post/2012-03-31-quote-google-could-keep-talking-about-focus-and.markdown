@@ -1,5 +1,6 @@
 slug: google-could-keep-talking-about-focus-and
 date: 2012-03-31 09:45:31
+title: Google could keep talking about focus and streamlining and user...
 type: quote
 ---
 

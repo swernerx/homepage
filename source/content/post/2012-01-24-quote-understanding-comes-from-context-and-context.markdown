@@ -1,5 +1,6 @@
 slug: understanding-comes-from-context-and-context
 date: 2012-01-24 11:19:14
+title: Understanding comes from context, and context comes from knowing...
 type: quote
 ---
 

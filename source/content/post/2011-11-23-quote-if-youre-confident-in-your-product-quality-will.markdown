@@ -1,5 +1,6 @@
 slug: if-youre-confident-in-your-product-quality-will
 date: 2011-11-23 12:29:06
+title: If you’re confident in your product, quality will always prevail.
 type: quote
 ---
 

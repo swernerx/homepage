@@ -1,5 +1,6 @@
 slug: the-tablet-is-a-device-where-people-are-drawn-to
 date: 2013-05-02 17:51:04
+title: The tablet is a device where people are drawn to the longform style...
 type: quote
 ---
 

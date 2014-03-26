@@ -1,5 +1,6 @@
 slug: eine-eigenleistung-der-zeitung-fand-ich-auf-der
 date: 2013-08-20 18:24:11
+title: Eine Eigenleistung der Zeitung fand ich auf der Titelseite nicht.
 type: quote
 ---
 

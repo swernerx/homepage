@@ -1,5 +1,6 @@
 slug: i-find-it-counter-productive-that-css-in-most-jobs
 date: 2013-12-12 10:02:27
+title: I find it counter-productive that CSS in most jobs is assigned to...
 type: quote
 ---
 

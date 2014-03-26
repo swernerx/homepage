@@ -1,5 +1,6 @@
 slug: i-think-its-the-best-space-photography-ever-done
 date: 2013-09-05 09:31:41
+title: I think it’s the best space photography ever done, I think...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: man-stellt-sich-die-frage-wer-da-das-bessere
 date: 2013-12-20 18:01:35
+title: Man stellt sich die Frage, wer da das bessere Geschäft macht: Die...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: jonathan-ive-on-the-design-of-the-iphone-4-material
 date: 2010-07-04 10:55:37
+title: Jonathan Ive on the design of the iPhone 4: Material Matters
 type: link
 ---
 

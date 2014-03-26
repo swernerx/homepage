@@ -1,5 +1,6 @@
 slug: if-the-itv-is-an-integrated-device-the-computer
 date: 2011-11-08 09:06:34
+title: If the iTV is an integrated device, the computer inside will become...
 type: quote
 ---
 

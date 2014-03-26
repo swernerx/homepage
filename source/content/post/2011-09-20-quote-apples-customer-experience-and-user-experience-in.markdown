@@ -1,5 +1,6 @@
 slug: apples-customer-experience-and-user-experience-in
 date: 2011-09-20 19:58:10
+title: Apple’s customer experience and user experience in PCs is second to...
 type: quote
 ---
 

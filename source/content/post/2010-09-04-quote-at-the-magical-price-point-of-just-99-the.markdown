@@ -1,5 +1,6 @@
 slug: at-the-magical-price-point-of-just-99-the
 date: 2010-09-04 23:09:08
+title: At the magical price point of just $99, the AppleTV will be hard for...
 type: quote
 ---
 

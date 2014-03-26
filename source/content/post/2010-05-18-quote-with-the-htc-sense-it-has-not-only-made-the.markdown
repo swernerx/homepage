@@ -1,5 +1,6 @@
 slug: with-the-htc-sense-it-has-not-only-made-the
 date: 2010-05-18 22:22:28
+title: With the HTC Sense, it has not only made the Android experience...
 type: quote
 ---
 

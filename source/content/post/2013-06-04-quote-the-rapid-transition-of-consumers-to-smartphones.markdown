@@ -1,5 +1,6 @@
 slug: the-rapid-transition-of-consumers-to-smartphones
 date: 2013-06-04 08:39:02
+title: The rapid transition of consumers to smartphones and tablets creates...
 type: quote
 ---
 

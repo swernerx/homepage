@@ -1,5 +1,6 @@
 slug: second-ie10-platform-preview
 date: 2011-06-30 09:34:42
+title: Second IE10 Platform Preview
 type: link
 ---
 

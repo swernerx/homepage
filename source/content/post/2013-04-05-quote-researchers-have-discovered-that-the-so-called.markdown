@@ -1,5 +1,6 @@
 slug: researchers-have-discovered-that-the-so-called
 date: 2013-04-05 17:02:44
+title: Researchers have discovered that the so-called static stretching can...
 type: quote
 ---
 

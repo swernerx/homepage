@@ -1,5 +1,6 @@
 slug: pogues-ipad-review
 date: 2010-04-10 22:55:00
+title: Pogue's iPad Review
 type: link
 ---
 

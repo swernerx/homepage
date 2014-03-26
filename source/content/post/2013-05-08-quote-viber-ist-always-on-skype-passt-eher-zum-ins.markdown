@@ -1,5 +1,6 @@
 slug: viber-ist-always-on-skype-passt-eher-zum-ins
 date: 2013-05-08 09:11:23
+title: Viber ist “always on”, Skype passt eher zum “ins Internet gehen”.
 type: quote
 ---
 

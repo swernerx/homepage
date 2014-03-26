@@ -1,5 +1,6 @@
 slug: es-ist-schon-ein-industrielles-wunder-in-einer
 date: 2013-04-05 22:53:58
+title: Es ist schon ein industrielles Wunder in einer postindustriellen...
 type: quote
 ---
 

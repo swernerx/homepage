@@ -1,5 +1,6 @@
 slug: for-years-audiences-have-been-told-that-3d
 date: 2013-10-03 19:56:59
+title: For years audiences have been told that 3D provided the opportunity...
 type: quote
 ---
 

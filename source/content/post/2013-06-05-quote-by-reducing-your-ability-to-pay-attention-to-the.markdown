@@ -1,5 +1,6 @@
 slug: by-reducing-your-ability-to-pay-attention-to-the
 date: 2013-06-05 18:29:58
+title: By reducing your ability to pay attention to the world around you,...
 type: quote
 ---
 

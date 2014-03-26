@@ -1,5 +1,6 @@
 slug: with-qooxdoos-cross-browser-theming-layer-you
 date: 2010-12-24 11:43:55
+title: With qooxdoo’s cross-browser theming layer, you can create complex...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: einzig-die-wirtschaftswoche-hat-einen-grunderraum
 date: 2011-08-17 20:42:11
+title: Einzig die Wirtschaftswoche hat einen Gründerraum eingerichtet.
 type: quote
 ---
 

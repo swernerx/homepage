@@ -1,5 +1,6 @@
 slug: die-wachsende-skepsis-gegenuber-dem-riester-modell
 date: 2011-10-17 08:48:15
+title: Die wachsende Skepsis gegenüber dem Riester-Modell ist berechtigt.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: decluttering-and-restyling-is-more-necessary-than
 date: 2011-11-23 08:44:39
+title: Decluttering and restyling is more necessary than ever for far too...
 type: quote
 ---
 

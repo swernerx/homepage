@@ -1,5 +1,6 @@
 slug: their-look-and-feel-is-reminiscent-of-the-8-bit
 date: 2011-04-19 22:54:59
+title: Their look and feel is reminiscent of the 8-bit, low-fidelity...
 type: quote
 ---
 

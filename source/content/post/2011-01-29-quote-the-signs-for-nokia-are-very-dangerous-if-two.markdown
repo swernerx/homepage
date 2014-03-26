@@ -1,5 +1,6 @@
 slug: the-signs-for-nokia-are-very-dangerous-if-two
 date: 2011-01-29 10:34:49
+title: The signs for Nokia are very dangerous. If two quarters have already...
 type: quote
 ---
 

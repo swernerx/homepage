@@ -1,5 +1,6 @@
 slug: well-done-verizon-verizon-test-man-with-iphone
 date: 2011-02-05 13:05:00
+title: Well done Verizon: 
 type: video
 ---
 

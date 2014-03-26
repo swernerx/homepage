@@ -1,5 +1,6 @@
 slug: cross-platform-solutions-like-air-might-be-better
 date: 2011-01-16 23:52:21
+title: Cross-platform solutions like AIR might be better for your business...
 type: quote
 ---
 

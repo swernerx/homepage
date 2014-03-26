@@ -1,5 +1,6 @@
 slug: nice-one-clones-what-ios-clones
 date: 2010-12-30 19:31:05
+title: Nice one: 
 type: photo
 ---
 

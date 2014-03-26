@@ -1,5 +1,6 @@
 slug: weniger-geld-weniger-leute-mehr-und-bessere
 date: 2013-06-20 18:41:13
+title: Weniger Geld, weniger Leute, mehr und bessere Produkte. Glaubt...
 type: quote
 ---
 

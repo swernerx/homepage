@@ -1,5 +1,6 @@
 slug: apple-stores-worldwide-saw-75-million-visitors
 date: 2010-12-31 19:11:32
+title: Apple Stores worldwide saw 75 million visitors cross their thresholds...
 type: quote
 ---
 

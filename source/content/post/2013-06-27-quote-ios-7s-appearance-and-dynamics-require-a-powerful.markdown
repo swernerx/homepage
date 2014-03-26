@@ -1,5 +1,6 @@
 slug: ios-7s-appearance-and-dynamics-require-a-powerful
 date: 2013-06-27 22:42:26
+title: iOS 7’s appearance and dynamics require a powerful GPU and advanced,...
 type: quote
 ---
 

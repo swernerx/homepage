@@ -1,5 +1,6 @@
 slug: the-http-archive-charted-the-growth-of-the-average
 date: 2011-12-22 10:07:10
+title: The HTTP Archive charted the growth of the average web page and found...
 type: quote
 ---
 

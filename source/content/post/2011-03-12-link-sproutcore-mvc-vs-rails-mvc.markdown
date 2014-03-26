@@ -1,5 +1,6 @@
 slug: sproutcore-mvc-vs-rails-mvc
 date: 2011-03-12 19:26:13
+title: Sproutcore MVC VS Rails MVC
 type: link
 ---
 

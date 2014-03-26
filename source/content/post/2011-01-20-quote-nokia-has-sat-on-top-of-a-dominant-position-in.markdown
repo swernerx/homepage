@@ -1,5 +1,6 @@
 slug: nokia-has-sat-on-top-of-a-dominant-position-in
 date: 2011-01-20 16:41:30
+title: Nokia has sat on top of a dominant position in mobile phones for...
 type: quote
 ---
 

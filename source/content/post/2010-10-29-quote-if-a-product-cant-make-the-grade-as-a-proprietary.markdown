@@ -1,5 +1,6 @@
 slug: if-a-product-cant-make-the-grade-as-a-proprietary
 date: 2010-10-29 12:15:04
+title: If a product can’t make the grade as a proprietary product, it will...
 type: quote
 ---
 

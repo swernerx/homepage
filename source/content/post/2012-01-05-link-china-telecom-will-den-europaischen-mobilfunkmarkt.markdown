@@ -1,5 +1,6 @@
 slug: china-telecom-will-den-europaischen-mobilfunkmarkt
 date: 2012-01-05 13:12:20
+title: China Telecom will den europäischen Mobilfunkmarkt erobern -...
 type: link
 ---
 

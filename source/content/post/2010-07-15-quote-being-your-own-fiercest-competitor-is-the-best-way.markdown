@@ -1,5 +1,6 @@
 slug: being-your-own-fiercest-competitor-is-the-best-way
 date: 2010-07-15 23:06:51
+title: Being your own fiercest competitor is the best way to keep your...
 type: quote
 ---
 

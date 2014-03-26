@@ -1,5 +1,6 @@
 slug: people-want-to-believe-in-things-like
 date: 2011-06-17 22:31:21
+title: People want to believe in things like micropayments because without a...
 type: quote
 ---
 

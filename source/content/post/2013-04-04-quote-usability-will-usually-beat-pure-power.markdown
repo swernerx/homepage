@@ -1,5 +1,6 @@
 slug: usability-will-usually-beat-pure-power
 date: 2013-04-04 12:55:45
+title: Usability will usually beat pure power.
 type: quote
 ---
 

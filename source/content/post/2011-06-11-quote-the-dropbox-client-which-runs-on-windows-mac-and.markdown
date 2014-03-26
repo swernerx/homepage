@@ -1,5 +1,6 @@
 slug: the-dropbox-client-which-runs-on-windows-mac-and
 date: 2011-06-11 12:35:47
+title: The Dropbox client, which runs on Windows, Mac and Linux, is written...
 type: quote
 ---
 

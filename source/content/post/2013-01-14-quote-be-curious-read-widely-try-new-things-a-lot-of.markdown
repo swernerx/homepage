@@ -1,5 +1,6 @@
 slug: be-curious-read-widely-try-new-things-a-lot-of
 date: 2013-01-14 15:48:45
+title: Be curious. Read widely. Try new things. A lot of what people call...
 type: quote
 ---
 

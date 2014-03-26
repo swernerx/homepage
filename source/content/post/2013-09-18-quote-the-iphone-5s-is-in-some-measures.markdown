@@ -1,5 +1,6 @@
 slug: the-iphone-5s-is-in-some-measures
 date: 2013-09-18 22:08:58
+title: The iPhone 5S is, in some measures, computationally superior to the...
 type: quote
 ---
 

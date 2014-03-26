@@ -1,5 +1,6 @@
 slug: imagine-a-movie-review-based-on-specs-where-you
 date: 2011-11-15 09:30:23
+title: Imagine a movie review based on specs, where you gave points for how...
 type: quote
 ---
 

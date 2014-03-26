@@ -1,5 +1,6 @@
 slug: seedcamps-standard-terms-are-eur50000-for-8-10-per
 date: 2011-06-22 10:42:12
+title: Seedcamp’s standard terms are €50000 for 8-10% per cent of the...
 type: quote
 ---
 

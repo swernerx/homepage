@@ -1,5 +1,6 @@
 slug: sicherlich-ist-es-schade-dass-anstelle-von-amen
 date: 2011-09-13 23:23:35
+title: Sicherlich ist es schade, dass anstelle von Amen nicht ein deutsches...
 type: quote
 ---
 

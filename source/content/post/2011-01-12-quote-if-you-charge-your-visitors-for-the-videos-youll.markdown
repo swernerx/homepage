@@ -1,5 +1,6 @@
 slug: if-you-charge-your-visitors-for-the-videos-youll
 date: 2011-01-12 22:47:54
+title: If you charge your visitors for the videos, you’ll have to pay...
 type: quote
 ---
 

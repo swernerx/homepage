@@ -1,5 +1,6 @@
 slug: der-aufbau-des-vermogens-und-das-ist-vielen
 date: 2013-06-19 08:45:41
+title: Der Aufbau des Vermögens, und das ist vielen Menschen nicht richtig...
 type: quote
 ---
 

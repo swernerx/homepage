@@ -1,5 +1,6 @@
 slug: thats-nice-combining-facebook-and-twitter-in-one
 date: 2010-05-21 13:56:36
+title: That’s nice! Combining Facebook and Twitter in one client...
 type: video
 ---
 

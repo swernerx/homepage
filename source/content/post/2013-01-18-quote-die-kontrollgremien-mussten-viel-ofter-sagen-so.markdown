@@ -1,5 +1,6 @@
 slug: die-kontrollgremien-mussten-viel-ofter-sagen-so
 date: 2013-01-18 16:48:22
+title: Die Kontrollgremien müssten viel öfter sagen: So geht es nicht, das...
 type: quote
 ---
 

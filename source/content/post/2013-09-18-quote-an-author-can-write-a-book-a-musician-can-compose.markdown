@@ -1,5 +1,6 @@
 slug: an-author-can-write-a-book-a-musician-can-compose
 date: 2013-09-18 19:33:37
+title: An author can write a book. A musician can compose a song, a animator...
 type: quote
 ---
 

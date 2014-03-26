@@ -1,5 +1,6 @@
 slug: while-real-time-reporting-is-very-powerful-we
 date: 2011-06-19 14:37:09
+title: While real-time reporting is very powerful, we still need someone to...
 type: quote
 ---
 

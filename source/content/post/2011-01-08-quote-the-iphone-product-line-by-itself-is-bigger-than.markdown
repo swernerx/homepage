@@ -1,5 +1,6 @@
 slug: the-iphone-product-line-by-itself-is-bigger-than
 date: 2011-01-08 17:46:53
+title: The iPhone product line by itself is bigger than Coca-Cola.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: most-people-dont-really-want-change-they-just
 date: 2012-11-17 17:52:44
+title: Most people don’t really want change, they just think that they do...
 type: quote
 ---
 

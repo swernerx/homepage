@@ -1,5 +1,6 @@
 slug: i-can-only-conclude-that-rim-is-simply-too-weak-to
 date: 2010-08-06 22:02:15
+title: I can only conclude that RIM is simply too weak to make it in the...
 type: quote
 ---
 

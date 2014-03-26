@@ -1,5 +1,6 @@
 slug: web-developers-are-still-stuck-in-the
 date: 2011-11-21 08:41:30
+title: Web developers are still stuck in the request/response mindset.
 type: quote
 ---
 

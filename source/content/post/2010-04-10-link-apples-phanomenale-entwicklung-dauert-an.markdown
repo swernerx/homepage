@@ -1,5 +1,6 @@
 slug: apples-phanomenale-entwicklung-dauert-an
 date: 2010-04-10 11:06:00
+title: Apples phänomenale Entwicklung dauert an
 type: link
 ---
 

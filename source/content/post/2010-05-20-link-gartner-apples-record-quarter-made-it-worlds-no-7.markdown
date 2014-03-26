@@ -1,5 +1,6 @@
 slug: gartner-apples-record-quarter-made-it-worlds-no-7
 date: 2010-05-20 00:20:47
+title: Gartner: Apple's record quarter made it world's No. 7 cell phone...
 type: link
 ---
 

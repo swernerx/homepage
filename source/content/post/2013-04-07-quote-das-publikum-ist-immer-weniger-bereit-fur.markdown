@@ -1,5 +1,6 @@
 slug: das-publikum-ist-immer-weniger-bereit-fur
 date: 2013-04-07 12:32:48
+title: Das Publikum ist immer weniger bereit, für traditionelle Arbeit zu...
 type: quote
 ---
 

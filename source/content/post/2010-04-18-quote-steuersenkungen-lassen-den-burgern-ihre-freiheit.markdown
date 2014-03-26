@@ -1,5 +1,6 @@
 slug: steuersenkungen-lassen-den-burgern-ihre-freiheit
 date: 2010-04-18 15:08:45
+title: Steuersenkungen lassen den Bürgern ihre Freiheit; Konjunkturprogramme...
 type: quote
 ---
 

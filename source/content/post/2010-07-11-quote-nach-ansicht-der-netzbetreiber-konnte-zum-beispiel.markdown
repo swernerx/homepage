@@ -1,5 +1,6 @@
 slug: nach-ansicht-der-netzbetreiber-konnte-zum-beispiel
 date: 2010-07-11 17:51:01
+title: Nach Ansicht der Netzbetreiber könnte zum Beispiel die...
 type: quote
 ---
 

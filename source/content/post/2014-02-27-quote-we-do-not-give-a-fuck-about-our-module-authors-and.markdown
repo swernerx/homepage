@@ -1,5 +1,6 @@
 slug: we-do-not-give-a-fuck-about-our-module-authors-and
 date: 2014-02-27 17:11:32
+title: We do not give a fuck about our module authors and the modules they...
 type: quote
 ---
 

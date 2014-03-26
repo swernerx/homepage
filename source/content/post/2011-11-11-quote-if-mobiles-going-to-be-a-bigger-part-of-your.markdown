@@ -1,5 +1,6 @@
 slug: if-mobiles-going-to-be-a-bigger-part-of-your
 date: 2011-11-11 19:51:28
+title: If mobile’s going to be a bigger part of your business (and it will),...
 type: quote
 ---
 

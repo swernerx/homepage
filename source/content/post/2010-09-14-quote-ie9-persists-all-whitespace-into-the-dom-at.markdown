@@ -1,5 +1,6 @@
 slug: ie9-persists-all-whitespace-into-the-dom-at
 date: 2010-09-14 09:09:39
+title: IE9 persists all whitespace into the DOM at parse-time
 type: quote
 ---
 

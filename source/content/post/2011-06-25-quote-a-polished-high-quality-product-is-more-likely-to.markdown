@@ -1,5 +1,6 @@
 slug: a-polished-high-quality-product-is-more-likely-to
 date: 2011-06-25 10:01:50
+title: A polished, high quality product is more likely to be embraced on...
 type: quote
 ---
 

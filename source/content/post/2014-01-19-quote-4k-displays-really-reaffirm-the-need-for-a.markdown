@@ -1,5 +1,6 @@
 slug: 4k-displays-really-reaffirm-the-need-for-a
 date: 2014-01-19 08:22:37
+title: 4K displays really reaffirm the need for a responsive images...
 type: quote
 ---
 

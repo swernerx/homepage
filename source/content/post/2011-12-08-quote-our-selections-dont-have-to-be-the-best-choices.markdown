@@ -1,5 +1,6 @@
 slug: our-selections-dont-have-to-be-the-best-choices
 date: 2011-12-08 18:03:10
+title: Our selections don’t have to be the best choices — they just have...
 type: quote
 ---
 

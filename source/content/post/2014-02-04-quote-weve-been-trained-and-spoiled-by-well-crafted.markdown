@@ -1,5 +1,6 @@
 slug: weve-been-trained-and-spoiled-by-well-crafted
 date: 2014-02-04 18:25:05
+title: We’ve been trained (and spoiled) by well-crafted user experiences in...
 type: quote
 ---
 

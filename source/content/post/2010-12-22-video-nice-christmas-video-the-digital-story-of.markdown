@@ -1,5 +1,6 @@
 slug: nice-christmas-video-the-digital-story-of
 date: 2010-12-22 19:07:41
+title: Nice Christmas video: 
 type: video
 ---
 

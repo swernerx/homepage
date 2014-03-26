@@ -1,5 +1,6 @@
 slug: filling-in-forms-is-a-pain-especially-on-mobile
 date: 2014-01-21 10:36:51
+title: Filling in forms is a pain —especially on mobile. Don’t count...
 type: quote
 ---
 

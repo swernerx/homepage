@@ -1,5 +1,6 @@
 slug: not-a-single-smartphone-contains-an-x86-processor
 date: 2011-05-09 18:20:22
+title: Not a single smartphone contains an x86 processor. Not a single...
 type: quote
 ---
 

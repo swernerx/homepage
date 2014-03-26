@@ -1,5 +1,8 @@
 slug: apple-ceo-tim-cook-on-collaboration-great-short
 date: 2013-06-05 16:57:00
+title: Apple CEO Tim Cook on Collaboration
+
+ Great short...
 type: video
 ---
 

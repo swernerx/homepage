@@ -1,5 +1,6 @@
 slug: a-false-assumption-because-a-device-is-capable-of
 date: 2013-04-10 13:50:13
+title: A false assumption: because a device is capable of touch input, a...
 type: quote
 ---
 

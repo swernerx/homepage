@@ -1,5 +1,6 @@
 slug: das-main-taunus-zentrum-wurde-1964-als-erstes
 date: 2011-07-27 10:58:52
+title: Das Main-Taunus-Zentrum wurde 1964 als erstes Shoppingcenter in...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: this-increase-in-processing-power-means-that
 date: 2010-05-22 17:52:40
+title: This increase in processing power means that Android device makers...
 type: quote
 ---
 

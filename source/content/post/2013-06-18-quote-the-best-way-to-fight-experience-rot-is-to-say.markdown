@@ -1,5 +1,6 @@
 slug: the-best-way-to-fight-experience-rot-is-to-say
 date: 2013-06-18 18:35:01
+title: The best way to fight experience rot is to say ‘no’ to everything...
 type: quote
 ---
 

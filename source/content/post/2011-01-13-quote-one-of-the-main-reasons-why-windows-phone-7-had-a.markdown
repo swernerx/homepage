@@ -1,5 +1,6 @@
 slug: one-of-the-main-reasons-why-windows-phone-7-had-a
 date: 2011-01-13 23:23:00
+title: One of the main reasons why Windows Phone 7 had a relatively...
 type: quote
 ---
 

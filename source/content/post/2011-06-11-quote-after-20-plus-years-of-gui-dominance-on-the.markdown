@@ -1,5 +1,6 @@
 slug: after-20-plus-years-of-gui-dominance-on-the
 date: 2011-06-11 12:56:58
+title: After 20-plus years of GUI dominance on the desktop, fundamental...
 type: quote
 ---
 

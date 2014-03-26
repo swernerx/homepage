@@ -1,5 +1,6 @@
 slug: warren-buffett-estimates-that-he-spends-80-of-his
 date: 2013-06-05 18:55:13
+title: Warren Buffett estimates that he spends 80% of his working day...
 type: quote
 ---
 

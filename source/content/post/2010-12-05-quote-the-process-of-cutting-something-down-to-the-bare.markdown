@@ -1,5 +1,6 @@
 slug: the-process-of-cutting-something-down-to-the-bare
 date: 2010-12-05 16:17:29
+title: The process of cutting something down to the bare essentials is an...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: there-is-a-positive-correlation-between-the-number
 date: 2011-05-26 09:03:39
+title: There is a positive correlation between the number of co-founders and...
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: unfortunately-the-agile-and-rapid-development
 date: 2013-08-20 18:36:43
+title: Unfortunately, the “agile” and “rapid”...
 type: quote
 ---
 

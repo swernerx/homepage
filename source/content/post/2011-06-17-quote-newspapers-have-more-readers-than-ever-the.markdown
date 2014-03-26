@@ -1,5 +1,6 @@
 slug: newspapers-have-more-readers-than-ever-the
 date: 2011-06-17 22:55:56
+title: Newspapers have more readers than ever. The problem is that fewer of...
 type: quote
 ---
 

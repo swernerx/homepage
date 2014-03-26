@@ -1,5 +1,6 @@
 slug: finanzinstitute-konnen-nicht-beraten-sondern
 date: 2012-01-14 20:06:01
+title: Finanzinstitute können nicht beraten, sondern müssen Produkte...
 type: quote
 ---
 

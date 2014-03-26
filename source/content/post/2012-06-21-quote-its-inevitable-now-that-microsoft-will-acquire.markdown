@@ -1,5 +1,6 @@
 slug: its-inevitable-now-that-microsoft-will-acquire
 date: 2012-06-21 10:56:23
+title: It’s inevitable now that Microsoft will acquire Nokia.
 type: quote
 ---
 

@@ -1,5 +1,6 @@
 slug: a-shining-example-of-how-you-can-turn-a-so-so-idea
 date: 2011-11-30 19:43:11
+title: A shining example of how you can turn a so-so idea into a great one...
 type: quote
 ---
 

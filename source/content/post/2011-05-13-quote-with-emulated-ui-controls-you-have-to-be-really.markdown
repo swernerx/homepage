@@ -1,5 +1,6 @@
 slug: with-emulated-ui-controls-you-have-to-be-really
 date: 2011-05-13 19:05:18
+title: With [emulated] UI controls you have to be really anal to get the...
 type: quote
 ---
 

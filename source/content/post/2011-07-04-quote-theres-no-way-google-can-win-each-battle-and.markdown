@@ -1,5 +1,6 @@
 slug: theres-no-way-google-can-win-each-battle-and
 date: 2011-07-04 09:29:51
+title: There’s no way Google can win each battle, and they must know that,...
 type: quote
 ---
 

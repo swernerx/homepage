@@ -1,5 +1,6 @@
 slug: the-original-intentions-have-turned-into-bullshit
 date: 2010-10-08 22:18:35
+title: The original intentions have turned into bullshit PR and the exact...
 type: quote
 ---
 

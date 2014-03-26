@@ -1,5 +1,6 @@
 slug: airplay-has-some-pretty-big-names-backing-it
 date: 2010-09-04 23:09:05
+title: AirPlay has some pretty big names backing it including Denon,...
 type: quote
 ---
 

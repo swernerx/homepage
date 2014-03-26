@@ -1,5 +1,6 @@
 slug: the-user-experience-is-what-sets-the-product
 date: 2011-05-13 19:04:21
+title: The user experience is what sets the product apart. Home automators...
 type: quote
 ---
 

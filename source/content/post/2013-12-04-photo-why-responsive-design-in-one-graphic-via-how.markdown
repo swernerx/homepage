@@ -1,5 +1,8 @@
 slug: why-responsive-design-in-one-graphic-via-how
 date: 2013-12-04 11:31:38
+title: Why Responsive Design - in one graphic.
+
+ Via 
 type: photo
 ---
 

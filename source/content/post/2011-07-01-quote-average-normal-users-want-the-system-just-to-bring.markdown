@@ -1,5 +1,6 @@
 slug: average-normal-users-want-the-system-just-to-bring
 date: 2011-07-01 10:14:04
+title: Average/normal users want the system just to bring them fun stuff...
 type: quote
 ---
 
