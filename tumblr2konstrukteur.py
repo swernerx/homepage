@@ -103,12 +103,17 @@ def ellipseTitle(content, maxlength=70):
     splits = content.split(" ")
     ellipse = False
     for split in splits:
-        temp = "%s %s" % (result, split)
+        if result:
+            temp = "%s %s" % (result, split)
+        else:
+            temp = split
 
         if len(temp) < maxlength:
             result = temp
         else:
-            if result.endswith("."):
+            if result.endswith("!") or result.endswith("?"):
+                pass
+            elif result.endswith("."):
                 result += ".."
             else:
                 result += "..."
