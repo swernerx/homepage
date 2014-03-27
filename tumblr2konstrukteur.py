@@ -32,7 +32,6 @@ logging.getLogger("requests").setLevel(logging.WARNING)
 
 quoteTemplate = """slug: %s
 date: %s
-title: %s
 type: quote
 ---
 
@@ -41,7 +40,6 @@ type: quote
 
 photoTemplate = """slug: %s
 date: %s
-title: %s
 type: photo
 ---
 
@@ -50,7 +48,6 @@ type: photo
 
 linkTemplate = """slug: %s
 date: %s
-title: %s
 type: link
 ---
 
@@ -59,7 +56,6 @@ type: link
 
 videoTemplate = """slug: %s
 date: %s
-title: %s
 type: video
 ---
 
@@ -167,14 +163,12 @@ def process(url, start=0, fetch=50):
             if postType == "quote":
                 quoteText = post.find("quote-text").text
                 quoteComment = post.find("quote-source").text
-                quoteTitle = ellipseTitle(quoteText)
 
                 # Post-process
                 quoteText = markdownify.markdownify("<blockquote>" + quoteText + "</blockquote>").rstrip("\n").lstrip("\n")
                 quoteComment = markdownify.markdownify(quoteComment).rstrip("\n")
-                quoteTitle = markdownify.markdownify(quoteTitle).rstrip("\n")
 
-                fileContent = quoteTemplate % (postSlug, postExportDate, quoteTitle, quoteText + "\n\n" + quoteComment)
+                fileContent = quoteTemplate % (postSlug, postExportDate, quoteText + "\n\n" + quoteComment)
 
             elif postType == "photo":
                 photoText = post.find("photo-caption").text
@@ -183,11 +177,9 @@ def process(url, start=0, fetch=50):
                 except:
                     photoLinkUrl = None
                 photoUrl = post.find("photo-url").text
-                photoTitle = ellipseTitle(photoText)
 
                 # Post-process
                 photoText = markdownify.markdownify(photoText).rstrip("\n")
-                photoTitle = markdownify.markdownify(photoTitle).rstrip("\n")
 
                 # Downloading image
                 photoResponse = requests.get(photoUrl, allow_redirects=True)
@@ -228,7 +220,7 @@ def process(url, start=0, fetch=50):
                 if photoLinkUrl:
                     photoAsset = '<a href="%s">%s</a>' % (photoLinkUrl, photoAsset)
 
-                fileContent = photoTemplate % (postSlug, postExportDate, photoTitle, photoAsset + "\n\n" + photoText)
+                fileContent = photoTemplate % (postSlug, postExportDate, photoAsset + "\n\n" + photoText)
 
             elif postType == "link":
                 linkUrl = post.find("link-url").text
@@ -240,26 +232,17 @@ def process(url, start=0, fetch=50):
                 # Post-process
                 if linkText != linkUrl:
                     linkText = markdownify.markdownify(linkText).rstrip("\n")
-                    linkTitle = ellipseTitle(linkText)
-                else:
-                    shortLinkMatch = re.compile("(.*//.*?/)").search(linkUrl)
-                    if shortLinkMatch:
-                        linkTitle = "Link to %s" % shortLinkMatch.group(0)
-                    else:
-                        linkTitle = "Link to: %s" % linkUrl
 
-                fileContent = linkTemplate % (postSlug, postExportDate, linkTitle, "[%s](%s)" % (linkText, linkUrl))
+                fileContent = linkTemplate % (postSlug, postExportDate, "[%s](%s)" % (linkText, linkUrl))
 
             elif postType == "video":
                 videoCode = post.find("video-source").text
                 videoText = post.find("video-caption").text
-                videoTitle = ellipseTitle(videoText)
 
                 # Post-process
                 videoText = markdownify.markdownify(videoText).rstrip("\n")
-                videoTitle = markdownify.markdownify(videoTitle).rstrip("\n")
 
-                fileContent = videoTemplate % (postSlug, postExportDate, videoTitle, videoCode + "\n\n" + videoText)
+                fileContent = videoTemplate % (postSlug, postExportDate, videoCode + "\n\n" + videoText)
 
             elif postType == "regular":
                 postText = post.find("regular-body").text
@@ -267,13 +250,15 @@ def process(url, start=0, fetch=50):
                 try:
                     postTitle = post.find("regular-title").text
                 except:
-                    postTitle = ellipseTitle(postText)
+                    # Ignore posts without title
+                    Console.warn("Ignoring post without title!")
+                    continue
 
                 postText = markdownify.markdownify(postText).rstrip("\n")
                 fileContent = regularTemplate % (postSlug, postExportDate, postTitle, postText)
 
             else:
-                print("Unknown POST-TYPE: %s" % postType)
+                Console.warn("Unknown POST-TYPE: %s" % postType)
                 print(ElementTree.dump(post))
                 continue
 
