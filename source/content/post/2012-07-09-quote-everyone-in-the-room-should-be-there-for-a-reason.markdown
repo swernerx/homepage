@@ -1,6 +1,5 @@
 slug: everyone-in-the-room-should-be-there-for-a-reason
 date: 2012-07-09 14:10:55
-title: Everyone in the room should be there for a reason. Either you’re...
 type: quote
 ---
 

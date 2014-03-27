@@ -1,6 +1,5 @@
 slug: i-havent-come-across-anyone-in-the-arm-camp-that
 date: 2013-11-14 08:42:23
-title: I haven’t come across anyone in the ARM camp that can compete with...
 type: quote
 ---
 

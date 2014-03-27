@@ -1,6 +1,5 @@
 slug: i-really-cant-think-of-another-organization-as
 date: 2011-05-13 18:15:33
-title: I really can’t think of another organization as large as Google that...
 type: quote
 ---
 

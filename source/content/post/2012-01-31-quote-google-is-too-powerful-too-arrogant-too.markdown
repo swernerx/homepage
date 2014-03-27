@@ -1,6 +1,5 @@
 slug: google-is-too-powerful-too-arrogant-too
 date: 2012-01-31 10:16:06
-title: Google is too powerful, too arrogant, too entrenched to be worth our...
 type: quote
 ---
 

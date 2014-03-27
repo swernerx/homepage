@@ -1,6 +1,5 @@
 slug: cut-and-paste-is-so-simple-that-even-i-wrote-a
 date: 2010-12-29 17:57:11
-title: Cut-and-paste is so simple that even I wrote a routine like that in a...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-timeline-showed-that-some-layouts-were-taking
 date: 2013-05-23 16:51:31
-title: The timeline showed that some layouts were taking close to 100...
 type: quote
 ---
 

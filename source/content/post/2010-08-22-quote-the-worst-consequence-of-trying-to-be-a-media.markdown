@@ -1,6 +1,5 @@
 slug: the-worst-consequence-of-trying-to-be-a-media
 date: 2010-08-22 13:45:47
-title: The worst consequence of trying to be a media company was that they...
 type: quote
 ---
 

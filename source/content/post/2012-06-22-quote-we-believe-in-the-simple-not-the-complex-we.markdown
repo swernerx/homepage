@@ -1,6 +1,5 @@
 slug: we-believe-in-the-simple-not-the-complex-we
 date: 2012-06-22 13:14:32
-title: We believe in the simple, not the complex. We believe that we need to...
 type: quote
 ---
 

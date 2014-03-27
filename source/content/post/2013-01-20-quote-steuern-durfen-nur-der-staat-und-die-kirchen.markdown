@@ -1,6 +1,5 @@
 slug: steuern-durfen-nur-der-staat-und-die-kirchen
 date: 2013-01-20 15:56:50
-title: Steuern dürfen nur der Staat und die Kirchen erheben.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: ie9-does-not-expose-touch-events-or-even-mouse
 date: 2011-09-08 23:28:27
-title: IE9 does not expose touch events, or even mouse events to JavaScript...
 type: quote
 ---
 

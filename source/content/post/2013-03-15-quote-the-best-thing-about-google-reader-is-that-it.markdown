@@ -1,6 +1,5 @@
 slug: the-best-thing-about-google-reader-is-that-it
 date: 2013-03-15 10:45:08
-title: The best thing about Google Reader is that it allows me to scan a lot...
 type: quote
 ---
 

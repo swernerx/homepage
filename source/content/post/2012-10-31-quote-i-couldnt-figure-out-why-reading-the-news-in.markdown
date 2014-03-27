@@ -1,6 +1,5 @@
 slug: i-couldnt-figure-out-why-reading-the-news-in
 date: 2012-10-31 09:32:05
-title: I couldn’t figure out why reading the news in print instead of online...
 type: quote
 ---
 

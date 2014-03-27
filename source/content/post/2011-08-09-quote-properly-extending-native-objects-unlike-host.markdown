@@ -1,6 +1,5 @@
 slug: properly-extending-native-objects-unlike-host
 date: 2011-08-09 10:08:11
-title: Properly extending native objects — unlike host ones — is actually...
 type: quote
 ---
 

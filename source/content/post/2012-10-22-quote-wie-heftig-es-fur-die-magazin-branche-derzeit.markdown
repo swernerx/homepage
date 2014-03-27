@@ -1,6 +1,5 @@
 slug: wie-heftig-es-fur-die-magazin-branche-derzeit
 date: 2012-10-22 16:49:17
-title: Wie heftig es für die Magazin-Branche derzeit aussieht, zeigt der...
 type: quote
 ---
 

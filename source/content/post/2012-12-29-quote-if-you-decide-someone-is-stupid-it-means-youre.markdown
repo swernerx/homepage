@@ -1,6 +1,5 @@
 slug: if-you-decide-someone-is-stupid-it-means-youre
 date: 2012-12-29 22:27:42
-title: If you decide someone is stupid, it means you’re not thinking, which...
 type: quote
 ---
 

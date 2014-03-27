@@ -1,6 +1,5 @@
 slug: the-nokia-n97-will-prove-superior-to-the-iphone
 date: 2010-09-21 18:03:22
-title: The Nokia N97 will prove superior to the iPhone due to its...
 type: quote
 ---
 

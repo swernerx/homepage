@@ -1,6 +1,5 @@
 slug: if-you-need-to-use-something-like-readability-or
 date: 2013-01-08 12:05:26
-title: If you need to use something like Readability or Safari Reader to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: every-hour-you-work-over-40-hours-a-week-is-making
 date: 2012-10-09 18:05:12
-title: Every hour you work over 40 hours a week is making you less effective...
 type: quote
 ---
 

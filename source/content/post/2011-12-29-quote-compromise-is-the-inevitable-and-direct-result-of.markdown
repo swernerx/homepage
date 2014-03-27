@@ -1,6 +1,5 @@
 slug: compromise-is-the-inevitable-and-direct-result-of
 date: 2011-12-29 10:46:50
-title: Compromise is the inevitable and direct result of a lack of...
 type: quote
 ---
 

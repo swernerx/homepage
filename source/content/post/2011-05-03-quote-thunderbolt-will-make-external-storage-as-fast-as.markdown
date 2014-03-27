@@ -1,6 +1,5 @@
 slug: thunderbolt-will-make-external-storage-as-fast-as
 date: 2011-05-03 21:48:21
-title: Thunderbolt will make external storage as fast as internal storage,...
 type: quote
 ---
 

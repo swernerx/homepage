@@ -1,6 +1,5 @@
 slug: i-have-toured-a-citizen-watch-factory-and-i-think
 date: 2011-05-17 10:38:00
-title: I have toured a Citizen watch factory, and I think Apple is doing...
 type: quote
 ---
 

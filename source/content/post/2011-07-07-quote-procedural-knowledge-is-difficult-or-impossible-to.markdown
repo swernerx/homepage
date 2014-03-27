@@ -1,6 +1,5 @@
 slug: procedural-knowledge-is-difficult-or-impossible-to
 date: 2011-07-07 14:03:47
-title: Procedural knowledge is difficult or impossible to write down and...
 type: quote
 ---
 

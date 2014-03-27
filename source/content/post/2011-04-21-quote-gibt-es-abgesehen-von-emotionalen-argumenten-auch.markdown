@@ -1,6 +1,5 @@
 slug: gibt-es-abgesehen-von-emotionalen-argumenten-auch
 date: 2011-04-21 18:54:16
-title: Gibt es abgesehen von emotionalen Argumenten auch sachliche Vorzüge...
 type: quote
 ---
 

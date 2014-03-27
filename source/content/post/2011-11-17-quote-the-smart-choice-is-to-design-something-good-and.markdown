@@ -1,6 +1,5 @@
 slug: the-smart-choice-is-to-design-something-good-and
 date: 2011-11-17 09:40:44
-title: The smart choice is to design something good and stick with it.
 type: quote
 ---
 

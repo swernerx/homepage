@@ -1,6 +1,5 @@
 slug: improving-the-facebook-interface-is-going-to-be
 date: 2011-07-08 09:54:05
-title: Improving the Facebook interface is going to be one nightmare job...
 type: quote
 ---
 

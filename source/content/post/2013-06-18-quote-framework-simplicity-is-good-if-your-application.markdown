@@ -1,6 +1,5 @@
 slug: framework-simplicity-is-good-if-your-application
 date: 2013-06-18 12:01:41
-title: Framework simplicity is good if your application is meant to be...
 type: quote
 ---
 

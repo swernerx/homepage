@@ -1,6 +1,5 @@
 slug: the-gpu-buffer-will-rarely-support-big-images-an
 date: 2010-12-24 19:38:14
-title: The GPU buffer will rarely support big images. An ideal document size...
 type: quote
 ---
 

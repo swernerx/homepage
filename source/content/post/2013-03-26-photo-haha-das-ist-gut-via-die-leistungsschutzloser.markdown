@@ -1,8 +1,5 @@
 slug: haha-das-ist-gut-via-die-leistungsschutzloser
 date: 2013-03-26 16:44:13
-title: Haha … das ist gut.
-
- Via 
 type: photo
 ---
 

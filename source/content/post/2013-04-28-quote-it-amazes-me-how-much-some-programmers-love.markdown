@@ -1,6 +1,5 @@
 slug: it-amazes-me-how-much-some-programmers-love
 date: 2013-04-28 21:27:26
-title: It amazes me how much some programmers love complexity. Doing things...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: john-resig-learning-from-twitter
 date: 2011-01-21 00:09:50
-title: John Resig - Learning from Twitter
 type: link
 ---
 

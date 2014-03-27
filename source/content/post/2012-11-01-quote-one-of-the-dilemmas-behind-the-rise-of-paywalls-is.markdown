@@ -1,6 +1,5 @@
 slug: one-of-the-dilemmas-behind-the-rise-of-paywalls-is
 date: 2012-11-01 17:27:26
-title: One of the dilemmas behind the rise of paywalls is to spread...
 type: quote
 ---
 

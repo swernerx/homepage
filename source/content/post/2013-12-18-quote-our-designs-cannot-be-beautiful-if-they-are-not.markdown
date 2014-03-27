@@ -1,6 +1,5 @@
 slug: our-designs-cannot-be-beautiful-if-they-are-not
 date: 2013-12-18 17:30:59
-title: Our designs cannot be beautiful if they are not also universal —...
 type: quote
 ---
 

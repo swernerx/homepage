@@ -1,6 +1,5 @@
 slug: microsoft-and-google-can-continue-adding-features
 date: 2012-11-02 12:18:40
-title: Microsoft and Google can continue adding features to their operating...
 type: quote
 ---
 

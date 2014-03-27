@@ -1,6 +1,5 @@
 slug: design-uis-first-apis-second-tests-third-then
 date: 2011-11-01 11:55:32
-title: Design UIs first, APIs second, tests third, then write Code.
 type: quote
 ---
 

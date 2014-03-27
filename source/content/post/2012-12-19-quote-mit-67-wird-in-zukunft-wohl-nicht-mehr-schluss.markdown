@@ -1,6 +1,5 @@
 slug: mit-67-wird-in-zukunft-wohl-nicht-mehr-schluss
 date: 2012-12-19 21:20:55
-title: Mit 67 wird in Zukunft wohl nicht mehr Schluss sein.
 type: quote
 ---
 

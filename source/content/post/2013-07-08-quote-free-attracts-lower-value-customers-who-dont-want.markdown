@@ -1,6 +1,5 @@
 slug: free-attracts-lower-value-customers-who-dont-want
 date: 2013-07-08 21:56:32
-title: Free attracts lower value customers who don’t want to pay for apps,...
 type: quote
 ---
 

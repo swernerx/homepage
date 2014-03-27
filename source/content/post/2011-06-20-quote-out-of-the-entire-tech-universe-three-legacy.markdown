@@ -1,6 +1,5 @@
 slug: out-of-the-entire-tech-universe-three-legacy
 date: 2011-06-20 13:05:12
-title: Out of the entire tech universe, three legacy companies have stayed...
 type: quote
 ---
 

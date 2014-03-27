@@ -1,6 +1,5 @@
 slug: even-if-you-think-you-are-inventing-a-new-market
 date: 2011-05-27 09:27:32
-title: Even if you think you are inventing a new market, the problem has...
 type: quote
 ---
 

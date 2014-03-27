@@ -1,6 +1,5 @@
 slug: mit-homeland-haben-die-autoren-gansa-und-gordon
 date: 2012-12-11 18:16:15
-title: Mit „Homeland“ haben die Autoren Gansa und Gordon gewissermaßen eine...
 type: quote
 ---
 

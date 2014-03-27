@@ -1,6 +1,5 @@
 slug: a-recent-study-which-asked-users-about-the
 date: 2013-01-01 13:06:18
-title: A recent study which asked users about the performance of mobile...
 type: quote
 ---
 

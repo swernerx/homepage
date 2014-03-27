@@ -1,6 +1,5 @@
 slug: fur-die-webseite-ist-uns-klar-dass-wir-geduld
 date: 2012-12-11 18:07:04
-title: Für die Webseite ist uns klar, dass wir Geduld brauchen, um eine...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-two-new-air-models-almost-matched-apples
 date: 2010-10-29 11:47:29
-title: The two new Air models almost matched Apple’s battery claims, even...
 type: quote
 ---
 

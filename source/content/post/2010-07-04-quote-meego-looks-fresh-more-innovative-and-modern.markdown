@@ -1,6 +1,5 @@
 slug: meego-looks-fresh-more-innovative-and-modern
 date: 2010-07-04 16:33:29
-title: MeeGo looks fresh, more innovative and modern.
 type: quote
 ---
 

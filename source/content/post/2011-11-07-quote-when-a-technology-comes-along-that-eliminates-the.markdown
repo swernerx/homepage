@@ -1,6 +1,5 @@
 slug: when-a-technology-comes-along-that-eliminates-the
 date: 2011-11-07 08:47:43
-title: When a technology comes along that eliminates the need to follow...
 type: quote
 ---
 

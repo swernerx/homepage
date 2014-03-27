@@ -1,6 +1,5 @@
 slug: a-magazine-designed-for-print-is-much-better-on
 date: 2011-01-02 21:47:42
-title: A magazine designed for print is much better on, ahem… paper than on...
 type: quote
 ---
 

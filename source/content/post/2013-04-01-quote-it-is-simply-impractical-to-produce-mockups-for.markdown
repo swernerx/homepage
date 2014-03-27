@@ -1,6 +1,5 @@
 slug: it-is-simply-impractical-to-produce-mockups-for
 date: 2013-04-01 12:48:42
-title: It is simply impractical to produce mockups for how every piece of...
 type: quote
 ---
 

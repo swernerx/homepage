@@ -1,6 +1,5 @@
 slug: lets-be-flexible-about-when-and-how-we-accomplish
 date: 2012-10-22 16:45:56
-title: Let’s be flexible about when and how we accomplish both our work...
 type: quote
 ---
 

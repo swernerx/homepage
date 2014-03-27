@@ -1,6 +1,5 @@
 slug: der-landerfinanzausgleich-bestrafe-die-lander-die
 date: 2013-02-05 17:23:06
-title: Der Länderfinanzausgleich bestrafe die Länder, die sparsam...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: its-not-that-hardware-isnt-important-but
 date: 2010-09-19 21:37:18
-title: It’s not that hardware isn’t important. But everything starts with...
 type: quote
 ---
 

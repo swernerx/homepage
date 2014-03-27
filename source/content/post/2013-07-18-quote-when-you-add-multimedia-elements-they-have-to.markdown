@@ -1,6 +1,5 @@
 slug: when-you-add-multimedia-elements-they-have-to
 date: 2013-07-18 09:33:12
-title: When you add multimedia elements, they have to work for the reader...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-core-limitation-of-googles-culture-these
 date: 2010-11-23 20:58:31
-title: The core limitation of Google’s culture: These guys are engineers;...
 type: quote
 ---
 

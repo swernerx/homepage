@@ -1,6 +1,5 @@
 slug: iphone-ist-sex-teure-autos-und-designerkleidung
 date: 2013-09-29 14:35:18
-title: iPhone ist Sex, teure Autos und Designerkleidung. Samsung Galaxy ist...
 type: quote
 ---
 

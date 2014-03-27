@@ -1,6 +1,5 @@
 slug: were-excited-that-other-browser-vendors-have
 date: 2011-01-27 09:43:18
-title: We’re excited that other browser vendors have decided to follow our...
 type: quote
 ---
 

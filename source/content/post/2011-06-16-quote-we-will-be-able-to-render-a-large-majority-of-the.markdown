@@ -1,6 +1,5 @@
 slug: we-will-be-able-to-render-a-large-majority-of-the
 date: 2011-06-16 18:49:33
-title: We will be able to render a large majority of the PDFs found on the...
 type: quote
 ---
 

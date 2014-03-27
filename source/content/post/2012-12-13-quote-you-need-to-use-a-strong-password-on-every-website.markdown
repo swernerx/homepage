@@ -1,6 +1,5 @@
 slug: you-need-to-use-a-strong-password-on-every-website
 date: 2012-12-13 11:12:31
-title: You need to use a strong password on every website you use, and to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: we-have-decided-to-rename-sproutcore-2-0-and
 date: 2011-12-08 18:09:47
-title: We have decided to rename SproutCore 2.0 and manage it as a separate...
 type: quote
 ---
 

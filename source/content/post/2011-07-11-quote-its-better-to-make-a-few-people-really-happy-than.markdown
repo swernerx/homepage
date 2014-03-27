@@ -1,6 +1,5 @@
 slug: its-better-to-make-a-few-people-really-happy-than
 date: 2011-07-11 02:49:42
-title: It’s better to make a few people really happy than to make a lot of...
 type: quote
 ---
 

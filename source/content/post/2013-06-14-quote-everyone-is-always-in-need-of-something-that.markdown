@@ -1,6 +1,5 @@
 slug: everyone-is-always-in-need-of-something-that
 date: 2013-06-14 16:19:08
-title: Everyone is always in need of something that another person can give,...
 type: quote
 ---
 

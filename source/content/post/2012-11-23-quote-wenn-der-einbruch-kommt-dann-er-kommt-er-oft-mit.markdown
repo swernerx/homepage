@@ -1,6 +1,5 @@
 slug: wenn-der-einbruch-kommt-dann-er-kommt-er-oft-mit
 date: 2012-11-23 18:12:12
-title: Wenn der Einbruch kommt, dann er kommt er oft mit voller Wucht. So...
 type: quote
 ---
 

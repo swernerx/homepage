@@ -1,6 +1,5 @@
 slug: wir-haben-noch-nicht-ganz-verstanden-was-fur
 date: 2013-04-06 14:22:37
-title: Wir haben noch nicht ganz verstanden, was für Folgen die...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: offline-web-applications-the-idea-is-cool-but
 date: 2011-05-31 09:36:53
-title: Offline web applications: The idea is cool, but the reality is that...
 type: quote
 ---
 

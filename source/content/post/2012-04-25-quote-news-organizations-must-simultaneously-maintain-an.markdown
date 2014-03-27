@@ -1,6 +1,5 @@
 slug: news-organizations-must-simultaneously-maintain-an
 date: 2012-04-25 18:05:54
-title: News organizations must simultaneously maintain an excellent website,...
 type: quote
 ---
 

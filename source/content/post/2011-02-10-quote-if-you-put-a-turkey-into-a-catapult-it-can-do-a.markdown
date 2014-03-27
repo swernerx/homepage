@@ -1,6 +1,5 @@
 slug: if-you-put-a-turkey-into-a-catapult-it-can-do-a
 date: 2011-02-10 00:15:51
-title: If you put a turkey into a catapult it can do a lot of damage to...
 type: quote
 ---
 

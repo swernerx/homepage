@@ -1,6 +1,5 @@
 slug: awesome-windows-desktop-ui-concept-the-verge
 date: 2012-02-28 23:04:55
-title: Awesome: 
 type: photo
 ---
 

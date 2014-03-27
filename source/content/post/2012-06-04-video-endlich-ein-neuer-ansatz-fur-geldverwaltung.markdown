@@ -1,6 +1,5 @@
 slug: endlich-ein-neuer-ansatz-fur-geldverwaltung
 date: 2012-06-04 09:24:35
-title: Endlich ein neuer Ansatz für Geldverwaltung MoneyMoney (von 
 type: video
 ---
 

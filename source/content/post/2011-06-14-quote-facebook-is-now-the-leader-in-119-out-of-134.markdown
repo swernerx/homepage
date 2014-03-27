@@ -1,6 +1,5 @@
 slug: facebook-is-now-the-leader-in-119-out-of-134
 date: 2011-06-14 11:13:31
-title: Facebook is now the ‘leader’ in 119 out of 134 countries.
 type: quote
 ---
 

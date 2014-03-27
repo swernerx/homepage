@@ -1,6 +1,5 @@
 slug: jetzt-im-herbst-wird-bestimmt-wieder-irgendein
 date: 2013-10-30 18:14:15
-title: Jetzt im Herbst wird bestimmt wieder irgendein Jahresarmutsbericht...
 type: quote
 ---
 

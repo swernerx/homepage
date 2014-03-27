@@ -1,6 +1,5 @@
 slug: es-geht-in-jungen-jahren-nicht-um-die-vorsorge
 date: 2011-10-03 20:44:55
-title: Es geht in jungen Jahren nicht um die Vorsorge fürs Alter...
 type: quote
 ---
 

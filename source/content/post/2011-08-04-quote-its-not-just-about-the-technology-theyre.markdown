@@ -1,6 +1,5 @@
 slug: its-not-just-about-the-technology-theyre
 date: 2011-08-04 10:55:36
-title: It’s not just about the technology they’re discontinuing, the main...
 type: quote
 ---
 

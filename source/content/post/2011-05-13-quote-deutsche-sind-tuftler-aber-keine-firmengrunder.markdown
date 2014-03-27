@@ -1,6 +1,5 @@
 slug: deutsche-sind-tuftler-aber-keine-firmengrunder
 date: 2011-05-13 20:39:17
-title: Deutsche sind Tüftler, aber keine Firmengründer.
 type: quote
 ---
 

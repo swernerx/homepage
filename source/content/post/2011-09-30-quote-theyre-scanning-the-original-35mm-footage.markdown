@@ -1,6 +1,5 @@
 slug: theyre-scanning-the-original-35mm-footage
 date: 2011-09-30 12:04:02
-title: They’re scanning the original 35mm footage, cutting together the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: facebook-is-now-your-own-personal-newspaper
 date: 2011-09-22 18:53:29
-title: Facebook is now your own personal newspaper.
 type: quote
 ---
 

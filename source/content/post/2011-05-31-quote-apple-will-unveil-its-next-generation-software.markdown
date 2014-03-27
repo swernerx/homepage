@@ -1,6 +1,5 @@
 slug: apple-will-unveil-its-next-generation-software
 date: 2011-05-31 16:08:27
-title: Apple will unveil its next generation software – Lion, the eighth...
 type: quote
 ---
 

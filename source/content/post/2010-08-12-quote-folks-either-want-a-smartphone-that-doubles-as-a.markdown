@@ -1,6 +1,5 @@
 slug: folks-either-want-a-smartphone-that-doubles-as-a
 date: 2010-08-12 20:03:35
-title: Folks either want a smartphone that doubles as a mobile computer of...
 type: quote
 ---
 

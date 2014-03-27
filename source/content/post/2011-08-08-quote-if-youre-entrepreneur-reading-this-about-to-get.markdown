@@ -1,6 +1,5 @@
 slug: if-youre-entrepreneur-reading-this-about-to-get
 date: 2011-08-08 18:53:02
-title: If you’re entrepreneur reading this, about to get ready to release...
 type: quote
 ---
 

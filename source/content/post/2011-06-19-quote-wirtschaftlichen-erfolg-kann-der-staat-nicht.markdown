@@ -1,6 +1,5 @@
 slug: wirtschaftlichen-erfolg-kann-der-staat-nicht
 date: 2011-06-19 13:50:55
-title: Wirtschaftlichen Erfolg kann der Staat nicht kaufen.
 type: quote
 ---
 

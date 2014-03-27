@@ -1,6 +1,5 @@
 slug: besonders-in-grossstadten-wie-hamburg-oder-berlin
 date: 2011-11-20 20:47:13
-title: Besonders in Großstädten wie Hamburg oder Berlin versagt das O2-Netz...
 type: quote
 ---
 

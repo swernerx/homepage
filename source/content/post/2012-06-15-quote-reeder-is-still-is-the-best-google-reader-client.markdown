@@ -1,6 +1,5 @@
 slug: reeder-is-still-is-the-best-google-reader-client
 date: 2012-06-15 14:58:18
-title: Reeder is still is the best Google Reader client for iPhone, now with...
 type: quote
 ---
 

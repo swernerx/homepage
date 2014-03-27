@@ -1,6 +1,5 @@
 slug: wenn-krankenkassen-homoopathie-anerkennen-mussten
 date: 2013-02-21 20:49:18
-title: Wenn Krankenkassen Homöopathie anerkennen, müssten sie ebenso eine...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: cityville-is-most-popular-with-88-million-active
 date: 2011-07-02 13:43:39
-title: CityVille is most popular with 88 million active users. The No. 2...
 type: quote
 ---
 

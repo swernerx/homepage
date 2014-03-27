@@ -1,6 +1,5 @@
 slug: apple-is-still-the-leader-is-pushing-new-os
 date: 2011-11-09 10:03:02
-title: Apple is still the leader is pushing new OS versions to the...
 type: photo
 ---
 

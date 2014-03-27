@@ -1,6 +1,5 @@
 slug: by-giving-workers-the-tools-and-support-to-help
 date: 2012-12-29 21:53:53
-title: By giving workers the tools and support to help them view their work...
 type: quote
 ---
 

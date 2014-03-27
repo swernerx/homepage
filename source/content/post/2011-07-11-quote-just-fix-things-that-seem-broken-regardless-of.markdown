@@ -1,6 +1,5 @@
 slug: just-fix-things-that-seem-broken-regardless-of
 date: 2011-07-11 02:49:41
-title: Just fix things that seem broken, regardless of whether it seems like...
 type: quote
 ---
 

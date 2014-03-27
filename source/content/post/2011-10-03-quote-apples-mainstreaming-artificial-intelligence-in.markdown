@@ -1,6 +1,5 @@
 slug: apples-mainstreaming-artificial-intelligence-in
 date: 2011-10-03 21:26:01
-title: Apple’s ‘mainstreaming’ Artificial Intelligence in the form of a...
 type: quote
 ---
 

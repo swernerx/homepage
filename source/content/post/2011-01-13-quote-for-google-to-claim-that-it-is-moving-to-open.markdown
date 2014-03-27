@@ -1,6 +1,5 @@
 slug: for-google-to-claim-that-it-is-moving-to-open
 date: 2011-01-13 21:15:45
-title: For Google to claim that it is moving to “open codecs” is quite...
 type: quote
 ---
 

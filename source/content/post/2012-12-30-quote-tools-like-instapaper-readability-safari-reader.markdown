@@ -1,6 +1,5 @@
 slug: tools-like-instapaper-readability-safari-reader
 date: 2012-12-30 15:57:30
-title: Tools like Instapaper, Readability, Safari Reader, Ad Block Plus,...
 type: quote
 ---
 

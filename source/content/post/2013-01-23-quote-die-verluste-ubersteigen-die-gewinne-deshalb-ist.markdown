@@ -1,6 +1,5 @@
 slug: die-verluste-ubersteigen-die-gewinne-deshalb-ist
 date: 2013-01-23 21:50:58
-title: Die Verluste übersteigen die Gewinne. Deshalb ist es verfrüht, von...
 type: quote
 ---
 

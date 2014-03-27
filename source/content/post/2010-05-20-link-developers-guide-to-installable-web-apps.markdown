@@ -1,6 +1,5 @@
 slug: developers-guide-to-installable-web-apps
 date: 2010-05-20 00:00:18
-title: Developer's Guide to Installable Web Apps
 type: link
 ---
 

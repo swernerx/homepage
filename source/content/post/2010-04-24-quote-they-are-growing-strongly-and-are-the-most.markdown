@@ -1,6 +1,5 @@
 slug: they-are-growing-strongly-and-are-the-most
 date: 2010-04-24 11:29:57
-title: They are growing strongly, and are the most profitable handset maker...
 type: quote
 ---
 

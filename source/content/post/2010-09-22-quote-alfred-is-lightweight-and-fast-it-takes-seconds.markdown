@@ -1,6 +1,5 @@
 slug: alfred-is-lightweight-and-fast-it-takes-seconds
 date: 2010-09-22 08:54:30
-title: Alfred is lightweight and fast. It takes seconds to install and...
 type: quote
 ---
 

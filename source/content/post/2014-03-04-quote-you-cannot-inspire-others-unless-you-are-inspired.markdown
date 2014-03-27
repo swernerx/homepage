@@ -1,6 +1,5 @@
 slug: you-cannot-inspire-others-unless-you-are-inspired
 date: 2014-03-04 17:39:56
-title: You cannot inspire others unless you are inspired yourself. You stand...
 type: quote
 ---
 

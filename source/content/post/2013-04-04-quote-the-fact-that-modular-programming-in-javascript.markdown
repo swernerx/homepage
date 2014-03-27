@@ -1,6 +1,5 @@
 slug: the-fact-that-modular-programming-in-javascript
 date: 2013-04-04 16:20:56
-title: The fact that Modular Programming in Javascript suggests that you use...
 type: quote
 ---
 

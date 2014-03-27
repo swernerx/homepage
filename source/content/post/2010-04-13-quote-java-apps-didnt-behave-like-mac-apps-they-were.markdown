@@ -1,6 +1,5 @@
 slug: java-apps-didnt-behave-like-mac-apps-they-were
 date: 2010-04-13 09:21:16
-title: Java apps didn’t behave like Mac apps. They were ugly and awful and...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: windows-8-plans-leaked-numerous-details-revealed
 date: 2010-07-04 21:25:42
-title: Windows 8 Plans Leaked: Numerous Details Revealed | Windows 8,...
 type: link
 ---
 

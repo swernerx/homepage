@@ -1,8 +1,5 @@
 slug: massive-track-emma-has-such-a-nice-voice-dash
 date: 2011-02-05 16:32:41
-title: Massive track. Emma has such a nice voice.
-
- 
 type: video
 ---
 

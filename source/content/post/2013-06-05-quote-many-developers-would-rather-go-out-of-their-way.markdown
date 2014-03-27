@@ -1,6 +1,5 @@
 slug: many-developers-would-rather-go-out-of-their-way
 date: 2013-06-05 09:02:37
-title: Many developers would rather go out of their way to build their own...
 type: quote
 ---
 

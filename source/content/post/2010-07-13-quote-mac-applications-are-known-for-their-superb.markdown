@@ -1,6 +1,5 @@
 slug: mac-applications-are-known-for-their-superb
 date: 2010-07-13 09:20:35
-title: Mac applications are known for their superb design, and in the past...
 type: quote
 ---
 

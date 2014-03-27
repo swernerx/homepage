@@ -1,6 +1,5 @@
 slug: dont-worry-too-much-about-localstorage-for
 date: 2012-04-26 10:10:41
-title: Don’t worry too much about localStorage for now…but don’t go storing...
 type: quote
 ---
 

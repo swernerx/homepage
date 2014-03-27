@@ -1,6 +1,5 @@
 slug: the-vast-scale-of-overseas-factories-as-well-as
 date: 2012-01-23 07:53:16
-title: The vast scale of overseas factories as well as the flexibility,...
 type: quote
 ---
 

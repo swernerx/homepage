@@ -1,6 +1,5 @@
 slug: google-which-was-kicked-off-the-iphone-after-it
 date: 2013-11-11 16:19:09
-title: Google - which was kicked off the iPhone after it refused to give...
 type: quote
 ---
 

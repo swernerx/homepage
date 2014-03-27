@@ -1,6 +1,5 @@
 slug: i-understand-the-desire-to-offer-a-unified
 date: 2011-12-22 18:37:37
-title: I understand the desire to offer a unified experience across multiple...
 type: quote
 ---
 

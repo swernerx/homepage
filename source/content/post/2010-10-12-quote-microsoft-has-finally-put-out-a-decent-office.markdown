@@ -1,6 +1,5 @@
 slug: microsoft-has-finally-put-out-a-decent-office
 date: 2010-10-12 11:50:45
-title: Microsoft has finally put out a decent Office suite for the Mac.
 type: quote
 ---
 

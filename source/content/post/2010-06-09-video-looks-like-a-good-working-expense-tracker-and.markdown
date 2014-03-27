@@ -1,6 +1,5 @@
 slug: looks-like-a-good-working-expense-tracker-and
 date: 2010-06-09 22:20:19
-title: Looks like a good working expense tracker. And it’s nice to...
 type: video
 ---
 

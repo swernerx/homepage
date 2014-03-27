@@ -1,6 +1,5 @@
 slug: this-is-something-that-facebook-has-totally-nailed
 date: 2010-07-21 23:11:53
-title: This is something that Facebook has totally nailed with its News...
 type: quote
 ---
 

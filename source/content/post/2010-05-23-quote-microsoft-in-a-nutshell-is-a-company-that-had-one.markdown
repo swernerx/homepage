@@ -1,6 +1,5 @@
 slug: microsoft-in-a-nutshell-is-a-company-that-had-one
 date: 2010-05-23 09:30:00
-title: Microsoft—in a nutshell—is a company that had one successful...
 type: quote
 ---
 

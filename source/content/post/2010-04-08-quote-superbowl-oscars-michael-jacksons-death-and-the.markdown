@@ -1,6 +1,5 @@
 slug: superbowl-oscars-michael-jacksons-death-and-the
 date: 2010-04-08 14:29:06
-title: Superbowl, Oscars, Michael Jackson’s death and the Tiger Woods...
 type: quote
 ---
 

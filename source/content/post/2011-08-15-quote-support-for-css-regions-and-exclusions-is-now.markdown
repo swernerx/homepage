@@ -1,6 +1,5 @@
 slug: support-for-css-regions-and-exclusions-is-now
 date: 2011-08-15 20:37:22
-title: Support for CSS Regions and Exclusions is now enabled by default!
 type: quote
 ---
 

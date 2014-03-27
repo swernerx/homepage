@@ -1,6 +1,5 @@
 slug: on-nokia-microsoft-apple-and-post-pc-era-interview
 date: 2011-02-24 03:42:09
-title: On Nokia, Microsoft, Apple and post-PC era – interview with Horace...
 type: link
 ---
 

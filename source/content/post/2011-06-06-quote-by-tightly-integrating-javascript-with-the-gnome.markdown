@@ -1,6 +1,5 @@
 slug: by-tightly-integrating-javascript-with-the-gnome
 date: 2011-06-06 09:34:11
-title: By tightly integrating Javascript with the GNOME platform, designers...
 type: quote
 ---
 

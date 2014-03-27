@@ -1,6 +1,5 @@
 slug: first-ipad-will-succeed-in-a-year-something
 date: 2010-04-05 13:37:26
-title: First, iPad will succeed. In a year, something similar to the iPad...
 type: quote
 ---
 

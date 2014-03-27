@@ -1,6 +1,5 @@
 slug: how-to-make-awesome-diagrams-for-your-slides
 date: 2011-07-12 00:20:42
-title: 
 type: video
 ---
 

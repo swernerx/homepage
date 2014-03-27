@@ -1,6 +1,5 @@
 slug: the-notion-of-flexibility-is-deceiving-having
 date: 2014-01-22 07:38:49
-title: The notion of flexibility is deceiving. Having flexibility isn’t...
 type: quote
 ---
 

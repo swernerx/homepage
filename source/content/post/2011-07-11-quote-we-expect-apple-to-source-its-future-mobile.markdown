@@ -1,6 +1,5 @@
 slug: we-expect-apple-to-source-its-future-mobile
 date: 2011-07-11 23:30:08
-title: We expect Apple to source its future mobile processors from other...
 type: quote
 ---
 

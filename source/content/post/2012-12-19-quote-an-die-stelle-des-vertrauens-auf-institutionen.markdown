@@ -1,6 +1,5 @@
 slug: an-die-stelle-des-vertrauens-auf-institutionen
 date: 2012-12-19 21:48:31
-title: An die Stelle des Vertrauens auf Institutionen, Unternehmen und...
 type: quote
 ---
 

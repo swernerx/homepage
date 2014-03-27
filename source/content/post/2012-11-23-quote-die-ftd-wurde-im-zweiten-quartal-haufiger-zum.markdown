@@ -1,6 +1,5 @@
 slug: die-ftd-wurde-im-zweiten-quartal-haufiger-zum
 date: 2012-11-23 18:02:54
-title: Die FTD wurde im zweiten Quartal häufiger zum kostenlosen Verteilen...
 type: quote
 ---
 

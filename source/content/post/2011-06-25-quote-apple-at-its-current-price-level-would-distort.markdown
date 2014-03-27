@@ -1,6 +1,5 @@
 slug: apple-at-its-current-price-level-would-distort
 date: 2011-06-25 09:41:03
-title: Apple, at its current price level, would distort the Dow.
 type: quote
 ---
 

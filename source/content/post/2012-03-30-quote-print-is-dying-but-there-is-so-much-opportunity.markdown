@@ -1,6 +1,5 @@
 slug: print-is-dying-but-there-is-so-much-opportunity
 date: 2012-03-30 17:06:26
-title: Print is dying, but there is so much opportunity on devices like the...
 type: quote
 ---
 

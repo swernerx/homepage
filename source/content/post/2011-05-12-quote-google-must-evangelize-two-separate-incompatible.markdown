@@ -1,6 +1,5 @@
 slug: google-must-evangelize-two-separate-incompatible
 date: 2011-05-12 20:36:46
-title: Google must evangelize two separate, incompatible ecosystems.
 type: quote
 ---
 

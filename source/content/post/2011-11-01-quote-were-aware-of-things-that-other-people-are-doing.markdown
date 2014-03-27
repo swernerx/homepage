@@ -1,6 +1,5 @@
 slug: were-aware-of-things-that-other-people-are-doing
 date: 2011-11-01 23:16:31
-title: We’re aware of things that other people are doing, but it’s far more...
 type: quote
 ---
 

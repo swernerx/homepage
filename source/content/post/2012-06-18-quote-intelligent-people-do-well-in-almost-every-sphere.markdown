@@ -1,6 +1,5 @@
 slug: intelligent-people-do-well-in-almost-every-sphere
 date: 2012-06-18 09:05:52
-title: Intelligent people do well in almost every sphere of modern life,...
 type: quote
 ---
 

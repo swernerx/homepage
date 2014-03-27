@@ -1,6 +1,5 @@
 slug: this-iphone-5-upgrade-is-the-most-significant
 date: 2011-09-30 12:04:03
-title: This iPhone 5 upgrade is the most significant upgrade to the Apple...
 type: quote
 ---
 

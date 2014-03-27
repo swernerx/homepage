@@ -1,6 +1,5 @@
 slug: a-paywall-creates-an-opportunity-for-free
 date: 2011-06-11 12:06:34
-title: A paywall creates an opportunity for free competitors, of which there...
 type: quote
 ---
 

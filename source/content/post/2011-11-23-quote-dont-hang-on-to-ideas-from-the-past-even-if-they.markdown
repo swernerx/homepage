@@ -1,6 +1,5 @@
 slug: dont-hang-on-to-ideas-from-the-past-even-if-they
 date: 2011-11-23 10:29:35
-title: Don’t hang on to ideas from the past even if they have been...
 type: quote
 ---
 

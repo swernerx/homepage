@@ -1,6 +1,5 @@
 slug: while-fund-managers-continue-to-debate-whether
 date: 2011-12-26 16:59:05
-title: While fund managers continue to debate whether they should buy Amazon...
 type: quote
 ---
 

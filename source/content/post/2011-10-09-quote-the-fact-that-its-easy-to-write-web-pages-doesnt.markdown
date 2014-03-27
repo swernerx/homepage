@@ -1,6 +1,5 @@
 slug: the-fact-that-its-easy-to-write-web-pages-doesnt
 date: 2011-10-09 20:52:20
-title: The fact that it’s easy to write web pages doesn’t mean that it’s...
 type: quote
 ---
 

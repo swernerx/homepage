@@ -1,6 +1,5 @@
 slug: ill-run-out-of-superlatives-to-describe-apples
 date: 2012-03-09 18:20:11
-title: I’ll run out of superlatives to describe Apple’s tremendous,...
 type: quote
 ---
 

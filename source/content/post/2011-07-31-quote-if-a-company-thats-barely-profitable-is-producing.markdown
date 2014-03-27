@@ -1,6 +1,5 @@
 slug: if-a-company-thats-barely-profitable-is-producing
 date: 2011-07-31 17:07:04
-title: If a company that’s barely profitable is producing so much...
 type: quote
 ---
 

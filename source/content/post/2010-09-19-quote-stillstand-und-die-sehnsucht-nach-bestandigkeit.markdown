@@ -1,6 +1,5 @@
 slug: stillstand-und-die-sehnsucht-nach-bestandigkeit
 date: 2010-09-19 20:42:16
-title: Stillstand und die Sehnsucht nach Beständigkeit. Kein gutes Zeichen...
 type: quote
 ---
 

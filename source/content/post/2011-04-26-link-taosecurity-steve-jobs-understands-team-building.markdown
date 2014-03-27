@@ -1,6 +1,5 @@
 slug: taosecurity-steve-jobs-understands-team-building
 date: 2011-04-26 11:00:45
-title: TaoSecurity: Steve Jobs Understands Team Building
 type: link
 ---
 

@@ -1,6 +1,5 @@
 slug: samsung-wants-to-be-just-like-apple-as-long-as
 date: 2012-11-01 14:41:43
-title: Samsung wants to be just like Apple. As long as Google controls...
 type: quote
 ---
 

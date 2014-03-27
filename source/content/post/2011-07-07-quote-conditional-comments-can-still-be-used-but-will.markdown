@@ -1,6 +1,5 @@
 slug: conditional-comments-can-still-be-used-but-will
 date: 2011-07-07 08:27:08
-title: Conditional comments can still be used, but will only target older...
 type: quote
 ---
 

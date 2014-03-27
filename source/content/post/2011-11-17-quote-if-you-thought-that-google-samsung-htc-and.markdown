@@ -1,6 +1,5 @@
 slug: if-you-thought-that-google-samsung-htc-and
 date: 2011-11-17 09:54:33
-title: If you thought that Google, Samsung, HTC, and others were already...
 type: quote
 ---
 

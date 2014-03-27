@@ -1,8 +1,5 @@
 slug: nice-steve-jobs-via-it-just-works
 date: 2011-06-09 13:55:17
-title: Nice. Steve Jobs.
-
- Via 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: thats-partly-funny-partly-frustrating-not-sure
 date: 2013-10-30 14:05:11
-title: That’s partly funny, partly frustrating. Not sure if they...
 type: video
 ---
 

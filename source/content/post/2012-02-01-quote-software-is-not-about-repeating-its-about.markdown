@@ -1,6 +1,5 @@
 slug: software-is-not-about-repeating-its-about
 date: 2012-02-01 18:39:34
-title: Software is not about repeating, it’s about inventing.
 type: quote
 ---
 

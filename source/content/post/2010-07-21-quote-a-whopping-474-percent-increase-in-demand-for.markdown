@@ -1,6 +1,5 @@
 slug: a-whopping-474-percent-increase-in-demand-for
 date: 2010-07-21 23:19:37
-title: A whopping 474 percent increase in demand for HTML5 developers —...
 type: quote
 ---
 

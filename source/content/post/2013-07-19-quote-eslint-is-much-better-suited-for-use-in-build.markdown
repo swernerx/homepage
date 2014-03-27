@@ -1,6 +1,5 @@
 slug: eslint-is-much-better-suited-for-use-in-build
 date: 2013-07-19 08:10:54
-title: ESLint is much better suited for use in build systems and as a...
 type: quote
 ---
 

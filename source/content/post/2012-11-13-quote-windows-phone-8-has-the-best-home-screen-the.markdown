@@ -1,6 +1,5 @@
 slug: windows-phone-8-has-the-best-home-screen-the
 date: 2012-11-13 18:24:25
-title: Windows Phone 8 has the best home screen — the perfect combination of...
 type: quote
 ---
 

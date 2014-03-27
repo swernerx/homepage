@@ -1,6 +1,5 @@
 slug: from-a-technological-and-spec-sheet-perspective
 date: 2010-07-11 17:50:49
-title: From a technological and spec sheet perspective, Android is...
 type: quote
 ---
 

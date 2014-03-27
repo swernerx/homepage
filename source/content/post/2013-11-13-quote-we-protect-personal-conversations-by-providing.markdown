@@ -1,6 +1,5 @@
 slug: we-protect-personal-conversations-by-providing
 date: 2013-11-13 08:19:27
-title: We protect personal conversations by providing end-to-end encryption...
 type: quote
 ---
 

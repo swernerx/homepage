@@ -1,6 +1,5 @@
 slug: node-js-has-arrived-via-jimmy-guerrero
 date: 2013-08-06 22:23:08
-title: Node.js has Arrived! (via 
 type: video
 ---
 

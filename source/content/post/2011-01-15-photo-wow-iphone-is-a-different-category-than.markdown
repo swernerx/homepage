@@ -1,6 +1,5 @@
 slug: wow-iphone-is-a-different-category-than
 date: 2011-01-15 10:00:57
-title: Wow: iPhone is a 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: keine-einzige-a-t-u-werkstatt-erhielt-die-note
 date: 2013-09-02 17:04:38
-title: Keine einzige A.T.U-Werkstatt erhielt die Note mangelhaft. Den...
 type: quote
 ---
 

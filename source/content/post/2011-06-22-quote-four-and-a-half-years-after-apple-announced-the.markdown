@@ -1,6 +1,5 @@
 slug: four-and-a-half-years-after-apple-announced-the
 date: 2011-06-22 09:50:00
-title: Four and a half years after Apple announced the iPhone, Nokia has now...
 type: quote
 ---
 

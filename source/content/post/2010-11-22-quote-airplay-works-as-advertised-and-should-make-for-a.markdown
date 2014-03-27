@@ -1,6 +1,5 @@
 slug: airplay-works-as-advertised-and-should-make-for-a
 date: 2010-11-22 20:51:06
-title: AirPlay works as advertised and should make for a handful of...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-big-loser-this-week-though-was-microsoft
 date: 2010-05-22 20:42:11
-title: The big loser this week, though, was Microsoft. They’re simply not...
 type: quote
 ---
 

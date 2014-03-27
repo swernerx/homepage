@@ -1,6 +1,5 @@
 slug: a-new-feature-has-to-provide-so-much-benefit-to
 date: 2011-09-14 22:41:25
-title: A new feature has to provide so much benefit to customers that it’s...
 type: quote
 ---
 

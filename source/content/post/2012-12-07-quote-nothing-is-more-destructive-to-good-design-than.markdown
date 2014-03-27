@@ -1,6 +1,5 @@
 slug: nothing-is-more-destructive-to-good-design-than
 date: 2012-12-07 09:55:58
-title: Nothing is more destructive to good design than group thinking and...
 type: quote
 ---
 

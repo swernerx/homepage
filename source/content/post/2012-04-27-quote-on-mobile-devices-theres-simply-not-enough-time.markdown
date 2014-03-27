@@ -1,6 +1,5 @@
 slug: on-mobile-devices-theres-simply-not-enough-time
 date: 2012-04-27 16:52:01
-title: On mobile devices there’s simply not enough time, bandwidth, or...
 type: quote
 ---
 

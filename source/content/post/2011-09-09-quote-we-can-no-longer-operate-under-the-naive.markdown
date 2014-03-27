@@ -1,6 +1,5 @@
 slug: we-can-no-longer-operate-under-the-naive
 date: 2011-09-09 20:19:57
-title: We can no longer operate under the naive assumption that most traffic...
 type: quote
 ---
 

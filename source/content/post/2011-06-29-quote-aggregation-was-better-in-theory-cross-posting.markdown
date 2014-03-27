@@ -1,6 +1,5 @@
 slug: aggregation-was-better-in-theory-cross-posting
 date: 2011-06-29 12:12:57
-title: Aggregation was better in theory. Cross-posting should be reduced.
 type: quote
 ---
 

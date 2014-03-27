@@ -1,6 +1,5 @@
 slug: the-idea-that-serif-typefaces-are-more-readable
 date: 2013-01-18 16:52:58
-title: The idea that serif typefaces are more readable than non-serif...
 type: quote
 ---
 

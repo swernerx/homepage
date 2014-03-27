@@ -1,6 +1,5 @@
 slug: im-extrem-muss-er-beweisen-dass-es-gar-nicht-so
 date: 2010-04-29 22:53:16
-title: Im Extrem muss er beweisen, dass es gar nicht so übel ist, auch einen...
 type: quote
 ---
 

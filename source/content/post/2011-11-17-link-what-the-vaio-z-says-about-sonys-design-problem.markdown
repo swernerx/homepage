@@ -1,6 +1,5 @@
 slug: what-the-vaio-z-says-about-sonys-design-problem
 date: 2011-11-17 09:38:43
-title: What the Vaio Z says about Sony's design problem - Boing Boing
 type: link
 ---
 

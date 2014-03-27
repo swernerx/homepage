@@ -1,6 +1,5 @@
 slug: es-wird-zeit-fur-web-3-0-personliche-news-mir
 date: 2010-11-29 22:32:33
-title: Es wird Zeit für Web 3.0 - persönliche News. Mir doch egal, aus...
 type: quote
 ---
 

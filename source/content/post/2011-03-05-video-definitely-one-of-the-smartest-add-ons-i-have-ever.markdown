@@ -1,6 +1,5 @@
 slug: definitely-one-of-the-smartest-add-ons-i-have-ever
 date: 2011-03-05 22:41:11
-title: Definitely one of the smartest add-ons I have ever seen: 
 type: video
 ---
 

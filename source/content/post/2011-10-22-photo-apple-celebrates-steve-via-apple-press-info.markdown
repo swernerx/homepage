@@ -1,8 +1,5 @@
 slug: apple-celebrates-steve-via-apple-press-info
 date: 2011-10-22 11:03:50
-title: Apple celebrates Steve
-
- Via 
 type: photo
 ---
 

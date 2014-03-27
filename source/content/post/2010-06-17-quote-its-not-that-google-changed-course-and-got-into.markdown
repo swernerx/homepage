@@ -1,6 +1,5 @@
 slug: its-not-that-google-changed-course-and-got-into
 date: 2010-06-17 09:41:26
-title: It’s not that Google changed course and got into the phone business,...
 type: quote
 ---
 

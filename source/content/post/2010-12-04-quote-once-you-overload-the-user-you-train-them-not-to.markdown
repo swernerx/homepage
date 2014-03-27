@@ -1,6 +1,5 @@
 slug: once-you-overload-the-user-you-train-them-not-to
 date: 2010-12-04 17:27:09
-title: Once you overload the user, you train them not to pay attention. More...
 type: quote
 ---
 

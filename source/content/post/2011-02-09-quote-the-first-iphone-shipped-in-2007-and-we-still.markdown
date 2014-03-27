@@ -1,6 +1,5 @@
 slug: the-first-iphone-shipped-in-2007-and-we-still
 date: 2011-02-09 10:55:40
-title: The first iPhone shipped in 2007, and we still don’t have a...
 type: quote
 ---
 

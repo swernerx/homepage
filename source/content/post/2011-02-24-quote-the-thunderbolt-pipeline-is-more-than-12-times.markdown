@@ -1,6 +1,5 @@
 slug: the-thunderbolt-pipeline-is-more-than-12-times
 date: 2011-02-24 15:30:00
-title: The Thunderbolt pipeline is more than 12 times faster than FireWire...
 type: quote
 ---
 

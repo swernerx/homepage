@@ -1,6 +1,5 @@
 slug: entscheidet-sich-unser-30-jahriger-musterkunde-fur
 date: 2013-04-18 12:26:06
-title: Entscheidet sich unser 30-jähriger Musterkunde für die Auszahlung des...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: we-gladly-go-and-browse-the-app-store-even-when-we
 date: 2010-10-30 12:29:49
-title: We gladly go and browse the App Store even when we don’t “need”...
 type: quote
 ---
 

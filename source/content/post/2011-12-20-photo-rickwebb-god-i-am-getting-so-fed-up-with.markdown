@@ -1,6 +1,5 @@
 slug: rickwebb-god-i-am-getting-so-fed-up-with
 date: 2011-12-20 15:59:31
-title: 
 type: photo
 ---
 

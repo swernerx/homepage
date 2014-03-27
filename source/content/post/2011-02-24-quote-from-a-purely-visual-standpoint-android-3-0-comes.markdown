@@ -1,6 +1,5 @@
 slug: from-a-purely-visual-standpoint-android-3-0-comes
 date: 2011-02-24 11:19:44
-title: From a purely visual standpoint, Android 3.0 comes together in a far...
 type: quote
 ---
 

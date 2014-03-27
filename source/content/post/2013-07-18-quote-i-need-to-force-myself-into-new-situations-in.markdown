@@ -1,6 +1,5 @@
 slug: i-need-to-force-myself-into-new-situations-in
 date: 2013-07-18 18:29:05
-title: I need to force myself into new situations, in order to keep my...
 type: quote
 ---
 

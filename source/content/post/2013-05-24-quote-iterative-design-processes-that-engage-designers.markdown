@@ -1,6 +1,5 @@
 slug: iterative-design-processes-that-engage-designers
 date: 2013-05-24 10:09:12
-title: Iterative design processes that engage designers and engineers very...
 type: quote
 ---
 

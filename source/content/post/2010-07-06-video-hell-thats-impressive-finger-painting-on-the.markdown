@@ -1,6 +1,5 @@
 slug: hell-thats-impressive-finger-painting-on-the
 date: 2010-07-06 16:45:50
-title: Hell, that’s impressive: 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: if-print-is-85-of-the-revenue-then-youve-done-a
 date: 2012-04-24 18:15:57
-title: If print is 85% of the revenue, then you’ve done a terrible job...
 type: quote
 ---
 

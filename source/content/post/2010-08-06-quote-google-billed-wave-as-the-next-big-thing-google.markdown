@@ -1,6 +1,5 @@
 slug: google-billed-wave-as-the-next-big-thing-google
 date: 2010-08-06 22:04:59
-title: Google billed #Wave as The Next Big Thing. Google itself pitched it...
 type: quote
 ---
 

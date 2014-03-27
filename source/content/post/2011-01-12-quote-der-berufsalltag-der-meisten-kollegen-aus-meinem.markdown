@@ -1,6 +1,5 @@
 slug: der-berufsalltag-der-meisten-kollegen-aus-meinem
 date: 2011-01-12 23:02:42
-title: Der Berufsalltag der meisten Kollegen aus meinem Büro ist eine...
 type: quote
 ---
 

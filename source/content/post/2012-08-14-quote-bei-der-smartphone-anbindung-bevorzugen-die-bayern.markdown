@@ -1,6 +1,5 @@
 slug: bei-der-smartphone-anbindung-bevorzugen-die-bayern
 date: 2012-08-14 15:12:02
-title: Bei der Smartphone-Anbindung bevorzugen die Bayern das iPhone, die...
 type: quote
 ---
 

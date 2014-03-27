@@ -1,6 +1,5 @@
 slug: im-sad-to-admit-that-steve-jobs-was-right
 date: 2010-08-20 20:15:00
-title: I’m sad to admit that Steve Jobs was right. Adobe’s offering seems...
 type: quote
 ---
 

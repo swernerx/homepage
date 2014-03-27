@@ -1,6 +1,5 @@
 slug: nicholas-zakas-progressive-enhancement-2-0-von
 date: 2012-03-21 17:07:14
-title: Nicholas Zakas: Progressive Enhancement 2.0 (von 
 type: video
 ---
 

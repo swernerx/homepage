@@ -1,6 +1,5 @@
 slug: nice-from-microsoft-to-include-ie8-and-chrome5
 date: 2010-05-05 20:38:10
-title: Nice from Microsoft to include IE8 and Chrome5. IE8 is about 7...
 type: photo
 ---
 

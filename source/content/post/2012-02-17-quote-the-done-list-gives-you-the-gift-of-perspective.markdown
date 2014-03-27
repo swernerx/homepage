@@ -1,6 +1,5 @@
 slug: the-done-list-gives-you-the-gift-of-perspective
 date: 2012-02-17 18:02:26
-title: The done list gives you the gift of perspective, something that is...
 type: quote
 ---
 

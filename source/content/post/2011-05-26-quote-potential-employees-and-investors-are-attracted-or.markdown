@@ -1,6 +1,5 @@
 slug: potential-employees-and-investors-are-attracted-or
 date: 2011-05-26 09:07:35
-title: Potential employees and investors are attracted…or not, by the...
 type: quote
 ---
 

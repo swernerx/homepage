@@ -1,6 +1,5 @@
 slug: barnes-noble-ebooks-outselling-physical-books-three
 date: 2011-06-22 10:09:28
-title: Barnes & Noble: ebooks outselling physical books three to one -...
 type: link
 ---
 

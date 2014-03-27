@@ -1,6 +1,5 @@
 slug: das-ministerium-will-festschreiben-dass-ein
 date: 2011-06-10 08:20:20
-title: Das Ministerium will festschreiben, dass ein Wechsel für den Kunden...
 type: quote
 ---
 

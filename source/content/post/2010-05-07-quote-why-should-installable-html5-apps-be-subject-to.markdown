@@ -1,6 +1,5 @@
 slug: why-should-installable-html5-apps-be-subject-to
 date: 2010-05-07 20:00:58
-title: why should installable HTML5 Apps be subject to this crippling...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: an-interface-should-never-be-a-by-product-of-the
 date: 2012-01-31 10:22:40
-title: An interface should never be a by-product of the implementation of...
 type: quote
 ---
 

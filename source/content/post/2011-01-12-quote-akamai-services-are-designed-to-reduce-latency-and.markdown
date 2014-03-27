@@ -1,6 +1,5 @@
 slug: akamai-services-are-designed-to-reduce-latency-and
 date: 2011-01-12 23:04:39
-title: Akamai services are designed to reduce latency and provide for high...
 type: quote
 ---
 

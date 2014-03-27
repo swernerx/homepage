@@ -1,6 +1,5 @@
 slug: angry-birds-became-an-overnight-success-after-51
 date: 2011-10-25 09:56:41
-title: Angry Birds became an overnight success…after 51 failures. Thats...
 type: quote
 ---
 

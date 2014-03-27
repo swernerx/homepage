@@ -1,6 +1,5 @@
 slug: apple-is-the-largest-phone-vendor-by-profit-and
 date: 2011-04-29 18:03:21
-title: Apple is the largest phone vendor by profit and sales.
 type: quote
 ---
 

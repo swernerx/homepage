@@ -1,6 +1,5 @@
 slug: use-window-settimeout-instead-of
 date: 2011-07-11 02:49:56
-title: Use window.setTimeout instead of window.setInterval to ensure that...
 type: quote
 ---
 

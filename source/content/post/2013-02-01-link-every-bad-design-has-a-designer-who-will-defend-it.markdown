@@ -1,6 +1,5 @@
 slug: every-bad-design-has-a-designer-who-will-defend-it
 date: 2013-02-01 12:19:05
-title: Every bad design has a designer who will defend it.
 type: link
 ---
 

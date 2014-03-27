@@ -1,6 +1,5 @@
 slug: die-erkennungsrate-ist-geradezu-atemraubend-viel
 date: 2010-07-29 22:25:08
-title: Die Erkennungsrate ist geradezu atemraubend, viel höher als beim...
 type: quote
 ---
 

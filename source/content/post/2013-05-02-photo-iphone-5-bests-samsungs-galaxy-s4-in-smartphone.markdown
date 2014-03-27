@@ -1,6 +1,5 @@
 slug: iphone-5-bests-samsungs-galaxy-s4-in-smartphone
 date: 2013-05-02 16:35:13
-title: 
 type: photo
 ---
 

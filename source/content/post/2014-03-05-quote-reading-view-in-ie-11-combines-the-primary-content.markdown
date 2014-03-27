@@ -1,6 +1,5 @@
 slug: reading-view-in-ie-11-combines-the-primary-content
 date: 2014-03-05 14:26:30
-title: Reading view in IE 11 combines the primary content from all pages of...
 type: quote
 ---
 

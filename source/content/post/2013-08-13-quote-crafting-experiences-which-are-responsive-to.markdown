@@ -1,6 +1,5 @@
 slug: crafting-experiences-which-are-responsive-to
 date: 2013-08-13 09:20:09
-title: Crafting experiences which are responsive to individual’s particular...
 type: quote
 ---
 

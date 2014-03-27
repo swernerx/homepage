@@ -1,6 +1,5 @@
 slug: nobody-is-going-to-match-apple-in-user
 date: 2011-01-29 10:42:51
-title: Nobody is going to match Apple in user friendliness, that cannot be...
 type: quote
 ---
 

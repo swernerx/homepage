@@ -1,6 +1,5 @@
 slug: the-new-beatport-is-a-excellent-showcase-of-why
 date: 2011-05-16 13:38:24
-title: The new beatport is a excellent showcase of why HTML is better...
 type: photo
 ---
 

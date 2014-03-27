@@ -1,6 +1,5 @@
 slug: if-build-tools-are-required-anyway-a-much-simpler
 date: 2012-12-31 14:45:41
-title: If build tools are required anyway, a much simpler solution should...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: this-industry-has-been-neglected-for-so-long-that
 date: 2013-01-25 16:28:48
-title: This industry has been neglected for so long that even putting in a...
 type: quote
 ---
 

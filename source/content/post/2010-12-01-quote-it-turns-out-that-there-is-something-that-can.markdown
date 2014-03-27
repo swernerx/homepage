@@ -1,6 +1,5 @@
 slug: it-turns-out-that-there-is-something-that-can
 date: 2010-12-01 10:42:44
-title: It turns out that there is something that can compete with free:...
 type: quote
 ---
 

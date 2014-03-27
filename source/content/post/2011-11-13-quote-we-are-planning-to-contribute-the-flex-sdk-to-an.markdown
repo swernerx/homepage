@@ -1,6 +1,5 @@
 slug: we-are-planning-to-contribute-the-flex-sdk-to-an
 date: 2011-11-13 16:41:36
-title: We are planning to contribute the Flex SDK to an open source...
 type: quote
 ---
 

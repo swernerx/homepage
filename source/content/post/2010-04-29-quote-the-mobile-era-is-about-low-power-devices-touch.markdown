@@ -1,6 +1,5 @@
 slug: the-mobile-era-is-about-low-power-devices-touch
 date: 2010-04-29 21:48:47
-title: The mobile era is about low power devices, touch interfaces and open...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: chancengerechtigkeit-lasst-sich-nicht-durch-die
 date: 2010-07-04 18:50:39
-title: Chancengerechtigkeit lässt sich nicht durch die unentgeltliche...
 type: quote
 ---
 

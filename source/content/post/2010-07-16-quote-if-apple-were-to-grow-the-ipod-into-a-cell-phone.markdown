@@ -1,6 +1,5 @@
 slug: if-apple-were-to-grow-the-ipod-into-a-cell-phone
 date: 2010-07-16 09:03:57
-title: If Apple were to grow the iPod into a cell phone with a web browser,...
 type: quote
 ---
 

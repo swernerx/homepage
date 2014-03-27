@@ -1,6 +1,5 @@
 slug: itunes-match-seems-to-work-in-germany-finally
 date: 2011-12-16 07:23:57
-title: iTunes Match seems to work in Germany - finally.
 type: photo
 ---
 

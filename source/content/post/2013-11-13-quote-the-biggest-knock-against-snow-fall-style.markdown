@@ -1,6 +1,5 @@
 slug: the-biggest-knock-against-snow-fall-style
 date: 2013-11-13 18:47:55
-title: The biggest knock against “Snow Fall”-style designs is that they make...
 type: quote
 ---
 

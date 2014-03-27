@@ -1,6 +1,5 @@
 slug: der-nutzer-kann-seine-musiktitel-nur-uber-das
 date: 2010-07-16 16:06:30
-title: Der Nutzer kann seine Musiktitel nur über das Programm iTunes...
 type: quote
 ---
 

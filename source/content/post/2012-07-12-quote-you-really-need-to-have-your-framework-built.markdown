@@ -1,6 +1,5 @@
 slug: you-really-need-to-have-your-framework-built
 date: 2012-07-12 15:37:09
-title: You really need to have your framework built properly from the ground...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: kreativitat-lasst-sich-nicht-standardisieren-und
 date: 2010-12-24 16:32:33
-title: Kreativität lässt sich nicht standardisieren und jeder Versuch es zu...
 type: quote
 ---
 

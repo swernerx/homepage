@@ -1,6 +1,5 @@
 slug: protocol-buffers-bigtable-and-mapreduce-are
 date: 2011-06-10 18:36:42
-title: Protocol Buffers, BigTable and MapReduce are ancient, creaking...
 type: quote
 ---
 

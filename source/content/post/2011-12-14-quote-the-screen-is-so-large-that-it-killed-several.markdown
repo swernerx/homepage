@@ -1,6 +1,5 @@
 slug: the-screen-is-so-large-that-it-killed-several
 date: 2011-12-14 23:14:28
-title: The screen is so large that it killed several one-handed operations...
 type: quote
 ---
 

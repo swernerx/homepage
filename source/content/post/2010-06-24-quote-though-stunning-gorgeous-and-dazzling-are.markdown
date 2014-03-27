@@ -1,6 +1,5 @@
 slug: though-stunning-gorgeous-and-dazzling-are
 date: 2010-06-24 10:00:49
-title: Though “stunning,” “gorgeous,” and...
 type: quote
 ---
 

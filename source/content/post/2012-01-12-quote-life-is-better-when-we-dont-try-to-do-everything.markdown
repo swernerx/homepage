@@ -1,6 +1,5 @@
 slug: life-is-better-when-we-dont-try-to-do-everything
 date: 2012-01-12 18:24:35
-title: Life is better when we don’t try to do everything
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: with-facebook-alerts-the-thing-you-see-in-a
 date: 2013-04-12 13:49:46
-title: With Facebook alerts, the thing you see in a notification is the...
 type: quote
 ---
 

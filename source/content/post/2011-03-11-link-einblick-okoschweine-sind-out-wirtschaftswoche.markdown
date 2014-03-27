@@ -1,6 +1,5 @@
 slug: einblick-okoschweine-sind-out-wirtschaftswoche
 date: 2011-03-11 21:38:56
-title: Einblick: Ökoschweine sind out - WirtschaftsWoche
 type: link
 ---
 

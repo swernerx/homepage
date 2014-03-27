@@ -1,6 +1,5 @@
 slug: djay-for-ipad-coming-macapper
 date: 2010-11-19 11:20:26
-title: Djay for iPad Coming | MacApper
 type: link
 ---
 

@@ -1,6 +1,5 @@
 slug: good-looking-nice-code-formalize-css
 date: 2010-11-28 21:38:50
-title: Good looking, nice code: 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: ios-is-now-6x-faster-than-the-surface-rt-the
 date: 2013-10-04 19:37:10
-title: iOS is now 6x faster than the Surface RT — the previous champ at SVG...
 type: quote
 ---
 

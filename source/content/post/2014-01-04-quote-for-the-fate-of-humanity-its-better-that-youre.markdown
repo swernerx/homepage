@@ -1,6 +1,5 @@
 slug: for-the-fate-of-humanity-its-better-that-youre
 date: 2014-01-04 21:47:52
-title: For the fate of humanity, it’s better that you’re mediocre at doing...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: sobald-der-coolness-faktor-der-apps-abgeebbt-ist
 date: 2010-03-30 09:35:00
-title: Sobald der Coolness-Faktor der Apps abgeebbt ist, werden...
 type: quote
 ---
 

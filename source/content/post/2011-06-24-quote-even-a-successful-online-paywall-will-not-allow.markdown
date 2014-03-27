@@ -1,6 +1,5 @@
 slug: even-a-successful-online-paywall-will-not-allow
 date: 2011-06-24 18:10:26
-title: Even a successful online paywall will not allow the New York Times to...
 type: quote
 ---
 

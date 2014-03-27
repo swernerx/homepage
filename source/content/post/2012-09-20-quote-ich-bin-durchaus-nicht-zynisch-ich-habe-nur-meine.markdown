@@ -1,6 +1,5 @@
 slug: ich-bin-durchaus-nicht-zynisch-ich-habe-nur-meine
 date: 2012-09-20 14:55:40
-title: Ich bin durchaus nicht zynisch, ich habe nur meine Erfahrungen, was...
 type: quote
 ---
 

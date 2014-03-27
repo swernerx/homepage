@@ -1,6 +1,5 @@
 slug: pubnub-adds-real-time-interaction-on-your-website
 date: 2010-06-17 09:14:00
-title: PubNub Adds real time interaction on your website and mobile...
 type: quote
 ---
 

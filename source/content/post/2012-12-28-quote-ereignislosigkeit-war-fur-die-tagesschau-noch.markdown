@@ -1,6 +1,5 @@
 slug: ereignislosigkeit-war-fur-die-tagesschau-noch
 date: 2012-12-28 19:21:18
-title: Ereignislosigkeit war für die „Tagesschau“ noch nie ein Grund, nicht...
 type: quote
 ---
 

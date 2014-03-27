@@ -1,6 +1,5 @@
 slug: a-smart-person-usually-scores-high-on-traditional
 date: 2011-12-04 09:57:16
-title: A smart person usually scores high on traditional IQ tests. But not...
 type: quote
 ---
 

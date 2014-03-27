@@ -1,6 +1,5 @@
 slug: the-web-is-inherently-fluid-so-its-our-job-to
 date: 2013-09-30 15:29:24
-title: The Web is inherently fluid, so it’s our job to create interfaces...
 type: quote
 ---
 

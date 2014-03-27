@@ -1,6 +1,5 @@
 slug: ich-mache-mir-sorgen-um-all-die-menschen-die
 date: 2013-07-30 09:50:58
-title: Ich mache mir Sorgen um all die Menschen, die durchschnittlich gut...
 type: quote
 ---
 

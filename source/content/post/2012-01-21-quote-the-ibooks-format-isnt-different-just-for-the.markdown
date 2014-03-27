@@ -1,6 +1,5 @@
 slug: the-ibooks-format-isnt-different-just-for-the
 date: 2012-01-21 20:41:58
-title: The iBooks format isn’t different just for the sake of being...
 type: quote
 ---
 

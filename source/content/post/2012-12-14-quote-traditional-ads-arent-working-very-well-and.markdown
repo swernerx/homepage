@@ -1,6 +1,5 @@
 slug: traditional-ads-arent-working-very-well-and
 date: 2012-12-14 17:57:12
-title: Traditional ads aren’t working very well — and that problem is...
 type: quote
 ---
 

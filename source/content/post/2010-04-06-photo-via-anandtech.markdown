@@ -1,6 +1,5 @@
 slug: via-anandtech
 date: 2010-04-06 20:12:41
-title: via 
 type: photo
 ---
 

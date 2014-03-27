@@ -1,6 +1,5 @@
 slug: wenn-sich-so-ein-renner-dann-noch-edition-von
 date: 2012-10-05 17:17:09
-title: Wenn sich so ein Renner dann noch Edition von effizienter Dynamik...
 type: quote
 ---
 

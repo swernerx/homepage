@@ -1,6 +1,5 @@
 slug: the-new-kindle-touch-seems-exactly-right
 date: 2011-09-29 14:18:44
-title: The new Kindle Touch seems exactly right. Everything good about last...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: um-die-jungen-gegen-eine-diktatur-der-alten-zu
 date: 2014-03-11 22:04:16
-title: Um die Jungen gegen eine Diktatur der Alten zu schützen, sollten...
 type: quote
 ---
 

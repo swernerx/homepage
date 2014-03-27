@@ -1,6 +1,5 @@
 slug: wer-in-einen-gunstigen-tarif-einzahlt-baut-wenig
 date: 2012-07-24 19:00:38
-title: Wer in einen günstigen Tarif einzahlt, baut wenig Polster auf, um...
 type: quote
 ---
 

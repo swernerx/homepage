@@ -1,6 +1,5 @@
 slug: most-of-the-things-required-for-a-great-touch-user
 date: 2012-11-19 17:21:02
-title: Most of the things required for a great touch user interface are also...
 type: quote
 ---
 

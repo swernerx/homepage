@@ -1,6 +1,5 @@
 slug: ha-ha-click-where-jimromenesko-com
 date: 2012-01-31 12:56:44
-title: Ha ha: 
 type: photo
 ---
 

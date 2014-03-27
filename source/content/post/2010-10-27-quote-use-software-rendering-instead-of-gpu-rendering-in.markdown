@@ -1,6 +1,5 @@
 slug: use-software-rendering-instead-of-gpu-rendering-in
 date: 2010-10-27 20:58:11
-title: Use software rendering instead of GPU rendering in IE9
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: bowers-wilkins-promises-room-filling-sound
 date: 2011-05-06 17:53:32
-title: Bowers & Wilkins promises “room-filling sound,” and we can’t...
 type: quote
 ---
 

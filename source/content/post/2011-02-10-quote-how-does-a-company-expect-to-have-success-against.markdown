@@ -1,6 +1,5 @@
 slug: how-does-a-company-expect-to-have-success-against
 date: 2011-02-10 18:05:37
-title: How does a company expect to have success against Apple’s iPad when...
 type: quote
 ---
 

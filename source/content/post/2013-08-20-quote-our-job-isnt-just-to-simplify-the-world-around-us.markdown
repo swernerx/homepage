@@ -1,6 +1,5 @@
 slug: our-job-isnt-just-to-simplify-the-world-around-us
 date: 2013-08-20 11:00:22
-title: Our job isn’t just to simplify the world around us into a Swiss grid:...
 type: quote
 ---
 

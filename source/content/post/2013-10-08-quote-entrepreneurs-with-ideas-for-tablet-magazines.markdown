@@ -1,6 +1,5 @@
 slug: entrepreneurs-with-ideas-for-tablet-magazines
 date: 2013-10-08 14:06:37
-title: Entrepreneurs with ideas for tablet magazines haven’t convinced me to...
 type: quote
 ---
 

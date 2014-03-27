@@ -1,6 +1,5 @@
 slug: theres-likely-to-be-three-times-more-facetime
 date: 2010-08-02 22:15:05
-title: There’s likely to be three times more FaceTime users in a year than...
 type: quote
 ---
 

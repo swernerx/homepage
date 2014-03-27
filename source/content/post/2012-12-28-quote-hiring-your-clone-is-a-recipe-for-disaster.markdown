@@ -1,6 +1,5 @@
 slug: hiring-your-clone-is-a-recipe-for-disaster
 date: 2012-12-28 19:21:33
-title: Hiring your clone is a recipe for disaster.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: open-handset-alliance-members-such-as-htc-have
 date: 2010-08-24 00:07:07
-title: Open Handset Alliance members such as HTC have gone off and added...
 type: quote
 ---
 

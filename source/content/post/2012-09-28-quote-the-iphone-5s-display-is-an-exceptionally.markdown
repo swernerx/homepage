@@ -1,6 +1,5 @@
 slug: the-iphone-5s-display-is-an-exceptionally
 date: 2012-09-28 13:59:36
-title: The iPhone 5’s display is an exceptionally well-calibrated and...
 type: quote
 ---
 

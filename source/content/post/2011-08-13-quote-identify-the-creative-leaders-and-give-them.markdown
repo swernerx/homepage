@@ -1,6 +1,5 @@
 slug: identify-the-creative-leaders-and-give-them
 date: 2011-08-13 00:43:22
-title: Identify the creative leaders and give them leadership power.
 type: quote
 ---
 

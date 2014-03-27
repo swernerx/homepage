@@ -1,6 +1,5 @@
 slug: the-vast-majority-of-rwd-sites-still-dont-devote
 date: 2013-03-11 17:07:43
-title: The vast majority of RWD sites still don’t devote enough attention...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: unter-der-lupe-ebook-reader-3-0-von-trekstor-fur-59-99
 date: 2011-10-06 18:56:00
-title: Unter der Lupe: eBook-Reader 3.0 von Trekstor für 59,99 Euro
 type: link
 ---
 

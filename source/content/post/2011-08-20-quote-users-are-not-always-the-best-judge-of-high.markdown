@@ -1,6 +1,5 @@
 slug: users-are-not-always-the-best-judge-of-high
 date: 2011-08-20 19:41:23
-title: Users are not always the best judge of high quality design. That’s...
 type: quote
 ---
 

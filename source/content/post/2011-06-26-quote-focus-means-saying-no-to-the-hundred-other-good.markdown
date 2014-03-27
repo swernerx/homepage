@@ -1,6 +1,5 @@
 slug: focus-means-saying-no-to-the-hundred-other-good
 date: 2011-06-26 15:22:58
-title: Focus means saying no to the hundred other good ideas that there are...
 type: quote
 ---
 

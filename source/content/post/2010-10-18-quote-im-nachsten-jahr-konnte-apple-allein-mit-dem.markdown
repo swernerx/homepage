@@ -1,6 +1,5 @@
 slug: im-nachsten-jahr-konnte-apple-allein-mit-dem
 date: 2010-10-18 16:06:04
-title: Im nächsten Jahr könnte Apple allein mit dem Tablet-Rechner iPad fast...
 type: quote
 ---
 

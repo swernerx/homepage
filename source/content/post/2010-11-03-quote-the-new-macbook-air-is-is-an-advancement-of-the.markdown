@@ -1,6 +1,5 @@
 slug: the-new-macbook-air-is-is-an-advancement-of-the
 date: 2010-11-03 22:10:29
-title: The new MacBook Air is, is an advancement of the laptop in ways that...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: its-hard-to-ignore-ios-if-youre-a-publisher
 date: 2011-02-17 02:02:51
-title: It’s hard to ignore iOS if you’re a publisher wanting to push into...
 type: quote
 ---
 

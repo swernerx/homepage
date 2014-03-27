@@ -1,6 +1,5 @@
 slug: if-every-company-is-building-products-to-address
 date: 2011-08-17 20:55:49
-title: If every company is building products to address the same set of...
 type: quote
 ---
 

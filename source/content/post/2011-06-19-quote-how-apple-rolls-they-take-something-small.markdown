@@ -1,6 +1,5 @@
 slug: how-apple-rolls-they-take-something-small
 date: 2011-06-19 14:26:36
-title: How Apple rolls: They take something small, simple, and painstakingly...
 type: quote
 ---
 

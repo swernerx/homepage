@@ -1,6 +1,5 @@
 slug: if-youre-chronically-stressed-and-up-late
 date: 2011-11-11 09:03:59
-title: If you’re chronically stressed and up late working, you’re doing...
 type: quote
 ---
 

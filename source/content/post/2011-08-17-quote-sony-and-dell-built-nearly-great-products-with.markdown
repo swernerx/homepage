@@ -1,6 +1,5 @@
 slug: sony-and-dell-built-nearly-great-products-with
 date: 2011-08-17 20:48:14
-title: Sony and Dell built nearly-great products with critical flaws and...
 type: quote
 ---
 

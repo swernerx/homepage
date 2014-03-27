@@ -1,6 +1,5 @@
 slug: cross-platform-software-toolkits-have-never-ever
 date: 2010-04-10 11:00:32
-title: Cross-platform software toolkits have never — ever — produced...
 type: quote
 ---
 

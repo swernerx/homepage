@@ -1,6 +1,5 @@
 slug: we-dont-like-carriers-we-experience-their
 date: 2011-08-15 08:31:57
-title: We don’t like carriers; we experience their service as both poor and...
 type: quote
 ---
 

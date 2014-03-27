@@ -1,6 +1,5 @@
 slug: if-you-arent-getting-90-page-speed-scores-its
 date: 2012-10-11 08:58:01
-title: If you aren’t getting 90 Page Speed scores, it’s way too...
 type: quote
 ---
 

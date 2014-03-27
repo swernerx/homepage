@@ -1,6 +1,5 @@
 slug: do-less-but-do-what-you-do-with-complete-and-hard
 date: 2011-11-11 09:04:49
-title: Do less. But do what you do with complete and hard focus. Then when...
 type: quote
 ---
 

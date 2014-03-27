@@ -1,6 +1,5 @@
 slug: es-ist-kein-wunder-dass-aussenseiter-mit-einem
 date: 2012-11-23 18:12:12
-title: Es ist kein Wunder, dass Außenseiter mit einem unvoreingenommen...
 type: quote
 ---
 

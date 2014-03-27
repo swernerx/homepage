@@ -1,6 +1,5 @@
 slug: people-who-make-hardware-should-get-their-software
 date: 2011-10-23 14:07:13
-title: People who make hardware should get their software act together...
 type: quote
 ---
 

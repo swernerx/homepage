@@ -1,6 +1,5 @@
 slug: if-apple-indeed-increases-the-size-of-the-next
 date: 2012-05-23 20:27:32
-title: If Apple indeed increases the size of the next iPhone’s display to 4...
 type: quote
 ---
 

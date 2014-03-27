@@ -1,6 +1,5 @@
 slug: endofjournalism-no-bullshit-let-your-product
 date: 2012-09-11 16:10:03
-title: 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: nokia-issues-samsung-a-kitkat-death-threat-on
 date: 2013-09-05 09:04:39
-title: 
 type: photo
 ---
 

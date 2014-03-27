@@ -1,6 +1,5 @@
 slug: die-neuauflage-des-marchen-klassikers-ist
 date: 2011-01-06 14:42:06
-title: Die Neuauflage des Märchen-Klassikers ist allerdings nichts für...
 type: quote
 ---
 

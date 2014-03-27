@@ -1,6 +1,5 @@
 slug: apple-doesnt-believe-the-key-to-success-is
 date: 2011-09-05 22:40:53
-title: Apple doesn’t believe the key to success is “release early, release...
 type: quote
 ---
 

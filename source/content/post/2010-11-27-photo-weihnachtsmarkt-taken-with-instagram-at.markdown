@@ -1,6 +1,5 @@
 slug: weihnachtsmarkt-taken-with-instagram-at
 date: 2010-11-27 16:11:02
-title: Weihnachtsmarkt (Taken with 
 type: photo
 ---
 

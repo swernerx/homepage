@@ -1,6 +1,5 @@
 slug: the-initial-time-spent-implementing-a-feature-is
 date: 2013-06-25 17:58:04
-title: The initial time spent implementing a feature is one of the least...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: it-is-extremely-difficult-to-produce-a-quality
 date: 2013-04-16 10:03:41
-title: It is extremely difficult to produce a quality app. It takes a...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: die-qualitat-der-arbeit-wird-nicht-besser-nur-weil
 date: 2012-07-24 18:49:23
-title: Die Qualität der Arbeit wird nicht besser nur weil man an die...
 type: quote
 ---
 

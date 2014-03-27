@@ -1,8 +1,5 @@
 slug: iphone-4s-is-a-beast-via-iphone-4s-clocked-at
 date: 2011-10-11 15:56:12
-title: iPhone 4S is a beast!
-
- Via 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: eine-rettung-kann-nur-funktionieren-wenn-vollig
 date: 2013-01-11 18:42:32
-title: Eine Rettung kann nur funktionieren, wenn völlig neue Einnahmen...
 type: quote
 ---
 

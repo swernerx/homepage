@@ -1,6 +1,5 @@
 slug: do-you-know-a-single-windows-linux-ftp-app-looking
 date: 2010-04-28 22:03:24
-title: Do you know a single windows/linux FTP app looking that nice? 
 type: photo
 ---
 

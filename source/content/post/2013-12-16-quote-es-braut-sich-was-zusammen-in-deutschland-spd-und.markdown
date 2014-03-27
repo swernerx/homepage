@@ -1,6 +1,5 @@
 slug: es-braut-sich-was-zusammen-in-deutschland-spd-und
 date: 2013-12-16 09:11:41
-title: Es braut sich was zusammen in Deutschland. SPD und Union haben in...
 type: quote
 ---
 

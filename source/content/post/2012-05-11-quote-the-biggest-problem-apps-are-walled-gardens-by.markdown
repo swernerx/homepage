@@ -1,6 +1,5 @@
 slug: the-biggest-problem-apps-are-walled-gardens-by
 date: 2012-05-11 17:34:07
-title: The biggest problem: Apps are walled gardens by design — most allow...
 type: quote
 ---
 

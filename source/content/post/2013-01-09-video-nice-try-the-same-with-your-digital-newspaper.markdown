@@ -1,6 +1,5 @@
 slug: nice-try-the-same-with-your-digital-newspaper
 date: 2013-01-09 17:35:07
-title: Nice - try the same with your digital newspaper next...
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: android-was-conceived-and-designed-during-the
 date: 2011-08-01 18:45:27
-title: Android was conceived and designed during the pre-iPhone days of...
 type: quote
 ---
 

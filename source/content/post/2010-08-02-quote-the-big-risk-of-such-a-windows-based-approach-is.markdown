@@ -1,6 +1,5 @@
 slug: the-big-risk-of-such-a-windows-based-approach-is
 date: 2010-08-02 22:44:30
-title: The big risk of such a Windows-based approach is that there would...
 type: quote
 ---
 

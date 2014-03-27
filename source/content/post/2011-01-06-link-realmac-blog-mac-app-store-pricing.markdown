@@ -1,6 +1,5 @@
 slug: realmac-blog-mac-app-store-pricing
 date: 2011-01-06 13:52:57
-title: Realmac Blog - Mac App Store Pricing
 type: link
 ---
 

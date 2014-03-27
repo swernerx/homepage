@@ -1,6 +1,5 @@
 slug: another-nice-video-by-the-google-guys-meet-google
 date: 2010-05-20 00:07:17
-title: Another nice video by the Google guys: 
 type: video
 ---
 

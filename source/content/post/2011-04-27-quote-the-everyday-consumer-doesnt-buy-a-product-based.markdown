@@ -1,6 +1,5 @@
 slug: the-everyday-consumer-doesnt-buy-a-product-based
 date: 2011-04-27 18:52:43
-title: The everyday consumer doesn’t buy a product based on its “potential.”
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: using-screen-width-as-a-proxy-for-available-input
 date: 2014-01-21 10:19:19
-title: Using screen width as a proxy for available input types is not ideal...
 type: quote
 ---
 

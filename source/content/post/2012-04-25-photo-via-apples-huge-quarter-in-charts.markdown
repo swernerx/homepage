@@ -1,6 +1,5 @@
 slug: via-apples-huge-quarter-in-charts
 date: 2012-04-25 10:37:35
-title: (via 
 type: photo
 ---
 

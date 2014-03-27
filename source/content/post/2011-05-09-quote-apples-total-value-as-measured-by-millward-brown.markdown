@@ -1,6 +1,5 @@
 slug: apples-total-value-as-measured-by-millward-brown
 date: 2011-05-09 18:18:08
-title: Apple’s total value as measured by Millward Brown is $153 billion,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: alles-spricht-fur-eine-evolutionare-reform-der
 date: 2011-07-04 08:22:35
-title: Alles spricht für eine evolutionäre Reform der Einkommensteuer.
 type: quote
 ---
 

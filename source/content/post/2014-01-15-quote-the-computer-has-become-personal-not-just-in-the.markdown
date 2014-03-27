@@ -1,6 +1,5 @@
 slug: the-computer-has-become-personal-not-just-in-the
 date: 2014-01-15 08:47:49
-title: The computer has become personal not just in the sense of how it’s...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: you-have-two-broad-strategies-you-can-either-use
 date: 2011-05-13 19:05:14
-title: You have two broad strategies: you can either use native components...
 type: quote
 ---
 

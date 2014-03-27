@@ -1,6 +1,5 @@
 slug: stylish-america-meet-the-daily-via
 date: 2011-02-08 16:00:03
-title: Stylish: 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: welcome-to-amnesia-the-best-club-in-the-world
 date: 2010-07-02 01:06:02
-title: Welcome to Amnesia - the best club in the world!
 type: photo
 ---
 

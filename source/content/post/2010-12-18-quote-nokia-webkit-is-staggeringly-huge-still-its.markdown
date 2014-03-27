@@ -1,6 +1,5 @@
 slug: nokia-webkit-is-staggeringly-huge-still-its
 date: 2010-12-18 15:16:12
-title: Nokia WebKit is staggeringly huge. Still, its traffic market share is...
 type: quote
 ---
 

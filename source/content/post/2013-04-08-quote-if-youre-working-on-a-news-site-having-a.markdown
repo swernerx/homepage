@@ -1,6 +1,5 @@
 slug: if-youre-working-on-a-news-site-having-a
 date: 2013-04-08 08:49:55
-title: If you’re working on a news site, having a long-term strategy for...
 type: quote
 ---
 

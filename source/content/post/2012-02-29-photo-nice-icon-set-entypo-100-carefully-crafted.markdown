@@ -1,6 +1,5 @@
 slug: nice-icon-set-entypo-100-carefully-crafted
 date: 2012-02-29 10:37:20
-title: Nice icon set: [Entypo - 100 ...](http://www.entypo.com/)
 type: photo
 ---
 

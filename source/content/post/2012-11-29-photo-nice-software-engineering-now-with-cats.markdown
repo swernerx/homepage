@@ -1,6 +1,5 @@
 slug: nice-software-engineering-now-with-cats
 date: 2012-11-29 11:17:05
-title: Nice: 
 type: photo
 ---
 

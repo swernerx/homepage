@@ -1,6 +1,5 @@
 slug: it-feels-like-the-entire-user-experience-is-at
 date: 2011-08-13 00:27:39
-title: It feels like the entire user experience is at least twice as fast...
 type: quote
 ---
 

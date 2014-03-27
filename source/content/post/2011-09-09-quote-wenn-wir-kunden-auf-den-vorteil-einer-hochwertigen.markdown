@@ -1,6 +1,5 @@
 slug: wenn-wir-kunden-auf-den-vorteil-einer-hochwertigen
 date: 2011-09-09 19:54:27
-title: Wenn wir Kunden auf den Vorteil einer hochwertigen Ausstattung...
 type: quote
 ---
 

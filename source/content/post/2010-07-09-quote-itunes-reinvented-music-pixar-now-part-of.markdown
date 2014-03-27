@@ -1,6 +1,5 @@
 slug: itunes-reinvented-music-pixar-now-part-of
 date: 2010-07-09 23:12:01
-title: iTunes reinvented music. Pixar, now part of Disney, elevated animated...
 type: quote
 ---
 

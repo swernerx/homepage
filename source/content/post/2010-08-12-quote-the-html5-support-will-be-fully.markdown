@@ -1,6 +1,5 @@
 slug: the-html5-support-will-be-fully
 date: 2010-08-12 19:35:23
-title: The HTML5 support will be fully hardware-accelerated in IE9, meaning,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: if-nokia-continues-with-more-of-the-same-for
 date: 2010-09-12 01:26:07
-title: If Nokia continues with more of the same for several more years, it...
 type: quote
 ---
 

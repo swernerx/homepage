@@ -1,6 +1,5 @@
 slug: the-secret-to-a-quick-meeting-no-chairs-and-no
 date: 2011-06-19 13:37:53
-title: The secret to a quick meeting: No chairs and no donuts.
 type: quote
 ---
 

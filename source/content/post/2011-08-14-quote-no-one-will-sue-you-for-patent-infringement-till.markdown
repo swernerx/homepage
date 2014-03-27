@@ -1,6 +1,5 @@
 slug: no-one-will-sue-you-for-patent-infringement-till
 date: 2011-08-14 11:22:51
-title: No one will sue you for patent infringement till you have money, and...
 type: quote
 ---
 

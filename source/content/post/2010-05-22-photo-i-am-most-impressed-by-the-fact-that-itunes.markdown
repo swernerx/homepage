@@ -1,6 +1,5 @@
 slug: i-am-most-impressed-by-the-fact-that-itunes
 date: 2010-05-22 19:26:50
-title: I am most impressed by the fact that iTunes’ market share...
 type: photo
 ---
 

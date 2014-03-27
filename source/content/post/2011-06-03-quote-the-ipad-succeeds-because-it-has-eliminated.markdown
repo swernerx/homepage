@@ -1,6 +1,5 @@
 slug: the-ipad-succeeds-because-it-has-eliminated
 date: 2011-06-03 20:52:00
-title: The iPad succeeds because it has eliminated complexity, not because...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: v8s-garbage-collector-is-incredibly-complex-and
 date: 2011-02-25 23:15:35
-title: V8’s garbage collector is incredibly complex and may take up to 5...
 type: quote
 ---
 

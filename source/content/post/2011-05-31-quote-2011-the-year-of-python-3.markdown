@@ -1,6 +1,5 @@
 slug: 2011-the-year-of-python-3
 date: 2011-05-31 12:07:41
-title: 2011: The Year of Python 3
 type: quote
 ---
 

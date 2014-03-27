@@ -1,6 +1,5 @@
 slug: customers-can-only-describe-their-desires-in-terms
 date: 2011-10-09 13:37:59
-title: Customers can only describe their desires in terms of what they are...
 type: quote
 ---
 

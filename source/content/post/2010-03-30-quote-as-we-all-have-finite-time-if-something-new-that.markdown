@@ -1,6 +1,5 @@
 slug: as-we-all-have-finite-time-if-something-new-that
 date: 2010-03-30 10:00:28
-title: As we all have finite time, if something new that enters our world...
 type: quote
 ---
 

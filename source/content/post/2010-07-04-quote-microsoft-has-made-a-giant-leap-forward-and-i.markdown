@@ -1,6 +1,5 @@
 slug: microsoft-has-made-a-giant-leap-forward-and-i
 date: 2010-07-04 18:51:08
-title: Microsoft has made a giant leap forward, and I feel that, certainly...
 type: quote
 ---
 

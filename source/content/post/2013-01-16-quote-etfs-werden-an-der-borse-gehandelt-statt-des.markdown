@@ -1,6 +1,5 @@
 slug: etfs-werden-an-der-borse-gehandelt-statt-des
 date: 2013-01-16 09:40:54
-title: ETFs werden an der Börse gehandelt. Statt des Ausgabeaufschlags, der...
 type: quote
 ---
 

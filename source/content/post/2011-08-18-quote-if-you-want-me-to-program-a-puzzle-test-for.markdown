@@ -1,6 +1,5 @@
 slug: if-you-want-me-to-program-a-puzzle-test-for
 date: 2011-08-18 17:44:11
-title: If you want me to program a puzzle test for several hours just to...
 type: quote
 ---
 

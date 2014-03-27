@@ -1,6 +1,5 @@
 slug: wenn-das-alte-schneller-kaputt-geht-als-man-das
 date: 2012-12-23 21:39:37
-title: Wenn das Alte schneller kaputt geht als man das Neue finden kann,...
 type: quote
 ---
 

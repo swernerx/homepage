@@ -1,6 +1,5 @@
 slug: the-browser-is-a-star-performer-now
 date: 2011-05-11 12:24:26
-title: The browser is a star performer now.
 type: quote
 ---
 

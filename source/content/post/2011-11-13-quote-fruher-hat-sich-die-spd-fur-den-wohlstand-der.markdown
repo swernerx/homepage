@@ -1,6 +1,5 @@
 slug: fruher-hat-sich-die-spd-fur-den-wohlstand-der
 date: 2011-11-13 19:01:08
-title: Früher hat sich die SPD für den Wohlstand der Arbeitnehmer eingesetzt...
 type: quote
 ---
 

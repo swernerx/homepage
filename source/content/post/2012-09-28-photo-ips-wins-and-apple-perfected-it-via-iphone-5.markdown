@@ -1,6 +1,5 @@
 slug: ips-wins-and-apple-perfected-it-via-iphone-5
 date: 2012-09-28 15:07:18
-title: IPS wins - and Apple perfected it. Via 
 type: photo
 ---
 

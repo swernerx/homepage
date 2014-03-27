@@ -1,6 +1,5 @@
 slug: auch-mal-eine-art-mit-werbeblockern-umzugehen
 date: 2011-10-10 10:58:03
-title: Auch mal eine Art mit Werbeblockern umzugehen. Nicht das es mich...
 type: photo
 ---
 

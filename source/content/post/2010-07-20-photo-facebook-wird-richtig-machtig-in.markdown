@@ -1,6 +1,5 @@
 slug: facebook-wird-richtig-machtig-in
 date: 2010-07-20 15:41:57
-title: Facebook wird richtig mächtig in Deutschland: 
 type: photo
 ---
 

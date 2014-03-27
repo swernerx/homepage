@@ -1,6 +1,5 @@
 slug: funktionsfahige-gerate-sind-auch-auf-der-wpc
 date: 2010-07-15 08:40:19
-title: Funktionsfähige Geräte sind auch auf der WPC Fehlanzeige - dabei...
 type: quote
 ---
 

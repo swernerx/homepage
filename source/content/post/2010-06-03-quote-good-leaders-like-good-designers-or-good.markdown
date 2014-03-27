@@ -1,6 +1,5 @@
 slug: good-leaders-like-good-designers-or-good
 date: 2010-06-03 17:17:38
-title: Good leaders, like good designers or good curators, recognize the...
 type: quote
 ---
 

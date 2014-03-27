@@ -1,6 +1,5 @@
 slug: when-you-use-a-cutting-edge-technology-you-really
 date: 2012-05-15 08:31:21
-title: When you use a cutting edge technology, you really should update to...
 type: quote
 ---
 

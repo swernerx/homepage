@@ -1,6 +1,5 @@
 slug: eighty-percent-of-new-products-or-services-fail
 date: 2011-05-13 21:28:36
-title: Eighty percent of new products or services fail within six months of...
 type: quote
 ---
 

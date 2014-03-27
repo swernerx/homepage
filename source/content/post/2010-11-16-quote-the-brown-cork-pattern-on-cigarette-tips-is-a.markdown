@@ -1,6 +1,5 @@
 slug: the-brown-cork-pattern-on-cigarette-tips-is-a
 date: 2010-11-16 10:17:21
-title: The brown cork-pattern on cigarette tips is a holdover from the days...
 type: quote
 ---
 

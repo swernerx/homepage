@@ -1,6 +1,5 @@
 slug: its-no-secret-that-many-of-us-on-the-facebook
 date: 2013-04-24 09:13:35
-title: It’s no secret that many of us on the Facebook Design team are avid...
 type: quote
 ---
 

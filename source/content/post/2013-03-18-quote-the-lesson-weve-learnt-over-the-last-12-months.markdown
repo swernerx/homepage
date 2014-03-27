@@ -1,6 +1,5 @@
 slug: the-lesson-weve-learnt-over-the-last-12-months
 date: 2013-03-18 09:39:23
-title: The lesson we’ve learnt over the last 12 months has been that the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-pattern-success-based-on-forecasted-future
 date: 2013-07-04 08:57:41
-title: The pattern — “success” based on forecasted future success instead of...
 type: quote
 ---
 

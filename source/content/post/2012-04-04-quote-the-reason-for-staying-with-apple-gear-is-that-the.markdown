@@ -1,6 +1,5 @@
 slug: the-reason-for-staying-with-apple-gear-is-that-the
 date: 2012-04-04 18:11:23
-title: The reason for staying with Apple gear is that the company’s...
 type: quote
 ---
 

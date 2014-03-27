@@ -1,6 +1,5 @@
 slug: marktforschung-ist-uberflussig-es-ist-nicht-die
 date: 2011-08-28 11:39:16
-title: Marktforschung ist überflüssig. Es ist nicht die Aufgabe der...
 type: quote
 ---
 

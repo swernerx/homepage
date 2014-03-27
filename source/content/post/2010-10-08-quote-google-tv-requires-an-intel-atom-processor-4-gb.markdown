@@ -1,6 +1,5 @@
 slug: google-tv-requires-an-intel-atom-processor-4-gb
 date: 2010-10-08 15:54:11
-title: Google TV requires an Intel Atom processor, 4 GB of flash memory...
 type: quote
 ---
 

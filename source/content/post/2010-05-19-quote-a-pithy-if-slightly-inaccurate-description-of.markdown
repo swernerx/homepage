@@ -1,6 +1,5 @@
 slug: a-pithy-if-slightly-inaccurate-description-of
 date: 2010-05-19 23:31:29
-title: A pithy, if slightly inaccurate, description of VP8 would be “H.264...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: being-able-to-get-your-content-to-your-network-of
 date: 2011-12-22 18:46:52
-title: Being able to get your content to your network of friends is not only...
 type: quote
 ---
 

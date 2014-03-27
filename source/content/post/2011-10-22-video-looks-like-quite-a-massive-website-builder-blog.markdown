@@ -1,6 +1,5 @@
 slug: looks-like-quite-a-massive-website-builder-blog
 date: 2011-10-22 16:23:02
-title: Looks like quite a massive website builder / blog tool:...
 type: video
 ---
 

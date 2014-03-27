@@ -1,6 +1,5 @@
 slug: one-of-the-quickest-ways-for-an-interface-to
 date: 2013-07-01 11:07:40
-title: One of the quickest ways for an interface to become cluttered is for...
 type: quote
 ---
 

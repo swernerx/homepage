@@ -1,6 +1,5 @@
 slug: teams-that-are-asked-to-do-more-than-they-can-do
 date: 2013-04-07 13:25:32
-title: Teams that are asked to do more than they can do will say, “We’ll...
 type: quote
 ---
 

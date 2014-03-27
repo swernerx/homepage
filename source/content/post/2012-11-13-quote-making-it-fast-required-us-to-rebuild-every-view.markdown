@@ -1,6 +1,5 @@
 slug: making-it-fast-required-us-to-rebuild-every-view
 date: 2012-11-13 18:25:11
-title: Making it fast required us to rebuild every view to include precisely...
 type: quote
 ---
 

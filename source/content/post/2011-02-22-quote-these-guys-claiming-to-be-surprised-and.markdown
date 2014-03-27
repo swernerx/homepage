@@ -1,6 +1,5 @@
 slug: these-guys-claiming-to-be-surprised-and
 date: 2011-02-22 14:18:00
-title: These guys claiming to be surprised and disappointed by Apple’s...
 type: quote
 ---
 

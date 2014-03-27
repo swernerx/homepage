@@ -1,6 +1,5 @@
 slug: while-most-startups-do-not-have-the-resources-to
 date: 2011-05-17 18:52:34
-title: While most startups do not have the resources to put together GFS,...
 type: quote
 ---
 

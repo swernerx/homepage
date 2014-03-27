@@ -1,6 +1,5 @@
 slug: cassandra-breaks-a-row-up-into-columns-that-can-be
 date: 2013-09-05 09:45:59
-title: Cassandra breaks a row up into columns that can be updated...
 type: quote
 ---
 

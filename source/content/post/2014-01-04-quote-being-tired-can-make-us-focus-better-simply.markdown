@@ -1,6 +1,5 @@
 slug: being-tired-can-make-us-focus-better-simply
 date: 2014-01-04 22:17:14
-title: Being tired can make us focus better simply because when your brain...
 type: quote
 ---
 

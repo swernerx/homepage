@@ -1,6 +1,5 @@
 slug: experts-journalists-analysts-consultants
 date: 2011-10-09 13:36:14
-title: Experts—journalists, analysts, consultants, bankers, and gurus can’t...
 type: quote
 ---
 

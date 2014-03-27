@@ -1,6 +1,5 @@
 slug: we-feel-some-of-that-bad-brand-juju-when-the-logos
 date: 2013-06-27 08:24:38
-title: We feel some of that bad brand juju when the logos of other companies...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apple-wants-to-run-the-most-profitable-country
 date: 2010-05-05 21:25:34
-title: Apple wants to run the most profitable country club in the world,...
 type: quote
 ---
 

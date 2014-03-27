@@ -1,6 +1,5 @@
 slug: the-reality-is-that-anything-that-seals-a-deal
 date: 2010-11-23 20:40:55
-title: The reality is that anything that seals a deal between you and the...
 type: quote
 ---
 

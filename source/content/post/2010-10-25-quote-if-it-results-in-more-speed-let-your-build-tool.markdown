@@ -1,6 +1,5 @@
 slug: if-it-results-in-more-speed-let-your-build-tool
 date: 2010-10-25 10:27:29
-title: If it results in more speed let your build tool, compressor or...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: working-by-yourself-or-in-a-small-team-is
 date: 2011-06-10 18:37:58
-title: Working by yourself or in a small team is fantastic in so many ways,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: guardian-und-observer-die-beiden-zeitungen-der
 date: 2012-12-22 14:00:03
-title: Guardian und Observer, die beiden Zeitungen der Guardian Media Group,...
 type: quote
 ---
 

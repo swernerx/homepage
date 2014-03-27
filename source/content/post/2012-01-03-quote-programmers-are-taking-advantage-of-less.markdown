@@ -1,6 +1,5 @@
 slug: programmers-are-taking-advantage-of-less
 date: 2012-01-03 18:40:58
-title: Programmers are taking advantage of less experienced users and...
 type: quote
 ---
 

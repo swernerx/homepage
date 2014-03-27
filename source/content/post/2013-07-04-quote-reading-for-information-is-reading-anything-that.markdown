@@ -1,6 +1,5 @@
 slug: reading-for-information-is-reading-anything-that
 date: 2013-07-04 09:16:22
-title: Reading for information is reading anything that is easily digested,...
 type: quote
 ---
 

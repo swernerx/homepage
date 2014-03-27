@@ -1,6 +1,5 @@
 slug: its-probably-the-ios-roots-of-reeder-that-make-it
 date: 2011-06-09 18:47:24
-title: It’s probably the iOS roots of Reeder that make it such a nice fit...
 type: quote
 ---
 

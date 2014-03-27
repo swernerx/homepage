@@ -1,6 +1,5 @@
 slug: google-wallet-is-coming-soon-to-two-cities-new
 date: 2011-05-27 08:04:18
-title: Google Wallet is “coming soon” to two cities (New York and San...
 type: quote
 ---
 

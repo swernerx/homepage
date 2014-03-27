@@ -1,6 +1,5 @@
 slug: html5-is-the-first-version-of-html-to-fully-define
 date: 2011-07-07 08:25:30
-title: HTML5 is the first version of HTML to fully define HTML parsing...
 type: quote
 ---
 

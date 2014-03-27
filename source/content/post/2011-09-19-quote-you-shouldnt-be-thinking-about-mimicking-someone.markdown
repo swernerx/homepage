@@ -1,6 +1,5 @@
 slug: you-shouldnt-be-thinking-about-mimicking-someone
 date: 2011-09-19 09:15:39
-title: You shouldn’t be thinking about mimicking someone else’s workflow...
 type: quote
 ---
 

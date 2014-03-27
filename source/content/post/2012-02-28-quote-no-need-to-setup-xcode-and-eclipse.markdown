@@ -1,6 +1,5 @@
 slug: no-need-to-setup-xcode-and-eclipse
 date: 2012-02-28 23:19:40
-title: No need to setup XCode and Eclipse
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: awesome-tesco-homeplus-subway-virtual-store
 date: 2011-06-25 14:44:42
-title: Awesome: Tesco: Homeplus Subway Virtual Store (Movie) (von 
 type: video
 ---
 

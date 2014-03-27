@@ -1,6 +1,5 @@
 slug: no-one-has-found-the-formula-for-generating
 date: 2011-06-15 18:34:32
-title: No one has found the formula for generating revenue from online...
 type: quote
 ---
 

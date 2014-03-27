@@ -1,6 +1,5 @@
 slug: if-youre-a-programmer-or-designer-then-youre
 date: 2011-09-20 20:31:38
-title: If you’re a programmer or designer, then you’re not like most people...
 type: quote
 ---
 

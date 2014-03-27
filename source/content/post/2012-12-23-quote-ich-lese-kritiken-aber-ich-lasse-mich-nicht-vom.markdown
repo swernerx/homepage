@@ -1,6 +1,5 @@
 slug: ich-lese-kritiken-aber-ich-lasse-mich-nicht-vom
 date: 2012-12-23 13:58:15
-title: Ich lese Kritiken, aber ich lasse mich nicht vom Wind, den sie oft...
 type: quote
 ---
 

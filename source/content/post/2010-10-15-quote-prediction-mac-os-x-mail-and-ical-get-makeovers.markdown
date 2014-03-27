@@ -1,6 +1,5 @@
 slug: prediction-mac-os-x-mail-and-ical-get-makeovers
 date: 2010-10-15 16:48:06
-title: Prediction: Mac OS X Mail and iCal get makeovers in 10.7 to look like...
 type: quote
 ---
 

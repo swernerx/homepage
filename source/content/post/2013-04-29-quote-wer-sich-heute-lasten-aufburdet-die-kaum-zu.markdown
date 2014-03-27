@@ -1,6 +1,5 @@
 slug: wer-sich-heute-lasten-aufburdet-die-kaum-zu
 date: 2013-04-29 08:57:00
-title: Wer sich heute Lasten aufbürdet, die kaum zu tragen sind, sollte...
 type: quote
 ---
 

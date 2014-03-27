@@ -1,6 +1,5 @@
 slug: breakthroughs-occur-when-a-person-restructures-the
 date: 2010-10-14 21:02:55
-title: Breakthroughs occur when a person restructures the problem, thereby...
 type: quote
 ---
 

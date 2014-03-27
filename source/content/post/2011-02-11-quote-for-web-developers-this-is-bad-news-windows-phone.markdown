@@ -1,6 +1,5 @@
 slug: for-web-developers-this-is-bad-news-windows-phone
 date: 2011-02-11 15:46:39
-title: For web developers this is bad news. Windows Phone 7 has the worst...
 type: quote
 ---
 

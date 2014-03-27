@@ -1,6 +1,5 @@
 slug: permute-makes-it-extremely-easy-to-drag-drop-and
 date: 2010-10-07 22:21:54
-title: Permute makes it extremely easy to drag, drop, and convert your...
 type: quote
 ---
 

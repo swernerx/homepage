@@ -1,6 +1,5 @@
 slug: hp-bought-a-company-palm-for-a-billion-dollars
 date: 2010-10-20 12:50:06
-title: HP bought a company (Palm) for a billion dollars and then immediately...
 type: quote
 ---
 

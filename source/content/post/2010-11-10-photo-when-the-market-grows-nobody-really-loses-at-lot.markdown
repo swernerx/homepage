@@ -1,8 +1,5 @@
 slug: when-the-market-grows-nobody-really-loses-at-lot
 date: 2010-11-10 15:48:26
-title: When the market grows nobody really loses at lot.
-
- 
 type: photo
 ---
 

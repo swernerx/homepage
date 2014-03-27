@@ -1,6 +1,5 @@
 slug: node-is-great-for-stateless-web-heads-but-is-in
 date: 2012-07-31 17:55:35
-title: Node is great for stateless web heads, but is in no way a...
 type: quote
 ---
 

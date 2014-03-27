@@ -1,6 +1,5 @@
 slug: im-jahre-2012-erwarten-die-fachleute-einen
 date: 2010-07-08 14:26:48
-title: Im Jahre 2012 erwarten die Fachleute einen Fehlbetrag der Kassen von...
 type: quote
 ---
 

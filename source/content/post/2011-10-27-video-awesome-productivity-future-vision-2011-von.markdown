@@ -1,6 +1,5 @@
 slug: awesome-productivity-future-vision-2011-von
 date: 2011-10-27 17:48:38
-title: Awesome: Productivity Future Vision (2011) (von 
 type: video
 ---
 

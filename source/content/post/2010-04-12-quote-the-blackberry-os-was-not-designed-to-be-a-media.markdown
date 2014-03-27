@@ -1,6 +1,5 @@
 slug: the-blackberry-os-was-not-designed-to-be-a-media
 date: 2010-04-12 22:46:00
-title: The Blackberry OS was not designed to be a media consumption and...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-content-should-be-the-star-of-the-show-no
 date: 2013-01-10 16:38:39
-title: The content should be the star of the show. No sidebars or extraneous...
 type: quote
 ---
 

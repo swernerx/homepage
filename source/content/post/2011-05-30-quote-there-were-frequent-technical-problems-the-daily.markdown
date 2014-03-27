@@ -1,6 +1,5 @@
 slug: there-were-frequent-technical-problems-the-daily
 date: 2011-05-30 23:44:14
-title: There were frequent technical problems. The Daily may have launched...
 type: quote
 ---
 

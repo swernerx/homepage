@@ -1,6 +1,5 @@
 slug: well-done-new-kindle-pool-ad-via-kindle
 date: 2010-09-14 08:32:49
-title: Well done: 
 type: video
 ---
 

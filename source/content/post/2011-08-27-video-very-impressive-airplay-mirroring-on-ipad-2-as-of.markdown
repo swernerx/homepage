@@ -1,6 +1,5 @@
 slug: very-impressive-airplay-mirroring-on-ipad-2-as-of
 date: 2011-08-27 00:38:11
-title: Very impressive: AirPlay Mirroring on iPad 2 As Of iOS 5 Beta 6...
 type: video
 ---
 

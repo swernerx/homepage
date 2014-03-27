@@ -1,6 +1,5 @@
 slug: taz-zahl-ich-einnahmen-im-november-at-taz-hausblog
 date: 2012-12-14 16:13:32
-title: taz-zahl-ich: Einnahmen im November at taz Hausblog
 type: link
 ---
 

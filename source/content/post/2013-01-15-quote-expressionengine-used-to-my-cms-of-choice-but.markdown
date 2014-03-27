@@ -1,6 +1,5 @@
 slug: expressionengine-used-to-my-cms-of-choice-but
 date: 2013-01-15 09:23:46
-title: ExpressionEngine used to my CMS of choice, but it’s just too...
 type: quote
 ---
 

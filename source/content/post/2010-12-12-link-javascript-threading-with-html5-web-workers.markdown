@@ -1,6 +1,5 @@
 slug: javascript-threading-with-html5-web-workers
 date: 2010-12-12 16:39:48
-title: JavaScript Threading With HTML5 Web Workers
 type: link
 ---
 

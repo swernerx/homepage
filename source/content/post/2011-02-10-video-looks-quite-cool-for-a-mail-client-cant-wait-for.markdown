@@ -1,6 +1,5 @@
 slug: looks-quite-cool-for-a-mail-client-cant-wait-for
 date: 2011-02-10 17:08:04
-title: Looks quite cool for a mail client. Can’t wait for playing...
 type: video
 ---
 

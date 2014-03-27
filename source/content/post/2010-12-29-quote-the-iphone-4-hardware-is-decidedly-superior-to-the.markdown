@@ -1,6 +1,5 @@
 slug: the-iphone-4-hardware-is-decidedly-superior-to-the
 date: 2010-12-29 17:56:51
-title: The iPhone 4 hardware is decidedly superior to the Nexus S — better...
 type: quote
 ---
 

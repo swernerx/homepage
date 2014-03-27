@@ -1,6 +1,5 @@
 slug: squaretrades-iphone-5-vs-samsung-galaxy-s3
 date: 2012-09-28 14:32:08
-title: SquareTrade’s iPhone 5 vs. Samsung Galaxy S3 Face-Off Video...
 type: video
 ---
 

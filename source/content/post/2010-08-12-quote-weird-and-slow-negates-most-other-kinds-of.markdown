@@ -1,6 +1,5 @@
 slug: weird-and-slow-negates-most-other-kinds-of
 date: 2010-08-12 19:26:56
-title: Weird and slow negates most other kinds of goodness because few...
 type: quote
 ---
 

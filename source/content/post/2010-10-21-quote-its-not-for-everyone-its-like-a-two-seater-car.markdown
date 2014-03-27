@@ -1,6 +1,5 @@
 slug: its-not-for-everyone-its-like-a-two-seater-car
 date: 2010-10-21 15:01:25
-title: It’s not for everyone. It’s like a two-seater car.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apples-strategy-has-everything-to-do-with-selling
 date: 2010-10-20 13:05:45
-title: Apple’s strategy has everything to do with selling more units than...
 type: quote
 ---
 

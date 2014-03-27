@@ -1,6 +1,5 @@
 slug: ios-6-includes-gay-and-lesbian-couple-emoji
 date: 2012-06-15 17:30:07
-title: [iOS 6...](http://techcrunch.com/2012/06/14/emoji-ios-6/)
 type: photo
 ---
 

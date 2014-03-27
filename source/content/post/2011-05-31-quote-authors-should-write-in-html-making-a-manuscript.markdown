@@ -1,6 +1,5 @@
 slug: authors-should-write-in-html-making-a-manuscript
 date: 2011-05-31 22:19:52
-title: Authors should write in HTML, making a manuscript immediately...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: a-good-design-accepts-complexity-and-scale-and
 date: 2011-07-31 17:05:40
-title: A good design accepts complexity and scale, and comes up with an...
 type: quote
 ---
 

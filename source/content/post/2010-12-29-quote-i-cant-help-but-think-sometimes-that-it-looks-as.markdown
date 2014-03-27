@@ -1,6 +1,5 @@
 slug: i-cant-help-but-think-sometimes-that-it-looks-as
 date: 2010-12-29 17:57:17
-title: I can’t help but think sometimes that it looks as if Google actually...
 type: quote
 ---
 

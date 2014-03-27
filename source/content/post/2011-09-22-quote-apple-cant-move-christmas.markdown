@@ -1,6 +1,5 @@
 slug: apple-cant-move-christmas
 date: 2011-09-22 13:52:00
-title: Apple can’t move Christmas.
 type: quote
 ---
 

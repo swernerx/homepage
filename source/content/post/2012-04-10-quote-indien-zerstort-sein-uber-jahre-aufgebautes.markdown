@@ -1,6 +1,5 @@
 slug: indien-zerstort-sein-uber-jahre-aufgebautes
 date: 2012-04-10 12:36:08
-title: Indien zerstört sein über Jahre aufgebautes, positives Image im...
 type: quote
 ---
 

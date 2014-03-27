@@ -1,6 +1,5 @@
 slug: derzeit-befinden-wir-uns-im-jahr-1984-verglichen
 date: 2013-04-17 13:25:27
-title: Derzeit befinden wir uns im Jahr 1984 verglichen mit dem...
 type: quote
 ---
 

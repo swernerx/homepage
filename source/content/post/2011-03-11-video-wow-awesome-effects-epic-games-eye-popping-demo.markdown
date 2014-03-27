@@ -1,6 +1,5 @@
 slug: wow-awesome-effects-epic-games-eye-popping-demo
 date: 2011-03-11 11:19:55
-title: Wow. Awesome effects: 
 type: video
 ---
 

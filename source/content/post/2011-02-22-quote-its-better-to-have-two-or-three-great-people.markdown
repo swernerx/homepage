@@ -1,6 +1,5 @@
 slug: its-better-to-have-two-or-three-great-people
 date: 2011-02-22 03:58:42
-title: It’s better to have two or three great people working on something...
 type: quote
 ---
 

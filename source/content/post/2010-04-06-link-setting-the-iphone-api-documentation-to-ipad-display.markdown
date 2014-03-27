@@ -1,6 +1,5 @@
 slug: setting-the-iphone-api-documentation-to-ipad-display
 date: 2010-04-06 20:45:10
-title: Setting the iPhone API documentation to iPad display mode on your Mac
 type: link
 ---
 

@@ -1,6 +1,5 @@
 slug: we-believe-that-the-nokia-n8-the-first-of-our
 date: 2010-07-24 16:57:44
-title: We believe that the Nokia N8, the first of our Symbian^3 devices,...
 type: quote
 ---
 

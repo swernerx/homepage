@@ -1,6 +1,5 @@
 slug: kaum-jemand-wird-bestreiten-dass-hier-ein-ganz
 date: 2011-08-25 18:50:18
-title: Kaum jemand wird bestreiten, dass hier ein ganz Großer abtritt, ein...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: on-a-li-on-battery-youre-actually-better-off
 date: 2013-08-14 09:44:20
-title: On a Li-on battery you’re actually better off charging your phone...
 type: quote
 ---
 

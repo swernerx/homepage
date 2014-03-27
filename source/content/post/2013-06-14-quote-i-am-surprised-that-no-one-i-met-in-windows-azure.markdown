@@ -1,6 +1,5 @@
 slug: i-am-surprised-that-no-one-i-met-in-windows-azure
 date: 2013-06-14 16:18:52
-title: I am surprised that no one I met in Windows Azure team heard about...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: aufgrund-der-informationsuberflut-benotigen-leser
 date: 2012-10-24 18:06:40
-title: Aufgrund der Informationsüberflut benötigen Leser Hilfe, um komplexe...
 type: quote
 ---
 

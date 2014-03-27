@@ -1,6 +1,5 @@
 slug: writing-a-redis-client-library-for-node-js
 date: 2010-07-13 10:01:40
-title: Writing a Redis client library for Node.js
 type: link
 ---
 

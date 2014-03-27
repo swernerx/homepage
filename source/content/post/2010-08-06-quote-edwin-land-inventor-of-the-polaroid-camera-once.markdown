@@ -1,6 +1,5 @@
 slug: edwin-land-inventor-of-the-polaroid-camera-once
 date: 2010-08-06 17:30:47
-title: Edwin Land, inventor of the Polaroid camera, once said that his...
 type: quote
 ---
 

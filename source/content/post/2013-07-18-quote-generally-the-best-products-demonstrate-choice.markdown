@@ -1,6 +1,5 @@
 slug: generally-the-best-products-demonstrate-choice
 date: 2013-07-18 09:44:01
-title: Generally, the best products demonstrate choice rather than offering...
 type: quote
 ---
 

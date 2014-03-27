@@ -1,6 +1,5 @@
 slug: while-the-htcs-of-the-world-differentiate
 date: 2010-07-04 12:56:18
-title: While the HTCs of the world “differentiate” blindly based on...
 type: quote
 ---
 

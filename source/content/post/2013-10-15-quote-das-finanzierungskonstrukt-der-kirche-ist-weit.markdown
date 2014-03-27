@@ -1,6 +1,5 @@
 slug: das-finanzierungskonstrukt-der-kirche-ist-weit
 date: 2013-10-15 08:42:33
-title: Das Finanzierungskonstrukt der Kirche ist weit verzweigt und hoch...
 type: quote
 ---
 

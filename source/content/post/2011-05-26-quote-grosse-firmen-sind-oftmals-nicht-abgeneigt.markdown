@@ -1,6 +1,5 @@
 slug: grosse-firmen-sind-oftmals-nicht-abgeneigt
 date: 2011-05-26 10:46:17
-title: Grosse Firmen sind oftmals nicht abgeneigt, kleinen Firmen, die einen...
 type: quote
 ---
 

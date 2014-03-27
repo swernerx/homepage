@@ -1,6 +1,5 @@
 slug: you-will-now-be-able-to-see-each-change-in
 date: 2010-04-12 20:00:00
-title: You will now be able to see each change in realtime as each character...
 type: quote
 ---
 

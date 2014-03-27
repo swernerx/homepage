@@ -1,6 +1,5 @@
 slug: man-kann-in-digitalen-medien-so-sorgfaltig-und
 date: 2012-12-06 18:07:05
-title: Man kann in digitalen Medien so sorgfältig und ausführlich arbeiten,...
 type: quote
 ---
 

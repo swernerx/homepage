@@ -1,6 +1,5 @@
 slug: agencies-departments-and-organizations-dont-do
 date: 2011-07-02 13:38:31
-title: Agencies, departments, and organizations don’t do things — people do...
 type: quote
 ---
 

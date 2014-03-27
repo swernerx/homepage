@@ -1,6 +1,5 @@
 slug: hier-muss-ein-komma-dort-ein-wort-eingefugt-oder
 date: 2013-02-18 13:24:37
-title: Hier muss ein Komma, dort ein Wort eingefügt oder gestrichen werden,...
 type: quote
 ---
 

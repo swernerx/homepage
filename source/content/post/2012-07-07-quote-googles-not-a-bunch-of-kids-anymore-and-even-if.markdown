@@ -1,6 +1,5 @@
 slug: googles-not-a-bunch-of-kids-anymore-and-even-if
 date: 2012-07-07 10:11:57
-title: Google’s not a bunch of kids anymore, and even if they were, there’s...
 type: quote
 ---
 

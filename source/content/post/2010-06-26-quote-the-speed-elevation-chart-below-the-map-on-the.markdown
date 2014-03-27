@@ -1,6 +1,5 @@
 slug: the-speed-elevation-chart-below-the-map-on-the
 date: 2010-06-26 08:58:14
-title: The speed/elevation chart below the map on the website is no longer a...
 type: quote
 ---
 

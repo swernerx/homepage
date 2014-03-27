@@ -1,6 +1,5 @@
 slug: the-real-issues-of-android-tablets-are-much-more
 date: 2012-06-21 12:50:21
-title: The real issues of Android tablets are much more fundamental.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: at-the-current-surface-and-resolution-of-the-ipad
 date: 2010-05-29 10:25:42
-title: At the current surface and resolution of the iPad, multi column...
 type: quote
 ---
 

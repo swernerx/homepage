@@ -1,6 +1,5 @@
 slug: whatever-your-next-gig-is-make-sure-that-youre
 date: 2013-10-16 15:50:17
-title: Whatever your next gig is, make sure that you’re not a short-order...
 type: quote
 ---
 

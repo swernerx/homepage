@@ -1,6 +1,5 @@
 slug: osx-mavericks-core-technology-overview-pdf
 date: 2013-06-16 16:11:06
-title: OSX Mavericks: Core Technology Overview [PDF]
 type: link
 ---
 

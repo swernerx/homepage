@@ -1,6 +1,5 @@
 slug: my-gips-removed-after-four-weeks-taken-with
 date: 2010-11-16 09:34:02
-title: My gips - removed after four weeks (Taken with 
 type: photo
 ---
 

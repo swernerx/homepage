@@ -1,6 +1,5 @@
 slug: obviously-if-companies-like-sony-or-time-warner
 date: 2011-02-05 18:27:46
-title: Obviously, if companies like Sony or Time Warner could build their...
 type: quote
 ---
 

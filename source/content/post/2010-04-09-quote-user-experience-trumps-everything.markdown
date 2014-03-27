@@ -1,6 +1,5 @@
 slug: user-experience-trumps-everything
 date: 2010-04-09 09:59:23
-title: User Experience trumps everything.
 type: quote
 ---
 

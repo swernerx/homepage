@@ -1,6 +1,5 @@
 slug: die-app-wird-vollgemullt-mit-funktionen-die-nur
 date: 2013-09-11 16:09:57
-title: Die App wird vollgemüllt mit Funktionen, die nur in Ausnahmefällen...
 type: quote
 ---
 

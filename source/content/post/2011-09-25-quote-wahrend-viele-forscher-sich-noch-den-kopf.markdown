@@ -1,6 +1,5 @@
 slug: wahrend-viele-forscher-sich-noch-den-kopf
 date: 2011-09-25 17:42:48
-title: Während viele Forscher sich noch den Kopf zerbrechen, wie aus dem...
 type: quote
 ---
 

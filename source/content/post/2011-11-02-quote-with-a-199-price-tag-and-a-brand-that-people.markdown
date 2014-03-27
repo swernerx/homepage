@@ -1,6 +1,5 @@
 slug: with-a-199-price-tag-and-a-brand-that-people
 date: 2011-11-02 09:54:40
-title: With a $199 price tag and a brand that people trust, to boot, the...
 type: quote
 ---
 

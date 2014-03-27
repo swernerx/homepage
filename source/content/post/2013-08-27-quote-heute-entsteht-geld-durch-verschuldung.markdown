@@ -1,6 +1,5 @@
 slug: heute-entsteht-geld-durch-verschuldung
 date: 2013-08-27 08:36:40
-title: Heute entsteht Geld durch Verschuldung.
 type: quote
 ---
 

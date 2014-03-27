@@ -1,6 +1,5 @@
 slug: die-politik-hat-versprechungen-gemacht-die-sie
 date: 2011-10-15 13:41:08
-title: Die Politik hat Versprechungen gemacht, die sie nicht einlösen kann,...
 type: quote
 ---
 

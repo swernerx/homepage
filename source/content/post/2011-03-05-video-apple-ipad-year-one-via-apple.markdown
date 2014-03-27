@@ -1,6 +1,5 @@
 slug: apple-ipad-year-one-via-apple
 date: 2011-03-05 22:36:42
-title: [Apple - iPad:...](http://www.youtube.com/watch?v=HpiVeC1Z3yI)
 type: video
 ---
 

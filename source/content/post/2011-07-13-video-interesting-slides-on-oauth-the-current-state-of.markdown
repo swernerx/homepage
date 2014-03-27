@@ -1,6 +1,5 @@
 slug: interesting-slides-on-oauth-the-current-state-of
 date: 2011-07-13 03:11:41
-title: Interesting slides on OAuth: 
 type: video
 ---
 

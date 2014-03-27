@@ -1,6 +1,5 @@
 slug: if-we-used-static-images-wed-need-to-make-one
 date: 2010-11-17 10:56:32
-title: If we used static images, we’d need to make one request for the...
 type: quote
 ---
 

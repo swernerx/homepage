@@ -1,6 +1,5 @@
 slug: the-next-android-looks-fusty-and-continues-to
 date: 2011-06-11 14:21:33
-title: The next Android looks fusty, and continues to show no apparent deep...
 type: quote
 ---
 

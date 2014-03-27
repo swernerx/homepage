@@ -1,6 +1,5 @@
 slug: native-is-out-html5-is-the-future-period
 date: 2011-10-11 16:54:57
-title: Native is out, HTML5 is the future. Period.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: you-cant-start-a-disruptive-business-from-inside
 date: 2012-12-13 17:21:02
-title: You can’t start a disruptive business from inside an incumbent one.
 type: quote
 ---
 

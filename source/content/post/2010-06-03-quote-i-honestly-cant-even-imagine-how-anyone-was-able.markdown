@@ -1,6 +1,5 @@
 slug: i-honestly-cant-even-imagine-how-anyone-was-able
 date: 2010-06-03 18:36:26
-title: I honestly can’t even imagine how anyone was able to run Open Source...
 type: quote
 ---
 

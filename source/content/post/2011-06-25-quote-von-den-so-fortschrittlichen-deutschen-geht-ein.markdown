@@ -1,6 +1,5 @@
 slug: von-den-so-fortschrittlichen-deutschen-geht-ein
 date: 2011-06-25 11:15:44
-title: Von den so fortschrittlichen Deutschen geht ein Viertel nicht ins...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: das-ruckstandige-weltverstandnis-der-kirchen-lauft
 date: 2010-11-13 09:50:39
-title: Das rückständige Weltverständnis der Kirchen läuft den hohen...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: its-important-to-use-large-enough-touch-targets
 date: 2013-05-15 12:23:55
-title: It’s important to use large enough touch targets: Microsoft suggests...
 type: quote
 ---
 

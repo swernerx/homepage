@@ -1,6 +1,5 @@
 slug: for-a-non-technical-person-squarespace
 date: 2013-01-15 09:24:43
-title: For a non-technical person, Squarespace (squarespace.com) seems like...
 type: quote
 ---
 

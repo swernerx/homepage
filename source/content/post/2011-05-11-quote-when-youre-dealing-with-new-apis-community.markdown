@@ -1,6 +1,5 @@
 slug: when-youre-dealing-with-new-apis-community
 date: 2011-05-11 07:54:33
-title: When you’re dealing with new APIs community processes typically don’t...
 type: quote
 ---
 

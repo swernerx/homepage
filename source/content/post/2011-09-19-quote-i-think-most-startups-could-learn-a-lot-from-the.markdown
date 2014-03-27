@@ -1,6 +1,5 @@
 slug: i-think-most-startups-could-learn-a-lot-from-the
 date: 2011-09-19 09:15:43
-title: I think most startups could learn a lot from the way Apple always has...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apple-is-mandating-that-any-book-app-that-offers
 date: 2011-02-02 10:37:28
-title: Apple is mandating that any book app that offers the ability to buy...
 type: quote
 ---
 

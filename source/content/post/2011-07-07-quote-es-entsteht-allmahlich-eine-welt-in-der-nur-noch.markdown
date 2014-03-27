@@ -1,6 +1,5 @@
 slug: es-entsteht-allmahlich-eine-welt-in-der-nur-noch
 date: 2011-07-07 17:40:10
-title: Es entsteht allmählich eine Welt, in der nur noch vorkommt, was...
 type: quote
 ---
 

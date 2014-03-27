@@ -1,6 +1,5 @@
 slug: smart-people-still-work-best-when-they-can-choose
 date: 2013-04-06 15:32:51
-title: Smart people still work best when they can choose when and where they...
 type: quote
 ---
 

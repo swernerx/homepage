@@ -1,6 +1,5 @@
 slug: at-ibiza-rocks-bar-pretty-cool-location-and-the
 date: 2010-07-01 23:04:40
-title: At Ibiza Rocks Bar - Pretty cool location and the Cesar Salad was...
 type: photo
 ---
 

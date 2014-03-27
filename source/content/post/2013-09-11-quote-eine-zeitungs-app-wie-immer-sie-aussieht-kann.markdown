@@ -1,6 +1,5 @@
 slug: eine-zeitungs-app-wie-immer-sie-aussieht-kann
 date: 2013-09-11 16:35:41
-title: Eine Zeitungs-App, wie immer sie aussieht, kann auf einem Smart-Phone...
 type: quote
 ---
 

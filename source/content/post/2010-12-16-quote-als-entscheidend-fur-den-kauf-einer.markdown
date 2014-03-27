@@ -1,6 +1,5 @@
 slug: als-entscheidend-fur-den-kauf-einer
 date: 2010-12-16 17:44:06
-title: Als entscheidend für den Kauf einer Nachrichten-App nannten die...
 type: quote
 ---
 

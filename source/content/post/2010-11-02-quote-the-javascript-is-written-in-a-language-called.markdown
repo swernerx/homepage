@@ -1,6 +1,5 @@
 slug: the-javascript-is-written-in-a-language-called
 date: 2010-11-02 11:55:48
-title: The JavaScript is written in a language called CoffeeScript, which...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: henkel-ex-bdi-chef-droht-mit-grundung-neuer-partei
 date: 2011-11-13 19:07:04
-title: Henkel: EX-BDI-Chef droht mit Gründung neuer Partei
 type: link
 ---
 

@@ -1,6 +1,5 @@
 slug: manche-kritiker-meinen-sogar-3-d-konne-sich
 date: 2010-07-31 14:34:31
-title: Manche Kritiker meinen sogar, 3-D könne sich negativ auf das...
 type: quote
 ---
 

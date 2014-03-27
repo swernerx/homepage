@@ -1,6 +1,5 @@
 slug: for-many-millions-of-people-the-pc-will-begin-to
 date: 2010-04-05 19:39:16
-title: For many millions of people the PC will begin to look like a dinosaur
 type: quote
 ---
 

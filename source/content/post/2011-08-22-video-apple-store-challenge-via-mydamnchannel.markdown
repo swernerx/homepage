@@ -1,6 +1,5 @@
 slug: apple-store-challenge-via-mydamnchannel
 date: 2011-08-22 09:03:50
-title: Apple Store Challenge (via 
 type: video
 ---
 

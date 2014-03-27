@@ -1,6 +1,5 @@
 slug: there-are-225-million-itunes-accounts-with-credit
 date: 2011-06-11 12:00:37
-title: There are 225 million iTunes accounts (with credit cards attached and...
 type: quote
 ---
 

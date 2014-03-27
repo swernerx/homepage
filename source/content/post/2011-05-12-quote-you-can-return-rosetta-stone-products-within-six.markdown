@@ -1,6 +1,5 @@
 slug: you-can-return-rosetta-stone-products-within-six
 date: 2011-05-12 20:47:37
-title: You can return Rosetta Stone products within six months of purchase...
 type: quote
 ---
 

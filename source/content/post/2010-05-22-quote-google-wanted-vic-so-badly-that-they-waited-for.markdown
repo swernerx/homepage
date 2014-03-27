@@ -1,6 +1,5 @@
 slug: google-wanted-vic-so-badly-that-they-waited-for
 date: 2010-05-22 19:10:40
-title: Google wanted Vic so badly that they waited for him to take a year...
 type: quote
 ---
 

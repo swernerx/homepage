@@ -1,6 +1,5 @@
 slug: you-would-need-to-have-tests-running-for-at
 date: 2010-11-24 16:38:10
-title: You would need to have tests running for, at least, 750ms before you...
 type: quote
 ---
 

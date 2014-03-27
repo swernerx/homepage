@@ -1,6 +1,5 @@
 slug: if-you-told-me-10-years-ago-that-hp-would
 date: 2011-02-09 23:52:24
-title: If you told me 10 years ago that HP would introduce a major new...
 type: quote
 ---
 

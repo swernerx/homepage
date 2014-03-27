@@ -1,6 +1,5 @@
 slug: htc-is-going-to-be-reduced-to-what-it-really-is
 date: 2011-08-12 08:29:17
-title: HTC is going to be reduced to what it really is — an aggregator of...
 type: quote
 ---
 

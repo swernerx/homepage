@@ -1,6 +1,5 @@
 slug: after-my-six-weeks-of-constant-use-of-two-iphone
 date: 2010-07-29 08:23:18
-title: After my six weeks of constant use of two iPhone 4s, I still believe...
 type: quote
 ---
 

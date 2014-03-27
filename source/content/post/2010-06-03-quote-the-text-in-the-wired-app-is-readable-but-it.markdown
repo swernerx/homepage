@@ -1,6 +1,5 @@
 slug: the-text-in-the-wired-app-is-readable-but-it
 date: 2010-06-03 17:44:38
-title: The text in the Wired app is readable, but it wasn’t as good an...
 type: quote
 ---
 

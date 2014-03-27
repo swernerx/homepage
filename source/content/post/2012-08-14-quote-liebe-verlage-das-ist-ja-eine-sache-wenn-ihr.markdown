@@ -1,6 +1,5 @@
 slug: liebe-verlage-das-ist-ja-eine-sache-wenn-ihr
 date: 2012-08-14 18:31:53
-title: Liebe Verlage, das ist ja eine Sache, wenn ihr eure Leserschaft...
 type: quote
 ---
 

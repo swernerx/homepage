@@ -1,6 +1,5 @@
 slug: bad-front-end-engineers-are-dependent-on-jquery
 date: 2011-01-22 10:02:19
-title: Bad front-end engineers are dependent on jQuery and other libraries...
 type: quote
 ---
 

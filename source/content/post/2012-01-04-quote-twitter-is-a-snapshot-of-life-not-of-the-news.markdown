@@ -1,6 +1,5 @@
 slug: twitter-is-a-snapshot-of-life-not-of-the-news
 date: 2012-01-04 18:37:21
-title: Twitter is a snapshot of life, not of the news.
 type: quote
 ---
 

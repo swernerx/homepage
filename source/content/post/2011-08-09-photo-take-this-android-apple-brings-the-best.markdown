@@ -1,6 +1,5 @@
 slug: take-this-android-apple-brings-the-best
 date: 2011-08-09 11:01:48
-title: Take this Android. Apple brings the best implementation of speech...
 type: photo
 ---
 

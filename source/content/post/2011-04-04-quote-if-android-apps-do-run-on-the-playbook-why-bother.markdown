@@ -1,6 +1,5 @@
 slug: if-android-apps-do-run-on-the-playbook-why-bother
 date: 2011-04-04 00:10:13
-title: If Android apps do run on the PlayBook, why bother writing for QNX?
 type: quote
 ---
 

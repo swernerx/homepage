@@ -1,6 +1,5 @@
 slug: users-assume-you-are-giving-them-the-settings-that
 date: 2011-12-08 18:05:51
-title: Users assume you are giving them the settings that are best for them...
 type: quote
 ---
 

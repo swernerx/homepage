@@ -1,6 +1,5 @@
 slug: bear-in-mind-that-sitting-in-a-chair-for-a-full
 date: 2012-12-06 17:59:41
-title: Bear in mind that sitting in a chair for a full day of presentations...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: ie9-mobile-is-an-epic-fail-when-it-comes-to-user
 date: 2011-12-31 11:53:53
-title: IE9 Mobile is an epic fail when it comes to User Interaction. There...
 type: quote
 ---
 

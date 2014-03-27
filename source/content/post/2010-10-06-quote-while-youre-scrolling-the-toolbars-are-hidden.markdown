@@ -1,6 +1,5 @@
 slug: while-youre-scrolling-the-toolbars-are-hidden
 date: 2010-10-06 19:07:26
-title: While you’re scrolling, the toolbars are hidden, and they show again...
 type: quote
 ---
 

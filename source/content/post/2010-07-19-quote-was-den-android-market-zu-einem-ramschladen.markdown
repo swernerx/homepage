@@ -1,6 +1,5 @@
 slug: was-den-android-market-zu-einem-ramschladen
 date: 2010-07-19 17:42:54
-title: Was den Android Market zu einem Ramschladen verkommen lässt, in dem...
 type: quote
 ---
 

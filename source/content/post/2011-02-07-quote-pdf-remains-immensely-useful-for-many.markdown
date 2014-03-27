@@ -1,6 +1,5 @@
 slug: pdf-remains-immensely-useful-for-many
 date: 2011-02-07 13:00:39
-title: PDF remains immensely useful for many applications, but it is no...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: funny-idea-pongr-how-it-works-via-pongrmedia
 date: 2010-10-04 17:00:20
-title: Funny idea: 
 type: video
 ---
 

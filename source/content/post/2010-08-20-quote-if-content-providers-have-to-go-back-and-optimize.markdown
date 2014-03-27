@@ -1,6 +1,5 @@
 slug: if-content-providers-have-to-go-back-and-optimize
 date: 2010-08-20 20:19:18
-title: if content providers have to go back and optimize their videos for...
 type: quote
 ---
 

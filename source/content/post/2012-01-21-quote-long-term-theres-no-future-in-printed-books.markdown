@@ -1,6 +1,5 @@
 slug: long-term-theres-no-future-in-printed-books
 date: 2012-01-21 20:48:53
-title: Long-term there’s no future in printed books. They’ll be like vinyl:...
 type: quote
 ---
 

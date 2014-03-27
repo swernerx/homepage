@@ -1,6 +1,5 @@
 slug: atlascamp-2010-confluence-4-0
 date: 2010-12-03 22:22:41
-title: AtlasCamp 2010: Confluence 4.0
 type: link
 ---
 

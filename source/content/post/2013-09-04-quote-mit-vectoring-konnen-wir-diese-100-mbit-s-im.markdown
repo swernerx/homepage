@@ -1,6 +1,5 @@
 slug: mit-vectoring-konnen-wir-diese-100-mbit-s-im
 date: 2013-09-04 18:26:51
-title: Mit Vectoring können wir diese 100 MBit/s im Download und 40 MBit/s...
 type: quote
 ---
 

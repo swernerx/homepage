@@ -1,6 +1,5 @@
 slug: dont-call-yourself-a-programmer-and-other-career
 date: 2011-11-13 17:35:49
-title: Don’t Call Yourself A Programmer, And Other Career Advice
 type: link
 ---
 

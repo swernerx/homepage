@@ -1,6 +1,5 @@
 slug: the-differences-between-nosql-databases-are-much
 date: 2010-12-31 14:31:15
-title: The differences between “NoSQL” databases are much bigger...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: samsung-has-tabletized-some-of-the-core-software
 date: 2010-09-25 00:55:23
-title: Samsung has tabletized some of the core software on the Galaxy Tab,...
 type: quote
 ---
 

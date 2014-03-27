@@ -1,6 +1,5 @@
 slug: i-did-confirm-with-the-typescript-team-that-they
 date: 2012-10-05 10:34:41
-title: I did confirm with the TypeScript team that they consider this a very...
 type: quote
 ---
 

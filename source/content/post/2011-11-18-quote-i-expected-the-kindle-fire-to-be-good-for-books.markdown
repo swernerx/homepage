@@ -1,6 +1,5 @@
 slug: i-expected-the-kindle-fire-to-be-good-for-books
 date: 2011-11-18 14:01:59
-title: I expected the Kindle Fire to be good for books, great for magazines...
 type: quote
 ---
 

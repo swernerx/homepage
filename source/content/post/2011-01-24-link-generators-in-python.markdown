@@ -1,6 +1,5 @@
 slug: generators-in-python
 date: 2011-01-24 09:39:44
-title: Generators in Python
 type: link
 ---
 

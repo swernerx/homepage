@@ -1,6 +1,5 @@
 slug: bevor-wir-den-burgern-mehr-geld-aus-der-tasche
 date: 2013-10-15 08:26:16
-title: Bevor wir den Bürgern mehr Geld aus der Tasche ziehen, müssen wir mit...
 type: quote
 ---
 

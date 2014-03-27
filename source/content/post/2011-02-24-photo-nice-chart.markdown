@@ -1,6 +1,5 @@
 slug: nice-chart
 date: 2011-02-24 15:34:32
-title: Nice chart!
 type: photo
 ---
 

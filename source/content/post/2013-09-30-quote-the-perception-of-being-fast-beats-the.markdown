@@ -1,6 +1,5 @@
 slug: the-perception-of-being-fast-beats-the
 date: 2013-09-30 16:01:30
-title: The perception of being fast beats the mobile-network reality of...
 type: quote
 ---
 

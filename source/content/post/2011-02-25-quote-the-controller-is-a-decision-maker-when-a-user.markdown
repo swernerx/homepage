@@ -1,6 +1,5 @@
 slug: the-controller-is-a-decision-maker-when-a-user
 date: 2011-02-25 22:52:12
-title: The controller is a decision maker. When a user clicks in the view,...
 type: quote
 ---
 

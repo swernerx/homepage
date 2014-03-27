@@ -1,6 +1,5 @@
 slug: which-platform-has-the-most-apps-is-interesting
 date: 2010-08-05 10:48:44
-title: Which platform has the most apps is interesting, but which platform...
 type: quote
 ---
 

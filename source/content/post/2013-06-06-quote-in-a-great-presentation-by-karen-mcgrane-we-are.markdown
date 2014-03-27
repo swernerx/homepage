@@ -1,6 +1,5 @@
 slug: in-a-great-presentation-by-karen-mcgrane-we-are
 date: 2013-06-06 08:40:55
-title: In a great presentation by Karen McGrane, we are urged to get rid of...
 type: quote
 ---
 

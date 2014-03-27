@@ -1,6 +1,5 @@
 slug: tablets-will-cannibalize-netbooks-outselling
 date: 2010-06-18 21:43:05
-title: Tablets will cannibalize netbooks, outselling netbooks starting in...
 type: quote
 ---
 

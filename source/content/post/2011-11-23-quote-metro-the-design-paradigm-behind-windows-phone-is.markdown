@@ -1,6 +1,5 @@
 slug: metro-the-design-paradigm-behind-windows-phone-is
 date: 2011-11-23 09:00:13
-title: Metro, the design paradigm behind Windows Phone is in part, a...
 type: quote
 ---
 

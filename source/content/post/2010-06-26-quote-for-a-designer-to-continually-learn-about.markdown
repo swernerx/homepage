@@ -1,6 +1,5 @@
 slug: for-a-designer-to-continually-learn-about
 date: 2010-06-26 23:48:20
-title: For a designer to continually learn about materials is absolutely...
 type: quote
 ---
 

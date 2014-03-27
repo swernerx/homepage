@@ -1,6 +1,5 @@
 slug: chrome-is-one-of-the-well-working-apps-from
 date: 2010-08-19 23:53:27
-title: Chrome is one of the well working apps from Google. They just need...
 type: video
 ---
 

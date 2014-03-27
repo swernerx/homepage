@@ -1,6 +1,5 @@
 slug: criticize-an-employee-in-a-group-setting-and-it
 date: 2013-04-07 16:19:22
-title: Criticize an employee in a group setting and it will seem like he...
 type: quote
 ---
 

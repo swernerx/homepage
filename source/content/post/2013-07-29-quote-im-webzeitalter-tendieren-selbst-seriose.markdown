@@ -1,6 +1,5 @@
 slug: im-webzeitalter-tendieren-selbst-seriose
 date: 2013-07-29 15:54:35
-title: Im Webzeitalter tendieren selbst seriöse Verlagshäuser dazu,...
 type: quote
 ---
 

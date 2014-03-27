@@ -1,6 +1,5 @@
 slug: youll-be-able-to-start-accepting-payments-for
 date: 2010-04-29 23:28:10
-title: You’ll be able to start accepting payments for physical goods and...
 type: quote
 ---
 

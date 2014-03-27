@@ -1,6 +1,5 @@
 slug: carrying-a-years-worth-of-non-searchable-issues
 date: 2011-01-02 21:50:48
-title: Carrying a year’s worth of non-searchable issues is useless.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: people-who-create-and-publish-content-need-new
 date: 2013-06-26 08:27:27
-title: People who create and publish content need new tools and new...
 type: quote
 ---
 

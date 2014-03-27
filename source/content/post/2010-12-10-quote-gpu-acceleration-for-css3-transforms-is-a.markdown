@@ -1,6 +1,5 @@
 slug: gpu-acceleration-for-css3-transforms-is-a
 date: 2010-12-10 11:10:00
-title: GPU acceleration for CSS3 transforms is a significant area of...
 type: quote
 ---
 

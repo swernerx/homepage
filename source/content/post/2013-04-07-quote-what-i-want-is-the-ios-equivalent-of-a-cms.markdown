@@ -1,6 +1,5 @@
 slug: what-i-want-is-the-ios-equivalent-of-a-cms
 date: 2013-04-07 14:01:20
-title: What I want is the iOS equivalent of a CMS: Massive power and...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-apps-ive-tested-that-are-on-android-ios-and
 date: 2011-06-10 08:22:33
-title: The apps I’ve tested that are on Android, iOS, and Windows Phone 7...
 type: quote
 ---
 

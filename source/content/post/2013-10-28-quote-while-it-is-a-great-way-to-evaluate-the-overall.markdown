@@ -1,6 +1,5 @@
 slug: while-it-is-a-great-way-to-evaluate-the-overall
 date: 2013-10-28 10:05:42
-title: While it is a great way to evaluate the overall texture and...
 type: quote
 ---
 

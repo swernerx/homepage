@@ -1,6 +1,5 @@
 slug: microsoft-wont-say-how-many-phones-have-been
 date: 2011-04-27 18:52:41
-title: Microsoft won’t say how many phones have been sold. Not because it...
 type: quote
 ---
 

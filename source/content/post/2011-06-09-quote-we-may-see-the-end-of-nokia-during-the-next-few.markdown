@@ -1,6 +1,5 @@
 slug: we-may-see-the-end-of-nokia-during-the-next-few
 date: 2011-06-09 10:45:39
-title: We may see the end of Nokia during the next few months.
 type: quote
 ---
 

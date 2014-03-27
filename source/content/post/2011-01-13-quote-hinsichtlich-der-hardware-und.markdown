@@ -1,6 +1,5 @@
 slug: hinsichtlich-der-hardware-und
 date: 2011-01-13 23:51:26
-title: Hinsichtlich der Hardware und Verarbeitungsqualität ist das neue...
 type: quote
 ---
 

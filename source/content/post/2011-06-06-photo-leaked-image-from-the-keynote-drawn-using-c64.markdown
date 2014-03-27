@@ -1,6 +1,5 @@
 slug: leaked-image-from-the-keynote-drawn-using-c64
 date: 2011-06-06 09:55:19
-title: [Leaked image from the keynote...](http://mlkshk.com/p/343P)
 type: photo
 ---
 

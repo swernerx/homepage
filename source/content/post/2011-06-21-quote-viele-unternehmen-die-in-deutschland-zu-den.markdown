@@ -1,6 +1,5 @@
 slug: viele-unternehmen-die-in-deutschland-zu-den
 date: 2011-06-21 18:40:29
-title: Viele Unternehmen, die in Deutschland zu den Marktführern gehören,...
 type: quote
 ---
 

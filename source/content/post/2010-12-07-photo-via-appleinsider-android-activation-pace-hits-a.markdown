@@ -1,6 +1,5 @@
 slug: via-appleinsider-android-activation-pace-hits-a
 date: 2010-12-07 09:54:23
-title: Via AppleInsider: 
 type: photo
 ---
 

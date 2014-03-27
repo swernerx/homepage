@@ -1,6 +1,5 @@
 slug: mobile-doesnt-not-reward-feature-richness-but
 date: 2012-07-08 19:22:27
-title: Mobile doesn’t not reward “feature richness” but rather “light...
 type: quote
 ---
 

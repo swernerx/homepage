@@ -1,6 +1,5 @@
 slug: were-moving-from-rigid-structured-non-specific
 date: 2011-12-14 23:53:15
-title: We’re moving from rigid, structured, non-specific workforces to...
 type: quote
 ---
 

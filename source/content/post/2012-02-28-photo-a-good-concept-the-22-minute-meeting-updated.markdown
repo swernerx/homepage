@@ -1,6 +1,5 @@
 slug: a-good-concept-the-22-minute-meeting-updated
 date: 2012-02-28 23:23:48
-title: A good concept: 
 type: photo
 ---
 

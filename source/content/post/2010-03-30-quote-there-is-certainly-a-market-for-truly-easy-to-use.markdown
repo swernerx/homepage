@@ -1,6 +1,5 @@
 slug: there-is-certainly-a-market-for-truly-easy-to-use
 date: 2010-03-30 21:04:00
-title: There is certainly a market for truly easy-to-use simple computers...
 type: quote
 ---
 

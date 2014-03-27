@@ -1,6 +1,5 @@
 slug: die-kinder-der-wohlhabenden-akademikerfamilien
 date: 2013-04-06 19:53:48
-title: Die Kinder der wohlhabenden Akademikerfamilien hingegen, die während...
 type: quote
 ---
 

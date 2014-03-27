@@ -1,6 +1,5 @@
 slug: the-facebook-social-graph-plus-itunes-125-million
 date: 2010-04-07 21:16:42
-title: The Facebook social graph plus iTunes’ 125 million credit card...
 type: quote
 ---
 

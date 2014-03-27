@@ -1,6 +1,5 @@
 slug: twitter-is-for-whom-you-want-to-know
 date: 2011-06-14 14:56:23
-title: Twitter is for whom you want to know
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: palm-could-be-bought-not-for-its-smartphones-and
 date: 2010-04-12 22:41:40
-title: Palm could be bought not for its smartphones and its operating...
 type: quote
 ---
 

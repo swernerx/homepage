@@ -1,6 +1,5 @@
 slug: fusionsenergie-setzt-keine-treibhausgase-frei
 date: 2013-05-07 18:39:23
-title: Fusionsenergie setzt keine Treibhausgase frei, hinterlässt keinen...
 type: quote
 ---
 

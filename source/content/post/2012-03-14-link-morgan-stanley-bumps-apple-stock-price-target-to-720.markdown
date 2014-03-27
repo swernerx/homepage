@@ -1,6 +1,5 @@
 slug: morgan-stanley-bumps-apple-stock-price-target-to-720
 date: 2012-03-14 10:42:51
-title: Morgan Stanley bumps Apple stock price target to $720
 type: link
 ---
 

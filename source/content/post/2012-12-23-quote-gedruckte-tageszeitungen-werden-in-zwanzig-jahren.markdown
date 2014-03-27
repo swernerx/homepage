@@ -1,6 +1,5 @@
 slug: gedruckte-tageszeitungen-werden-in-zwanzig-jahren
 date: 2012-12-23 20:01:53
-title: Gedruckte Tageszeitungen werden in zwanzig Jahren nicht mehr normal...
 type: quote
 ---
 

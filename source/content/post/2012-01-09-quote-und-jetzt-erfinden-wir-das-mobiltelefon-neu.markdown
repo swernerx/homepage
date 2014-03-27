@@ -1,6 +1,5 @@
 slug: und-jetzt-erfinden-wir-das-mobiltelefon-neu
 date: 2012-01-09 08:54:49
-title: “Und jetzt erfinden wir das Mobiltelefon neu” — Steve...
 type: quote
 ---
 

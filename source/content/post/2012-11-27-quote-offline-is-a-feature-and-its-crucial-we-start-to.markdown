@@ -1,6 +1,5 @@
 slug: offline-is-a-feature-and-its-crucial-we-start-to
 date: 2012-11-27 13:06:21
-title: Offline is a feature and it’s crucial we start to consider it from...
 type: quote
 ---
 

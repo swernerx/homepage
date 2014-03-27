@@ -1,6 +1,5 @@
 slug: nobody-knows-how-to-make-an-slr-sized-zoom-lens
 date: 2013-05-08 09:17:34
-title: Nobody knows how to make an SLR-sized zoom lens for $100–300 that...
 type: quote
 ---
 

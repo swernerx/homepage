@@ -1,6 +1,5 @@
 slug: exploring-javascript-for-in-loops
 date: 2011-01-05 23:38:52
-title: Exploring JavaScript for-in loops
 type: link
 ---
 

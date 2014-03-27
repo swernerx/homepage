@@ -1,6 +1,5 @@
 slug: flachendeckende-einheitliche-mindestlohne-sind
 date: 2013-03-09 12:30:31
-title: Flächendeckende, einheitliche Mindestlöhne sind also grundfalsch,...
 type: quote
 ---
 

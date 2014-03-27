@@ -1,6 +1,5 @@
 slug: too-often-in-the-rush-to-responsive-design-teams
 date: 2013-04-08 08:45:01
-title: Too often, in the rush to responsive design, teams discover they’ve...
 type: quote
 ---
 

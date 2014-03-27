@@ -1,6 +1,5 @@
 slug: iphone-4-has-become-my-technology-in-my-pocket
 date: 2010-06-24 09:53:19
-title: iPhone 4 has become my technology in my pocket. It’s not just...
 type: quote
 ---
 

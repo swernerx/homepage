@@ -1,6 +1,5 @@
 slug: customers-demand-sucky-products-they-request
 date: 2010-11-13 10:16:13
-title: Customers demand sucky products. They request features that make your...
 type: quote
 ---
 

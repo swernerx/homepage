@@ -1,6 +1,5 @@
 slug: the-scores-of-small-details-that-go-into-features
 date: 2013-05-24 10:45:18
-title: The scores of small details that go into features have a strange way...
 type: quote
 ---
 

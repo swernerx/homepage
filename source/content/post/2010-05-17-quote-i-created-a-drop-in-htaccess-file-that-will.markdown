@@ -1,6 +1,5 @@
 slug: i-created-a-drop-in-htaccess-file-that-will
 date: 2010-05-17 23:10:18
-title: I created a drop-in .htaccess file that will enable gzipping and long...
 type: quote
 ---
 

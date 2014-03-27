@@ -1,6 +1,5 @@
 slug: early-adopters-are-not-the-audience-that-should-be
 date: 2010-12-29 17:56:57
-title: Early adopters are not the audience that should be consulted on how...
 type: quote
 ---
 

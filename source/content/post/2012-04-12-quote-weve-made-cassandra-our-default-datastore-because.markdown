@@ -1,6 +1,5 @@
 slug: weve-made-cassandra-our-default-datastore-because
 date: 2012-04-12 22:08:48
-title: We’ve made Cassandra our default datastore because our benchmarks...
 type: quote
 ---
 

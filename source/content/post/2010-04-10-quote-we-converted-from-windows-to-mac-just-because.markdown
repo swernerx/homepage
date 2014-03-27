@@ -1,6 +1,5 @@
 slug: we-converted-from-windows-to-mac-just-because
 date: 2010-04-10 10:38:32
-title: We converted from Windows to Mac just because Keynote blows...
 type: quote
 ---
 

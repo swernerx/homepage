@@ -1,6 +1,5 @@
 slug: whens-the-last-time-someone-called-a-computer-or
 date: 2011-06-26 20:15:51
-title: When’s the last time someone called a computer or phone beautiful...
 type: quote
 ---
 

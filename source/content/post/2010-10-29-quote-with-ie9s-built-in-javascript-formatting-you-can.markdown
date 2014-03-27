@@ -1,6 +1,5 @@
 slug: with-ie9s-built-in-javascript-formatting-you-can
 date: 2010-10-29 12:10:55
-title: With IE9’s built-in JavaScript formatting, you can keep your code...
 type: quote
 ---
 

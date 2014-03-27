@@ -1,6 +1,5 @@
 slug: on-above-beyonds-private-beach-party-awesome
 date: 2010-07-02 20:51:56
-title: On Above&Beyond’s private beach party. Awesome...
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: android-isnt-an-attempt-to-build-the-best-mobile
 date: 2011-01-10 00:09:27
-title: Android isn’t an attempt to build the best mobile platform and sell...
 type: quote
 ---
 

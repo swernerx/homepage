@@ -1,6 +1,5 @@
 slug: impressive-kinect-effect-von-xbox
 date: 2011-11-01 13:20:57
-title: Impressive: Kinect Effect (von 
 type: video
 ---
 

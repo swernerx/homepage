@@ -1,6 +1,5 @@
 slug: solar-panels-attached-to-homes-and-connected-to
 date: 2011-05-03 22:17:03
-title: Solar panels attached to homes and connected to smart grids is no...
 type: quote
 ---
 

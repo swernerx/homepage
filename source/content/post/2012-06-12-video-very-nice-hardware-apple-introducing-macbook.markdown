@@ -1,6 +1,5 @@
 slug: very-nice-hardware-apple-introducing-macbook
 date: 2012-06-12 09:15:22
-title: Very nice hardware: Apple - Introducing MacBook Pro with Retina...
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: the-daily-is-like-an-old-concept-in-a-high-tech
 date: 2012-07-24 16:26:38
-title: The Daily is like an old concept in a high-tech package.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-take-away-from-studying-companies-like-apple
 date: 2011-06-19 21:07:48
-title: The take-away from studying companies like Apple is that for them...
 type: quote
 ---
 

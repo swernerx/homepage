@@ -1,6 +1,5 @@
 slug: ipad-magazines-replicate-their-printed-magazines
 date: 2011-07-21 13:45:57
-title: iPad magazines replicate their printed magazines in digital format...
 type: quote
 ---
 

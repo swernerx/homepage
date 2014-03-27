@@ -1,6 +1,5 @@
 slug: no-software-engineer-will-ever-have-to-write-a
 date: 2011-05-15 15:53:41
-title: No software engineer will ever have to write a binary search after...
 type: quote
 ---
 

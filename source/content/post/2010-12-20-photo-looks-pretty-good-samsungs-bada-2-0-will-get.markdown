@@ -1,6 +1,5 @@
 slug: looks-pretty-good-samsungs-bada-2-0-will-get
 date: 2010-12-20 22:39:25
-title: Looks pretty good: 
 type: photo
 ---
 

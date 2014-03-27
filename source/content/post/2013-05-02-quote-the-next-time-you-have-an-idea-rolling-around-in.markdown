@@ -1,6 +1,5 @@
 slug: the-next-time-you-have-an-idea-rolling-around-in
 date: 2013-05-02 16:19:01
-title: The next time you have an idea rolling around in your head, find the...
 type: quote
 ---
 

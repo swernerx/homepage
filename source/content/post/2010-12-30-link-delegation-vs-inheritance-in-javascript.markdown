@@ -1,6 +1,5 @@
 slug: delegation-vs-inheritance-in-javascript
 date: 2010-12-30 18:28:20
-title: Delegation vs Inheritance in JavaScript
 type: link
 ---
 

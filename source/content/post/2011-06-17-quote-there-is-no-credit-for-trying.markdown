@@ -1,6 +1,5 @@
 slug: there-is-no-credit-for-trying
 date: 2011-06-17 12:42:20
-title: There is no credit for trying.
 type: quote
 ---
 

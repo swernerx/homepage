@@ -1,6 +1,5 @@
 slug: programmer-should-focus-on-algorithm-and-data
 date: 2010-12-16 21:46:23
-title: Programmer should focus on algorithm and data structure, not...
 type: quote
 ---
 

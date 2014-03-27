@@ -1,6 +1,5 @@
 slug: enttauschende-340000-exemplare-der-taglichen
 date: 2013-09-11 13:18:15
-title: Enttäuschende 340000 Exemplare der täglichen ePaper-Ausgaben...
 type: quote
 ---
 

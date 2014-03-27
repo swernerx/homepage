@@ -1,6 +1,5 @@
 slug: nice-minimal-business-card-design-boris-smus
 date: 2010-08-11 09:44:02
-title: Nice! 
 type: photo
 ---
 

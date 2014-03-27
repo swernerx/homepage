@@ -1,6 +1,5 @@
 slug: the-existence-of-a-significant-patented-area
 date: 2011-08-17 08:22:20
-title: The existence of a significant patented area around software...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: even-if-people-arent-going-to-use-many-apps
 date: 2011-06-23 09:00:48
-title: Even if people aren’t going to use many apps themselves. They want to...
 type: quote
 ---
 

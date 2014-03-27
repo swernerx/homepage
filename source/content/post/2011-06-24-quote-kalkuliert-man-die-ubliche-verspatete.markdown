@@ -1,6 +1,5 @@
 slug: kalkuliert-man-die-ubliche-verspatete
 date: 2011-06-24 18:05:41
-title: Kalkuliert man die übliche verspätete Durchdringung neuer...
 type: quote
 ---
 

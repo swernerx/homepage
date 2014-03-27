@@ -1,6 +1,5 @@
 slug: the-hardest-part-about-building-a-10x-team-is-that
 date: 2011-12-26 17:01:22
-title: The hardest part about building a 10x team is that who you need next...
 type: quote
 ---
 

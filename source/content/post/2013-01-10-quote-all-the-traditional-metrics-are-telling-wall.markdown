@@ -1,6 +1,5 @@
 slug: all-the-traditional-metrics-are-telling-wall
 date: 2013-01-10 16:36:18
-title: All the traditional metrics are telling Wall Street to run away...
 type: quote
 ---
 

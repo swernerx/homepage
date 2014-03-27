@@ -1,6 +1,5 @@
 slug: the-problem-with-overflow-hidden-is-that-one
 date: 2011-06-09 19:06:49
-title: The problem with overflow:hidden is that one finger scrolling inside...
 type: quote
 ---
 

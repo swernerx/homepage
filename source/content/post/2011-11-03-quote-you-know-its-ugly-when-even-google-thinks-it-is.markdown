@@ -1,6 +1,5 @@
 slug: you-know-its-ugly-when-even-google-thinks-it-is
 date: 2011-11-03 13:18:46
-title: You know it’s ugly when even Google thinks it is.
 type: quote
 ---
 

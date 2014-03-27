@@ -1,6 +1,5 @@
 slug: moving-outside-u-s-borders-is-the-logical-next
 date: 2010-04-28 21:13:22
-title: Moving outside U.S. borders is the logical next step for the movie...
 type: quote
 ---
 

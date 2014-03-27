@@ -1,6 +1,5 @@
 slug: a-new-study-from-gallup-suggests-that-workplace
 date: 2012-04-17 22:51:19
-title: A new study from Gallup suggests that workplace training should focus...
 type: quote
 ---
 

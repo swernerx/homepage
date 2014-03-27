@@ -1,6 +1,5 @@
 slug: its-like-holding-the-future-in-your-hands
 date: 2010-04-07 20:57:15
-title: It’s like holding the future in your hands.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: site-canvas-let-celebrities-create-fancy-websites
 date: 2010-05-15 22:17:17
-title: Site Canvas let celebrities create fancy websites without huge costs
 type: link
 ---
 

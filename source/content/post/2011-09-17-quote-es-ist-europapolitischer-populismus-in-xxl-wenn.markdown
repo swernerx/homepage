@@ -1,6 +1,5 @@
 slug: es-ist-europapolitischer-populismus-in-xxl-wenn
 date: 2011-09-17 19:39:30
-title: Es ist europapolitischer Populismus in XXL, wenn der Blick auf die...
 type: quote
 ---
 

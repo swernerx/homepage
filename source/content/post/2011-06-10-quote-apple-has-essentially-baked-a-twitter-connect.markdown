@@ -1,6 +1,5 @@
 slug: apple-has-essentially-baked-a-twitter-connect
 date: 2011-06-10 08:10:32
-title: Apple has essentially baked a “Twitter Connect” into iOS 5. It’s...
 type: quote
 ---
 

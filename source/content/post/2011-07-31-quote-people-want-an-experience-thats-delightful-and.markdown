@@ -1,6 +1,5 @@
 slug: people-want-an-experience-thats-delightful-and
 date: 2011-07-31 02:22:56
-title: People want an experience that’s delightful, and tailored to what...
 type: quote
 ---
 

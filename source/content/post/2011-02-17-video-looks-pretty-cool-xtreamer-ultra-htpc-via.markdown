@@ -1,6 +1,5 @@
 slug: looks-pretty-cool-xtreamer-ultra-htpc-via
 date: 2011-02-17 10:18:57
-title: Looks pretty cool: 
 type: video
 ---
 

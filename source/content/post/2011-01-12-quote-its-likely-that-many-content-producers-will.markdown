@@ -1,6 +1,5 @@
 slug: its-likely-that-many-content-producers-will
 date: 2011-01-12 23:28:17
-title: It’s likely that many content producers will continue using H.264 and...
 type: quote
 ---
 

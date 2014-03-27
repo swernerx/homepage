@@ -1,6 +1,5 @@
 slug: we-are-loosing-software-quality-due-temporary
 date: 2011-09-29 18:14:20
-title: We are loosing software quality due temporary solutions that last...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: no-apps-no-sale-it-really-is-that-simple
 date: 2011-03-03 16:08:22
-title: No apps, no sale. It really is that simple.
 type: quote
 ---
 

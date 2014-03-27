@@ -1,6 +1,5 @@
 slug: if-nokia-does-not-get-emergency-assistance-now-it
 date: 2011-06-09 10:49:06
-title: If Nokia does not get emergency assistance now, it will die.
 type: quote
 ---
 

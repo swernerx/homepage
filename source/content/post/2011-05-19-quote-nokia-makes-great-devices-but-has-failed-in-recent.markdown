@@ -1,6 +1,5 @@
 slug: nokia-makes-great-devices-but-has-failed-in-recent
 date: 2011-05-19 09:13:59
-title: Nokia makes great devices but has failed in recent years to produce...
 type: quote
 ---
 

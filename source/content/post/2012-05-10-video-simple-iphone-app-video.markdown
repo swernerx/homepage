@@ -1,6 +1,5 @@
 slug: simple-iphone-app-video
 date: 2012-05-10 13:08:44
-title: Simple iPhone App Video
 type: video
 ---
 

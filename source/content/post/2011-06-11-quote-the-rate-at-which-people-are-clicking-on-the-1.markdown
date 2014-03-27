@@ -1,6 +1,5 @@
 slug: the-rate-at-which-people-are-clicking-on-the-1
 date: 2011-06-11 08:03:32
-title: The rate at which people are clicking on the +1 button appears to be...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: when-you-intentionally-share-the-fact-that-youre
 date: 2012-04-19 17:40:59
-title: When you intentionally share the fact that you’re listening to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: most-sales-of-android-tablet-software-will-be
 date: 2011-11-23 08:53:19
-title: Most sales of Android tablet software will be through the Amazon...
 type: quote
 ---
 

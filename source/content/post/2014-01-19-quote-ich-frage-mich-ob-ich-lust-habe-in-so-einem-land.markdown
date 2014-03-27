@@ -1,6 +1,5 @@
 slug: ich-frage-mich-ob-ich-lust-habe-in-so-einem-land
 date: 2014-01-19 07:46:33
-title: Ich frage mich, ob ich Lust habe in so einem Land zu leben, in dem...
 type: quote
 ---
 

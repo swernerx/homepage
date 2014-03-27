@@ -1,6 +1,5 @@
 slug: a-web-worker-isnt-about-making-something-take-2
 date: 2013-08-16 17:35:09
-title: A web worker isn’t about making something take 2 seconds instead of 4...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: das-elterngeld-entpuppt-sich-als-wunderbares
 date: 2010-12-20 21:36:57
-title: Das Elterngeld entpuppt sich als wunderbares Lehrstück für das, was...
 type: quote
 ---
 

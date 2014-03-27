@@ -1,6 +1,5 @@
 slug: returning-to-stop-the-function
 date: 2011-06-17 12:39:36
-title: Returning to stop the function.
 type: quote
 ---
 

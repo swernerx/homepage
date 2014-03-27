@@ -1,6 +1,5 @@
 slug: i-talked-to-a-lot-of-developers-at-the-summit-we
 date: 2010-12-04 17:27:17
-title: I talked to a lot of developers at the Summit. We talked about MeeGo...
 type: quote
 ---
 

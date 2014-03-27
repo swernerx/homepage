@@ -1,6 +1,5 @@
 slug: ist-der-offentlich-rechtliche-rundfunk-im-jahr
 date: 2012-12-30 15:11:34
-title: Ist der öffentlich-rechtliche Rundfunk im Jahr 2013 wirklich wichtig...
 type: quote
 ---
 

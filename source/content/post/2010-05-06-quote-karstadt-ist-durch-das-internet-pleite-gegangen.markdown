@@ -1,6 +1,5 @@
 slug: karstadt-ist-durch-das-internet-pleite-gegangen
 date: 2010-05-06 22:11:58
-title: Karstadt ist durch das Internet pleite gegangen.
 type: quote
 ---
 

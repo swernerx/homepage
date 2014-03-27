@@ -1,6 +1,5 @@
 slug: if-you-want-to-come-up-with-old-solutions-read
 date: 2013-04-30 16:40:15
-title: If you want to come up with old solutions, read news. If you are...
 type: quote
 ---
 

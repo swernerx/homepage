@@ -1,6 +1,5 @@
 slug: github-is-all-the-public-work-youve-ever-done
 date: 2014-01-19 20:30:05
-title: GitHub is all the public work you’ve ever done, unordered, unfiltered...
 type: quote
 ---
 

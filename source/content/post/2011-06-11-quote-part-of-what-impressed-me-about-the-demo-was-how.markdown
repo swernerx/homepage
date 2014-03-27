@@ -1,6 +1,5 @@
 slug: part-of-what-impressed-me-about-the-demo-was-how
 date: 2011-06-11 14:24:41
-title: Part of what impressed me about the demo was how well these tiles...
 type: quote
 ---
 

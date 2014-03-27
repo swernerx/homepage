@@ -1,6 +1,5 @@
 slug: operas-problems-on-mobile-quirksblog
 date: 2010-08-01 23:23:13
-title: Opera’s problems on mobile - QuirksBlog
 type: link
 ---
 

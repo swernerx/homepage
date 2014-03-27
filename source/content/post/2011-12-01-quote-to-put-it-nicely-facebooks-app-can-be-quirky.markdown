@@ -1,6 +1,5 @@
 slug: to-put-it-nicely-facebooks-app-can-be-quirky
 date: 2011-12-01 10:03:50
-title: To put it nicely, Facebook’s app can be… “quirky” at times.
 type: quote
 ---
 

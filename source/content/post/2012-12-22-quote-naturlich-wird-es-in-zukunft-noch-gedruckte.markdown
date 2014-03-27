@@ -1,6 +1,5 @@
 slug: naturlich-wird-es-in-zukunft-noch-gedruckte
 date: 2012-12-22 12:44:08
-title: Natürlich wird es in Zukunft noch gedruckte Zeitungen geben, genauso...
 type: quote
 ---
 

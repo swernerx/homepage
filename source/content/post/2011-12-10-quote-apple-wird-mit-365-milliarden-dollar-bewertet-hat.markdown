@@ -1,6 +1,5 @@
 slug: apple-wird-mit-365-milliarden-dollar-bewertet-hat
 date: 2011-12-10 19:48:02
-title: Apple wird mit 365 Milliarden Dollar bewertet, hat aber nur ein...
 type: quote
 ---
 

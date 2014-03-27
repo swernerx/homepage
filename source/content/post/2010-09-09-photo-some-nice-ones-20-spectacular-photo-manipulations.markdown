@@ -1,6 +1,5 @@
 slug: some-nice-ones-20-spectacular-photo-manipulations
 date: 2010-09-09 16:31:26
-title: Some nice ones: 
 type: photo
 ---
 

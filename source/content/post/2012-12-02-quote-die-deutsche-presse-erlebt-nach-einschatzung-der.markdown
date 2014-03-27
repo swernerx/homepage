@@ -1,6 +1,5 @@
 slug: die-deutsche-presse-erlebt-nach-einschatzung-der
 date: 2012-12-02 20:35:01
-title: Die deutsche Presse erlebt nach Einschätzung der Bundesagentur für...
 type: quote
 ---
 

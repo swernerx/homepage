@@ -1,6 +1,5 @@
 slug: the-problem-of-featuritis-was-solved-by-adding-a
 date: 2010-12-24 20:10:59
-title: The problem of featuritis was solved by adding a feature which let’s...
 type: quote
 ---
 

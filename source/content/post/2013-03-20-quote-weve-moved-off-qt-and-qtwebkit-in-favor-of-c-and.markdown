@@ -1,6 +1,5 @@
 slug: weve-moved-off-qt-and-qtwebkit-in-favor-of-c-and
 date: 2013-03-20 18:14:06
-title: We’ve moved off QT and QTWebkit in favor of C# and the Chromium...
 type: quote
 ---
 

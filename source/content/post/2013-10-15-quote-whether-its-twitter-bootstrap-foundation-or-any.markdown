@@ -1,6 +1,5 @@
 slug: whether-its-twitter-bootstrap-foundation-or-any
 date: 2013-10-15 17:17:50
-title: Whether it’s Twitter Bootstrap, Foundation, or any other frontend...
 type: quote
 ---
 

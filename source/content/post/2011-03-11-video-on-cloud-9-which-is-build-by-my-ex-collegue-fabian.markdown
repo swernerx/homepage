@@ -1,6 +1,5 @@
 slug: on-cloud-9-which-is-build-by-my-ex-collegue-fabian
 date: 2011-03-11 13:32:29
-title: On Cloud 9 which is build by my ex-collegue Fabian and others: 
 type: video
 ---
 

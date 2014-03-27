@@ -1,6 +1,5 @@
 slug: the-feeling-that-i-was-wasting-my-time-was-really
 date: 2011-06-10 22:45:50
-title: The feeling that I was wasting my time was really killing me inside.
 type: quote
 ---
 

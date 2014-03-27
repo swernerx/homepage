@@ -1,6 +1,5 @@
 slug: all-that-we-can-really-know-about-mobile-users-is
 date: 2012-04-12 22:18:02
-title: All that we can really know about mobile users is that they’re on a...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: any-speed-improvements-you-may-get-from-native
 date: 2010-10-09 20:55:10
-title: Any speed improvements you may get from native code aren’t worth the...
 type: quote
 ---
 

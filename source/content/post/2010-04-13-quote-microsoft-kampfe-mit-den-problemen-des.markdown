@@ -1,6 +1,5 @@
 slug: microsoft-kampfe-mit-den-problemen-des
 date: 2010-04-13 21:12:00
-title: Microsoft kämpfe mit den Problemen des Durchschnittsmannes in den...
 type: quote
 ---
 

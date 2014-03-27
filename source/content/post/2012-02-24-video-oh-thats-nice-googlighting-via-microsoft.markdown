@@ -1,6 +1,5 @@
 slug: oh-thats-nice-googlighting-via-microsoft
 date: 2012-02-24 10:37:02
-title: Oh that’s nice: Googlighting (via 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: speech-to-text-appears-to-be-far-more-accurate
 date: 2011-08-13 00:30:48
-title: Speech-to-text appears to be far more accurate than on Android.
 type: quote
 ---
 

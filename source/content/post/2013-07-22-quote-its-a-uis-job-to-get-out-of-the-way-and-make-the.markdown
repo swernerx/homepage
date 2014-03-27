@@ -1,6 +1,5 @@
 slug: its-a-uis-job-to-get-out-of-the-way-and-make-the
 date: 2013-07-22 08:18:42
-title: It’s a UI’s job to get out of the way and make the function(s) of the...
 type: quote
 ---
 

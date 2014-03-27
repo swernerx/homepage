@@ -1,6 +1,5 @@
 slug: windows-8-the-animated-evaluation-von-brian
 date: 2012-12-21 11:11:22
-title: Windows 8: The Animated Evaluation (von 
 type: video
 ---
 

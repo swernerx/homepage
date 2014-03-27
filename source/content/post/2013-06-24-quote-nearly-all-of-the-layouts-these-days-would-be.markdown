@@ -1,6 +1,5 @@
 slug: nearly-all-of-the-layouts-these-days-would-be
 date: 2013-06-24 13:43:29
-title: Nearly all of the layouts these days would be easier to build using...
 type: quote
 ---
 

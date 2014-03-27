@@ -1,6 +1,5 @@
 slug: disrupting-a-boring-market-is-a-great-way-to-build
 date: 2011-07-16 01:24:11
-title: Disrupting a boring market is a great way to build a business.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: a-compatibility-layer-that-mimics-the-html5-canvas
 date: 2011-04-27 18:52:41
-title: A compatibility layer that mimics the HTML5 Canvas and Audio APIs but...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-iphone-ui-was-very-usable-and-the-touch-less
 date: 2011-01-26 00:09:13
-title: The iPhone UI was very usable and the touch-less vs. physical...
 type: quote
 ---
 

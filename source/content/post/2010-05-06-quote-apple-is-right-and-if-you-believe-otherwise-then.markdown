@@ -1,6 +1,5 @@
 slug: apple-is-right-and-if-you-believe-otherwise-then
 date: 2010-05-06 21:58:57
-title: Apple is right, and if you believe otherwise, then you are a stupid...
 type: quote
 ---
 

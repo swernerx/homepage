@@ -1,6 +1,5 @@
 slug: instead-of-tearing-our-clothes-in-despair-lets
 date: 2013-06-11 09:33:30
-title: Instead of tearing our clothes in despair, let’s celebrate the fact...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: egal-wie-man-zu-apple-steht-es-ist-mittlerweile
 date: 2012-01-26 10:40:44
-title: Egal, wie man zu Apple steht, es ist mittlerweile nicht mehr zu...
 type: quote
 ---
 

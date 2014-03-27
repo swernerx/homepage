@@ -1,6 +1,5 @@
 slug: die-starbucks-coffee-company-hat-den-netzwerk-und
 date: 2010-08-23 21:09:03
-title: Die Starbucks Coffee Company hat den Netzwerk- und IT-Dienstleister...
 type: quote
 ---
 

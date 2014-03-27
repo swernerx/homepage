@@ -1,6 +1,5 @@
 slug: solaraktien-sind-abhangig-von-subventionen-die
 date: 2011-05-31 22:36:31
-title: Solaraktien sind abhängig von Subventionen. Die Kursentwicklung der...
 type: quote
 ---
 

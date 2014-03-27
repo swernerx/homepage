@@ -1,6 +1,5 @@
 slug: a-nice-form-not-via-3-types-of-false
 date: 2013-10-22 08:54:56
-title: A nice form - not - via 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: apple-and-google-are-squeezing-microsoft-from-both
 date: 2013-10-28 18:21:23
-title: Apple and Google are squeezing Microsoft from both sides, and the...
 type: quote
 ---
 

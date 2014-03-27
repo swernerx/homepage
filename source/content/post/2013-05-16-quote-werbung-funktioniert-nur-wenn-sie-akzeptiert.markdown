@@ -1,6 +1,5 @@
 slug: werbung-funktioniert-nur-wenn-sie-akzeptiert
 date: 2013-05-16 17:57:23
-title: Werbung funktioniert nur, wenn sie akzeptiert wird. Niemand will...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: what-makes-this-approach-so-different-is-that-it
 date: 2011-08-24 12:20:47
-title: What makes this approach so different is that it does away with ugly...
 type: quote
 ---
 

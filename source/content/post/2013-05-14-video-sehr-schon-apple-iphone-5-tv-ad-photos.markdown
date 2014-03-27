@@ -1,6 +1,5 @@
 slug: sehr-schon-apple-iphone-5-tv-ad-photos
 date: 2013-05-14 12:09:12
-title: Sehr schön: Apple - iPhone 5 - TV Ad - Photos Every Day via 
 type: video
 ---
 

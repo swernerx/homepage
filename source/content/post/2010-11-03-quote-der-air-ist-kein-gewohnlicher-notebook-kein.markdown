@@ -1,6 +1,5 @@
 slug: der-air-ist-kein-gewohnlicher-notebook-kein
 date: 2010-11-03 22:17:36
-title: Der Air ist kein gewöhnlicher Notebook, kein simples Arbeitsgerät und...
 type: quote
 ---
 

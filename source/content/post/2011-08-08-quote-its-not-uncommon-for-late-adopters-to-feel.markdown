@@ -1,6 +1,5 @@
 slug: its-not-uncommon-for-late-adopters-to-feel
 date: 2011-08-08 18:33:59
-title: It’s not uncommon for late adopters to feel suspicious of new...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: my-personal-observation-is-that-average-company
 date: 2011-01-23 11:02:45
-title: My personal observation is that average company has something like...
 type: quote
 ---
 

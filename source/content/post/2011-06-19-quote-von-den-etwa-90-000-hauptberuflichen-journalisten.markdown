@@ -1,6 +1,5 @@
 slug: von-den-etwa-90-000-hauptberuflichen-journalisten
 date: 2011-06-19 14:00:24
-title: Von den etwa 90.000 hauptberuflichen Journalisten in Deutschland...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: eliminate-the-exam-part-of-the-interview
 date: 2011-04-03 04:25:09
-title: Eliminate the exam part of the interview altogether.
 type: quote
 ---
 

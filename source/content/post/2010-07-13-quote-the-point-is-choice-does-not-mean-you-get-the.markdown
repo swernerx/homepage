@@ -1,6 +1,5 @@
 slug: the-point-is-choice-does-not-mean-you-get-the
 date: 2010-07-13 23:13:52
-title: The point is, “choice” does not mean you get the phone of your...
 type: quote
 ---
 

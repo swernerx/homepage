@@ -1,6 +1,5 @@
 slug: battery-life-is-one-reason-why-i-remain-a-deep
 date: 2013-03-04 13:32:48
-title: Battery life is one reason why I remain a deep skeptic of Chrome OS...
 type: quote
 ---
 

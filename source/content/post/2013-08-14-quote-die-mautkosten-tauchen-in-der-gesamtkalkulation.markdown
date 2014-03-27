@@ -1,6 +1,5 @@
 slug: die-mautkosten-tauchen-in-der-gesamtkalkulation
 date: 2013-08-14 08:45:56
-title: Die Mautkosten tauchen in der Gesamtkalkulation fast gar nicht auf.
 type: quote
 ---
 

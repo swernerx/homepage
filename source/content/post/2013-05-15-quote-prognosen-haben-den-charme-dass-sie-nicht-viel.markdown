@@ -1,6 +1,5 @@
 slug: prognosen-haben-den-charme-dass-sie-nicht-viel
 date: 2013-05-15 09:04:34
-title: Prognosen haben den Charme, dass sie nicht viel wert sind.
 type: quote
 ---
 

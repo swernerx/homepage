@@ -1,6 +1,5 @@
 slug: the-web-has-no-one-who-can-ensure-that-the
 date: 2011-09-22 18:07:37
-title: The Web has no one who can ensure that the platform acquires cutting...
 type: quote
 ---
 

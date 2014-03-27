@@ -1,6 +1,5 @@
 slug: nice-video-from-above-beyond-called-a-year-of
 date: 2011-08-09 21:45:22
-title: Nice video from Above & Beyond called “A Year Of Group...
 type: video
 ---
 

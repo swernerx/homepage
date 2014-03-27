@@ -1,6 +1,5 @@
 slug: you-can-converge-a-toaster-and-refrigerator-but
 date: 2012-04-25 10:52:13
-title: You can converge a toaster and refrigerator, but the end result won’t...
 type: quote
 ---
 

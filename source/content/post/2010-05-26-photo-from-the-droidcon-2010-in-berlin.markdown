@@ -1,6 +1,5 @@
 slug: from-the-droidcon-2010-in-berlin
 date: 2010-05-26 11:15:11
-title: From the Droidcon 2010 in Berlin
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: der-anleger-schlachtet-sein-sparschwein-nimmt
 date: 2010-06-05 17:37:19
-title: Der Anleger schlachtet sein Sparschwein, nimmt einen Kredit auf,...
 type: quote
 ---
 

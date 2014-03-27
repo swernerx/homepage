@@ -1,6 +1,5 @@
 slug: die-klassische-altersvorsorge-der-aufbau-von
 date: 2012-10-24 16:42:03
-title: Die klassische Altersvorsorge, der Aufbau von „freiem“ Vermögen für...
 type: quote
 ---
 

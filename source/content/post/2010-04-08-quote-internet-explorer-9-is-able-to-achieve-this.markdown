@@ -1,6 +1,5 @@
 slug: internet-explorer-9-is-able-to-achieve-this
 date: 2010-04-08 09:40:00
-title: Internet Explorer 9 is able to achieve this real-time performance...
 type: quote
 ---
 

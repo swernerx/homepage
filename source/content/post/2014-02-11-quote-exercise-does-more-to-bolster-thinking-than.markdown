@@ -1,6 +1,5 @@
 slug: exercise-does-more-to-bolster-thinking-than
 date: 2014-02-11 08:54:57
-title: Exercise does more to bolster thinking than thinking does.
 type: quote
 ---
 

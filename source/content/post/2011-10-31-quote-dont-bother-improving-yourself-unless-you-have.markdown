@@ -1,6 +1,5 @@
 slug: dont-bother-improving-yourself-unless-you-have
 date: 2011-10-31 18:56:00
-title: Don’t bother improving yourself, unless you have the freedom to...
 type: quote
 ---
 

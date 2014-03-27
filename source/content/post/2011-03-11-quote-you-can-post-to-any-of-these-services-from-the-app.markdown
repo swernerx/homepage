@@ -1,6 +1,5 @@
 slug: you-can-post-to-any-of-these-services-from-the-app
 date: 2011-03-11 21:21:23
-title: You can post to any of these services from the app offline, and the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: editors-could-become-curators-cultivating-the
 date: 2012-12-28 22:54:45
-title: Editors could become curators, cultivating the best work from both...
 type: quote
 ---
 

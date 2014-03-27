@@ -1,6 +1,5 @@
 slug: google-is-first-and-foremost-an-advertising
 date: 2011-05-13 18:15:34
-title: Google is first and foremost an advertising company, and they covet...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: google-has-not-innovated-in-a-decade-but-theyve
 date: 2011-08-04 15:25:06
-title: Google has not innovated in a decade. But, they’ve been in many...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: do-not-use-s3-as-a-cdn-it-is-not-designed-for
 date: 2013-05-28 14:56:38
-title: Do not use S3 as a CDN, it is not designed for that.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: no-ones-going-to-buy-a-hardware-gadget-because-it
 date: 2010-12-23 08:38:20
-title: No one’s going to buy a hardware gadget because it says Windows on...
 type: quote
 ---
 

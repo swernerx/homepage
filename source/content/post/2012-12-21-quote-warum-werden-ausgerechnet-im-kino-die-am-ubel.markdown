@@ -1,6 +1,5 @@
 slug: warum-werden-ausgerechnet-im-kino-die-am-ubel
 date: 2012-12-21 11:20:01
-title: Warum werden ausgerechnet im Kino die am übel riechendsten und...
 type: quote
 ---
 

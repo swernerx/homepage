@@ -1,6 +1,5 @@
 slug: at-this-point-the-medias-continued-enrapturement
 date: 2013-06-24 13:14:11
-title: At this point, the media’s continued enrapturement with Android...
 type: quote
 ---
 

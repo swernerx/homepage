@@ -1,6 +1,5 @@
 slug: while-hp-acer-asus-and-others-are-worrying
 date: 2011-08-17 21:18:29
-title: While HP, Acer, Asus, and others are worrying about how to make a...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: front-end-operations-are-no-ones-explicit
 date: 2013-06-20 10:34:27
-title: Front-end operations are no one’s explicit priority on most of the...
 type: quote
 ---
 

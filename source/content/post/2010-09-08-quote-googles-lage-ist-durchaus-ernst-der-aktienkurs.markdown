@@ -1,6 +1,5 @@
 slug: googles-lage-ist-durchaus-ernst-der-aktienkurs
 date: 2010-09-08 14:11:03
-title: Googles Lage ist durchaus ernst: Der Aktienkurs sinkt seit Monaten...
 type: quote
 ---
 

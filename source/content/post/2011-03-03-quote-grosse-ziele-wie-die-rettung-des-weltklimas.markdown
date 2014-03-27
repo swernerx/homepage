@@ -1,6 +1,5 @@
 slug: grosse-ziele-wie-die-rettung-des-weltklimas
 date: 2011-03-03 20:57:18
-title: Große Ziele, wie die Rettung des Weltklimas, dürfen nicht zerredet...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: twitters-graph-by-contrast-is-fully
 date: 2010-10-17 12:51:33
-title: Twitter’s graph by contrast is fully interest-based.
 type: quote
 ---
 

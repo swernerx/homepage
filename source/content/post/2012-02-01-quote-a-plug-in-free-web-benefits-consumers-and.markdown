@@ -1,6 +1,5 @@
 slug: a-plug-in-free-web-benefits-consumers-and
 date: 2012-02-01 10:35:45
-title: A plug-in free Web benefits consumers and developers and we all take...
 type: quote
 ---
 

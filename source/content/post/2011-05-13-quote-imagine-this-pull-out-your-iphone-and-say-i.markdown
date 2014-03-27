@@ -1,6 +1,5 @@
 slug: imagine-this-pull-out-your-iphone-and-say-i
 date: 2011-05-13 18:15:10
-title: Imagine this: pull out your iPhone and say: “I need a flight to...
 type: quote
 ---
 

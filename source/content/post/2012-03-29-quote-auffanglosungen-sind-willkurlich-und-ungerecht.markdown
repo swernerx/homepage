@@ -1,6 +1,5 @@
 slug: auffanglosungen-sind-willkurlich-und-ungerecht
 date: 2012-03-29 18:16:46
-title: Auffanglösungen sind willkürlich und ungerecht.
 type: quote
 ---
 

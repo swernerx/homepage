@@ -1,6 +1,5 @@
 slug: usage-is-like-oxygen-for-ideas-you-can-never
 date: 2010-11-16 11:59:27
-title: Usage is like oxygen for ideas. You can never fully anticipate how an...
 type: quote
 ---
 

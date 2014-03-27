@@ -1,6 +1,5 @@
 slug: ihre-ganz-besondere-ausstrahlung-macht-sogar-ihre
 date: 2010-06-13 12:38:53
-title: Ihre ganz besondere Ausstrahlung macht sogar ihre ziemlich furchtbare...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: looks-like-a-nice-small-editor-for-programmers-on
 date: 2010-05-15 19:26:02
-title: Looks like a nice small editor for programmers on the Mac: 
 type: photo
 ---
 

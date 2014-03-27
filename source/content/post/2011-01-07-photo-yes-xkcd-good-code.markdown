@@ -1,6 +1,5 @@
 slug: yes-xkcd-good-code
 date: 2011-01-07 22:13:34
-title: Yes! [xkcd: Good Code](http://xkcd.com/844/)
 type: photo
 ---
 

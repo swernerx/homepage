@@ -1,6 +1,5 @@
 slug: almost-everything-is-worse-with-ads-than-without
 date: 2011-08-24 09:59:42
-title: Almost everything is worse with ads than without. The trick is to do...
 type: quote
 ---
 

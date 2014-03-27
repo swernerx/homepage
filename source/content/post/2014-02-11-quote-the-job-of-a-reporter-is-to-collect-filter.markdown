@@ -1,6 +1,5 @@
 slug: the-job-of-a-reporter-is-to-collect-filter
 date: 2014-02-11 18:15:30
-title: The job of a reporter is to collect, filter, organize and then...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: complete-tarife-inklusive-einem-neuen-smartphone
 date: 2010-10-11 13:45:58
-title: Complete Tarife inklusive einem neuen Smartphone kosten jeweils 10...
 type: quote
 ---
 

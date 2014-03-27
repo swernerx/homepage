@@ -1,6 +1,5 @@
 slug: uberall-da-wo-der-politische-islam-die-macht-an
 date: 2010-10-29 11:55:18
-title: Überall da, wo der politische Islam die Macht an sich reißen konnte,...
 type: quote
 ---
 

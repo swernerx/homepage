@@ -1,6 +1,5 @@
 slug: when-people-have-technology-they-like-they-find
 date: 2011-05-15 16:40:38
-title: When people have technology they like, they find ways to use it...
 type: quote
 ---
 

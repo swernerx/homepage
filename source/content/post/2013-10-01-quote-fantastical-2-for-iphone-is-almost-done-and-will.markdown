@@ -1,6 +1,5 @@
 slug: fantastical-2-for-iphone-is-almost-done-and-will
 date: 2013-10-01 15:58:52
-title: Fantastical 2 for iPhone is almost done and will be available in...
 type: quote
 ---
 

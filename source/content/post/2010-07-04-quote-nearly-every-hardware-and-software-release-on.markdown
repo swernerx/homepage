@@ -1,6 +1,5 @@
 slug: nearly-every-hardware-and-software-release-on
 date: 2010-07-04 19:41:37
-title: Nearly every hardware and software release [on Android devices] has...
 type: quote
 ---
 

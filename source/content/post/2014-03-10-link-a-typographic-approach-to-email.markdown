@@ -1,6 +1,5 @@
 slug: a-typographic-approach-to-email
 date: 2014-03-10 13:15:19
-title: A Typographic Approach to Email
 type: link
 ---
 

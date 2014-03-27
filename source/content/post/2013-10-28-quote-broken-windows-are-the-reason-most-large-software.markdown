@@ -1,6 +1,5 @@
 slug: broken-windows-are-the-reason-most-large-software
 date: 2013-10-28 11:21:12
-title: Broken windows are the reason most large software projects suck to...
 type: quote
 ---
 

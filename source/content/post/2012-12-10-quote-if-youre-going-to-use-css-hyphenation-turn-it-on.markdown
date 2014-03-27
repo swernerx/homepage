@@ -1,6 +1,5 @@
 slug: if-youre-going-to-use-css-hyphenation-turn-it-on
 date: 2012-12-10 18:21:21
-title: If you’re going to use CSS hyphenation, turn it on for mobile...
 type: quote
 ---
 

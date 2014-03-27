@@ -1,6 +1,5 @@
 slug: getting-design-details-right-can-create-positive
 date: 2011-12-02 20:21:03
-title: Getting design details right can create positive emotional states...
 type: quote
 ---
 

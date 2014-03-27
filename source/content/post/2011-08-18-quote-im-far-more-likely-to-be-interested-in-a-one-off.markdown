@@ -1,6 +1,5 @@
 slug: im-far-more-likely-to-be-interested-in-a-one-off
 date: 2011-08-18 17:29:51
-title: I’m far more likely to be interested in a one-off shared thing,...
 type: quote
 ---
 

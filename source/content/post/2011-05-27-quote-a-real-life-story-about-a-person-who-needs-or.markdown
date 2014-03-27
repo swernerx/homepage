@@ -1,6 +1,5 @@
 slug: a-real-life-story-about-a-person-who-needs-or
 date: 2011-05-27 09:15:50
-title: A real life story about a person who needs or wants your product...
 type: quote
 ---
 

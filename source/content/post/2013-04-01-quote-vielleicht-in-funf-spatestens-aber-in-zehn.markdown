@@ -1,6 +1,5 @@
 slug: vielleicht-in-funf-spatestens-aber-in-zehn
 date: 2013-04-01 11:28:52
-title: Vielleicht in fünf, spätestens aber in zehn Jahren, wird es in vielen...
 type: quote
 ---
 

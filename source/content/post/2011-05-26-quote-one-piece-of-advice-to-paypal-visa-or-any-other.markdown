@@ -1,6 +1,5 @@
 slug: one-piece-of-advice-to-paypal-visa-or-any-other
 date: 2011-05-26 22:50:51
-title: One piece of advice to PayPal, Visa, or any other payments giant who...
 type: quote
 ---
 

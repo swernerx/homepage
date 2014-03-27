@@ -1,6 +1,5 @@
 slug: i-want-to-get-down-to-two-devices-imac-and-ipad
 date: 2010-04-19 21:01:41
-title: I want to get down to two devices — iMac and iPad: I’m...
 type: quote
 ---
 

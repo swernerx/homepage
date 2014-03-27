@@ -1,6 +1,5 @@
 slug: this-is-an-open-platform-and-yet-youre-more
 date: 2010-09-10 08:39:48
-title: This is an open platform and yet you’re more restricted than on...
 type: quote
 ---
 

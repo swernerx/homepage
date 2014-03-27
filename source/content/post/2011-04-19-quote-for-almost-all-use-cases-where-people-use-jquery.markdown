@@ -1,6 +1,5 @@
 slug: for-almost-all-use-cases-where-people-use-jquery
 date: 2011-04-19 22:54:37
-title: For almost all use cases where people use jQuery modules it would be...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: if-facebook-was-an-actual-brand-of-vacuum-cleaners
 date: 2011-08-04 10:56:40
-title: If Facebook was an actual brand of vacuum cleaners they’d be better...
 type: quote
 ---
 

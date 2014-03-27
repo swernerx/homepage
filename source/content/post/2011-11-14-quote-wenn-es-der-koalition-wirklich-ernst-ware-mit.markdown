@@ -1,6 +1,5 @@
 slug: wenn-es-der-koalition-wirklich-ernst-ware-mit
 date: 2011-11-14 08:42:10
-title: Wenn es der Koalition wirklich ernst wäre mit ihrem...
 type: quote
 ---
 

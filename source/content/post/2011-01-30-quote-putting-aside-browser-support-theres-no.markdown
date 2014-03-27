@@ -1,6 +1,5 @@
 slug: putting-aside-browser-support-theres-no
 date: 2011-01-30 21:28:11
-title: Putting aside browser support, there’s no difference between :before...
 type: quote
 ---
 

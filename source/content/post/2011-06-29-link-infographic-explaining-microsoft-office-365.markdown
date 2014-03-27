@@ -1,6 +1,5 @@
 slug: infographic-explaining-microsoft-office-365
 date: 2011-06-29 14:20:55
-title: Infographic explaining Microsoft Office 365
 type: link
 ---
 

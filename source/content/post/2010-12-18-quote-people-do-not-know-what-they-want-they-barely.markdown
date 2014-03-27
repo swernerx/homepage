@@ -1,6 +1,5 @@
 slug: people-do-not-know-what-they-want-they-barely
 date: 2010-12-18 13:05:29
-title: People do not know what they want. They barely know what they need,...
 type: quote
 ---
 

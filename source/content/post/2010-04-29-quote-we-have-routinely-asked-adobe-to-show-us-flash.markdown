@@ -1,6 +1,5 @@
 slug: we-have-routinely-asked-adobe-to-show-us-flash
 date: 2010-04-29 21:43:36
-title: We have routinely asked Adobe to show us Flash performing well on a...
 type: quote
 ---
 

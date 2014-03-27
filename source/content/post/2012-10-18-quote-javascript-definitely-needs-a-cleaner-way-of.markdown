@@ -1,6 +1,5 @@
 slug: javascript-definitely-needs-a-cleaner-way-of
 date: 2012-10-18 08:43:23
-title: JavaScript definitely needs a cleaner way of defining custom types...
 type: quote
 ---
 

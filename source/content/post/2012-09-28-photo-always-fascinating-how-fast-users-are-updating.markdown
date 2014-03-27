@@ -1,6 +1,5 @@
 slug: always-fascinating-how-fast-users-are-updating
 date: 2012-09-28 18:17:03
-title: Always fascinating how fast users are updating their iOS devices:...
 type: photo
 ---
 

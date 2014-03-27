@@ -1,6 +1,5 @@
 slug: bitte-beschleunigen-sie-nicht-ihren-niedergang
 date: 2013-05-29 18:16:11
-title: Bitte beschleunigen Sie nicht Ihren Niedergang durch sinnloses...
 type: quote
 ---
 

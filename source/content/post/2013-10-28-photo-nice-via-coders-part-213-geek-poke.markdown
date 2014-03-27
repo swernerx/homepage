@@ -1,8 +1,5 @@
 slug: nice-via-coders-part-213-geek-poke
 date: 2013-10-28 10:54:38
-title: Nice!
-
- Via 
 type: photo
 ---
 

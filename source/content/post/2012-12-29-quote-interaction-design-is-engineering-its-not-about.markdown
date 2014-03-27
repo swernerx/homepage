@@ -1,6 +1,5 @@
 slug: interaction-design-is-engineering-its-not-about
 date: 2012-12-29 22:54:17
-title: Interaction design is engineering: it’s not about finding the perfect...
 type: quote
 ---
 

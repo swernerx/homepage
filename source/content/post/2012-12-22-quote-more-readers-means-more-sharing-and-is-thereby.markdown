@@ -1,6 +1,5 @@
 slug: more-readers-means-more-sharing-and-is-thereby
 date: 2012-12-22 10:38:22
-title: More readers means more sharing and is thereby sure to mount...
 type: quote
 ---
 

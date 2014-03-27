@@ -1,6 +1,5 @@
 slug: nur-weil-viele-burger-die-d-mark-mit-der-oftmals
 date: 2013-03-13 21:43:01
-title: Nur weil viele Bürger die D-Mark mit der (oftmals geschönten)...
 type: quote
 ---
 

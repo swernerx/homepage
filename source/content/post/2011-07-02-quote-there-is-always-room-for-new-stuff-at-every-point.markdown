@@ -1,6 +1,5 @@
 slug: there-is-always-room-for-new-stuff-at-every-point
 date: 2011-07-02 14:16:44
-title: There is always room for new stuff. At every point in history, even...
 type: quote
 ---
 

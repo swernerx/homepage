@@ -1,6 +1,5 @@
 slug: wenn-man-das-system-auf-das-private-einkommen
 date: 2011-02-03 18:27:26
-title: Wenn man das System auf das private Einkommen überträgt, wird...
 type: quote
 ---
 

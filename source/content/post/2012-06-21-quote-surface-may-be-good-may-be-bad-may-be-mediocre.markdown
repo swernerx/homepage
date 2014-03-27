@@ -1,6 +1,5 @@
 slug: surface-may-be-good-may-be-bad-may-be-mediocre
 date: 2012-06-21 11:00:02
-title: Surface may be good, may be bad, may be mediocre. Same goes for its...
 type: quote
 ---
 

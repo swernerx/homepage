@@ -1,6 +1,5 @@
 slug: internet-explorer-9-and-real-world-performance
 date: 2010-11-20 17:16:11
-title: Internet Explorer 9 and Real World performance - Channel 9
 type: link
 ---
 

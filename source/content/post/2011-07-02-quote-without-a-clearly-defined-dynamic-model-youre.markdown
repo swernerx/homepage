@@ -1,6 +1,5 @@
 slug: without-a-clearly-defined-dynamic-model-youre
 date: 2011-07-02 18:53:02
-title: Without a clearly defined dynamic model, you’re only guessing how you...
 type: quote
 ---
 

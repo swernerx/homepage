@@ -1,6 +1,5 @@
 slug: top-10-nachrichtenseiten-via-statistica
 date: 2012-10-22 17:02:55
-title: Top 10 Nachrichtenseiten via Statistica: 
 type: photo
 ---
 

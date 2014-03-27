@@ -1,6 +1,5 @@
 slug: you-need-to-present-yourself-as-someone-solving
 date: 2012-09-21 20:48:35
-title: You need to present yourself as someone solving business problems...
 type: quote
 ---
 

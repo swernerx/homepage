@@ -1,6 +1,5 @@
 slug: das-alter-des-medianwahlers-bewegt-sich-stetig
 date: 2010-11-15 15:00:25
-title: Das Alter des Medianwählers bewegt sich stetig nach oben. Es liegt...
 type: quote
 ---
 

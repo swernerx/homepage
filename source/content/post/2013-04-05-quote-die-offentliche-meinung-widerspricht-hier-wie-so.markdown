@@ -1,6 +1,5 @@
 slug: die-offentliche-meinung-widerspricht-hier-wie-so
 date: 2013-04-05 22:44:25
-title: Die öffentliche Meinung widerspricht hier wie so oft den...
 type: quote
 ---
 

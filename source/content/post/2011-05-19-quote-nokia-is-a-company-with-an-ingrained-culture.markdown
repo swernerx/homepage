@@ -1,6 +1,5 @@
 slug: nokia-is-a-company-with-an-ingrained-culture
 date: 2011-05-19 09:13:58
-title: Nokia is a company with an ingrained culture that’s slow to change,...
 type: quote
 ---
 

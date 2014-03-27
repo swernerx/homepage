@@ -1,6 +1,5 @@
 slug: the-operating-system-still-doesnt-have-the
 date: 2011-06-11 11:57:55
-title: The operating system still doesn’t have the robustness it needs to...
 type: quote
 ---
 

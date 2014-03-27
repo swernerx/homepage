@@ -1,6 +1,5 @@
 slug: it-doesnt-make-sense-to-remove-support-for-ie6
 date: 2011-11-09 10:07:06
-title: It doesn’t make sense to remove support for IE6 until we can whack...
 type: quote
 ---
 

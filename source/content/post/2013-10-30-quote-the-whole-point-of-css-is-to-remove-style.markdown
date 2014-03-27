@@ -1,6 +1,5 @@
 slug: the-whole-point-of-css-is-to-remove-style
 date: 2013-10-30 10:54:24
-title: The whole point of CSS is to remove style definitions from the HTML...
 type: quote
 ---
 

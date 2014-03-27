@@ -1,6 +1,5 @@
 slug: it-is-lame-that-everyone-in-the-smartphone
 date: 2011-08-04 10:14:41
-title: It is lame that everyone in the smartphone industry is suing each...
 type: quote
 ---
 

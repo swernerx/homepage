@@ -1,6 +1,5 @@
 slug: googles-push-to-wring-mobile-ad-revenue-from
 date: 2012-01-25 08:56:05
-title: Google’s push to wring mobile-ad revenue from Android could be...
 type: quote
 ---
 

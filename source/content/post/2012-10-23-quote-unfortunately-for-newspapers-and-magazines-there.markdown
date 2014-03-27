@@ -1,6 +1,5 @@
 slug: unfortunately-for-newspapers-and-magazines-there
 date: 2012-10-23 10:57:24
-title: Unfortunately for newspapers and magazines, there is no way of...
 type: quote
 ---
 

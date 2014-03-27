@@ -1,6 +1,5 @@
 slug: whats-successful-on-glamour-com-is-not-always-the
 date: 2011-08-09 18:11:13
-title: What’s successful on glamour.com is not always the same content...
 type: quote
 ---
 

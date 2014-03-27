@@ -1,6 +1,5 @@
 slug: we-wanted-to-design-a-printing-experience-that
 date: 2010-04-16 15:50:11
-title: We wanted to design a printing experience that would enable web apps...
 type: quote
 ---
 

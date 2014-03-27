@@ -1,6 +1,5 @@
 slug: dont-waste-time-explaining-the-technology-or
 date: 2011-05-27 09:17:27
-title: Don’t waste time explaining the technology, or flowcharting the...
 type: quote
 ---
 

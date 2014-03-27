@@ -1,6 +1,5 @@
 slug: a-vpa-is-personal-it-uses-information-about-an
 date: 2011-10-03 21:25:48
-title: A VPA is personal; it uses information about an individual’s...
 type: quote
 ---
 

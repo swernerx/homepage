@@ -1,6 +1,5 @@
 slug: bis-ende-des-jahres-wird-apple-etwa-zwolf
 date: 2010-12-18 13:05:26
-title: Bis Ende des Jahres wird Apple etwa zwölf Millionen iPads verkauft...
 type: quote
 ---
 

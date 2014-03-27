@@ -1,6 +1,5 @@
 slug: if-you-want-a-strategy-for-the-future-a-paywall
 date: 2013-05-02 17:39:52
-title: If you want a strategy for the future, a paywall is at best buying...
 type: quote
 ---
 

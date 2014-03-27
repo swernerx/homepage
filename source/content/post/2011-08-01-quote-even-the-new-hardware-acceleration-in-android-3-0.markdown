@@ -1,6 +1,5 @@
 slug: even-the-new-hardware-acceleration-in-android-3-0
 date: 2011-08-01 18:52:01
-title: Even the new hardware acceleration in Android 3.0 is limited by the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: finding-your-passion-connecting-with-your-tribe
 date: 2010-09-27 16:54:39
-title: Finding your passion, connecting with your tribe and achieving your...
 type: quote
 ---
 

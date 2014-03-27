@@ -1,6 +1,5 @@
 slug: startups-are-a-marathon-not-a-sprint-its-much
 date: 2011-08-01 09:22:20
-title: Startups are a marathon, not a sprint. It’s much better spending a...
 type: quote
 ---
 

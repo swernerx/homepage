@@ -1,6 +1,5 @@
 slug: i-trust-flipboard-kind-of-to-link-me-to-some-big
 date: 2013-03-15 10:45:09
-title: I trust Flipboard (kind of) to link me to some big political or tech...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: parmesan-enthalt-enorme-mengen-einer-substanz-die
 date: 2013-04-05 22:40:53
-title: Parmesan enthält enorme Mengen einer Substanz, die einen ähnlich...
 type: quote
 ---
 

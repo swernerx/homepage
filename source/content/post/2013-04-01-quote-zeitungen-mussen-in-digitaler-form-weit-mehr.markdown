@@ -1,6 +1,5 @@
 slug: zeitungen-mussen-in-digitaler-form-weit-mehr
 date: 2013-04-01 11:29:55
-title: Zeitungen müssen in digitaler Form weit mehr bieten als heute: Das...
 type: quote
 ---
 

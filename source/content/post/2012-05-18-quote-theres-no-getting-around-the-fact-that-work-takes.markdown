@@ -1,6 +1,5 @@
 slug: theres-no-getting-around-the-fact-that-work-takes
 date: 2012-05-18 08:35:14
-title: There’s no getting around the fact that work takes time and more work...
 type: quote
 ---
 

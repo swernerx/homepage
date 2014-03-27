@@ -1,6 +1,5 @@
 slug: angularjs-cannot-know-whether-it-needs-to-execute
 date: 2013-06-20 10:21:32
-title: AngularJS cannot know whether it needs to execute the function again...
 type: quote
 ---
 

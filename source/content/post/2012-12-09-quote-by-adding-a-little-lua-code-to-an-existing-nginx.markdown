@@ -1,6 +1,5 @@
 slug: by-adding-a-little-lua-code-to-an-existing-nginx
 date: 2012-12-09 16:19:14
-title: By adding a little Lua code to an existing Nginx configuration file,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: thriftdb-plans-to-open-source-its-core-technology
 date: 2011-05-25 19:25:32
-title: ThriftDB plans to open-source its core technology to encourage...
 type: quote
 ---
 

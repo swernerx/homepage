@@ -1,6 +1,5 @@
 slug: often-the-challenge-isnt-coming-up-with-great
 date: 2013-10-30 18:33:10
-title: Often the challenge isn’t coming up with great ideas — it’s finishing...
 type: quote
 ---
 

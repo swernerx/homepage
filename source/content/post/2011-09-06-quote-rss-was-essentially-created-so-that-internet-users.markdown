@@ -1,6 +1,5 @@
 slug: rss-was-essentially-created-so-that-internet-users
 date: 2011-09-06 20:08:53
-title: RSS was essentially created so that Internet users could stay...
 type: quote
 ---
 

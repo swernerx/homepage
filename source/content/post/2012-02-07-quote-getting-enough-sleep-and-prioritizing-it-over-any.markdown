@@ -1,6 +1,5 @@
 slug: getting-enough-sleep-and-prioritizing-it-over-any
 date: 2012-02-07 18:14:26
-title: Getting enough sleep and prioritizing it over any other task, is one...
 type: quote
 ---
 

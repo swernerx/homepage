@@ -1,6 +1,5 @@
 slug: intellijs-integration-with-googles-android-sdk
 date: 2010-12-12 16:29:36
-title: IntelliJ’s integration with Google’s android SDK is far...
 type: quote
 ---
 

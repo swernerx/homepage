@@ -1,6 +1,5 @@
 slug: to-build-a-holodeck-an-exclusive-look-at
 date: 2012-01-01 01:20:37
-title: To build a holodeck: an exclusive look at Microsoft’s Edison...
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: wikipedia-currently-has-3-587-738-articles-in
 date: 2011-03-18 14:07:34
-title: Wikipedia currently has 3,587,738 articles in total in the English...
 type: quote
 ---
 

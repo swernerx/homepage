@@ -1,6 +1,5 @@
 slug: the-ideal-user-interface-is-one-that-looks-like-it
 date: 2011-06-29 11:42:23
-title: The ideal user interface is one that looks like it was “designed” by...
 type: quote
 ---
 

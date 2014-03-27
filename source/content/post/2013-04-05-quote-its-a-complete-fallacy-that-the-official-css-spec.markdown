@@ -1,6 +1,5 @@
 slug: its-a-complete-fallacy-that-the-official-css-spec
 date: 2013-04-05 13:14:48
-title: It’s a complete fallacy that the official CSS spec allows so-called...
 type: quote
 ---
 

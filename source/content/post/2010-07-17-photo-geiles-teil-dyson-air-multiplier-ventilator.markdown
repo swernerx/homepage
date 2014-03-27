@@ -1,6 +1,5 @@
 slug: geiles-teil-dyson-air-multiplier-ventilator
 date: 2010-07-17 14:18:54
-title: Geiles Teil: [Dyson Air...](http://dyson.de/landing/fans.asp)
 type: photo
 ---
 

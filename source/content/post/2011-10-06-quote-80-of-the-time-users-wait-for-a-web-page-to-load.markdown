@@ -1,6 +1,5 @@
 slug: 80-of-the-time-users-wait-for-a-web-page-to-load
 date: 2011-10-06 23:29:45
-title: 80% of the time users wait for a web page to load is the...
 type: quote
 ---
 

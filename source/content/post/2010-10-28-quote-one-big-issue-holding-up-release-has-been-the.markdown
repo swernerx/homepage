@@ -1,6 +1,5 @@
 slug: one-big-issue-holding-up-release-has-been-the
 date: 2010-10-28 23:33:10
-title: One big issue holding up release has been the integration of...
 type: quote
 ---
 

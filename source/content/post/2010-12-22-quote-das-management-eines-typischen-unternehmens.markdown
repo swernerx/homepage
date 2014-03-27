@@ -1,6 +1,5 @@
 slug: das-management-eines-typischen-unternehmens
 date: 2010-12-22 00:00:51
-title: Das Management eines typischen Unternehmens glaubt, dass ein guter...
 type: quote
 ---
 

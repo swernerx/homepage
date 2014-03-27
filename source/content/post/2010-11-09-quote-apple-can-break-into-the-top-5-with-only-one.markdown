@@ -1,6 +1,5 @@
 slug: apple-can-break-into-the-top-5-with-only-one
 date: 2010-11-09 12:47:39
-title: Apple can break into the Top 5 with only one model, where their other...
 type: quote
 ---
 

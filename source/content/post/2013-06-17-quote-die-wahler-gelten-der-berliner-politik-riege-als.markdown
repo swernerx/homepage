@@ -1,6 +1,5 @@
 slug: die-wahler-gelten-der-berliner-politik-riege-als
 date: 2013-06-17 18:41:55
-title: Die Wähler gelten der Berliner Politik-Riege als eine Art...
 type: quote
 ---
 

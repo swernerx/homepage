@@ -1,6 +1,5 @@
 slug: wir-haben-jetzt-das-beste-mobilbetriebssystem-das
 date: 2010-10-12 11:29:46
-title: Wir haben jetzt das beste Mobilbetriebssystem, das es jemals gab.
 type: quote
 ---
 

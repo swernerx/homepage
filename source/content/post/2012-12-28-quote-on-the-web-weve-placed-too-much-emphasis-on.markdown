@@ -1,6 +1,5 @@
 slug: on-the-web-weve-placed-too-much-emphasis-on
 date: 2012-12-28 22:54:57
-title: On the web, we’ve placed too much emphasis on navigation, on giving...
 type: quote
 ---
 

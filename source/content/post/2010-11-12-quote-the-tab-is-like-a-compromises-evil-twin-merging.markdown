@@ -1,6 +1,5 @@
 slug: the-tab-is-like-a-compromises-evil-twin-merging
 date: 2010-11-12 12:34:52
-title: The Tab is like a compromise’s evil twin, merging the worst of a...
 type: quote
 ---
 

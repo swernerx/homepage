@@ -1,6 +1,5 @@
 slug: the-reason-i-think-long-and-hard-before-signing-up
 date: 2011-10-27 15:14:01
-title: The reason I think long and hard before signing up for new web...
 type: quote
 ---
 

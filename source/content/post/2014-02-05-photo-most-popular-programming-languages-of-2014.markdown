@@ -1,6 +1,5 @@
 slug: most-popular-programming-languages-of-2014
 date: 2014-02-05 09:42:11
-title: 
 type: photo
 ---
 

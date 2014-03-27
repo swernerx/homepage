@@ -1,6 +1,5 @@
 slug: id-be-very-surprised-to-see-the-new-mac-pros
 date: 2013-08-12 08:35:58
-title: I’d be very surprised to see the new Mac Pro’s entry price below...
 type: quote
 ---
 

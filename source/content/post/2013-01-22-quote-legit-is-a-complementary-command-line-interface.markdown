@@ -1,6 +1,5 @@
 slug: legit-is-a-complementary-command-line-interface
 date: 2013-01-22 11:32:39
-title: Legit is a complementary command-line interface for Git, optimized...
 type: quote
 ---
 

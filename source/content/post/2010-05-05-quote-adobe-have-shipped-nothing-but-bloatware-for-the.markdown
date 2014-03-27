@@ -1,6 +1,5 @@
 slug: adobe-have-shipped-nothing-but-bloatware-for-the
 date: 2010-05-05 21:21:58
-title: Adobe have shipped nothing but bloatware for the past five years,...
 type: quote
 ---
 

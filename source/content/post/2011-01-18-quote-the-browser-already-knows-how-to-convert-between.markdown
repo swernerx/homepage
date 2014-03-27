@@ -1,6 +1,5 @@
 slug: the-browser-already-knows-how-to-convert-between
 date: 2011-01-18 08:02:19
-title: The browser already knows how to convert between the values; why...
 type: quote
 ---
 

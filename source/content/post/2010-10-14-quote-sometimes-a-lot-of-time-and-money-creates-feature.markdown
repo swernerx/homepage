@@ -1,6 +1,5 @@
 slug: sometimes-a-lot-of-time-and-money-creates-feature
 date: 2010-10-14 20:43:55
-title: Sometimes a lot of time and money creates feature creep debacles like...
 type: quote
 ---
 

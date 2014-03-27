@@ -1,6 +1,5 @@
 slug: if-you-design-for-the-web-and-then-port-to-mobile
 date: 2012-12-09 17:57:11
-title: If you design for the web and then port to mobile, you will find that...
 type: quote
 ---
 

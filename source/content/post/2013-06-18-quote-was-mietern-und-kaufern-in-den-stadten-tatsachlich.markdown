@@ -1,6 +1,5 @@
 slug: was-mietern-und-kaufern-in-den-stadten-tatsachlich
 date: 2013-06-18 09:10:08
-title: Was Mietern und Käufern in den Städten tatsächlich nützen würde,...
 type: quote
 ---
 

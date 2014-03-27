@@ -1,6 +1,5 @@
 slug: die-wahl-der-jeweils-richtigen-pfeffermuhle-ist
 date: 2013-04-17 13:45:29
-title: Die Wahl der jeweils richtigen Pfeffermühle ist genauso ein Ausweis...
 type: quote
 ---
 

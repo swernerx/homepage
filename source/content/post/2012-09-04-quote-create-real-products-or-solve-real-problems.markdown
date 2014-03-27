@@ -1,6 +1,5 @@
 slug: create-real-products-or-solve-real-problems
 date: 2012-09-04 10:16:09
-title: Create real products or solve real problems instead! It’s not harder,...
 type: quote
 ---
 

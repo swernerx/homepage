@@ -1,6 +1,5 @@
 slug: talent-10-000-hours-of-work-success-or-to-put
 date: 2013-06-03 18:47:06
-title: Talent + 10,000 hours of work = Success. Or to put it another way:...
 type: quote
 ---
 

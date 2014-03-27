@@ -1,6 +1,5 @@
 slug: the-browser-is-a-pretty-perfect-content-delivery
 date: 2012-07-12 15:23:13
-title: The browser is a pretty perfect content delivery platform. Apps have...
 type: quote
 ---
 

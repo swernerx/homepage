@@ -1,8 +1,5 @@
 slug: fine-statements-nokia-cto-rich-green-talks-about
 date: 2011-02-16 17:29:41
-title: Fine statements.
-
- 
 type: video
 ---
 

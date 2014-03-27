@@ -1,6 +1,5 @@
 slug: apple-getting-ready-to-ditch-the-traditional
 date: 2012-02-28 23:09:34
-title: 
 type: photo
 ---
 

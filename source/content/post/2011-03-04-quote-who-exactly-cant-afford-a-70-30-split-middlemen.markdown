@@ -1,6 +1,5 @@
 slug: who-exactly-cant-afford-a-70-30-split-middlemen
 date: 2011-03-04 23:52:32
-title: Who exactly can’t afford a 70/30 split? Middlemen. It’s not that...
 type: quote
 ---
 

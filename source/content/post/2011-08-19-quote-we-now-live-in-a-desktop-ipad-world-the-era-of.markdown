@@ -1,6 +1,5 @@
 slug: we-now-live-in-a-desktop-ipad-world-the-era-of
 date: 2011-08-19 21:01:47
-title: We now live in a Desktop/iPad world. The era of the laptop is over.
 type: quote
 ---
 

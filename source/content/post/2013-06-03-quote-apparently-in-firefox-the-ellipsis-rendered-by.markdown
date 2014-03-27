@@ -1,6 +1,5 @@
 slug: apparently-in-firefox-the-ellipsis-rendered-by
 date: 2013-06-03 10:58:51
-title: Apparently in Firefox the ellipsis rendered by text-overflow gets a...
 type: quote
 ---
 

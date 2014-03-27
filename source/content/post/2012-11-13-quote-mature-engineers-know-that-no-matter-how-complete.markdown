@@ -1,6 +1,5 @@
 slug: mature-engineers-know-that-no-matter-how-complete
 date: 2012-11-13 18:24:40
-title: Mature engineers know that no matter how complete, elegant, or...
 type: quote
 ---
 

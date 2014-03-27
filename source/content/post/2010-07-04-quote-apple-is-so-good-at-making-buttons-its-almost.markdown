@@ -1,6 +1,5 @@
 slug: apple-is-so-good-at-making-buttons-its-almost
 date: 2010-07-04 18:49:57
-title: Apple is so good at making buttons, it’s almost enough to make one...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: zwar-konnte-die-new-york-times-inzwischen-mehr-als
 date: 2012-10-22 17:13:10
-title: Zwar konnte die New York Times inzwischen mehr als 530.000 digitale...
 type: quote
 ---
 

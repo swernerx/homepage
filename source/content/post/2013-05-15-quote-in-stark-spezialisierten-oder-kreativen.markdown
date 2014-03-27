@@ -1,6 +1,5 @@
 slug: in-stark-spezialisierten-oder-kreativen
 date: 2013-05-15 10:52:54
-title: In stark spezialisierten oder kreativen Arbeitsbereichen beträgt der...
 type: quote
 ---
 

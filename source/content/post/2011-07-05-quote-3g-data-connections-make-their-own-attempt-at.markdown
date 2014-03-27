@@ -1,6 +1,5 @@
 slug: 3g-data-connections-make-their-own-attempt-at
 date: 2011-07-05 08:50:17
-title: 3G data connections make their own attempt at implementing reliable...
 type: quote
 ---
 

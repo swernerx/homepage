@@ -1,6 +1,5 @@
 slug: keine-einwande-zu-dieser-statistik-munchen-war
 date: 2011-12-11 20:37:00
-title: Keine Einwände zu dieser Statistik. München war relativ logisch...
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: while-we-lived-in-a-modern-gadget-obsessed-world
 date: 2011-04-27 18:52:42
-title: While we lived in a modern, gadget-obsessed world, we still don’t...
 type: quote
 ---
 

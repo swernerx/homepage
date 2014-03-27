@@ -1,6 +1,5 @@
 slug: structured-content-is-the-right-way-to-go-it
 date: 2013-10-22 13:48:53
-title: Structured content is the right way to go. It makes our content...
 type: quote
 ---
 

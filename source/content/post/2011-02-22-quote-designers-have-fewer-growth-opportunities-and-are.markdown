@@ -1,6 +1,5 @@
 slug: designers-have-fewer-growth-opportunities-and-are
 date: 2011-02-22 13:07:09
-title: Designers have fewer growth opportunities and are less valued than...
 type: quote
 ---
 

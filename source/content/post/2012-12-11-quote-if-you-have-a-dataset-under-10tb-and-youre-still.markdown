@@ -1,6 +1,5 @@
 slug: if-you-have-a-dataset-under-10tb-and-youre-still
 date: 2012-12-11 17:52:57
-title: If you have a dataset under 10TB, and you’re still using rotational...
 type: quote
 ---
 

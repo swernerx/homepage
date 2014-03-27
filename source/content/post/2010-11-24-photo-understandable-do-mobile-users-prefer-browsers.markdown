@@ -1,6 +1,5 @@
 slug: understandable-do-mobile-users-prefer-browsers
 date: 2010-11-24 11:05:14
-title: Understandable: 
 type: photo
 ---
 

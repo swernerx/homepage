@@ -1,6 +1,5 @@
 slug: in-the-past-12-months-microsofts-stock-has
 date: 2011-05-25 19:25:23
-title: In the past 12 months, Microsoft’s stock has fallen by 11% while the...
 type: quote
 ---
 

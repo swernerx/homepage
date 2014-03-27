@@ -1,6 +1,5 @@
 slug: its-healthy-to-look-at-things-with-a-critical
 date: 2012-01-14 20:34:23
-title: It’s healthy to look at things with a critical eye, to refuse to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: raphael-is-an-amazingly-capable-and-easy-to-use
 date: 2010-12-03 21:48:31
-title: Raphael is an amazingly capable and easy-to-use library which saves...
 type: quote
 ---
 

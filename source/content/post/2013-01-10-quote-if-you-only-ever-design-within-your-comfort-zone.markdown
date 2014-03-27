@@ -1,6 +1,5 @@
 slug: if-you-only-ever-design-within-your-comfort-zone
 date: 2013-01-10 16:42:19
-title: If you only ever design within your comfort zone, you won’t come...
 type: quote
 ---
 

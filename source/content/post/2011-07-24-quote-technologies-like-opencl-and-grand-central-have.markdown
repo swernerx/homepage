@@ -1,6 +1,5 @@
 slug: technologies-like-opencl-and-grand-central-have
 date: 2011-07-24 00:21:57
-title: Technologies like OpenCL and Grand Central have seen big improvements...
 type: quote
 ---
 

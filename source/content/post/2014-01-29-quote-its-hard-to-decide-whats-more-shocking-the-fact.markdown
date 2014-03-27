@@ -1,6 +1,5 @@
 slug: its-hard-to-decide-whats-more-shocking-the-fact
 date: 2014-01-29 17:49:41
-title: It’s hard to decide what’s more shocking, the fact that PayPal gave...
 type: quote
 ---
 

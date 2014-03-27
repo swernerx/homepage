@@ -1,6 +1,5 @@
 slug: theoretisch-ware-es-fur-alle-handel-banken-und
 date: 2013-10-01 09:04:41
-title: Theoretisch wäre es für alle – Handel, Banken und Privatleute – am...
 type: quote
 ---
 

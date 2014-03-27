@@ -1,6 +1,5 @@
 slug: will-people-still-read-printed-newspapers-of
 date: 2012-12-30 15:33:36
-title: Will people still read printed newspapers? Of course they will, in...
 type: quote
 ---
 

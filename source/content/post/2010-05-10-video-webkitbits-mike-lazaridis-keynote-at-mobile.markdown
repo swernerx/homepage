@@ -1,6 +1,5 @@
 slug: webkitbits-mike-lazaridis-keynote-at-mobile
 date: 2010-05-10 23:33:05
-title: 
 type: video
 ---
 

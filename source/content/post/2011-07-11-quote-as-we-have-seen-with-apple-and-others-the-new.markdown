@@ -1,6 +1,5 @@
 slug: as-we-have-seen-with-apple-and-others-the-new
 date: 2011-07-11 02:50:07
-title: As we have seen with Apple and others, the new measuring stick of...
 type: quote
 ---
 

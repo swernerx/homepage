@@ -1,6 +1,5 @@
 slug: while-some-may-find-apples-trick-old-hat-now-no
 date: 2012-11-17 17:52:44
-title: While some may find Apple’s trick old hat now, no one else has...
 type: quote
 ---
 

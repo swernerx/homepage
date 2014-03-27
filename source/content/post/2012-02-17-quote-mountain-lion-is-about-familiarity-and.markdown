@@ -1,6 +1,5 @@
 slug: mountain-lion-is-about-familiarity-and
 date: 2012-02-17 17:43:21
-title: Mountain Lion is about familiarity and integration.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: ich-habe-mich-selbst-in-die-luxuriose-lage
 date: 2013-08-13 10:06:26
-title: Ich habe mich selbst in die luxuriöse Lage versetzt, dass ich einen...
 type: quote
 ---
 

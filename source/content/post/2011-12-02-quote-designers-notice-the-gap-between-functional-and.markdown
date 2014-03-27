@@ -1,6 +1,5 @@
 slug: designers-notice-the-gap-between-functional-and
 date: 2011-12-02 09:01:46
-title: Designers notice the gap between functional and delightful, and...
 type: quote
 ---
 

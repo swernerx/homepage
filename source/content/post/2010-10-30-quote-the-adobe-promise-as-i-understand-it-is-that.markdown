@@ -1,6 +1,5 @@
 slug: the-adobe-promise-as-i-understand-it-is-that
 date: 2010-10-30 12:57:24
-title: The Adobe promise, as I understand it, is that publications can...
 type: quote
 ---
 

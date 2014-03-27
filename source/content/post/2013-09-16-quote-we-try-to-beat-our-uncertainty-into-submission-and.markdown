@@ -1,6 +1,5 @@
 slug: we-try-to-beat-our-uncertainty-into-submission-and
 date: 2013-09-16 17:59:41
-title: We try to beat our uncertainty into submission and bury it under the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: we-spend-too-much-time-on-activities-that-we-are
 date: 2012-06-21 08:23:08
-title: We spend too much time on activities that we are just not suited to...
 type: quote
 ---
 

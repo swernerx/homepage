@@ -1,6 +1,5 @@
 slug: focus-groups-are-damaging-to-real-understanding
 date: 2011-07-11 02:50:02
-title: Focus groups are damaging to real understanding because you imagine...
 type: quote
 ---
 

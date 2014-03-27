@@ -1,6 +1,5 @@
 slug: it-looks-like-answering-calls-may-not-only-not-be
 date: 2011-09-28 22:43:38
-title: It looks like answering calls may not only not be a drag on the...
 type: quote
 ---
 

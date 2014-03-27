@@ -1,6 +1,5 @@
 slug: mobile-browser-cache-limits-are-vital-information
 date: 2010-07-04 16:33:44
-title: Mobile browser cache limits are vital information that web developers...
 type: quote
 ---
 

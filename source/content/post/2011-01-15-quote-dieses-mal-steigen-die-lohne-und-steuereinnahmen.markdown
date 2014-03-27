@@ -1,6 +1,5 @@
 slug: dieses-mal-steigen-die-lohne-und-steuereinnahmen
 date: 2011-01-15 18:44:08
-title: Dieses Mal steigen die Löhne und Steuereinnahmen kaum. Teurer werden...
 type: quote
 ---
 

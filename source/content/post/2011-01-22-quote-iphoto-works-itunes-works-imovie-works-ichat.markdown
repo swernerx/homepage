@@ -1,6 +1,5 @@
 slug: iphoto-works-itunes-works-imovie-works-ichat
 date: 2011-01-22 01:47:35
-title: iPhoto works, iTunes works, iMovie works, iChat works, Safari works,...
 type: quote
 ---
 

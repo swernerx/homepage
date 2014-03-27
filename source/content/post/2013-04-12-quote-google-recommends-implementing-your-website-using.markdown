@@ -1,6 +1,5 @@
 slug: google-recommends-implementing-your-website-using
 date: 2013-04-12 15:33:14
-title: Google recommends implementing your website using RWD techniques...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apps-ought-to-provide-some-actual-functionality
 date: 2013-04-07 13:19:14
-title: Apps ought to provide some actual functionality, not just blobs of...
 type: quote
 ---
 

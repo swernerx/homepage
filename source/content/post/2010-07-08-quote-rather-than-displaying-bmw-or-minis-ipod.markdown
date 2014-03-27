@@ -1,6 +1,5 @@
 slug: rather-than-displaying-bmw-or-minis-ipod
 date: 2010-07-08 14:26:41
-title: Rather than displaying BMW or Mini’s iPod interface, the connected...
 type: quote
 ---
 

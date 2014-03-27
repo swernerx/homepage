@@ -1,6 +1,5 @@
 slug: der-nachholbedarf-in-der-technik-ist-grosser-als-in
 date: 2013-08-13 10:06:21
-title: Der Nachholbedarf in der Technik ist größer als in den Redaktionen...
 type: quote
 ---
 

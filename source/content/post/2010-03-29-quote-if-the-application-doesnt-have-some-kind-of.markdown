@@ -1,6 +1,5 @@
 slug: if-the-application-doesnt-have-some-kind-of
 date: 2010-03-29 13:26:00
-title: If the application doesn’t have some kind of aesthetic value,...
 type: quote
 ---
 

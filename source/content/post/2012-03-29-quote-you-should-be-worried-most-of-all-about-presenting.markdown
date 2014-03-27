@@ -1,6 +1,5 @@
 slug: you-should-be-worried-most-of-all-about-presenting
 date: 2012-03-29 18:37:14
-title: You should be worried most of all about presenting a relevant list of...
 type: quote
 ---
 

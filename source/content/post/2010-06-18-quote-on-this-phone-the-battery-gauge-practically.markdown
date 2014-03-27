@@ -1,6 +1,5 @@
 slug: on-this-phone-the-battery-gauge-practically
 date: 2010-06-18 21:49:30
-title: On this phone, the battery gauge practically shrivels as you’re...
 type: quote
 ---
 

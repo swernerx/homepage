@@ -1,6 +1,5 @@
 slug: we-see-tremendous-value-at-having-apple-rather
 date: 2010-10-19 17:02:37
-title: We see tremendous value at having Apple, rather than our users, be...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: in-the-end-the-majority-of-users-are-not
 date: 2012-07-01 10:37:24
-title: In the end, the majority of users are not tech-savvy, and keeping...
 type: quote
 ---
 

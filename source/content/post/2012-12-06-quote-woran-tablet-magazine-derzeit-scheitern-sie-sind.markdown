@@ -1,6 +1,5 @@
 slug: woran-tablet-magazine-derzeit-scheitern-sie-sind
 date: 2012-12-06 18:04:40
-title: Woran Tablet-Magazine derzeit scheitern: Sie sind digitalisierte...
 type: quote
 ---
 

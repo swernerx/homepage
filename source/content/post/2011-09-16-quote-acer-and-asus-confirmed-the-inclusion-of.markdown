@@ -1,6 +1,5 @@
 slug: acer-and-asus-confirmed-the-inclusion-of
 date: 2011-09-16 17:13:12
-title: Acer and Asus confirmed the inclusion of Thunderbolt ports in 2012.
 type: quote
 ---
 

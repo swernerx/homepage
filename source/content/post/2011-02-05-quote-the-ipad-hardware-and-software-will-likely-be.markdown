@@ -1,6 +1,5 @@
 slug: the-ipad-hardware-and-software-will-likely-be
 date: 2011-02-05 22:06:46
-title: The iPad hardware and software will likely be nicer than the...
 type: quote
 ---
 

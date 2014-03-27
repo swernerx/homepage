@@ -1,6 +1,5 @@
 slug: people-are-abandoning-pcs-for-newer-devices-and
 date: 2011-09-02 17:53:49
-title: People are abandoning PCs for newer devices. And this will keep...
 type: quote
 ---
 

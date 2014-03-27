@@ -1,6 +1,5 @@
 slug: es-ist-vollig-offen-wie-der-markt-im-wirklichem
 date: 2011-11-18 09:05:50
-title: Es ist völlig offen, wie der Markt im wirklichem Niedriglohnsegment...
 type: quote
 ---
 

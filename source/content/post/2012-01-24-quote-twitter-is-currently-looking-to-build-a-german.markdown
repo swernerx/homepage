@@ -1,6 +1,5 @@
 slug: twitter-is-currently-looking-to-build-a-german
 date: 2012-01-24 11:16:33
-title: Twitter is currently looking to build a German team.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: what-if-we-count-the-ipad-as-a-computer
 date: 2012-01-17 13:24:50
-title: 
 type: photo
 ---
 

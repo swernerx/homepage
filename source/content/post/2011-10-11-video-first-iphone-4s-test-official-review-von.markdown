@@ -1,6 +1,5 @@
 slug: first-iphone-4s-test-official-review-von
 date: 2011-10-11 21:49:38
-title: First iPhone 4S Test (Official Review) ! (von 
 type: video
 ---
 

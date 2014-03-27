@@ -1,6 +1,5 @@
 slug: if-that-cruft-is-unnecessary-why-serve-it-up-on
 date: 2010-12-12 16:15:28
-title: If that cruft is unnecessary, why serve it up on the “desktop”...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: social-games-look-to-be-more-like-marketing-to
 date: 2011-05-12 20:42:56
-title: Social games look to be more “like marketing to me” than “real...
 type: quote
 ---
 

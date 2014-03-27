@@ -1,6 +1,5 @@
 slug: the-no-less-touted-reimagination-of-windows
 date: 2012-11-13 18:24:18
-title: The no-less-touted reimagination of Windows doesn’t go much deeper...
 type: quote
 ---
 

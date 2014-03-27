@@ -1,6 +1,5 @@
 slug: its-very-difficult-for-me-to-do-anything-that-i
 date: 2011-07-11 02:50:09
-title: It’s very difficult for me to do anything that I don’t feel like...
 type: quote
 ---
 

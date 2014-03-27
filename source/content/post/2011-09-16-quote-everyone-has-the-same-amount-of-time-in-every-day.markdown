@@ -1,6 +1,5 @@
 slug: everyone-has-the-same-amount-of-time-in-every-day
 date: 2011-09-16 17:34:33
-title: Everyone has the same amount of time in every day. You simply need to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: theres-no-reason-why-every-person-with-an-ios
 date: 2012-03-15 10:20:53
-title: There’s no reason why every person with an iOS device shouldn’t get...
 type: quote
 ---
 

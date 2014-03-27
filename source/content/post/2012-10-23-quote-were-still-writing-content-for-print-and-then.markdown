@@ -1,6 +1,5 @@
 slug: were-still-writing-content-for-print-and-then
 date: 2012-10-23 09:50:58
-title: We’re still writing content for print, and then only once we’re...
 type: quote
 ---
 

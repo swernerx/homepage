@@ -1,6 +1,5 @@
 slug: apple-has-such-great-manufacturing-expertise
 date: 2011-11-10 18:26:02
-title: Apple has such great manufacturing expertise, component deals, and...
 type: quote
 ---
 

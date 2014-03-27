@@ -1,6 +1,5 @@
 slug: apple-decided-to-trade-maximum-performance-for
 date: 2010-10-22 10:47:23
-title: Apple decided to trade maximum performance for increased battery life...
 type: quote
 ---
 

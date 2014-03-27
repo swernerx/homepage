@@ -1,6 +1,5 @@
 slug: up-until-now-computers-have-been-primarily
 date: 2010-04-07 21:20:38
-title: Up until now computers have been primarily designed to create...
 type: quote
 ---
 

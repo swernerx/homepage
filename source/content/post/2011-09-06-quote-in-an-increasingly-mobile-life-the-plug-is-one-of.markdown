@@ -1,6 +1,5 @@
 slug: in-an-increasingly-mobile-life-the-plug-is-one-of
 date: 2011-09-06 08:08:36
-title: In an increasingly mobile life, the plug is one of the last true...
 type: quote
 ---
 

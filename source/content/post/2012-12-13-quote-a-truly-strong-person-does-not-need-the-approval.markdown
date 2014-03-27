@@ -1,6 +1,5 @@
 slug: a-truly-strong-person-does-not-need-the-approval
 date: 2012-12-13 17:27:26
-title: A truly strong person does not need the approval of others any more...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: if-i-was-an-apple-competitor-id-be-concerned
 date: 2011-08-13 00:49:07
-title: If I was an Apple competitor, I’d be concerned about how I’ll...
 type: quote
 ---
 

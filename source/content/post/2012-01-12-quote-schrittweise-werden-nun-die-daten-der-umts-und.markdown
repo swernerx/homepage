@@ -1,6 +1,5 @@
 slug: schrittweise-werden-nun-die-daten-der-umts-und
 date: 2012-01-12 15:17:06
-title: Schrittweise werden nun die Daten der UMTS- und LTE-Stationen an...
 type: quote
 ---
 

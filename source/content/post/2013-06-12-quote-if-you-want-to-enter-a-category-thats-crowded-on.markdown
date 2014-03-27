@@ -1,6 +1,5 @@
 slug: if-you-want-to-enter-a-category-thats-crowded-on
 date: 2013-06-12 12:41:51
-title: If you want to enter a category that’s crowded on iOS 6, and you’re...
 type: quote
 ---
 

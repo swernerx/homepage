@@ -1,6 +1,5 @@
 slug: it-will-take-some-time-for-these-companies-to-get
 date: 2010-08-26 08:43:38
-title: It will take some time for these companies to get their products to...
 type: quote
 ---
 

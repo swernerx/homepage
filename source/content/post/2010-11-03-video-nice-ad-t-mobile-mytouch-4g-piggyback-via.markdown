@@ -1,6 +1,5 @@
 slug: nice-ad-t-mobile-mytouch-4g-piggyback-via
 date: 2010-11-03 16:10:34
-title: Nice ad: 
 type: video
 ---
 

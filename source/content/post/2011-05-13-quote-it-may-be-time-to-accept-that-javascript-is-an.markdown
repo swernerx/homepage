@@ -1,6 +1,5 @@
 slug: it-may-be-time-to-accept-that-javascript-is-an
 date: 2011-05-13 22:10:28
-title: It may be time to accept that JavaScript is an essential technology...
 type: quote
 ---
 

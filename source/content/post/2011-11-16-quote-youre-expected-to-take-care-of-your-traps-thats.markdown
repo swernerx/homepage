@@ -1,6 +1,5 @@
 slug: youre-expected-to-take-care-of-your-traps-thats
 date: 2011-11-16 19:14:37
-title: You’re expected to take care of your traps. That’s not to say that...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: were-working-on-making-start-up-speed-even-faster
 date: 2010-09-22 23:27:43
-title: We’re working on making start-up speed even faster and removing the...
 type: quote
 ---
 

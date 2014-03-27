@@ -1,6 +1,5 @@
 slug: the-mockjax-plugin-is-a-development-and-testing
 date: 2010-07-23 15:51:30
-title: The mockjax plugin is a development and testing tool for intercepting...
 type: quote
 ---
 

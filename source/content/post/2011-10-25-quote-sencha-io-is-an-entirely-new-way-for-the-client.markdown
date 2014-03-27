@@ -1,6 +1,5 @@
 slug: sencha-io-is-an-entirely-new-way-for-the-client
 date: 2011-10-25 09:56:34
-title: Sencha.io is an entirely new way for the client developer to think...
 type: quote
 ---
 

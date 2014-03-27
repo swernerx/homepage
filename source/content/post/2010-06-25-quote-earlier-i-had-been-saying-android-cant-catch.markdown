@@ -1,6 +1,5 @@
 slug: earlier-i-had-been-saying-android-cant-catch
 date: 2010-06-25 23:56:19
-title: Earlier I had been saying Android can’t catch Symbian during...
 type: quote
 ---
 

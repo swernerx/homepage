@@ -1,6 +1,5 @@
 slug: h-264-is-already-hugely-popular-because-of-its
 date: 2011-01-15 20:01:15
-title: H.264 is already hugely popular because of its quality and vendor...
 type: quote
 ---
 

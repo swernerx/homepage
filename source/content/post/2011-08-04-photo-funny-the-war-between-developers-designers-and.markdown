@@ -1,6 +1,5 @@
 slug: funny-the-war-between-developers-designers-and
 date: 2011-08-04 10:52:24
-title: Funny: 
 type: photo
 ---
 

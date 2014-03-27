@@ -1,6 +1,5 @@
 slug: apple-isnt-going-to-make-a-new-form-factor-just
 date: 2011-10-09 10:31:52
-title: Apple isn’t going to make a new form factor just for the sake of...
 type: quote
 ---
 

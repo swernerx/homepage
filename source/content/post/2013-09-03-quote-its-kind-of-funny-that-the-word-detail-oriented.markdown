@@ -1,6 +1,5 @@
 slug: its-kind-of-funny-that-the-word-detail-oriented
 date: 2013-09-03 08:40:39
-title: It’s kind of funny that the word ‘detail-oriented’ is thrown around...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: investment-analysts-at-piper-jaffray-boosted-their
 date: 2012-01-26 11:16:44
-title: Investment analysts at Piper Jaffray boosted their price target on...
 type: quote
 ---
 

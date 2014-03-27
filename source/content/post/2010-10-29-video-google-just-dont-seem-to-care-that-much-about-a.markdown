@@ -1,6 +1,5 @@
 slug: google-just-dont-seem-to-care-that-much-about-a
 date: 2010-10-29 13:47:00
-title: Google just don’t seem to care that much about a working...
 type: video
 ---
 

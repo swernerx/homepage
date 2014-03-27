@@ -1,6 +1,5 @@
 slug: auch-in-spateren-lebensphasen-ist-das-familiare
 date: 2011-05-13 20:40:39
-title: Auch in späteren Lebensphasen ist das familiäre Umfeld aus Martins...
 type: quote
 ---
 

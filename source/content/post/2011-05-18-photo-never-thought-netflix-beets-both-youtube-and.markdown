@@ -1,6 +1,5 @@
 slug: never-thought-netflix-beets-both-youtube-and
 date: 2011-05-18 11:08:17
-title: Never thought Netflix beets both YouTube and BitTorrent: 
 type: photo
 ---
 

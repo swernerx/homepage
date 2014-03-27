@@ -1,6 +1,5 @@
 slug: running-a-money-losing-tablet-and-phone-business
 date: 2011-08-19 09:15:34
-title: Running a money-losing tablet and phone business into the ground,...
 type: quote
 ---
 

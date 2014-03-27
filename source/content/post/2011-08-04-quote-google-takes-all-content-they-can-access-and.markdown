@@ -1,6 +1,5 @@
 slug: google-takes-all-content-they-can-access-and
 date: 2011-08-04 15:11:07
-title: Google takes all content they can access, and scrapes what they...
 type: quote
 ---
 

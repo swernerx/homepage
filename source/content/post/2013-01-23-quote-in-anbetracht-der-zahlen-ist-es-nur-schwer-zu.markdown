@@ -1,6 +1,5 @@
 slug: in-anbetracht-der-zahlen-ist-es-nur-schwer-zu
 date: 2013-01-23 17:20:28
-title: In Anbetracht der Zahlen ist es nur schwer zu begründen, weshalb...
 type: quote
 ---
 

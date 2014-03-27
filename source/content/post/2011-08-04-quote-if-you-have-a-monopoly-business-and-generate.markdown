@@ -1,6 +1,5 @@
 slug: if-you-have-a-monopoly-business-and-generate
 date: 2011-08-04 15:19:18
-title: If you have a monopoly business and generate monopoly profits and...
 type: quote
 ---
 

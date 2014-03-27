@@ -1,6 +1,5 @@
 slug: the-power-status-light-on-the-front-of-the
 date: 2013-09-04 18:18:34
-title: The power status light on the front of the MacBook: When in sleep...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: i-dont-trust-google-to-introduce-new-apps-and
 date: 2013-03-25 13:18:07
-title: I don’t trust Google to introduce new apps and keep them around,...
 type: quote
 ---
 

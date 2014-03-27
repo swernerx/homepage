@@ -1,6 +1,5 @@
 slug: vertrage-sind-niemals-perfekt-was-ist-also
 date: 2011-07-04 08:34:57
-title: Verträge sind niemals perfekt. Was ist also besser: Ein vollständiger...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: google-is-now-arguably-more-vulnerable-than
 date: 2011-08-04 09:38:15
-title: Google is now arguably more vulnerable than they’ve ever been. And...
 type: quote
 ---
 

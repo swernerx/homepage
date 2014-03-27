@@ -1,6 +1,5 @@
 slug: it-is-not-the-idea-that-matters-it-is-having-the
 date: 2011-12-10 19:52:46
-title: It is not the idea that matters. It is having the people who can...
 type: quote
 ---
 

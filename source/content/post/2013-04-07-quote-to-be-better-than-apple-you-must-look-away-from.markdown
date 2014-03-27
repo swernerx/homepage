@@ -1,6 +1,5 @@
 slug: to-be-better-than-apple-you-must-look-away-from
 date: 2013-04-07 12:32:40
-title: To be better than Apple you must look away from Apple, and instead...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: wer-kann-der-bleibt-wohnen-wo-er-wohnt-und
 date: 2013-01-20 13:56:25
-title: Wer kann, der bleibt wohnen wo er wohnt, und hofft, dass die Miete...
 type: quote
 ---
 

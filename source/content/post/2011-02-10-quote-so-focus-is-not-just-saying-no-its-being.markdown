@@ -1,6 +1,5 @@
 slug: so-focus-is-not-just-saying-no-its-being
 date: 2011-02-10 17:02:41
-title: So focus is not just saying no. It’s being supremely confident in...
 type: quote
 ---
 

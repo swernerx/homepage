@@ -1,6 +1,5 @@
 slug: myths-of-the-workplace-job-security-and-company
 date: 2011-01-16 13:26:29
-title: Myths of the workplace: Job security and company loyalty | Adventures...
 type: link
 ---
 

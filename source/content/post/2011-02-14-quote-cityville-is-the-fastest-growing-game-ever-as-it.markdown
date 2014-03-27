@@ -1,6 +1,5 @@
 slug: cityville-is-the-fastest-growing-game-ever-as-it
 date: 2011-02-14 09:22:49
-title: CityVille is the fastest-growing game ever, as it hit 100 million...
 type: quote
 ---
 

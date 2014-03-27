@@ -1,6 +1,5 @@
 slug: everything-that-was-good-about-the-software-came
 date: 2013-04-01 13:15:58
-title: Everything that was good about the software came from Google, and...
 type: quote
 ---
 

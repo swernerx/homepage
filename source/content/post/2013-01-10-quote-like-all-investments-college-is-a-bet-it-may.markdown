@@ -1,6 +1,5 @@
 slug: like-all-investments-college-is-a-bet-it-may
 date: 2013-01-10 10:21:26
-title: Like all investments, college is a bet. […] It may pay off and...
 type: quote
 ---
 

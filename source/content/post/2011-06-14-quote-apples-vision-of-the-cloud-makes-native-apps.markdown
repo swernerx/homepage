@@ -1,6 +1,5 @@
 slug: apples-vision-of-the-cloud-makes-native-apps
 date: 2011-06-14 11:08:44
-title: Apple’s vision of the cloud makes native apps better. Others see the...
 type: quote
 ---
 

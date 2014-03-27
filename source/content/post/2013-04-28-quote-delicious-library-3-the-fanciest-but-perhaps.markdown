@@ -1,6 +1,5 @@
 slug: delicious-library-3-the-fanciest-but-perhaps
 date: 2013-04-28 21:38:45
-title: Delicious Library 3: The fanciest — but perhaps not the most...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: 99-of-people-give-up-after-a-failure-in-a-field
 date: 2011-11-28 08:53:58
-title: 99% of people give up after a failure in a field. It’s the best...
 type: quote
 ---
 

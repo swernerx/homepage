@@ -1,6 +1,5 @@
 slug: market-research-cant-tell-you-whether-the
 date: 2010-09-19 21:15:38
-title: Market research can’t tell you whether the “problem” you’re trying to...
 type: quote
 ---
 

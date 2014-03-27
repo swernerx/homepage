@@ -1,6 +1,5 @@
 slug: the-ipad-2-is-sexier-and-faster-has-gobs-more
 date: 2011-07-04 21:22:59
-title: The iPad 2 is sexier and faster, has gobs more apps, costs the same...
 type: quote
 ---
 

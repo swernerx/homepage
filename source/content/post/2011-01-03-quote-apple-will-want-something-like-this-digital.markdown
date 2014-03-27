@@ -1,6 +1,5 @@
 slug: apple-will-want-something-like-this-digital
 date: 2011-01-03 22:50:06
-title: Apple will want something like this digital newsstand in place by the...
 type: quote
 ---
 

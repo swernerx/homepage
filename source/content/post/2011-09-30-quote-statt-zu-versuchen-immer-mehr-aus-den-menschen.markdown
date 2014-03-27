@@ -1,6 +1,5 @@
 slug: statt-zu-versuchen-immer-mehr-aus-den-menschen
 date: 2011-09-30 11:29:57
-title: Statt zu versuchen immer mehr aus den Menschen herauszuholen, sollten...
 type: quote
 ---
 

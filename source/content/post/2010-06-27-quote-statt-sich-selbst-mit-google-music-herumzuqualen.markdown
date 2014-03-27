@@ -1,6 +1,5 @@
 slug: statt-sich-selbst-mit-google-music-herumzuqualen
 date: 2010-06-27 00:28:06
-title: Statt sich selbst mit Google Music herumzuquälen, sollte Google das...
 type: quote
 ---
 

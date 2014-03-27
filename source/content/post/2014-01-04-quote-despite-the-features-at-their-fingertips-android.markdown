@@ -1,6 +1,5 @@
 slug: despite-the-features-at-their-fingertips-android
 date: 2014-01-04 21:53:41
-title: Despite the features at their fingertips, Android people use their...
 type: quote
 ---
 

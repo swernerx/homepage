@@ -1,6 +1,5 @@
 slug: excellent-article-the-value-of-experience-by
 date: 2012-06-22 16:06:52
-title: Excellent article: 
 type: photo
 ---
 

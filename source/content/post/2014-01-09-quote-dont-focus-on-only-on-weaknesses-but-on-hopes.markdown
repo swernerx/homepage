@@ -1,6 +1,5 @@
 slug: dont-focus-on-only-on-weaknesses-but-on-hopes
 date: 2014-01-09 09:21:27
-title: Don’t focus on only on weaknesses, but on hopes and dreams...
 type: quote
 ---
 

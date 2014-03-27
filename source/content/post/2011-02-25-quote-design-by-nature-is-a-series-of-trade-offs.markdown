@@ -1,6 +1,5 @@
 slug: design-by-nature-is-a-series-of-trade-offs
 date: 2011-02-25 22:52:23
-title: Design, by nature, is a series of trade-offs. Every choice has a good...
 type: quote
 ---
 

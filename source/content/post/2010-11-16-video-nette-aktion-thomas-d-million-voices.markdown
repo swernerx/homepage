@@ -1,6 +1,5 @@
 slug: nette-aktion-thomas-d-million-voices
 date: 2010-11-16 22:52:52
-title: Nette Aktion: 
 type: video
 ---
 

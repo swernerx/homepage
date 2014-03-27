@@ -1,6 +1,5 @@
 slug: thanks-to-the-windows-phone-platform-nokia-can
 date: 2011-12-12 08:59:51
-title: Thanks to the Windows Phone platform, Nokia can focus on developing...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: until-you-get-close-to-the-end-your-revenue-keeps
 date: 2010-10-20 12:38:02
-title: Until you get close to the end, your revenue keeps rising, enabling...
 type: quote
 ---
 

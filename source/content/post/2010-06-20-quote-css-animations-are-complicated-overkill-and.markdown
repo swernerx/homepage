@@ -1,6 +1,5 @@
 slug: css-animations-are-complicated-overkill-and
 date: 2010-06-20 23:59:34
-title: CSS Animations are complicated, overkill, and probably won’t be...
 type: quote
 ---
 

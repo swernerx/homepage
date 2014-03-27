@@ -1,6 +1,5 @@
 slug: every-day-i-use-it-im-continually-amazed-and
 date: 2010-09-30 19:49:52
-title: Every day I use it I’m continually amazed and thankful of how...
 type: quote
 ---
 

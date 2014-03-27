@@ -1,6 +1,5 @@
 slug: we-can-constantly-update-test-and-improve-the
 date: 2010-12-07 08:32:15
-title: We can constantly update, test and improve the experience we offer
 type: quote
 ---
 

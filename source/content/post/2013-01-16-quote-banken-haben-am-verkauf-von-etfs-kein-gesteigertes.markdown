@@ -1,6 +1,5 @@
 slug: banken-haben-am-verkauf-von-etfs-kein-gesteigertes
 date: 2013-01-16 09:30:35
-title: Banken haben am Verkauf von ETFs kein gesteigertes Interesse, da das...
 type: quote
 ---
 

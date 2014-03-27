@@ -1,6 +1,5 @@
 slug: investoren-vergleichen-google-schon-mit-dem
 date: 2010-12-12 16:06:01
-title: Investoren vergleichen Google schon mit dem Softwaregiganten...
 type: quote
 ---
 

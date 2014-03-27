@@ -1,6 +1,5 @@
 slug: xml-isnt-a-language-it-is-a-way-of-marking-up
 date: 2010-10-06 13:07:01
-title: XML isn’t a language, it is a way of marking up documents. It is...
 type: quote
 ---
 

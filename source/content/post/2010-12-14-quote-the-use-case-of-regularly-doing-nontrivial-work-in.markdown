@@ -1,6 +1,5 @@
 slug: the-use-case-of-regularly-doing-nontrivial-work-in
 date: 2010-12-14 09:06:45
-title: The use case of regularly doing nontrivial work in Microsoft Office...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: microsoft-is-trying-to-cherry-pick-the-best-of-ios
 date: 2011-06-11 12:51:00
-title: Microsoft is trying to cherry-pick the best of iOS and WebOS and...
 type: quote
 ---
 

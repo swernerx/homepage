@@ -1,6 +1,5 @@
 slug: astonishments-ten-in-the-history-of-version-control
 date: 2011-12-17 22:11:28
-title: Astonishments, ten, in the history of version control
 type: link
 ---
 

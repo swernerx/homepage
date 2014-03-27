@@ -1,6 +1,5 @@
 slug: just-wow-wonderful-ui-jukely-2-0
 date: 2013-11-12 10:47:24
-title: Just Wow! Wonderful UI: 
 type: video
 ---
 

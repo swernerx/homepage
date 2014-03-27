@@ -1,6 +1,5 @@
 slug: if-im-traveling-for-just-a-couple-of-days-to-give
 date: 2010-12-29 17:57:11
-title: If I’m traveling for just a couple of days to give a talk, I don’t...
 type: quote
 ---
 

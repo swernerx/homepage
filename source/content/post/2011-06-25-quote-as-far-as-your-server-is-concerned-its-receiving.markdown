@@ -1,6 +1,5 @@
 slug: as-far-as-your-server-is-concerned-its-receiving
 date: 2011-06-25 10:52:51
-title: As far as your server is concerned it’s receiving requests for the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: with-meego-or-indeed-android-the-n8-couldve
 date: 2010-10-10 22:47:24
-title: With MeeGo (or, indeed, Android) the N8 could’ve been a clear winner;...
 type: quote
 ---
 

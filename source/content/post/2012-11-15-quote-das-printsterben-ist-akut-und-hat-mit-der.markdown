@@ -1,6 +1,5 @@
 slug: das-printsterben-ist-akut-und-hat-mit-der
 date: 2012-11-15 10:52:43
-title: Das Printsterben ist akut und hat mit der „Frankfurter Rundschau“ das...
 type: quote
 ---
 

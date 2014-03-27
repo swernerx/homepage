@@ -1,6 +1,5 @@
 slug: nice-leather-case-for-the-ipad-top-upper-cow
 date: 2010-06-17 10:23:30
-title: Nice leather case for the iPad: 
 type: photo
 ---
 

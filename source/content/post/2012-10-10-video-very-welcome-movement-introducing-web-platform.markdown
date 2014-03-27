@@ -1,6 +1,5 @@
 slug: very-welcome-movement-introducing-web-platform
 date: 2012-10-10 10:56:52
-title: Very welcome movement: Introducing Web Platform Docs (von 
 type: video
 ---
 

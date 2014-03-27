@@ -1,6 +1,5 @@
 slug: what-makes-a-product-great-figuring-out-what
 date: 2011-05-17 18:42:23
-title: What makes a product great: Figuring out what matters and leaving out...
 type: quote
 ---
 

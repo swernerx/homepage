@@ -1,6 +1,5 @@
 slug: the-ipad-was-designed-with-an-entirely-different
 date: 2010-04-10 19:27:53
-title: The iPad was designed with an entirely different set of priorities...
 type: quote
 ---
 

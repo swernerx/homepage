@@ -1,6 +1,5 @@
 slug: verdana-and-georgia-were-the-best-anyone-could-do
 date: 2011-12-14 23:43:00
-title: Verdana and Georgia were the best anyone could do for reading on a...
 type: quote
 ---
 

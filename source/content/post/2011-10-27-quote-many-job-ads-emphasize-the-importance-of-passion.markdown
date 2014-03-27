@@ -1,6 +1,5 @@
 slug: many-job-ads-emphasize-the-importance-of-passion
 date: 2011-10-27 00:26:10
-title: Many job ads emphasize the importance of passion in applicants; few...
 type: quote
 ---
 

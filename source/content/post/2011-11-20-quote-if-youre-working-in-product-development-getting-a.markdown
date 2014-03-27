@@ -1,6 +1,5 @@
 slug: if-youre-working-in-product-development-getting-a
 date: 2011-11-20 21:30:28
-title: If you’re working in product development getting a deeper...
 type: quote
 ---
 

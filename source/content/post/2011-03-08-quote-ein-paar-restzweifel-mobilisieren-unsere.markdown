@@ -1,6 +1,5 @@
 slug: ein-paar-restzweifel-mobilisieren-unsere
 date: 2011-03-08 20:06:42
-title: Ein paar Restzweifel mobilisieren unsere kognitiven und physischen...
 type: quote
 ---
 

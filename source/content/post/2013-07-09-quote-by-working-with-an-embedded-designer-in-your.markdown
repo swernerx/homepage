@@ -1,6 +1,5 @@
 slug: by-working-with-an-embedded-designer-in-your
 date: 2013-07-09 08:57:01
-title: By working with an embedded designer in your project you’ll find you...
 type: quote
 ---
 

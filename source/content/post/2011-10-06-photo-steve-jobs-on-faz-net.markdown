@@ -1,6 +1,5 @@
 slug: steve-jobs-on-faz-net
 date: 2011-10-06 11:13:45
-title: Steve Jobs on [Faz.net](http://www.faz.net)
 type: photo
 ---
 

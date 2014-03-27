@@ -1,6 +1,5 @@
 slug: classic-boy-have-we-patented-it-von-higaara
 date: 2011-07-16 02:34:40
-title: Classic: “Boy have we patented it” (von 
 type: video
 ---
 

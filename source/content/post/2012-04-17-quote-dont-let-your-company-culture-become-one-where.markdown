@@ -1,6 +1,5 @@
 slug: dont-let-your-company-culture-become-one-where
 date: 2012-04-17 22:42:12
-title: Don’t let your company culture become one where certain people are...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: successful-people-are-successful-because-they-are
 date: 2010-09-27 16:55:05
-title: Successful people are successful because they are willing to do what...
 type: quote
 ---
 

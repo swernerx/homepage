@@ -1,6 +1,5 @@
 slug: zur-risikodiversifizierung-seien-offene
 date: 2013-04-19 08:58:04
-title: Zur Risikodiversifizierung seien offene Immobilienfonds oder auch...
 type: quote
 ---
 

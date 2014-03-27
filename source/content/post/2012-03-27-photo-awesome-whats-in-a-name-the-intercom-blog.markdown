@@ -1,6 +1,5 @@
 slug: awesome-whats-in-a-name-the-intercom-blog
 date: 2012-03-27 11:28:36
-title: Awesome: [What’s...](http://blog.intercom.io/whats-in-a-name/)
 type: photo
 ---
 

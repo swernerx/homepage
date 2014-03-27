@@ -1,6 +1,5 @@
 slug: es-gibt-nur-einen-dauerhaften-erfolg
 date: 2011-07-16 07:01:24
-title: Es gibt nur einen dauerhaften Erfolg versprechenden Weg aus der...
 type: quote
 ---
 

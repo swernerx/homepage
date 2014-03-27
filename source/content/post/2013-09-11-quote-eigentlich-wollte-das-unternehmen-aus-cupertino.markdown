@@ -1,6 +1,5 @@
 slug: eigentlich-wollte-das-unternehmen-aus-cupertino
 date: 2013-09-11 13:21:38
-title: Eigentlich wollte das Unternehmen aus Cupertino mit einem günstigeren...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: people-need-to-think-about-and-consider-what-they
 date: 2011-05-13 18:15:36
-title: People need to think about and consider what they are signing up for,...
 type: quote
 ---
 

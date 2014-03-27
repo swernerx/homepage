@@ -1,6 +1,5 @@
 slug: product-builders-should-first-and-foremost
 date: 2013-05-09 19:54:33
-title: Product builders should first and foremost minimize the Cognitive...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: grunder-mussen-etwas-anderes-etwas-verrucktes
 date: 2014-02-05 08:53:11
-title: Gründer müssen etwas Anderes, etwas Verrücktes machen. Denn das...
 type: quote
 ---
 

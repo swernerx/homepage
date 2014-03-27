@@ -1,6 +1,5 @@
 slug: good-front-end-engineers-rarely-have-a-computer
 date: 2011-01-22 10:00:42
-title: Good front-end engineers rarely have a computer science degree. It...
 type: quote
 ---
 

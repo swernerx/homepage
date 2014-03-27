@@ -1,6 +1,5 @@
 slug: nice-apple-and-samsungs-symbiotic-relationship
 date: 2011-08-12 11:47:07
-title: Nice: 
 type: photo
 ---
 

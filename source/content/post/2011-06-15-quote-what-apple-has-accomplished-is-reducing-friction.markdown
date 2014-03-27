@@ -1,6 +1,5 @@
 slug: what-apple-has-accomplished-is-reducing-friction
 date: 2011-06-15 09:09:29
-title: What Apple has accomplished is reducing friction in the user...
 type: quote
 ---
 

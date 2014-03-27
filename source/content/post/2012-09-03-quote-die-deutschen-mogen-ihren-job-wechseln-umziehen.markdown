@@ -1,6 +1,5 @@
 slug: die-deutschen-mogen-ihren-job-wechseln-umziehen
 date: 2012-09-03 23:12:58
-title: Die Deutschen mögen ihren Job wechseln, umziehen oder sich gar...
 type: quote
 ---
 

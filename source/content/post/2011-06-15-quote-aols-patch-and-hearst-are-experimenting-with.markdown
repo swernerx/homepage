@@ -1,6 +1,5 @@
 slug: aols-patch-and-hearst-are-experimenting-with
 date: 2011-06-15 18:32:48
-title: AOL’s Patch and Hearst are experimenting with different forms of...
 type: quote
 ---
 

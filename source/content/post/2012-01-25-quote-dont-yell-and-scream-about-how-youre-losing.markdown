@@ -1,6 +1,5 @@
 slug: dont-yell-and-scream-about-how-youre-losing
 date: 2012-01-25 18:17:55
-title: Don’t yell and scream about how you’re losing business to piracy when...
 type: quote
 ---
 

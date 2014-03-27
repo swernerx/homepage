@@ -1,6 +1,5 @@
 slug: apple-ubertrifft-dank-des-uberwaltigenden-erfolgs
 date: 2011-04-21 18:50:35
-title: Apple übertrifft dank des überwältigenden Erfolgs des iPhones die...
 type: quote
 ---
 

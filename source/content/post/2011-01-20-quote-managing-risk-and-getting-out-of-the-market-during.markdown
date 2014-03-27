@@ -1,6 +1,5 @@
 slug: managing-risk-and-getting-out-of-the-market-during
 date: 2011-01-20 19:40:55
-title: Managing risk and getting out of the market during the worst times is...
 type: quote
 ---
 

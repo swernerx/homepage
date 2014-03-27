@@ -1,6 +1,5 @@
 slug: users-dont-seem-to-mind-paying-for-access-to
 date: 2012-03-30 17:33:05
-title: Users don’t seem to mind paying for access to their news on Apple’s...
 type: quote
 ---
 

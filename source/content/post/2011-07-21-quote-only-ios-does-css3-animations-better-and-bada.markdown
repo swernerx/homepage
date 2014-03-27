@@ -1,6 +1,5 @@
 slug: only-ios-does-css3-animations-better-and-bada
 date: 2011-07-21 13:45:17
-title: Only iOS does CSS3 animations better, and bada handily beats every...
 type: quote
 ---
 

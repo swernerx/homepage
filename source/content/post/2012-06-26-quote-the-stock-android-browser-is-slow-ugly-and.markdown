@@ -1,6 +1,5 @@
 slug: the-stock-android-browser-is-slow-ugly-and
 date: 2012-06-26 18:18:43
-title: The stock Android browser is slow, ugly, and featureless — which...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: video-publishers-need-the-video-tag-for-one
 date: 2011-01-15 09:53:55
-title: Video publishers need the VIDEO tag for one purpose only: to support...
 type: quote
 ---
 

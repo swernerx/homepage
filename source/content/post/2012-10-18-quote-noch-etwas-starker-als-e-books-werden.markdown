@@ -1,6 +1,5 @@
 slug: noch-etwas-starker-als-e-books-werden
 date: 2012-10-18 08:30:04
-title: Noch etwas stärker als E-Books werden elektronische Zeitungen...
 type: quote
 ---
 

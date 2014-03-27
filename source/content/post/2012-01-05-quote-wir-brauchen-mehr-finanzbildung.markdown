@@ -1,6 +1,5 @@
 slug: wir-brauchen-mehr-finanzbildung
 date: 2012-01-05 18:53:12
-title: Wir brauchen mehr Finanzbildung
 type: quote
 ---
 

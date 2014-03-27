@@ -1,6 +1,5 @@
 slug: because-apple-was-in-the-game-now-anything-steve
 date: 2010-07-21 23:36:54
-title: Because Apple was in the game, now anything Steve Jobs said was the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-people-who-look-at-your-project-plan-typically
 date: 2011-06-25 11:00:05
-title: The people who look at your project plan typically don’t have a clue...
 type: quote
 ---
 

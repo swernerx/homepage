@@ -1,6 +1,5 @@
 slug: vcs-hate-soe-strategy-of-everything-its-a
 date: 2011-06-27 08:32:37
-title: VCs hate SOE (Strategy of Everything). It’s a grand way to waste...
 type: quote
 ---
 

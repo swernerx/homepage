@@ -1,6 +1,5 @@
 slug: utf-16-is-a-historical-accident-that-persists
 date: 2011-02-08 16:34:24
-title: UTF-16 is a historical accident that persists mainly due to inertia...
 type: quote
 ---
 

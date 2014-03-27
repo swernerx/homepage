@@ -1,6 +1,5 @@
 slug: pretty-stylish-video-introducing-nokia-lumia
 date: 2011-10-26 13:53:41
-title: Pretty stylish video: Introducing Nokia Lumia - The Amazing...
 type: video
 ---
 

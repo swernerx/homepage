@@ -1,6 +1,5 @@
 slug: zynga-is-doing-so-well-in-fact-that-earlier-this
 date: 2011-05-12 20:44:02
-title: Zynga is doing so well, in fact, that earlier this year, reports were...
 type: quote
 ---
 

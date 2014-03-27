@@ -1,6 +1,5 @@
 slug: apple-knows-that-innovation-doesnt-arise-from-the
 date: 2011-01-20 19:37:57
-title: Apple knows that innovation doesn’t arise from the consumers...
 type: quote
 ---
 

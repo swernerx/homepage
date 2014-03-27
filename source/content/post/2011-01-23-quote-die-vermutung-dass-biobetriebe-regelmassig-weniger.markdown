@@ -1,6 +1,5 @@
 slug: die-vermutung-dass-biobetriebe-regelmassig-weniger
 date: 2011-01-23 12:26:16
-title: Die Vermutung, dass Biobetriebe regelmäßig weniger belastete...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: its-really-hard-to-design-products-by-focus
 date: 2011-08-28 15:44:28
-title: It’s really hard to design products by focus groups. A lot of times,...
 type: quote
 ---
 

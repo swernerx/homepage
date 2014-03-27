@@ -1,6 +1,5 @@
 slug: this-outcome-is-a-major-strategic-win-for-apple-a
 date: 2013-10-18 08:28:30
-title: This outcome is a major strategic win for Apple, a massive setback...
 type: quote
 ---
 

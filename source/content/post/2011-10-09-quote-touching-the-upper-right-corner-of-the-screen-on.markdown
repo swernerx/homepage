@@ -1,6 +1,5 @@
 slug: touching-the-upper-right-corner-of-the-screen-on
 date: 2011-10-09 00:08:27
-title: Touching the upper right corner of the screen on the Galaxy S II...
 type: quote
 ---
 

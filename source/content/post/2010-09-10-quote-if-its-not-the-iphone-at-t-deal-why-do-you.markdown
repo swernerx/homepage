@@ -1,6 +1,5 @@
 slug: if-its-not-the-iphone-at-t-deal-why-do-you
 date: 2010-09-10 08:15:13
-title: If it’s not the iPhone/AT&T deal, why do you choose Android?
 type: quote
 ---
 

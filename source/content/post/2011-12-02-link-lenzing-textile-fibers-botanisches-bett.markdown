@@ -1,6 +1,5 @@
 slug: lenzing-textile-fibers-botanisches-bett
 date: 2011-12-02 23:35:56
-title: Lenzing - Textile Fibers - Botanisches Bett
 type: link
 ---
 

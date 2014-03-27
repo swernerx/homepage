@@ -1,6 +1,5 @@
 slug: impressive-technology-introducing-google-instant
 date: 2010-09-08 22:18:22
-title: Impressive technology: 
 type: video
 ---
 

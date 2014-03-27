@@ -1,6 +1,5 @@
 slug: apple-would-rather-beat-out-their-old-product
 date: 2011-07-28 13:12:44
-title: Apple would rather beat out their old product themselves instead of...
 type: quote
 ---
 

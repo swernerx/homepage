@@ -1,6 +1,5 @@
 slug: i-want-the-best-user-experience-i-can-get-the
 date: 2011-10-23 21:42:09
-title: I want the best user experience I can get. The good one delivered by...
 type: quote
 ---
 

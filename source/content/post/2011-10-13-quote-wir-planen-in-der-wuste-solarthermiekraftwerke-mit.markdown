@@ -1,6 +1,5 @@
 slug: wir-planen-in-der-wuste-solarthermiekraftwerke-mit
 date: 2011-10-13 20:31:19
-title: Wir planen in der Wüste Solarthermiekraftwerke mit zusammen 2000...
 type: quote
 ---
 

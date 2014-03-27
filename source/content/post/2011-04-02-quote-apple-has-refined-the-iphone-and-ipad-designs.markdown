@@ -1,6 +1,5 @@
 slug: apple-has-refined-the-iphone-and-ipad-designs
 date: 2011-04-02 03:53:09
-title: Apple has refined the iPhone and iPad designs almost to the point...
 type: quote
 ---
 

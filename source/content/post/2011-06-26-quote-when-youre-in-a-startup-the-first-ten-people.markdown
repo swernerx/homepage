@@ -1,6 +1,5 @@
 slug: when-youre-in-a-startup-the-first-ten-people
 date: 2011-06-26 16:38:51
-title: When you’re in a startup, the first ten people will determine whether...
 type: quote
 ---
 

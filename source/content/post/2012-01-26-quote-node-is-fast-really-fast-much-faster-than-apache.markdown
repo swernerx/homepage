@@ -1,6 +1,5 @@
 slug: node-is-fast-really-fast-much-faster-than-apache
 date: 2012-01-26 11:12:45
-title: Node is fast. Really fast. Much faster than Apache - many more...
 type: quote
 ---
 

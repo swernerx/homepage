@@ -1,6 +1,5 @@
 slug: people-wont-buy-a-product-if-they-cant
 date: 2010-04-30 19:13:25
-title: People won’t buy a product if they can’t understand it immediately...
 type: quote
 ---
 

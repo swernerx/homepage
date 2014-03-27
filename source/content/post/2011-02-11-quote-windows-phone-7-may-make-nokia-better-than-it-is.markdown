@@ -1,6 +1,5 @@
 slug: windows-phone-7-may-make-nokia-better-than-it-is
 date: 2011-02-11 19:17:43
-title: Windows Phone 7 may make Nokia better than it is today, but there are...
 type: quote
 ---
 

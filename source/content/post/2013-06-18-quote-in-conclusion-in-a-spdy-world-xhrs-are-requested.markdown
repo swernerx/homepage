@@ -1,6 +1,5 @@
 slug: in-conclusion-in-a-spdy-world-xhrs-are-requested
 date: 2013-06-18 10:16:52
-title: In conclusion, in a SPDY world, XHRs are requested at low priority...
 type: quote
 ---
 

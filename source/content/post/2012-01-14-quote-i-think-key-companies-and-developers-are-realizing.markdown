@@ -1,6 +1,5 @@
 slug: i-think-key-companies-and-developers-are-realizing
 date: 2012-01-14 20:25:23
-title: I think key companies and developers are realizing is that HTML5 and...
 type: quote
 ---
 

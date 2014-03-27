@@ -1,6 +1,5 @@
 slug: ironically-the-worst-reading-experiences-are-with
 date: 2011-07-21 13:45:56
-title: Ironically, the worst reading experiences are with the apps designed...
 type: quote
 ---
 

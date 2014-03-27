@@ -1,6 +1,5 @@
 slug: erfolg-liegt-weniger-an-den-features-als-an-der
 date: 2012-06-14 12:44:49
-title: Erfolg liegt weniger an den Features, als an der Kombination von...
 type: quote
 ---
 

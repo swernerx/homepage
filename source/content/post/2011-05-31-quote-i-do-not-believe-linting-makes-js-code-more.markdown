@@ -1,6 +1,5 @@
 slug: i-do-not-believe-linting-makes-js-code-more
 date: 2011-05-31 11:34:10
-title: I do not believe linting makes JS code more maintainable, since we...
 type: quote
 ---
 

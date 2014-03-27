@@ -1,6 +1,5 @@
 slug: it-takes-a-lot-of-fine-tuning-to-achieve-a
 date: 2012-01-26 17:03:43
-title: It takes a lot of fine-tuning to achieve a polished experience on...
 type: quote
 ---
 

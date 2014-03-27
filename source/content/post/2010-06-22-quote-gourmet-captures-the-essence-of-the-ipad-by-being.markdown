@@ -1,6 +1,5 @@
 slug: gourmet-captures-the-essence-of-the-ipad-by-being
 date: 2010-06-22 23:44:20
-title: Gourmet captures the essence of the iPad by being linear, simple, and...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: it-would-be-easier-to-list-tech-companies-that-are
 date: 2011-08-08 08:58:10
-title: It would be easier to list tech companies that are completely...
 type: quote
 ---
 

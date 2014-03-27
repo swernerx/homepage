@@ -1,6 +1,5 @@
 slug: node-feels-like-ruby-rails-in-the-early-days
 date: 2011-08-17 20:45:17
-title: Node feels like Ruby/Rails in the early days.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-industrial-design-of-the-lumia-800-is-as-good
 date: 2011-11-06 21:39:08
-title: The industrial design of the Lumia 800 is as good as anything Apple...
 type: quote
 ---
 

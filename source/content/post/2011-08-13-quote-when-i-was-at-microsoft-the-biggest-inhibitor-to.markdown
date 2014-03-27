@@ -1,6 +1,5 @@
 slug: when-i-was-at-microsoft-the-biggest-inhibitor-to
 date: 2011-08-13 00:43:21
-title: When I was at Microsoft the biggest inhibitor to innovation was too...
 type: quote
 ---
 

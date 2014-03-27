@@ -1,6 +1,5 @@
 slug: when-you-are-a-korean-gaming-company-we-are
 date: 2011-07-08 23:00:38
-title: When you are a Korean gaming company, we are considered an...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: 4-if-you-want-to-be-taken-seriously-speak-up
 date: 2014-01-19 20:30:07
-title: 4) If you want to be taken seriously, speak up early.
 type: quote
 ---
 

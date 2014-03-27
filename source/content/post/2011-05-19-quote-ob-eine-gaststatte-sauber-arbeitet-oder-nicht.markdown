@@ -1,6 +1,5 @@
 slug: ob-eine-gaststatte-sauber-arbeitet-oder-nicht
 date: 2011-05-19 19:39:41
-title: Ob eine Gaststätte sauber arbeitet oder nicht, erfahren Besucher...
 type: quote
 ---
 

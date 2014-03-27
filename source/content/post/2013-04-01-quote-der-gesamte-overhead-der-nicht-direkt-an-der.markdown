@@ -1,6 +1,5 @@
 slug: der-gesamte-overhead-der-nicht-direkt-an-der
 date: 2013-04-01 12:18:00
-title: Der gesamte Overhead, der nicht direkt an der Erstellung der Inhalte...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: wow-i-like-it-cant-wait-for-the-availability-in
 date: 2011-02-02 20:05:06
-title: Wow. I like it. Can’t wait for the availability in...
 type: video
 ---
 

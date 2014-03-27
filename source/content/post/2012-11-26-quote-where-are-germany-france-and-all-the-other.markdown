@@ -1,6 +1,5 @@
 slug: where-are-germany-france-and-all-the-other
 date: 2012-11-26 09:03:53
-title: Where are Germany, France, and all the other countries with rich...
 type: quote
 ---
 

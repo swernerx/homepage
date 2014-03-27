@@ -1,6 +1,5 @@
 slug: the-game-console-world-in-2011-especially
 date: 2011-08-14 11:02:36
-title: The game-console world in 2011, especially portables, is a bit like...
 type: quote
 ---
 

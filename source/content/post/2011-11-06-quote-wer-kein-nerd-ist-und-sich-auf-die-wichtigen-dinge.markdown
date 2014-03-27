@@ -1,6 +1,5 @@
 slug: wer-kein-nerd-ist-und-sich-auf-die-wichtigen-dinge
 date: 2011-11-06 20:15:05
-title: Wer kein Nerd ist und sich auf die wichtigen Dinge fokussiert, wird...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: just-because-something-is-hard-does-not
 date: 2010-07-16 08:59:37
-title: Just because something is hard, does not necessarily mean you are...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: nevermind-the-siri-rip-off-what-makes-this-so
 date: 2012-01-03 09:11:04
-title: Nevermind the Siri rip-off, what makes this so very Android is all...
 type: quote
 ---
 

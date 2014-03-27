@@ -1,6 +1,5 @@
 slug: the-only-other-major-players-in-the-pc-business
 date: 2011-08-22 23:44:04
-title: The only other major players in the PC business aren’t even that...
 type: quote
 ---
 

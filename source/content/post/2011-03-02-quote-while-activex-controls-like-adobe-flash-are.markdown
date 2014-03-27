@@ -1,6 +1,5 @@
 slug: while-activex-controls-like-adobe-flash-are
 date: 2011-03-02 13:29:47
-title: While ActiveX controls like Adobe Flash are important for Web...
 type: quote
 ---
 

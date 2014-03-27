@@ -1,6 +1,5 @@
 slug: if-the-basic-blueprint-is-not-intuitive-such-that
 date: 2010-11-16 10:10:50
-title: If the basic blueprint is not intuitive such that users have to be...
 type: quote
 ---
 

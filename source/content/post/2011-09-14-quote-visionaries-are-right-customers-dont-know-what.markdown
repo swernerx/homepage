@@ -1,6 +1,5 @@
 slug: visionaries-are-right-customers-dont-know-what
 date: 2011-09-14 22:42:58
-title: Visionaries are right. Customers don’t know what they want. There’s...
 type: quote
 ---
 

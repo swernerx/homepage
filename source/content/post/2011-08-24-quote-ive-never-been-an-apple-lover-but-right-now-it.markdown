@@ -1,6 +1,5 @@
 slug: ive-never-been-an-apple-lover-but-right-now-it
 date: 2011-08-24 22:12:37
-title: I’ve never been an Apple lover but right now, it looks like my next...
 type: quote
 ---
 

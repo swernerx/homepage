@@ -1,6 +1,5 @@
 slug: nahm-die-frankfurter-allgemeine-einst-etwa-die
 date: 2014-01-14 18:02:15
-title: Nahm die Frankfurter Allgemeine einst etwa die Hälfte ihres Umsatzes...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: nach-den-erfahrungen-mit-dem-playbook-versteht
 date: 2011-06-16 09:46:36
-title: Nach den Erfahrungen mit dem Playbook versteht man, warum Apple kein...
 type: quote
 ---
 

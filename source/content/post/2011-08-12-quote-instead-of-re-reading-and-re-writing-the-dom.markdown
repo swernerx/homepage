@@ -1,6 +1,5 @@
 slug: instead-of-re-reading-and-re-writing-the-dom
 date: 2011-08-12 09:25:25
-title: Instead of re-reading and re-writing the DOM during the entire layout...
 type: quote
 ---
 

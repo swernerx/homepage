@@ -1,6 +1,5 @@
 slug: the-mac-is-capturing-the-high-end-of-the-consumer
 date: 2011-08-19 09:09:47
-title: The Mac is capturing the high end of the consumer PC market, the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: im-ergebnis-ist-das-geringe-mindeststammkapital
 date: 2011-06-15 18:54:06
-title: Im Ergebnis ist das geringe Mindeststammkapital der Limited kein...
 type: quote
 ---
 

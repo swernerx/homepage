@@ -1,6 +1,5 @@
 slug: apple-reports-best-quarter-ever-in-q1-2012-13-06
 date: 2012-01-24 22:56:28
-title: 
 type: photo
 ---
 

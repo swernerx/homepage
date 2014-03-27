@@ -1,6 +1,5 @@
 slug: sales-people-and-business-side-executes-tend-to
 date: 2011-08-18 19:07:28
-title: Sales people and business-side executes tend to believe as a matter...
 type: quote
 ---
 

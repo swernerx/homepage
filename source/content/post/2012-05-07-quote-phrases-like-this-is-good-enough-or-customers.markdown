@@ -1,6 +1,5 @@
 slug: phrases-like-this-is-good-enough-or-customers
 date: 2012-05-07 11:22:12
-title: Phrases like “this is good enough,” or “customers won’t notice”...
 type: quote
 ---
 

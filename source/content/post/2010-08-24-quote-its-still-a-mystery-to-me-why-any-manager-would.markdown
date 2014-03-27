@@ -1,6 +1,5 @@
 slug: its-still-a-mystery-to-me-why-any-manager-would
 date: 2010-08-24 23:57:44
-title: It’s still a mystery to me why any manager would decide to make the...
 type: quote
 ---
 

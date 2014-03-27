@@ -1,6 +1,5 @@
 slug: the-business-roundtable-study-found-that-after
 date: 2012-10-09 18:13:29
-title: The Business Roundtable study found that after just eight 60-hour...
 type: quote
 ---
 

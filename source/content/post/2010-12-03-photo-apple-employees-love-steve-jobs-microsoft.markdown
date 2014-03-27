@@ -1,6 +1,5 @@
 slug: apple-employees-love-steve-jobs-microsoft
 date: 2010-12-03 09:36:30
-title: 
 type: photo
 ---
 

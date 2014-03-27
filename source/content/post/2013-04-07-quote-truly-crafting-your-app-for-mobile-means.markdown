@@ -1,6 +1,5 @@
 slug: truly-crafting-your-app-for-mobile-means
 date: 2013-04-07 12:32:53
-title: Truly crafting your app for mobile means considering the difference...
 type: quote
 ---
 

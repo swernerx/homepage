@@ -1,6 +1,5 @@
 slug: inside-an-apple-store-most-of-the-devices-could
 date: 2010-12-29 15:24:19
-title: Inside an Apple Store, most of the devices could be picked up and...
 type: quote
 ---
 

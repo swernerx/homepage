@@ -1,6 +1,5 @@
 slug: first-look-samsung-galaxy-gear-demonstration-von
 date: 2013-09-05 09:22:33
-title: First look: Samsung Galaxy Gear demonstration (von 
 type: video
 ---
 

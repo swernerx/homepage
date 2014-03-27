@@ -1,6 +1,5 @@
 slug: everyone-tends-to-overestimate-their-reaction-if
 date: 2011-11-13 22:32:27
-title: Everyone tends to overestimate their reaction: If the event is...
 type: quote
 ---
 

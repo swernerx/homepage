@@ -1,6 +1,5 @@
 slug: in-deutschland-gibt-es-zwei-medienhauser-die-gute
 date: 2013-04-05 13:14:35
-title: In Deutschland gibt es zwei Medienhäuser, die gute Digital-Geschäfte...
 type: quote
 ---
 

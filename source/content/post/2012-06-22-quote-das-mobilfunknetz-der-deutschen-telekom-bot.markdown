@@ -1,6 +1,5 @@
 slug: das-mobilfunknetz-der-deutschen-telekom-bot
 date: 2012-06-22 13:37:15
-title: Das Mobilfunknetz der Deutschen Telekom bot während unserer Messungen...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: steve-jobs-did-many-things-very-well-but-the-best
 date: 2011-08-25 08:13:10
-title: Steve Jobs did many things very well, but the best was his ability to...
 type: quote
 ---
 

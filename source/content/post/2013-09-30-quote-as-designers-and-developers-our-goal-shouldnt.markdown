@@ -1,6 +1,5 @@
 slug: as-designers-and-developers-our-goal-shouldnt
 date: 2013-09-30 16:25:38
-title: As designers and developers, our goal shouldn’t just be to create the...
 type: quote
 ---
 

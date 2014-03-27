@@ -1,6 +1,5 @@
 slug: creative-people-crave-attention-in-a-way
 date: 2011-06-17 22:41:54
-title: Creative people crave attention in a way publishers do not. Prior to...
 type: quote
 ---
 

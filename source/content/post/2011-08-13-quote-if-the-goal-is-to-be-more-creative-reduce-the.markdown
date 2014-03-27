@@ -1,6 +1,5 @@
 slug: if-the-goal-is-to-be-more-creative-reduce-the
 date: 2011-08-13 00:35:50
-title: If the goal is to be more creative, reduce the number of people in...
 type: quote
 ---
 

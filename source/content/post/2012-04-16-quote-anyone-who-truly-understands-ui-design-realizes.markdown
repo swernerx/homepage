@@ -1,6 +1,5 @@
 slug: anyone-who-truly-understands-ui-design-realizes
 date: 2012-04-16 15:44:29
-title: Anyone who truly understands UI design realizes that every preference...
 type: quote
 ---
 

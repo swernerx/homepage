@@ -1,6 +1,5 @@
 slug: the-day-of-average-is-over-today-an-average
 date: 2012-06-22 15:49:24
-title: The day of average is over. Today an average business will generate...
 type: quote
 ---
 

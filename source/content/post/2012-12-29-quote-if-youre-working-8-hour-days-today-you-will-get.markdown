@@ -1,6 +1,5 @@
 slug: if-youre-working-8-hour-days-today-you-will-get
 date: 2012-12-29 19:26:13
-title: If you’re working 8 hour days today, you will get more done working 7...
 type: quote
 ---
 

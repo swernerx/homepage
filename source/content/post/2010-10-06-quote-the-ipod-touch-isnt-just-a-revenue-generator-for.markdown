@@ -1,6 +1,5 @@
 slug: the-ipod-touch-isnt-just-a-revenue-generator-for
 date: 2010-10-06 18:38:01
-title: The iPod touch isn’t just a revenue generator for Apple, it’s a key...
 type: quote
 ---
 

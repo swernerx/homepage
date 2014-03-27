@@ -1,6 +1,5 @@
 slug: irgendwann-werden-bis-auf-einige-wenige-sammler
 date: 2011-06-24 08:55:50
-title: Irgendwann werden bis auf einige wenige Sammler alle Konsumenten über...
 type: quote
 ---
 

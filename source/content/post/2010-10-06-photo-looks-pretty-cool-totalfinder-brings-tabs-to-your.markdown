@@ -1,6 +1,5 @@
 slug: looks-pretty-cool-totalfinder-brings-tabs-to-your
 date: 2010-10-06 13:54:30
-title: Looks pretty cool: 
 type: photo
 ---
 

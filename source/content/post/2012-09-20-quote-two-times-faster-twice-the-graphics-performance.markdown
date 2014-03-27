@@ -1,6 +1,5 @@
 slug: two-times-faster-twice-the-graphics-performance
 date: 2012-09-20 15:55:15
-title: Two times faster? Twice the graphics performance? Better battery...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: it-doesnt-matter-how-great-and-fun-an-experience
 date: 2011-12-08 23:36:25
-title: It doesn’t matter how great and fun an experience is, good UI design...
 type: quote
 ---
 

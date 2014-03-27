@@ -1,6 +1,5 @@
 slug: we-believe-significant-growth-and-profit
 date: 2010-12-13 15:49:50
-title: We believe significant growth and profit opportunities for this...
 type: quote
 ---
 

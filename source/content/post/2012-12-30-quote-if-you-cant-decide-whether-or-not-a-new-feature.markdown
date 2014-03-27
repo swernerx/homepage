@@ -1,6 +1,5 @@
 slug: if-you-cant-decide-whether-or-not-a-new-feature
 date: 2012-12-30 15:28:17
-title: If you can’t decide whether or not a new feature should be added,...
 type: quote
 ---
 

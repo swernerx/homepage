@@ -1,6 +1,5 @@
 slug: open-creates-opportunities-but-its-also-important
 date: 2010-11-29 22:40:14
-title: Open creates opportunities but its also important to note that in the...
 type: quote
 ---
 

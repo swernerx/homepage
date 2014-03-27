@@ -1,6 +1,5 @@
 slug: putting-a-case-on-your-phone-is-a-little-like
 date: 2012-02-10 18:12:46
-title: Putting a case on your phone is a little like painting your Ferrari...
 type: quote
 ---
 

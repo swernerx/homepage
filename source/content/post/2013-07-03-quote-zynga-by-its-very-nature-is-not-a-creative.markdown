@@ -1,6 +1,5 @@
 slug: zynga-by-its-very-nature-is-not-a-creative
 date: 2013-07-03 09:02:44
-title: Zynga, by its very nature, is not a creative company. It is a company...
 type: quote
 ---
 

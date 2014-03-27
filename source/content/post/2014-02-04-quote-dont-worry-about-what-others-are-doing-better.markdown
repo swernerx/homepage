@@ -1,6 +1,5 @@
 slug: dont-worry-about-what-others-are-doing-better
 date: 2014-02-04 18:38:59
-title: Don’t worry about what others are doing better than you. Concentrate...
 type: quote
 ---
 

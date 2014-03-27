@@ -1,6 +1,5 @@
 slug: alle-innovationen-sind-entwicklungen-ins-offene
 date: 2011-01-15 20:59:14
-title: Alle Innovationen sind Entwicklungen ins Offene – Sieg und Niederlage...
 type: quote
 ---
 

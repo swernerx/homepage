@@ -1,6 +1,5 @@
 slug: gruber-just-defines-smartphones-differently-than-i
 date: 2010-09-18 20:46:44
-title: Gruber just defines smartphones differently than I do. As I see it,...
 type: quote
 ---
 

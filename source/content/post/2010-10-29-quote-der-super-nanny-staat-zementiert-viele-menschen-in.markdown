@@ -1,6 +1,5 @@
 slug: der-super-nanny-staat-zementiert-viele-menschen-in
 date: 2010-10-29 12:01:26
-title: Der Super-Nanny-Staat zementiert viele Menschen in ihrer Opferrolle...
 type: quote
 ---
 

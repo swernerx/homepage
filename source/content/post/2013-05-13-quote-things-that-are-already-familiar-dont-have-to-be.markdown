@@ -1,6 +1,5 @@
 slug: things-that-are-already-familiar-dont-have-to-be
 date: 2013-05-13 12:16:56
-title: Things that are already familiar don’t have to be re-learned, so we...
 type: quote
 ---
 

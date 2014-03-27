@@ -1,6 +1,5 @@
 slug: not-only-is-this-ipad-air-absurdly-thinner-and
 date: 2013-10-23 14:09:17
-title: Not only is this iPad Air absurdly thinner and lighter, it actually...
 type: quote
 ---
 

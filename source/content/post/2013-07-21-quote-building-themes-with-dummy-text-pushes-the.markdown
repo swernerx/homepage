@@ -1,6 +1,5 @@
 slug: building-themes-with-dummy-text-pushes-the
 date: 2013-07-21 00:26:30
-title: Building themes with dummy text pushes the designer to focus on...
 type: quote
 ---
 

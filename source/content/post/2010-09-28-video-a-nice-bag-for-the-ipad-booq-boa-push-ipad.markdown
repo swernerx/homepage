@@ -1,6 +1,5 @@
 slug: a-nice-bag-for-the-ipad-booq-boa-push-ipad
 date: 2010-09-28 19:59:06
-title: A nice bag for the iPad: 
 type: video
 ---
 

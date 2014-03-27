@@ -1,6 +1,5 @@
 slug: deutsche-telekom-niederschmetternde-statistik
 date: 2010-05-05 23:17:04
-title: Deutsche Telekom: "Niederschmetternde Statistik"
 type: link
 ---
 

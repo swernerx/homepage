@@ -1,6 +1,5 @@
 slug: the-out-of-the-box-experience-of-webos-is
 date: 2011-08-24 09:17:28
-title: The out of the box experience of WebOS is incredible. In many ways,...
 type: quote
 ---
 

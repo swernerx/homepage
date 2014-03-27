@@ -1,6 +1,5 @@
 slug: if-the-legacy-news-institutions-lose-their-value
 date: 2013-06-06 08:53:20
-title: If the legacy [news] institutions lose their value — their trust,...
 type: quote
 ---
 

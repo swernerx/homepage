@@ -1,6 +1,5 @@
 slug: if-the-history-of-web-standards-has-shown-us
 date: 2010-07-08 14:26:54
-title: If the history of web standards has shown us anything, it’s that...
 type: quote
 ---
 

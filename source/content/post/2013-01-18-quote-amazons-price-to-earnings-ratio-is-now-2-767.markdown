@@ -1,6 +1,5 @@
 slug: amazons-price-to-earnings-ratio-is-now-2-767
 date: 2013-01-18 08:44:36
-title: Amazon’s price-to-earnings ratio is now 2,767. Apple’s is 13. And...
 type: quote
 ---
 

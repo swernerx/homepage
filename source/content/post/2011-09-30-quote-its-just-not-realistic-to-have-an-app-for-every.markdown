@@ -1,6 +1,5 @@
 slug: its-just-not-realistic-to-have-an-app-for-every
 date: 2011-09-30 13:42:39
-title: It’s just not realistic to have an app for every store you go to,...
 type: quote
 ---
 

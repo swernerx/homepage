@@ -1,6 +1,5 @@
 slug: think-slightly-different-covered-by-conan
 date: 2012-08-08 10:41:25
-title: Think slightly different. Covered by Conan: 
 type: video
 ---
 

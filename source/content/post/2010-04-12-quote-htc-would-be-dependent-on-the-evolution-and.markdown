@@ -1,6 +1,5 @@
 slug: htc-would-be-dependent-on-the-evolution-and
 date: 2010-04-12 23:01:15
-title: HTC would be dependent on the evolution and success of the Android...
 type: quote
 ---
 

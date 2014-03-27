@@ -1,6 +1,5 @@
 slug: my-recommendation-is-that-apps-should-expire-their
 date: 2010-05-17 23:23:24
-title: My recommendation is that apps should expire their saved states after...
 type: quote
 ---
 

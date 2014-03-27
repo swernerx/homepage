@@ -1,6 +1,5 @@
 slug: wallaby-is-going-to-flood-the-internet-with-even
 date: 2011-03-09 11:21:20
-title: Wallaby is going to flood the Internet with even crappier HTML5...
 type: quote
 ---
 

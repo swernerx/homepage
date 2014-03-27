@@ -1,6 +1,5 @@
 slug: css-transition-end-events-dropshado-ws
 date: 2010-10-25 12:03:24
-title: CSS Transition End Events · dropshado.ws
 type: link
 ---
 

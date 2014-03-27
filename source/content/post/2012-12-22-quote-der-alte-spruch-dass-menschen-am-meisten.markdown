@@ -1,6 +1,5 @@
 slug: der-alte-spruch-dass-menschen-am-meisten
 date: 2012-12-22 14:36:47
-title: Der alte Spruch, dass Menschen am meisten interessiert, was vor ihrer...
 type: quote
 ---
 

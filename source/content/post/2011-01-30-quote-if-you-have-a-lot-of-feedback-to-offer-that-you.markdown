@@ -1,6 +1,5 @@
 slug: if-you-have-a-lot-of-feedback-to-offer-that-you
 date: 2011-01-30 21:28:23
-title: If you have a lot of feedback to offer that you think might be a...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: i-believe-part-of-the-reason-palm-failed-with-its
 date: 2010-05-31 22:57:23
-title: I believe part of the reason Palm failed with its WebOS approach is...
 type: quote
 ---
 

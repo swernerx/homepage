@@ -1,6 +1,5 @@
 slug: the-average-person-cant-ignore-something-thats
 date: 2011-07-02 14:12:28
-title: The average person can’t ignore something that’s been beaten into...
 type: quote
 ---
 

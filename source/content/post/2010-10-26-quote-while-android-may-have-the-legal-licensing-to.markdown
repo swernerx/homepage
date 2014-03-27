@@ -1,6 +1,5 @@
 slug: while-android-may-have-the-legal-licensing-to
 date: 2010-10-26 21:27:54
-title: While Android may have the legal licensing to qualify as open source,...
 type: quote
 ---
 

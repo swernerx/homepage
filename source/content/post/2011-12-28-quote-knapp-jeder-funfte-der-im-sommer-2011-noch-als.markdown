@@ -1,6 +1,5 @@
 slug: knapp-jeder-funfte-der-im-sommer-2011-noch-als
 date: 2011-12-28 10:22:52
-title: Knapp jeder Fünfte, der im Sommer 2011 noch als Investmentbanker...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: most-businesses-wont-lower-salaries-except-in
 date: 2011-01-23 14:27:55
-title: Most businesses won’t lower salaries except in extraordinary...
 type: quote
 ---
 

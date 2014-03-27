@@ -1,6 +1,5 @@
 slug: when-you-live-in-the-apple-ecosystem-you-make-a
 date: 2011-03-04 14:05:46
-title: When you live in the Apple ecosystem, you make a deal with Apple:...
 type: quote
 ---
 

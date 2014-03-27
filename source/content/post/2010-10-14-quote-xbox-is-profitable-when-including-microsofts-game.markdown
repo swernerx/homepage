@@ -1,6 +1,5 @@
 slug: xbox-is-profitable-when-including-microsofts-game
 date: 2010-10-14 20:40:51
-title: Xbox is profitable when including Microsoft’s game sales.
 type: quote
 ---
 

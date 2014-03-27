@@ -1,6 +1,5 @@
 slug: emarketer-prognostiziert-dass-2011-rund-190
 date: 2011-03-04 23:25:29
-title: eMarketer prognostiziert, dass 2011 rund 190 Millionen Werbe-Dollar...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: creating-experiences-in-which-users-are-only-asked
 date: 2013-04-07 15:53:07
-title: Creating experiences in which users are only asked relevant...
 type: quote
 ---
 

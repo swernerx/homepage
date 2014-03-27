@@ -1,6 +1,5 @@
 slug: adobe-is-acknowledging-that-apple-has-won-when-it
 date: 2011-09-09 19:54:11
-title: Adobe is acknowledging that Apple has won when it comes to Flash.
 type: quote
 ---
 

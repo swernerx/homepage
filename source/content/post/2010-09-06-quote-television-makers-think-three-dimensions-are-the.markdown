@@ -1,6 +1,5 @@
 slug: television-makers-think-three-dimensions-are-the
 date: 2010-09-06 23:56:28
-title: Television makers think three dimensions are the next big thing after...
 type: quote
 ---
 

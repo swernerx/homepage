@@ -1,6 +1,5 @@
 slug: google-the-company-responsible-for-android-is
 date: 2012-07-08 10:01:50
-title: Google, the company responsible for Android, is still building for...
 type: quote
 ---
 

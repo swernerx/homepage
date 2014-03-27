@@ -1,6 +1,5 @@
 slug: weil-wir-als-gebuhrenfinanzierter
 date: 2011-07-21 13:45:41
-title: Weil wir als gebührenfinanzierter öffentlich-rechtlicher Rundfunk die...
 type: quote
 ---
 

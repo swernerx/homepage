@@ -1,6 +1,5 @@
 slug: apples-new-hq-are-simply-awesome
 date: 2011-08-14 14:29:31
-title: Apple’s new HQ are simply awesome.
 type: photo
 ---
 

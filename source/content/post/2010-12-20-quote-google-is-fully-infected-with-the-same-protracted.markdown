@@ -1,6 +1,5 @@
 slug: google-is-fully-infected-with-the-same-protracted
 date: 2010-12-20 22:01:53
-title: Google is fully infected with the same protracted, end-stage wasting...
 type: quote
 ---
 

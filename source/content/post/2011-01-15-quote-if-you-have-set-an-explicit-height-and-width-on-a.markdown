@@ -1,6 +1,5 @@
 slug: if-you-have-set-an-explicit-height-and-width-on-a
 date: 2011-01-15 21:41:35
-title: If you have set an explicit height and width on a replaced element,...
 type: quote
 ---
 

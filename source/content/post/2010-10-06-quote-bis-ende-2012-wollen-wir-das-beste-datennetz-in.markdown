@@ -1,6 +1,5 @@
 slug: bis-ende-2012-wollen-wir-das-beste-datennetz-in
 date: 2010-10-06 18:45:18
-title: Bis Ende 2012 wollen wir das beste Datennetz in Deutschland haben.
 type: quote
 ---
 

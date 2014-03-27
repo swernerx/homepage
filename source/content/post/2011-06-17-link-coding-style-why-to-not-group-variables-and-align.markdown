@@ -1,6 +1,5 @@
 slug: coding-style-why-to-not-group-variables-and-align
 date: 2011-06-17 12:49:05
-title: Coding Style: Why to not group variables and align equals
 type: link
 ---
 

@@ -1,6 +1,5 @@
 slug: windows-phone-mango-is-really-really-good-nearly
 date: 2011-11-21 18:30:06
-title: Windows Phone Mango is really, really good. Nearly nothing about...
 type: quote
 ---
 

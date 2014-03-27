@@ -1,6 +1,5 @@
 slug: with-the-understanding-that-even-successful
 date: 2013-07-03 09:05:05
-title: With the understanding that even successful products can be killed in...
 type: quote
 ---
 

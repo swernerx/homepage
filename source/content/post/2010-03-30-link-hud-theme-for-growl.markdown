@@ -1,6 +1,5 @@
 slug: hud-theme-for-growl
 date: 2010-03-30 09:29:00
-title: HUD Theme for Growl
 type: link
 ---
 

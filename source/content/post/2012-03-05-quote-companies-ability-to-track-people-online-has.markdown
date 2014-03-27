@@ -1,6 +1,5 @@
 slug: companies-ability-to-track-people-online-has
 date: 2012-03-05 08:47:09
-title: Companies’ ability to track people online has significantly outpaced...
 type: quote
 ---
 

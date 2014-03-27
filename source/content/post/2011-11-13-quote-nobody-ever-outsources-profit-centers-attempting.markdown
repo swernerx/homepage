@@ -1,6 +1,5 @@
 slug: nobody-ever-outsources-profit-centers-attempting
 date: 2011-11-13 17:36:47
-title: Nobody ever outsources Profit Centers. Attempting to do so would be...
 type: quote
 ---
 

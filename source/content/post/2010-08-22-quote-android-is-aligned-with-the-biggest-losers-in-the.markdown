@@ -1,6 +1,5 @@
 slug: android-is-aligned-with-the-biggest-losers-in-the
 date: 2010-08-22 14:22:15
-title: Android is aligned with the biggest losers in the industry.
 type: quote
 ---
 

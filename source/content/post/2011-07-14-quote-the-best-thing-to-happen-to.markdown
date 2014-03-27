@@ -1,6 +1,5 @@
 slug: the-best-thing-to-happen-to
 date: 2011-07-14 19:27:35
-title: The best thing to happen to software-patent-disliking geeks might be...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-problem-with-this-is-the-via-web-part-for
 date: 2010-05-28 14:15:53
-title: The problem with this is the “via web” part. For mobile and desktop...
 type: quote
 ---
 

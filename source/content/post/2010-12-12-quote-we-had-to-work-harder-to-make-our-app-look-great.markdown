@@ -1,6 +1,5 @@
 slug: we-had-to-work-harder-to-make-our-app-look-great
 date: 2010-12-12 16:25:16
-title: We had to work harder to make our app look great and feel great on...
 type: quote
 ---
 

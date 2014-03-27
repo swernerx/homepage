@@ -1,6 +1,5 @@
 slug: it-is-now-usually-cheaper-to-just-try-something
 date: 2013-04-23 15:32:37
-title: It is now usually cheaper to just try something than to sit around...
 type: quote
 ---
 

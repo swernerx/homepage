@@ -1,6 +1,5 @@
 slug: in-hamburg-und-frankfurt-dagegen-sind-auch
 date: 2010-09-11 23:30:29
-title: In Hamburg und Frankfurt dagegen sind auch hässliche Wohnungen schon...
 type: quote
 ---
 

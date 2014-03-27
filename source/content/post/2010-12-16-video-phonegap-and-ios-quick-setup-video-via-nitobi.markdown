@@ -1,6 +1,5 @@
 slug: phonegap-and-ios-quick-setup-video-via-nitobi
 date: 2010-12-16 16:41:08
-title: 
 type: video
 ---
 

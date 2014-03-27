@@ -1,6 +1,5 @@
 slug: stunning-introducing-the-nest-learning-thermostat
 date: 2011-10-26 11:02:55
-title: Stunning: Introducing the Nest Learning Thermostat (von 
 type: video
 ---
 

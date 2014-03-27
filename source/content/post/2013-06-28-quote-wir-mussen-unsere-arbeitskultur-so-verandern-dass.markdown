@@ -1,6 +1,5 @@
 slug: wir-mussen-unsere-arbeitskultur-so-verandern-dass
 date: 2013-06-28 09:46:41
-title: Wir müssen unsere Arbeitskultur so verändern, dass der Mittagsschlaf...
 type: quote
 ---
 

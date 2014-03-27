@@ -1,6 +1,5 @@
 slug: entrepreneurs-breakdowns-and-breakthroughs-von
 date: 2012-10-22 11:53:28
-title: Entrepreneurs Breakdowns and Breakthroughs (von 
 type: video
 ---
 

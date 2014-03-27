@@ -1,6 +1,5 @@
 slug: the-difference-between-nerd-dork-and-geek
 date: 2010-04-06 21:53:00
-title: 
 type: photo
 ---
 

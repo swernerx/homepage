@@ -1,6 +1,5 @@
 slug: unabhangig-recherchierter-journalismus-hat-seinen
 date: 2012-11-22 18:21:19
-title: Unabhängig recherchierter Journalismus hat seinen Preis und seinen...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: das-zdf-wird-am-5-september-seine-mediathek-auch
 date: 2011-09-02 17:46:17
-title: Das ZDF wird am 5. September seine Mediathek auch auf Smartphones und...
 type: quote
 ---
 

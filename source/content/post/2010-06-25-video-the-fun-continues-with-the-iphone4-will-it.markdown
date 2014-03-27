@@ -1,6 +1,5 @@
 slug: the-fun-continues-with-the-iphone4-will-it
 date: 2010-06-25 23:33:34
-title: The fun continues with the iPhone4: 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: die-erfolgreichsten-grunder-werden-mehr-von
 date: 2011-06-02 10:15:39
-title: Die erfolgreichsten Gründer werden mehr von Gründergeist und...
 type: quote
 ---
 

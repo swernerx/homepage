@@ -1,6 +1,5 @@
 slug: people-are-inherently-conservative-and-you-cant
 date: 2011-07-04 08:34:59
-title: People are inherently conservative and you can’t compete with comfort...
 type: quote
 ---
 

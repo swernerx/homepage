@@ -1,6 +1,5 @@
 slug: dare-to-dream-why-jquery-proxy-rocks-my-world
 date: 2011-04-28 18:50:25
-title: Dare to Dream? - Why jQuery.proxy rocks my world!
 type: link
 ---
 

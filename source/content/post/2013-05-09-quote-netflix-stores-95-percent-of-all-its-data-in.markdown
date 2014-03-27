@@ -1,6 +1,5 @@
 slug: netflix-stores-95-percent-of-all-its-data-in
 date: 2013-05-09 09:03:11
-title: Netflix stores 95 percent of all its data in Cassandra, including...
 type: quote
 ---
 

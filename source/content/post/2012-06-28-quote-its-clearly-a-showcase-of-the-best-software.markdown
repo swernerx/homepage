@@ -1,6 +1,5 @@
 slug: its-clearly-a-showcase-of-the-best-software
 date: 2012-06-28 10:30:42
-title: It’s clearly a showcase of the best software experience and features...
 type: quote
 ---
 

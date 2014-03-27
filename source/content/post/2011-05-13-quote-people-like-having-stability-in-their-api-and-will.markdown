@@ -1,6 +1,5 @@
 slug: people-like-having-stability-in-their-api-and-will
 date: 2011-05-13 18:15:45
-title: People like having stability in their API and will cherish that over...
 type: quote
 ---
 

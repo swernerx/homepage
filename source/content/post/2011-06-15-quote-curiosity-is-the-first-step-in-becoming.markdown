@@ -1,6 +1,5 @@
 slug: curiosity-is-the-first-step-in-becoming
 date: 2011-06-15 18:39:52
-title: Curiosity is the first step in becoming design-literate: wondering...
 type: quote
 ---
 

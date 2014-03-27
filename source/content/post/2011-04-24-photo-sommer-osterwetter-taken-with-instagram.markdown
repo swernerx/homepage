@@ -1,6 +1,5 @@
 slug: sommer-osterwetter-taken-with-instagram
 date: 2011-04-24 10:23:03
-title: Sommer-Osterwetter (Taken with 
 type: photo
 ---
 

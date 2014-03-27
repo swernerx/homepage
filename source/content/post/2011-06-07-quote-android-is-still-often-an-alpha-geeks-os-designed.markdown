@@ -1,6 +1,5 @@
 slug: android-is-still-often-an-alpha-geeks-os-designed
 date: 2011-06-07 10:03:30
-title: Android is still often an alpha geek’s OS designed for those...
 type: quote
 ---
 

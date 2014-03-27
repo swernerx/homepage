@@ -1,6 +1,5 @@
 slug: there-is-a-extreme-fear-of-failure-and-lack-of
 date: 2011-09-08 23:47:00
-title: There is a extreme fear of failure and lack of desire in agencies to...
 type: quote
 ---
 

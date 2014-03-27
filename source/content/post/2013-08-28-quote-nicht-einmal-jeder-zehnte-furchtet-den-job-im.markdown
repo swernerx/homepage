@@ -1,6 +1,5 @@
 slug: nicht-einmal-jeder-zehnte-furchtet-den-job-im
 date: 2013-08-28 18:35:41
-title: Nicht einmal jeder zehnte fürchtet, den Job im nächsten halben Jahr...
 type: quote
 ---
 

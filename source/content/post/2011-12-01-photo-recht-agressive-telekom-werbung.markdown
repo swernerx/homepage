@@ -1,6 +1,5 @@
 slug: recht-agressive-telekom-werbung
 date: 2011-12-01 11:14:37
-title: Recht agressive Telekom-Werbung.
 type: photo
 ---
 

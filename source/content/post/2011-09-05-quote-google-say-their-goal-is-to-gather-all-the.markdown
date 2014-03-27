@@ -1,6 +1,5 @@
 slug: google-say-their-goal-is-to-gather-all-the
 date: 2011-09-05 20:32:15
-title: Google say their goal is to gather all the knowledge in the world in...
 type: quote
 ---
 

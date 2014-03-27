@@ -1,6 +1,5 @@
 slug: androids-market-share-peaked-in-march-and-is-now
 date: 2011-06-24 18:02:30
-title: Android’s market share peaked in March, and is now on the decline as...
 type: quote
 ---
 

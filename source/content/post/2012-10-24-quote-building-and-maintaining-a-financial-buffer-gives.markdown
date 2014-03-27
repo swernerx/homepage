@@ -1,6 +1,5 @@
 slug: building-and-maintaining-a-financial-buffer-gives
 date: 2012-10-24 16:21:59
-title: Building and maintaining a financial buffer gives you choices and...
 type: quote
 ---
 

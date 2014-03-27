@@ -1,6 +1,5 @@
 slug: forklift-the-most-advanced-file-manager-for-mac
 date: 2010-05-02 13:02:42
-title: ForkLift – the most advanced file manager for Mac
 type: link
 ---
 

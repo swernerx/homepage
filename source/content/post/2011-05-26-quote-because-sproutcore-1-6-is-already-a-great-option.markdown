@@ -1,6 +1,5 @@
 slug: because-sproutcore-1-6-is-already-a-great-option
 date: 2011-05-26 08:49:22
-title: Because SproutCore 1.6 is already a great option for writing...
 type: quote
 ---
 

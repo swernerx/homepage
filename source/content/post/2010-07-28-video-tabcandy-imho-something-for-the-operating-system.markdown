@@ -1,6 +1,5 @@
 slug: tabcandy-imho-something-for-the-operating-system
 date: 2010-07-28 22:42:10
-title: TabCandy: IMHO something for the operating system - OS wide. Nice,...
 type: video
 ---
 

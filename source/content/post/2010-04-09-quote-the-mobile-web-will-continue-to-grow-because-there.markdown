@@ -1,6 +1,5 @@
 slug: the-mobile-web-will-continue-to-grow-because-there
 date: 2010-04-09 09:44:33
-title: The mobile web will continue to grow because there is no other way of...
 type: quote
 ---
 

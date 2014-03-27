@@ -1,6 +1,5 @@
 slug: when-efficiency-matters-it-is-easier-to-see-where
 date: 2011-06-25 10:28:46
-title: When efficiency matters, it is easier to see where the efficiency...
 type: quote
 ---
 

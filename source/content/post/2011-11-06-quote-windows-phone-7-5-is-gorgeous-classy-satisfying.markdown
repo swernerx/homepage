@@ -1,6 +1,5 @@
 slug: windows-phone-7-5-is-gorgeous-classy-satisfying
 date: 2011-11-06 22:44:36
-title: Windows Phone 7.5 is gorgeous, classy, satisfying, fast and coherent...
 type: quote
 ---
 

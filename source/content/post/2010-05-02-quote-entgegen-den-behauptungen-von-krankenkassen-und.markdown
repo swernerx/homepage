@@ -1,6 +1,5 @@
 slug: entgegen-den-behauptungen-von-krankenkassen-und
 date: 2010-05-02 13:12:20
-title: Entgegen den Behauptungen von Krankenkassen und Politik bekommt nicht...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: micro-payment-doesnt-work-because-the-act-of
 date: 2011-06-17 22:37:07
-title: Micro payment doesn’t work, because the act of buying anything, even...
 type: quote
 ---
 

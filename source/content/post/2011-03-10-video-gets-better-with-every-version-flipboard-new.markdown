@@ -1,6 +1,5 @@
 slug: gets-better-with-every-version-flipboard-new
 date: 2011-03-10 16:04:05
-title: Gets better with every version: 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: digital-is-the-only-ticket-to-the-future-young
 date: 2012-12-30 15:55:30
-title: Digital is the only ticket to the future - young generations are not...
 type: quote
 ---
 

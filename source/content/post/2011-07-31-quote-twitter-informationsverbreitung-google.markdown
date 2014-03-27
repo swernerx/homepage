@@ -1,6 +1,5 @@
 slug: twitter-informationsverbreitung-google
 date: 2011-07-31 02:06:07
-title: Twitter = Informationsverbreitung Google+ = Diskussion Facebok =...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apples-position-in-tablet-user-interface
 date: 2010-10-07 12:44:15
-title: Apple’s position in tablet user interface, applications and content...
 type: quote
 ---
 

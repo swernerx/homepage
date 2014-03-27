@@ -1,6 +1,5 @@
 slug: mag-die-welt-auch-von-einem-abschwung-zum-nachsten
 date: 2012-10-06 09:29:43
-title: Mag die Welt auch von einem Abschwung zum nächsten taumeln - wo...
 type: quote
 ---
 

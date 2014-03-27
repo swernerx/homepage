@@ -1,6 +1,5 @@
 slug: the-ingredients-to-our-early-success-are-fairly
 date: 2011-08-08 18:57:15
-title: The ingredients to our early success are fairly simple: build a...
 type: quote
 ---
 

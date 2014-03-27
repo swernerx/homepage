@@ -1,8 +1,5 @@
 slug: the-real-tablet-market-via-when-genuine-data
 date: 2013-10-28 11:43:17
-title: The “real” tablet market.
-
- Via: 
 type: photo
 ---
 

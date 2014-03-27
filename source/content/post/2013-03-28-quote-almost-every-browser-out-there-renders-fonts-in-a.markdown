@@ -1,6 +1,5 @@
 slug: almost-every-browser-out-there-renders-fonts-in-a
 date: 2013-03-28 14:27:42
-title: Almost every browser out there renders fonts in a different way than...
 type: quote
 ---
 

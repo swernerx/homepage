@@ -1,6 +1,5 @@
 slug: android-is-still-partly-open-source-and-is-less
 date: 2010-08-24 00:15:17
-title: Android is still partly open source and is less strictly controlled,...
 type: quote
 ---
 

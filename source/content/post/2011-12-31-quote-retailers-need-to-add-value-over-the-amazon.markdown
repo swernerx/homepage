@@ -1,6 +1,5 @@
 slug: retailers-need-to-add-value-over-the-amazon
 date: 2011-12-31 15:45:26
-title: Retailers need to add value over the Amazon experience, in ways that...
 type: quote
 ---
 

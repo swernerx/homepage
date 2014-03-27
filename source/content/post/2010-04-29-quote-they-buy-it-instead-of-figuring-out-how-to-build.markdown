@@ -1,6 +1,5 @@
 slug: they-buy-it-instead-of-figuring-out-how-to-build
 date: 2010-04-29 23:05:04
-title: They buy it instead of figuring out how to build it.
 type: quote
 ---
 

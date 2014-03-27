@@ -1,6 +1,5 @@
 slug: le-ministere-de-lintegration-apple-is-using-sass-and
 date: 2013-05-24 10:51:41
-title: Le ministère de l'intégration: Apple Is Using Sass, And They're Doing...
 type: link
 ---
 

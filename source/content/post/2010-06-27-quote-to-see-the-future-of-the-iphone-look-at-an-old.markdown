@@ -1,6 +1,5 @@
 slug: to-see-the-future-of-the-iphone-look-at-an-old
 date: 2010-06-27 21:54:31
-title: To see the future of the iPhone, look at an old top-end Nokia.
 type: quote
 ---
 

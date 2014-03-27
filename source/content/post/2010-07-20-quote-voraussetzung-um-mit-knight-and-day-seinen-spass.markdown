@@ -1,6 +1,5 @@
 slug: voraussetzung-um-mit-knight-and-day-seinen-spass
 date: 2010-07-20 09:28:51
-title: Voraussetzung, um mit „Knight And Day” seinen Spaß zu haben,...
 type: quote
 ---
 

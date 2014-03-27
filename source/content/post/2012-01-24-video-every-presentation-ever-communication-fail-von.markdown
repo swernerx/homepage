@@ -1,6 +1,5 @@
 slug: every-presentation-ever-communication-fail-von
 date: 2012-01-24 11:01:13
-title: Every Presentation Ever: Communication FAIL (von 
 type: video
 ---
 

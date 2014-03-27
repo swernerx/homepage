@@ -1,6 +1,5 @@
 slug: the-naive-assumption-among-most-laypeople-is-that
 date: 2011-10-28 22:12:53
-title: The naive assumption among most laypeople is that the eye functions...
 type: quote
 ---
 

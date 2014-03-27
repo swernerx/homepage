@@ -1,6 +1,5 @@
 slug: the-main-source-of-value-for-newspapers-is
 date: 2011-06-17 22:18:15
-title: The main source of value for newspapers is reporting on events in the...
 type: quote
 ---
 

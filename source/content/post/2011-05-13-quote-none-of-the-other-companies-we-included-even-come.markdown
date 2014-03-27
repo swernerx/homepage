@@ -1,6 +1,5 @@
 slug: none-of-the-other-companies-we-included-even-come
 date: 2011-05-13 22:15:54
-title: None of the other companies we included even come close to the...
 type: quote
 ---
 

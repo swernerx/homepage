@@ -1,6 +1,5 @@
 slug: our-strategy-has-shifted-silverlight-will
 date: 2010-10-30 12:19:14
-title: Our strategy has shifted. Silverlight will continue to be a...
 type: quote
 ---
 

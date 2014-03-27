@@ -1,6 +1,5 @@
 slug: alle-vier-varianten-von-complete-mobil-erlauben-im
 date: 2010-10-11 13:41:59
-title: Alle vier Varianten von Complete Mobil erlauben im deutschen Telekom...
 type: quote
 ---
 

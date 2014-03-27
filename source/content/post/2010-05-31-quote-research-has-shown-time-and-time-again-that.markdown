@@ -1,6 +1,5 @@
 slug: research-has-shown-time-and-time-again-that
 date: 2010-05-31 21:43:25
-title: Research has shown time and time again that consumers don’t want the...
 type: quote
 ---
 

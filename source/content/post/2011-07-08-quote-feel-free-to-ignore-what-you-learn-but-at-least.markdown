@@ -1,6 +1,5 @@
 slug: feel-free-to-ignore-what-you-learn-but-at-least
 date: 2011-07-08 16:43:23
-title: Feel free to ignore what you learn, but at least learn it.
 type: quote
 ---
 

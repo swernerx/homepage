@@ -1,6 +1,5 @@
 slug: you-cant-fix-what-you-wont-admit-is-wrong
 date: 2012-02-20 09:03:59
-title: You can’t fix what you won’t admit is wrong.
 type: quote
 ---
 

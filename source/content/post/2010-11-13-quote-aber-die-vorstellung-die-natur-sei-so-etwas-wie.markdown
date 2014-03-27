@@ -1,6 +1,5 @@
 slug: aber-die-vorstellung-die-natur-sei-so-etwas-wie
 date: 2010-11-13 09:58:26
-title: Aber die Vorstellung, die Natur sei so etwas wie ein Museum der...
 type: quote
 ---
 

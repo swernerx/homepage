@@ -1,6 +1,5 @@
 slug: harvard-professor-invents-a-caffeine-inhaler
 date: 2011-10-22 16:36:45
-title: 
 type: photo
 ---
 

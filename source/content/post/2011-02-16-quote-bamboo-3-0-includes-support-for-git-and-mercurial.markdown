@@ -1,6 +1,5 @@
 slug: bamboo-3-0-includes-support-for-git-and-mercurial
 date: 2011-02-16 17:50:40
-title: Bamboo 3.0 includes support for Git and Mercurial DVCS, a fresh UI, a...
 type: quote
 ---
 

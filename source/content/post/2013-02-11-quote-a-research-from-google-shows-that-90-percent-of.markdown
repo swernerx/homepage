@@ -1,6 +1,5 @@
 slug: a-research-from-google-shows-that-90-percent-of
 date: 2013-02-11 09:02:14
-title: A Research from Google shows that 90 percent of people start a task...
 type: quote
 ---
 

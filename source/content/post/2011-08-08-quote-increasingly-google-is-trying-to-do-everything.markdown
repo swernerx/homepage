@@ -1,6 +1,5 @@
 slug: increasingly-google-is-trying-to-do-everything
 date: 2011-08-08 08:51:25
-title: Increasingly, Google is trying to do everything. And they have the...
 type: quote
 ---
 

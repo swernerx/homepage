@@ -1,6 +1,5 @@
 slug: it-screams-everything-happens-instantly
 date: 2010-06-11 00:31:47
-title: It screams. Everything happens instantly.
 type: quote
 ---
 

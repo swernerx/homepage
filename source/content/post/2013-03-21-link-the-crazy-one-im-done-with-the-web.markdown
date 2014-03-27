@@ -1,6 +1,5 @@
 slug: the-crazy-one-im-done-with-the-web
 date: 2013-03-21 17:12:55
-title: The Crazy One: I'm done with the web
 type: link
 ---
 

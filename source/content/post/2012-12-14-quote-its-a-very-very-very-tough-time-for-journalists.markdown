@@ -1,6 +1,5 @@
 slug: its-a-very-very-very-tough-time-for-journalists
 date: 2012-12-14 16:17:19
-title: It’s a very, very, very tough time for journalists right now.
 type: quote
 ---
 

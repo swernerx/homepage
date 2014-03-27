@@ -1,6 +1,5 @@
 slug: die-vermogensfrage-zinsrechnen-ist-fur-viele-ein
 date: 2011-01-10 00:31:58
-title: Die Vermögensfrage: Zinsrechnen ist für viele ein Rätsel
 type: link
 ---
 

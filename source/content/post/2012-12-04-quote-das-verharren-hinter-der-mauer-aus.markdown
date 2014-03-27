@@ -1,6 +1,5 @@
 slug: das-verharren-hinter-der-mauer-aus
 date: 2012-12-04 08:54:52
-title: Das Verharren hinter der Mauer aus Anspruchsdenken, früheren Erfolgen...
 type: quote
 ---
 

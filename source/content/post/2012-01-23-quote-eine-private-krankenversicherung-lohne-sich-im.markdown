@@ -1,6 +1,5 @@
 slug: eine-private-krankenversicherung-lohne-sich-im
 date: 2012-01-23 10:31:35
-title: Eine private Krankenversicherung lohne sich im Grunde nur, wenn alle...
 type: quote
 ---
 

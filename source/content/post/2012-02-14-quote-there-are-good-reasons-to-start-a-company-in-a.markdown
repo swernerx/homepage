@@ -1,6 +1,5 @@
 slug: there-are-good-reasons-to-start-a-company-in-a
 date: 2012-02-14 12:28:20
-title: There are good reasons to start a company in a particular place, or...
 type: quote
 ---
 

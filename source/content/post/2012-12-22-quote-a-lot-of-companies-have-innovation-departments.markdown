@@ -1,6 +1,5 @@
 slug: a-lot-of-companies-have-innovation-departments
 date: 2012-12-22 16:58:06
-title: A lot of companies have innovation departments, and this is always a...
 type: quote
 ---
 

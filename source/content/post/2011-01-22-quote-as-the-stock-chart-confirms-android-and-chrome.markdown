@@ -1,6 +1,5 @@
 slug: as-the-stock-chart-confirms-android-and-chrome
 date: 2011-01-22 10:22:19
-title: As the stock chart confirms, Android and Chrome are, if successful,...
 type: quote
 ---
 

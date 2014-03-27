@@ -1,6 +1,5 @@
 slug: beyond-features-and-bug-fixes-one-of-the-biggest
 date: 2011-08-07 00:30:18
-title: Beyond features and bug fixes, one of the biggest changes is speed.
 type: quote
 ---
 

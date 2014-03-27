@@ -1,6 +1,5 @@
 slug: google-made-a-mistake-by-deciding-to-oppose-rather
 date: 2012-06-12 14:11:36
-title: Google made a mistake by deciding to oppose rather than ally with...
 type: quote
 ---
 

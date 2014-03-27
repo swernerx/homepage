@@ -1,6 +1,5 @@
 slug: i-dont-understand-the-current-trend-in-ui-design
 date: 2011-07-24 00:21:58
-title: I don’t understand the current trend in UI design that drives...
 type: quote
 ---
 

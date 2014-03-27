@@ -1,6 +1,5 @@
 slug: tageszeitungen-sind-ein-geschaft-mit-heftigem
 date: 2012-12-22 14:03:04
-title: Tageszeitungen sind ein Geschäft mit heftigem Skaleneffekt. Die...
 type: quote
 ---
 

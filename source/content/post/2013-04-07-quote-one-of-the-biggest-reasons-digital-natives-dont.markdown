@@ -1,6 +1,5 @@
 slug: one-of-the-biggest-reasons-digital-natives-dont
 date: 2013-04-07 15:53:05
-title: One of the biggest reasons Digital Natives don’t read newspapers is...
 type: quote
 ---
 

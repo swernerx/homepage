@@ -1,6 +1,5 @@
 slug: its-pretty-humiliating-for-the-redmond-company
 date: 2011-06-10 16:27:25
-title: It’s pretty humiliating for the Redmond company that Apple did what...
 type: quote
 ---
 

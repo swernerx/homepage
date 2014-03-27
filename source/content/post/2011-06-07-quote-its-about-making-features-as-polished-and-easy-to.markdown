@@ -1,6 +1,5 @@
 slug: its-about-making-features-as-polished-and-easy-to
 date: 2011-06-07 10:07:01
-title: It’s about making features as polished and easy to understand...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: string-concatenation-is-just-as-crap-as-its
 date: 2011-05-10 10:01:19
-title: String concatenation is just as crap as it’s always been, only...
 type: quote
 ---
 

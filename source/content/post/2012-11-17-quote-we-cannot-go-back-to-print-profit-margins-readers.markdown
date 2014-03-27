@@ -1,6 +1,5 @@
 slug: we-cannot-go-back-to-print-profit-margins-readers
 date: 2012-11-17 17:52:13
-title: We cannot go back to print profit margins: readers have left, and...
 type: quote
 ---
 

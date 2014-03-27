@@ -1,6 +1,5 @@
 slug: the-industry-suffering-declines-in-print
 date: 2012-04-27 08:31:17
-title: The industry, suffering declines in print advertising, hasn’t been...
 type: quote
 ---
 

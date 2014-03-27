@@ -1,6 +1,5 @@
 slug: why-not-try-to-figure-out-what-your-readers-or
 date: 2012-11-17 17:54:45
-title: Why not try to figure out what your readers or users are really...
 type: quote
 ---
 

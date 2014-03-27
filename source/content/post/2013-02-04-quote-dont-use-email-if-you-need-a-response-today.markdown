@@ -1,6 +1,5 @@
 slug: dont-use-email-if-you-need-a-response-today
 date: 2013-02-04 23:04:45
-title: Don’t use email if you need a response today.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: you-dont-bring-in-an-enterprise-consulting-guy-to
 date: 2011-08-23 08:32:08
-title: You don’t bring in an enterprise consulting guy to turn around a PC...
 type: quote
 ---
 

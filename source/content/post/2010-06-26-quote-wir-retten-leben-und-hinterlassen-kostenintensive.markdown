@@ -1,6 +1,5 @@
 slug: wir-retten-leben-und-hinterlassen-kostenintensive
 date: 2010-06-26 23:38:35
-title: Wir retten Leben und hinterlassen kostenintensive...
 type: quote
 ---
 

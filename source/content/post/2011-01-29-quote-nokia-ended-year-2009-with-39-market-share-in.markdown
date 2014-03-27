@@ -1,6 +1,5 @@
 slug: nokia-ended-year-2009-with-39-market-share-in
 date: 2011-01-29 10:28:26
-title: Nokia ended year 2009 with 39% market share in smartphones. At the...
 type: quote
 ---
 

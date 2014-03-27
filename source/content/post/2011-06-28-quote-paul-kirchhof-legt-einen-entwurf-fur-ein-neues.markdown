@@ -1,6 +1,5 @@
 slug: paul-kirchhof-legt-einen-entwurf-fur-ein-neues
 date: 2011-06-28 10:58:48
-title: Paul Kirchhof legt einen Entwurf für ein neues, radikal vereinfachtes...
 type: quote
 ---
 

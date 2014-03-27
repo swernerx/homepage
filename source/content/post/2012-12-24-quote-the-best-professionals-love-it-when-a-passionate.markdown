@@ -1,6 +1,5 @@
 slug: the-best-professionals-love-it-when-a-passionate
 date: 2012-12-24 16:03:00
-title: The best professionals love it when a passionate amateur shows up...
 type: quote
 ---
 

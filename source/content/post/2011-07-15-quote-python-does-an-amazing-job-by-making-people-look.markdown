@@ -1,6 +1,5 @@
 slug: python-does-an-amazing-job-by-making-people-look
 date: 2011-07-15 08:45:58
-title: Python does an amazing job by making people look at the broader...
 type: quote
 ---
 

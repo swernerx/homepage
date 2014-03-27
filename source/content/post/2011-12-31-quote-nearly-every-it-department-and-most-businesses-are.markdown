@@ -1,6 +1,5 @@
 slug: nearly-every-it-department-and-most-businesses-are
 date: 2011-12-31 14:30:02
-title: Nearly every IT department and most businesses are focused on the...
 type: quote
 ---
 

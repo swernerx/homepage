@@ -1,6 +1,5 @@
 slug: ich-habe-mich-schon-oft-gefragt-wieso-die-samwers
 date: 2011-11-02 09:41:40
-title: Ich habe mich schon oft gefragt, wieso die Samwers nicht wenigstens...
 type: quote
 ---
 

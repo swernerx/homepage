@@ -1,6 +1,5 @@
 slug: ob-die-verwaltung-mit-dem-geld-dann-wirklich
 date: 2013-10-15 08:23:27
-title: Ob die Verwaltung mit dem Geld dann wirklich Schlaglöcher flickt oder...
 type: quote
 ---
 

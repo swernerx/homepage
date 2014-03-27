@@ -1,6 +1,5 @@
 slug: developers-will-often-read-a-guideline-or-rule
 date: 2013-05-07 09:58:23
-title: Developers will often read a guideline or rule and, in reducing it to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: teaching-dreamweaver-to-web-design-students-is
 date: 2010-11-09 13:03:26
-title: Teaching Dreamweaver to web design students is like teaching...
 type: quote
 ---
 

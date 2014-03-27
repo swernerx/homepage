@@ -1,6 +1,5 @@
 slug: versuche-der-arbeitsagenturen-von-arbeitslosen
 date: 2010-08-18 23:30:35
-title: Versuche der Arbeitsagenturen, von Arbeitslosen eine der...
 type: quote
 ---
 

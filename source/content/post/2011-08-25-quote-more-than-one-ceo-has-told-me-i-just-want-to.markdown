@@ -1,6 +1,5 @@
 slug: more-than-one-ceo-has-told-me-i-just-want-to
 date: 2011-08-25 08:05:26
-title: More than one CEO has told me “I just want to build a product worthy...
 type: quote
 ---
 

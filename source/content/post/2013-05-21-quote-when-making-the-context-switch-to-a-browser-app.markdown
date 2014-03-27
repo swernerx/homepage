@@ -1,6 +1,5 @@
 slug: when-making-the-context-switch-to-a-browser-app
 date: 2013-05-21 09:08:34
-title: When making the context switch to a browser app (especially on a...
 type: quote
 ---
 

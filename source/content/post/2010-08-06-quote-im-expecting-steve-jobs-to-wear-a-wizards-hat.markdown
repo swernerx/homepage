@@ -1,6 +1,5 @@
 slug: im-expecting-steve-jobs-to-wear-a-wizards-hat
 date: 2010-08-06 17:35:12
-title: I’m expecting Steve Jobs to wear a wizard’s hat next time he’s on...
 type: quote
 ---
 

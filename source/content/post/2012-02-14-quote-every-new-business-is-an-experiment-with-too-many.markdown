@@ -1,6 +1,5 @@
 slug: every-new-business-is-an-experiment-with-too-many
 date: 2012-02-14 18:16:12
-title: Every new business is an experiment with too many variables to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: its-just-easier-to-talk-about-product-attributes
 date: 2013-09-23 14:54:53
-title: It’s just easier to talk about product attributes that you can...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: like-it-or-not-aggregation-is-part-of-the-future-of
 date: 2012-12-30 16:27:11
-title: Like it or not, aggregation is part of the future of media — Tech...
 type: link
 ---
 

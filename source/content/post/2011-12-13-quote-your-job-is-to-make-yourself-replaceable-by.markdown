@@ -1,6 +1,5 @@
 slug: your-job-is-to-make-yourself-replaceable-by
 date: 2011-12-13 18:28:14
-title: Your job is to make yourself replaceable by systematizing everything...
 type: quote
 ---
 

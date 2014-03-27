@@ -1,6 +1,5 @@
 slug: an-event-like-saverequest-isnt-something-that
 date: 2013-04-12 16:06:48
-title: An event like “saveRequest” isn’t something that should be ever...
 type: quote
 ---
 

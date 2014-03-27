@@ -1,6 +1,5 @@
 slug: consumer-electronics-are-so-complex-today-that
 date: 2011-01-29 09:57:46
-title: Consumer electronics are so complex today that they can’t simply be a...
 type: quote
 ---
 

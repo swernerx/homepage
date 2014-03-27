@@ -1,6 +1,5 @@
 slug: wer-am-schreibtisch-nicht-allzu-viel-platz-hat-und
 date: 2013-12-05 18:28:51
-title: Wer am Schreibtisch nicht allzu viel Platz hat und nicht unbedingt...
 type: quote
 ---
 

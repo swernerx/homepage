@@ -1,6 +1,5 @@
 slug: absolutely-critical-to-us-is-that-jquery-and-the
 date: 2010-08-13 23:20:25
-title: Absolutely critical to us is that jQuery and the mobile UI framework...
 type: quote
 ---
 

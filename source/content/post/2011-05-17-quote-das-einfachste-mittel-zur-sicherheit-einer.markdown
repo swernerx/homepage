@@ -1,6 +1,5 @@
 slug: das-einfachste-mittel-zur-sicherheit-einer
 date: 2011-05-17 09:34:27
-title: Das einfachste Mittel zur Sicherheit einer Geldanlage, nämlich die...
 type: quote
 ---
 

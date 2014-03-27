@@ -1,6 +1,5 @@
 slug: today-the-market-is-made-up-of-ordinary-people-and
 date: 2011-07-11 02:49:58
-title: Today the market is made up of ordinary people and they have a very...
 type: quote
 ---
 

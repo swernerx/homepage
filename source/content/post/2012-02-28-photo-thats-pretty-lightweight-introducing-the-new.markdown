@@ -1,6 +1,5 @@
 slug: thats-pretty-lightweight-introducing-the-new
 date: 2012-02-28 23:44:53
-title: That’s pretty lightweight: 
 type: photo
 ---
 

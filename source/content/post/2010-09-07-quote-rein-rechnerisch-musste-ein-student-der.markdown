@@ -1,6 +1,5 @@
 slug: rein-rechnerisch-musste-ein-student-der
 date: 2010-09-07 11:12:42
-title: Rein rechnerisch, müsste ein Student der Fachhochschule bei einem...
 type: quote
 ---
 

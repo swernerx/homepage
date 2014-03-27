@@ -1,6 +1,5 @@
 slug: now-that-we-support-hardware-compositing-in
 date: 2010-09-10 08:11:17
-title: Now that we support hardware compositing in Chromium, it’s easy to...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: a-car-interface-rethought-via-toyota-doko
 date: 2012-07-24 14:05:10
-title: A car interface rethought - via 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: give-google-a-technology-challenge-build-the
 date: 2010-05-16 19:08:00
-title: Give Google a technology challenge—Build the largest search index...
 type: quote
 ---
 

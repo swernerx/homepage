@@ -1,6 +1,5 @@
 slug: you-can-never-overpay-a-good-player-you-can-only
 date: 2012-11-17 17:53:32
-title: You can never overpay a good player. You can only overpay a bad one.
 type: quote
 ---
 

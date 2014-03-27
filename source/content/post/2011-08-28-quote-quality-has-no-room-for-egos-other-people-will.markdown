@@ -1,6 +1,5 @@
 slug: quality-has-no-room-for-egos-other-people-will
 date: 2011-08-28 15:29:50
-title: Quality has no room for egos. Other people will have better...
 type: quote
 ---
 

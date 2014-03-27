@@ -1,6 +1,5 @@
 slug: apple-dont-rush-a-crappy-product-to-market-to
 date: 2011-08-19 09:03:43
-title: Apple don’t rush a crappy product to market to take advantage of...
 type: quote
 ---
 

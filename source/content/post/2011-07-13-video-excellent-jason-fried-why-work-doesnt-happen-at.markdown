@@ -1,6 +1,5 @@
 slug: excellent-jason-fried-why-work-doesnt-happen-at
 date: 2011-07-13 04:14:37
-title: Excellent: 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: ios-7-is-version-1-0-of-an-os-for-the-next-five
 date: 2013-06-12 15:00:08
-title: iOS 7 is version 1.0 of an OS for the next five years.
 type: quote
 ---
 

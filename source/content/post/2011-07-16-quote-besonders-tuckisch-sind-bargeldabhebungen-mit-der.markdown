@@ -1,6 +1,5 @@
 slug: besonders-tuckisch-sind-bargeldabhebungen-mit-der
 date: 2011-07-16 08:06:54
-title: Besonders tückisch sind Bargeldabhebungen mit der Mastercard Gold der...
 type: quote
 ---
 

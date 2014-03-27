@@ -1,6 +1,5 @@
 slug: iphone-4-survives-13-500-foot-fall-from-skydivers
 date: 2011-07-19 04:52:45
-title: 
 type: photo
 ---
 

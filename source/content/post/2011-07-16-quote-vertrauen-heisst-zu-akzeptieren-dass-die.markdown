@@ -1,6 +1,5 @@
 slug: vertrauen-heisst-zu-akzeptieren-dass-die
 date: 2011-07-16 07:07:05
-title: Vertrauen heißt, zu akzeptieren, dass die Mitarbeiter vielleicht auch...
 type: quote
 ---
 

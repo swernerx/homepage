@@ -1,6 +1,5 @@
 slug: i-dont-think-anyone-can-successfully-argue-that
 date: 2013-02-18 13:17:38
-title: I don’t think anyone can successfully argue that Chome/Chromium isn’t...
 type: quote
 ---
 

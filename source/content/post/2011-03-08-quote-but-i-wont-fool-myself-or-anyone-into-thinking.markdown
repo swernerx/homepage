@@ -1,6 +1,5 @@
 slug: but-i-wont-fool-myself-or-anyone-into-thinking
 date: 2011-03-08 20:01:50
-title: But I won’t fool myself or anyone into thinking that I (or you) can...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: people-think-focus-means-saying-yes-to-the-thing
 date: 2011-01-29 09:49:03
-title: People think focus means saying yes to the thing you’ve got to focus...
 type: quote
 ---
 

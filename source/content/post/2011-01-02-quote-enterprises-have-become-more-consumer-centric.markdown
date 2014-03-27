@@ -1,6 +1,5 @@
 slug: enterprises-have-become-more-consumer-centric
 date: 2011-01-02 12:38:16
-title: Enterprises have become more consumer-centric. Simplicity and...
 type: quote
 ---
 

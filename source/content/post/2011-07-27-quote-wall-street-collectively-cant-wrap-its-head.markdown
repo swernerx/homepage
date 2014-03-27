@@ -1,6 +1,5 @@
 slug: wall-street-collectively-cant-wrap-its-head
 date: 2011-07-27 01:35:55
-title: Wall Street, collectively, can’t wrap its head around just how big...
 type: quote
 ---
 

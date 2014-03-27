@@ -1,6 +1,5 @@
 slug: eine-gesellschaft-in-der-die-menschen-statistisch
 date: 2011-05-21 14:38:33
-title: Eine Gesellschaft, in der die Menschen statistisch immer gesünder...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: we-didnt-chase-revenue-for-revenues-sake-and-we
 date: 2011-07-01 08:44:42
-title: We didn’t chase revenue for revenue’s sake and we fired customers...
 type: quote
 ---
 

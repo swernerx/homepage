@@ -1,6 +1,5 @@
 slug: after-a-lot-of-experimentation-35-40-characters
 date: 2014-01-31 11:48:39
-title: After a lot of experimentation, 35–40 characters per line on a...
 type: quote
 ---
 

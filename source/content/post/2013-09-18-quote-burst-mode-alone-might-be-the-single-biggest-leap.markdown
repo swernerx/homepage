@@ -1,6 +1,5 @@
 slug: burst-mode-alone-might-be-the-single-biggest-leap
 date: 2013-09-18 22:17:13
-title: Burst mode alone might be the single biggest leap forward ever in...
 type: quote
 ---
 

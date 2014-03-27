@@ -1,6 +1,5 @@
 slug: i-want-the-new-york-times-to-thrive-its-long
 date: 2011-06-26 20:04:08
-title: I want The New York Times to thrive. It’s long been my favorite...
 type: quote
 ---
 

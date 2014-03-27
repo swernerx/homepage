@@ -1,6 +1,5 @@
 slug: sex-is-like-driving-in-polls-nine-out-of-ten
 date: 2011-11-28 08:47:19
-title: Sex is like driving. In polls, nine out of ten people think they are...
 type: quote
 ---
 

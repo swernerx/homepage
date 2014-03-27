@@ -1,6 +1,5 @@
 slug: you-tend-to-get-told-that-the-world-is-the-way-it
 date: 2011-10-27 15:18:32
-title: You tend to get told that the world is the way it is, but life can be...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: blackberrys-sind-heute-in-vielen-fallen-zu
 date: 2011-06-19 18:51:14
-title: Blackberrys sind heute in vielen Fällen zu Billiggeräten geworden.
 type: quote
 ---
 

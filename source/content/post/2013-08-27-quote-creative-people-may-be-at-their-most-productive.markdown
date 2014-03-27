@@ -1,6 +1,5 @@
 slug: creative-people-may-be-at-their-most-productive
 date: 2013-08-27 18:18:48
-title: Creative people may be at their most productive when, to the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: social-isnt-a-product-social-is-people-and
 date: 2013-03-21 14:12:36
-title: Social isn’t a product […] Social is people and the people are...
 type: quote
 ---
 

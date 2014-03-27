@@ -1,6 +1,5 @@
 slug: being-social-online-has-become-far-too-much
 date: 2011-09-23 20:30:43
-title: Being “social” online has become far too much work. Facebook has...
 type: quote
 ---
 

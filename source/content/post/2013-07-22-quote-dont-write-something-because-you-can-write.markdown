@@ -1,6 +1,5 @@
 slug: dont-write-something-because-you-can-write
 date: 2013-07-22 08:58:16
-title: Don’t write something because you can. Write something because you...
 type: quote
 ---
 

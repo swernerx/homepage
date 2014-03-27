@@ -1,8 +1,5 @@
 slug: nice-product-fine-ad-the-new-ft-web-app-von
 date: 2011-06-08 09:52:15
-title: Nice product. Fine ad.
-
- The New FT Web App (von 
 type: video
 ---
 

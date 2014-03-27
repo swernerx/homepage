@@ -1,6 +1,5 @@
 slug: awesome-apple-phone-prototype-from-1983-shows-an
 date: 2012-01-01 01:09:15
-title: Awesome: 
 type: photo
 ---
 

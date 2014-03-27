@@ -1,6 +1,5 @@
 slug: facebook-is-about-to-launch-a-mobile-platform
 date: 2011-06-16 14:54:12
-title: Facebook is about to launch a mobile platform aimed squarely at...
 type: quote
 ---
 

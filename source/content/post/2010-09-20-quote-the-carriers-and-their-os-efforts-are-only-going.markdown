@@ -1,6 +1,5 @@
 slug: the-carriers-and-their-os-efforts-are-only-going
 date: 2010-09-20 00:03:40
-title: The carriers and their OS efforts are only going to be good if they...
 type: quote
 ---
 

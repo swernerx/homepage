@@ -1,6 +1,5 @@
 slug: positioned-floats-are-nice-for-magazine-like
 date: 2011-06-30 09:24:37
-title: Positioned floats are nice for magazine like layout. Via 
 type: photo
 ---
 

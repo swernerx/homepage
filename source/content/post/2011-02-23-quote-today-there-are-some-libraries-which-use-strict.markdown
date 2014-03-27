@@ -1,6 +1,5 @@
 slug: today-there-are-some-libraries-which-use-strict
 date: 2011-02-23 10:32:37
-title: Today there are some libraries which use strict equal with typeof and...
 type: quote
 ---
 

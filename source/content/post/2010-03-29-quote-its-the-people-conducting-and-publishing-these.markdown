@@ -1,6 +1,5 @@
 slug: its-the-people-conducting-and-publishing-these
 date: 2010-03-29 10:37:00
-title: It’s the people conducting and publishing these surveys, pretending...
 type: quote
 ---
 

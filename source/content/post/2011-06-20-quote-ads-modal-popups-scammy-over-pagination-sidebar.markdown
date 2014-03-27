@@ -1,6 +1,5 @@
 slug: ads-modal-popups-scammy-over-pagination-sidebar
 date: 2011-06-20 09:32:08
-title: Ads, modal popups, scammy over-pagination, sidebar cruft, and even...
 type: quote
 ---
 

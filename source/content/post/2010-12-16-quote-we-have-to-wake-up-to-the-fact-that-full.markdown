@@ -1,6 +1,5 @@
 slug: we-have-to-wake-up-to-the-fact-that-full
 date: 2010-12-16 17:19:41
-title: We have to wake up to the fact that full cross-browser support of new...
 type: quote
 ---
 

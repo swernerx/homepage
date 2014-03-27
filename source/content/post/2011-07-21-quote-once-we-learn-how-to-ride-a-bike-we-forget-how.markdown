@@ -1,6 +1,5 @@
 slug: once-we-learn-how-to-ride-a-bike-we-forget-how
 date: 2011-07-21 13:45:19
-title: Once we learn how to ride a bike, we forget how long it took to...
 type: quote
 ---
 

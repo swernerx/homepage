@@ -1,6 +1,5 @@
 slug: power-users-dont-matter-build-for-the-masses
 date: 2010-06-11 00:03:30
-title: Power Users Don’t Matter, Build For The Masses!
 type: quote
 ---
 

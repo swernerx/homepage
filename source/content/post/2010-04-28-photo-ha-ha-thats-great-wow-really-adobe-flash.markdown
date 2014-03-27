@@ -1,6 +1,5 @@
 slug: ha-ha-thats-great-wow-really-adobe-flash
 date: 2010-04-28 21:43:30
-title: Ha ha… that’s great: 
 type: photo
 ---
 

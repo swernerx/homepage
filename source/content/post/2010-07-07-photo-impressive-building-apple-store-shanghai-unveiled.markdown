@@ -1,6 +1,5 @@
 slug: impressive-building-apple-store-shanghai-unveiled
 date: 2010-07-07 20:14:42
-title: Impressive building: 
 type: photo
 ---
 

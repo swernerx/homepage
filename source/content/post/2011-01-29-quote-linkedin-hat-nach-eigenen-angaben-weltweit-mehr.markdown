@@ -1,6 +1,5 @@
 slug: linkedin-hat-nach-eigenen-angaben-weltweit-mehr
 date: 2011-01-29 10:59:58
-title: LinkedIn hat nach eigenen Angaben weltweit mehr als 90 Millionen...
 type: quote
 ---
 

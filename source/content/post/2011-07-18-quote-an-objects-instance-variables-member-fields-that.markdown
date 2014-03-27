@@ -1,6 +1,5 @@
 slug: an-objects-instance-variables-member-fields-that
 date: 2011-07-18 00:02:03
-title: An object’s instance variables (member fields that aren’t constants),...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: ein-modell-zahlen-gegen-werbefreiheit-kann-bei
 date: 2013-05-16 17:54:48
-title: Ein Modell „Zahlen gegen Werbefreiheit“ kann bei einigen größeren...
 type: quote
 ---
 

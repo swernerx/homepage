@@ -1,6 +1,5 @@
 slug: the-best-way-to-break-out-of-that-procedural
 date: 2011-07-02 18:58:17
-title: The best way to break out of that procedural mindset is to think in...
 type: quote
 ---
 

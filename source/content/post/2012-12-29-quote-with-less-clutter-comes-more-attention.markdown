@@ -1,6 +1,5 @@
 slug: with-less-clutter-comes-more-attention
 date: 2012-12-29 19:32:38
-title: With less clutter comes more attention.
 type: quote
 ---
 

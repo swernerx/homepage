@@ -1,6 +1,5 @@
 slug: were-not-robots-and-apple-is-a-touchy-feely
 date: 2010-06-23 00:11:11
-title: We’re not robots, and Apple is a touchy-feely company who understands...
 type: quote
 ---
 

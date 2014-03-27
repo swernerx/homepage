@@ -1,6 +1,5 @@
 slug: dara-obriain-science-doesnt-know-everything
 date: 2012-01-24 10:12:17
-title: Dara O’Briain: Science doesn’t know everything (von 
 type: video
 ---
 

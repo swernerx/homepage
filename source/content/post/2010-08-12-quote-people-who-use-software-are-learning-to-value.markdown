@@ -1,6 +1,5 @@
 slug: people-who-use-software-are-learning-to-value
 date: 2010-08-12 19:46:24
-title: People who use software are learning to value power over flexibility.
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: as-humans-we-are-distinctly-different-from
 date: 2013-06-25 18:29:19
-title: As humans, we are distinctly different from machines.
 type: quote
 ---
 

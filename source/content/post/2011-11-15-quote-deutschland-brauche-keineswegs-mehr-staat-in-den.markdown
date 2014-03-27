@@ -1,6 +1,5 @@
 slug: deutschland-brauche-keineswegs-mehr-staat-in-den
 date: 2011-11-15 18:07:50
-title: Deutschland brauche keineswegs „mehr Staat“ in den Unternehmen, weder...
 type: quote
 ---
 

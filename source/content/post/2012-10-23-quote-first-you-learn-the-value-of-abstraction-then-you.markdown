@@ -1,6 +1,5 @@
 slug: first-you-learn-the-value-of-abstraction-then-you
 date: 2012-10-23 09:33:04
-title: first you learn the value of abstraction, then you learn the cost of...
 type: quote
 ---
 

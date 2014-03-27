@@ -1,6 +1,5 @@
 slug: one-of-the-reasons-why-ive-been-drawn-to-app
 date: 2011-06-19 13:32:03
-title: One of the reasons why I’ve been drawn to App Engine. It eliminates...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apples-so-called-walled-garden-we-keep-hearing
 date: 2010-04-12 23:15:09
-title: Apple’s so called walled garden we keep hearing about that’s going to...
 type: quote
 ---
 

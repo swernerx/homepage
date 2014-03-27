@@ -1,6 +1,5 @@
 slug: awesome-steve-jobs-presents-to-the-cupertino-city
 date: 2011-06-08 10:32:46
-title: Awesome: Steve Jobs Presents to the Cupertino City Council ...
 type: video
 ---
 

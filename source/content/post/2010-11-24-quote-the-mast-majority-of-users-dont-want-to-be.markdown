@@ -1,6 +1,5 @@
 slug: the-mast-majority-of-users-dont-want-to-be
 date: 2010-11-24 08:34:22
-title: The mast majority of users don’t want to be systems administrators...
 type: quote
 ---
 

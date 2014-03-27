@@ -1,6 +1,5 @@
 slug: for-a-long-time-iphone-felt-like-a-lexus-while
 date: 2010-06-10 23:53:10
-title: For a long time, iPhone felt like a Lexus while Android was more like...
 type: quote
 ---
 

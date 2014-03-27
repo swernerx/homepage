@@ -1,6 +1,5 @@
 slug: i-cant-fucking-believe-that-my-linux-experience
 date: 2012-06-15 17:27:18
-title: I can’t fucking believe that my Linux experience was better 3...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: googles-one-pass-is-pretty-much-just-a
 date: 2011-02-17 21:37:15
-title: Google’s One Pass is pretty much just a warmed-over content paywall...
 type: quote
 ---
 

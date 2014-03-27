@@ -1,6 +1,5 @@
 slug: the-nexus-7-is-a-very-good-implementation-of-a
 date: 2012-07-24 14:23:16
-title: The Nexus 7 is a very good implementation of a form-factor that I...
 type: quote
 ---
 

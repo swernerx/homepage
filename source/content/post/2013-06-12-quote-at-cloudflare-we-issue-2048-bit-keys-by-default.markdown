@@ -1,6 +1,5 @@
 slug: at-cloudflare-we-issue-2048-bit-keys-by-default
 date: 2013-06-12 17:02:13
-title: At CloudFlare we issue 2048-bit keys by default and prefer the ECDHE...
 type: quote
 ---
 

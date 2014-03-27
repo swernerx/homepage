@@ -1,6 +1,5 @@
 slug: nothing-will-fix-3d-short-of-producing-true
 date: 2011-07-11 02:50:15
-title: Nothing will fix 3D short of producing true “holographic” images.
 type: quote
 ---
 

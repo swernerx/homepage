@@ -1,6 +1,5 @@
 slug: es-ist-riskant-einfach-nur-die-schonheit-des
 date: 2013-04-07 12:54:56
-title: Es ist riskant, einfach nur die Schönheit des Altbewährten zu...
 type: quote
 ---
 

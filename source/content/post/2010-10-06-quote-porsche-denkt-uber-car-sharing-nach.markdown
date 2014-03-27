@@ -1,6 +1,5 @@
 slug: porsche-denkt-uber-car-sharing-nach
 date: 2010-10-06 22:35:41
-title: Porsche denkt über Car-Sharing nach.
 type: quote
 ---
 

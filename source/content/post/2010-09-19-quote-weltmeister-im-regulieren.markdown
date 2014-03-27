@@ -1,6 +1,5 @@
 slug: weltmeister-im-regulieren
 date: 2010-09-19 20:38:29
-title: Weltmeister im Regulieren
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: it-is-nothing-more-than-a-few-cosmetic-changes
 date: 2010-04-28 22:14:05
-title: It is nothing more than a few cosmetic changes that ultimately offers...
 type: quote
 ---
 

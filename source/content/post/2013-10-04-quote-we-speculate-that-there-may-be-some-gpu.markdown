@@ -1,6 +1,5 @@
 slug: we-speculate-that-there-may-be-some-gpu
 date: 2013-10-04 19:35:44
-title: We speculate that there may be some GPU offloading of general...
 type: quote
 ---
 

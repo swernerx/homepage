@@ -1,6 +1,5 @@
 slug: daimler-verteidigt-wasserstoff-auto
 date: 2010-05-15 14:29:45
-title: Daimler verteidigt Wasserstoff-Auto
 type: link
 ---
 

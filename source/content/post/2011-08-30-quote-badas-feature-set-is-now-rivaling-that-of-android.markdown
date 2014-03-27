@@ -1,6 +1,5 @@
 slug: badas-feature-set-is-now-rivaling-that-of-android
 date: 2011-08-30 18:28:28
-title: Bada’s feature set is now rivaling that of Android in many ways and...
 type: quote
 ---
 

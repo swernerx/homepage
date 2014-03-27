@@ -1,6 +1,5 @@
 slug: korea-based-nexon-is-also-said-to-be-readying
 date: 2011-07-08 22:51:55
-title: Korea-based Nexon is also said to be readying itself for an IPO. It...
 type: quote
 ---
 

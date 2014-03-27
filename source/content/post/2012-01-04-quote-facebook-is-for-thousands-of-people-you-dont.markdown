@@ -1,6 +1,5 @@
 slug: facebook-is-for-thousands-of-people-you-dont
 date: 2012-01-04 18:27:27
-title: Facebook is for thousands of people you don’t know. The start fresh...
 type: quote
 ---
 

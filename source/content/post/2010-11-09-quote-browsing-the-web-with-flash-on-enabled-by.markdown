@@ -1,6 +1,5 @@
 slug: browsing-the-web-with-flash-on-enabled-by
 date: 2010-11-09 14:24:24
-title: Browsing the web with Flash on (enabled by default) proved to be a...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: perhaps-this-partially-explains-why-apple-a-very
 date: 2010-12-31 14:25:15
-title: Perhaps this partially explains why Apple — a very prominent...
 type: quote
 ---
 

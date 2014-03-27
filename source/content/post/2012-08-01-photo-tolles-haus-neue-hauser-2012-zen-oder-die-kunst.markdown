@@ -1,6 +1,5 @@
 slug: tolles-haus-neue-hauser-2012-zen-oder-die-kunst
 date: 2012-08-01 17:40:47
-title: Tolles Haus: 
 type: photo
 ---
 

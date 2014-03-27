@@ -1,6 +1,5 @@
 slug: online-advertising-see-google-isnt-some
 date: 2012-10-24 19:02:31
-title: Online advertising – see Google – isn’t some continuing wonder of...
 type: quote
 ---
 

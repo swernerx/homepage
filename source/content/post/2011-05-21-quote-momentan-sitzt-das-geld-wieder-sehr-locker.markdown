@@ -1,6 +1,5 @@
 slug: momentan-sitzt-das-geld-wieder-sehr-locker
 date: 2011-05-21 15:06:04
-title: Momentan sitzt das Geld wieder sehr locker, besonders für das...
 type: quote
 ---
 

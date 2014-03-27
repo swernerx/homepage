@@ -1,6 +1,5 @@
 slug: a-players-possess-the-rare-combination-of-drive
 date: 2013-03-15 10:45:17
-title: A players possess the rare combination of drive, intelligence and...
 type: quote
 ---
 

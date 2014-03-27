@@ -1,6 +1,5 @@
 slug: feature-testing-libraries-should-contain-pre-built
 date: 2011-01-31 15:48:43
-title: Feature testing libraries should contain pre-built caches — the kind...
 type: quote
 ---
 

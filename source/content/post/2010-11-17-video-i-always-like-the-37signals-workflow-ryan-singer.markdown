@@ -1,6 +1,5 @@
 slug: i-always-like-the-37signals-workflow-ryan-singer
 date: 2010-11-17 20:52:40
-title: I always like the 37signals workflow: 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: wann-immer-du-etwas-neues-machst-das-den
 date: 2013-08-13 10:06:27
-title: Wann immer du etwas Neues machst, das den traditionellen Verlauf der...
 type: quote
 ---
 

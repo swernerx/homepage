@@ -1,6 +1,5 @@
 slug: many-ipad-apps-are-in-large-part-just-html5-apps
 date: 2010-12-12 16:42:33
-title: Many iPad apps are in large part, just HTML5 apps, inside a wrapper.
 type: quote
 ---
 

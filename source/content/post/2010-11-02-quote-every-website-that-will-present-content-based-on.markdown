@@ -1,6 +1,5 @@
 slug: every-website-that-will-present-content-based-on
 date: 2010-11-02 09:24:15
-title: Every website that will present content based on IP language could be...
 type: quote
 ---
 

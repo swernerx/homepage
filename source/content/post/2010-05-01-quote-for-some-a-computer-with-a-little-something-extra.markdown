@@ -1,6 +1,5 @@
 slug: for-some-a-computer-with-a-little-something-extra
 date: 2010-05-01 18:27:13
-title: For some, a computer with a little something extra – a different...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: thriftdb-is-a-flexible-key-value-datastore-with
 date: 2011-05-25 19:25:30
-title: ThriftDB is a flexible key-value datastore with search built in that...
 type: quote
 ---
 

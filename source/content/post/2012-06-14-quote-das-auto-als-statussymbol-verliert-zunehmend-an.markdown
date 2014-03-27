@@ -1,6 +1,5 @@
 slug: das-auto-als-statussymbol-verliert-zunehmend-an
 date: 2012-06-14 12:37:41
-title: Das Auto als Statussymbol verliert zunehmend an Bedeutung. Heute...
 type: quote
 ---
 

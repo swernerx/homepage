@@ -1,6 +1,5 @@
 slug: having-spent-two-days-using-the-reeder-for-mac
 date: 2010-12-04 16:00:30
-title: Having spent two days using the Reeder for Mac beta, I’m completely...
 type: quote
 ---
 

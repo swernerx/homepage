@@ -1,6 +1,5 @@
 slug: in-the-june-quarter-close-to-50-of-apples
 date: 2010-08-11 00:07:59
-title: In the June quarter close to 50% of Apple’s revenue was derived...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apples-original-releases-tend-to-be-minimal
 date: 2011-03-10 15:36:05
-title: Apple’s original releases tend to be minimal technically but...
 type: quote
 ---
 

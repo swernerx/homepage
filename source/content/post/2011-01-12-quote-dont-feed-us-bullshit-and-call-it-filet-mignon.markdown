@@ -1,6 +1,5 @@
 slug: dont-feed-us-bullshit-and-call-it-filet-mignon
 date: 2011-01-12 23:12:56
-title: Don’t feed us bullshit and call it filet mignon. We can smell it. And...
 type: quote
 ---
 

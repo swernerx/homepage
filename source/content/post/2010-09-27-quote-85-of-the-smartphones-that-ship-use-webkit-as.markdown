@@ -1,6 +1,5 @@
 slug: 85-of-the-smartphones-that-ship-use-webkit-as
 date: 2010-09-27 16:54:49
-title: 85% of the smartphones that ship use WebKit as their core engine...
 type: quote
 ---
 

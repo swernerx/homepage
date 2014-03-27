@@ -1,6 +1,5 @@
 slug: the-ipad-is-an-empty-canvas-that-invites-us-to
 date: 2010-04-05 13:40:58
-title: The iPad is an empty canvas that invites us to imagine what is...
 type: quote
 ---
 

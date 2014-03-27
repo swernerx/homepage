@@ -1,6 +1,5 @@
 slug: while-apple-owners-proudly-display-their-iphones
 date: 2011-01-29 10:39:15
-title: While Apple owners proudly display their iPhones, Nokia owners hide...
 type: quote
 ---
 

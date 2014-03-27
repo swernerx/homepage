@@ -1,6 +1,5 @@
 slug: everyone-knows-communication-is-key-but-being
 date: 2013-04-07 17:05:12
-title: Everyone knows communication is key, but being vocal about the little...
 type: quote
 ---
 

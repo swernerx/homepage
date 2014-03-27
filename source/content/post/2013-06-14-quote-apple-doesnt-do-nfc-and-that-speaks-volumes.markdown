@@ -1,6 +1,5 @@
 slug: apple-doesnt-do-nfc-and-that-speaks-volumes
 date: 2013-06-14 16:19:11
-title: Apple doesn’t do NFC. And that speaks volumes. Don’t forget, NFC is...
 type: quote
 ---
 

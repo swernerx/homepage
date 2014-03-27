@@ -1,6 +1,5 @@
 slug: when-merging-selectors-extend-is-smart-enough-to
 date: 2010-04-29 23:55:54
-title: When merging selectors, @extend is smart enough to avoid unnecessary...
 type: quote
 ---
 

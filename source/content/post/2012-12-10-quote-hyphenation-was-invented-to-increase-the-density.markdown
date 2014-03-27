@@ -1,6 +1,5 @@
 slug: hyphenation-was-invented-to-increase-the-density
 date: 2012-12-10 18:08:39
-title: Hyphenation was invented to increase the density of text and reduce...
 type: quote
 ---
 

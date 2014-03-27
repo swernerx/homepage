@@ -1,6 +1,5 @@
 slug: each-adobe-software-update-brings-the-same-sorry
 date: 2011-01-20 19:53:45
-title: Each Adobe software update brings the same sorry feeling, like...
 type: quote
 ---
 

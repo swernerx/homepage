@@ -1,6 +1,5 @@
 slug: apple-makes-premium-products-accept-it-and-move
 date: 2010-12-29 16:45:05
-title: Apple makes premium products. Accept it and move on. They’re never...
 type: quote
 ---
 

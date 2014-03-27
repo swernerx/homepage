@@ -1,6 +1,5 @@
 slug: you-have-to-attack-yourselves-if-you-protect
 date: 2013-04-03 19:08:22
-title: You have to attack yourselves. If you protect yourself you will not...
 type: quote
 ---
 

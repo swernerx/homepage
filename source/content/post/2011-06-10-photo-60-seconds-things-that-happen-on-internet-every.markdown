@@ -1,6 +1,5 @@
 slug: 60-seconds-things-that-happen-on-internet-every
 date: 2011-06-10 09:43:16
-title: [60 Seconds -...](http://www.go-gulf.com/blog/60-seconds)
 type: photo
 ---
 

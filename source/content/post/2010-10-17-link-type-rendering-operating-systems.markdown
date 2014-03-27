@@ -1,6 +1,5 @@
 slug: type-rendering-operating-systems
 date: 2010-10-17 01:32:04
-title: Type rendering: operating systems
 type: link
 ---
 

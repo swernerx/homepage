@@ -1,6 +1,5 @@
 slug: ein-produkt-dass-ohne-steuerliche-forderung
 date: 2013-04-18 12:14:00
-title: Ein Produkt, dass ohne steuerliche Förderung magere Erträge bringt,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: if-you-want-to-make-the-product-that-everyone-else
 date: 2011-08-17 20:49:57
-title: If you want to make the product that everyone else compares their...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: firefox-clocked-in-at-10-times-slower-than-opera
 date: 2011-05-10 09:46:31
-title: Firefox clocked in at 10 times slower than Opera, Chrome at 60 times...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: understanding-how-users-want-to-navigate-around
 date: 2010-09-06 00:16:30
-title: Understanding how users want to navigate around the application,...
 type: quote
 ---
 

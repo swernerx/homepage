@@ -1,6 +1,5 @@
 slug: scott-berkun-about-the-future-of-wordpress
 date: 2010-06-04 23:26:25
-title: Scott Berkun about 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: in-a-majority-of-european-countries-kids-are
 date: 2011-07-21 13:45:42
-title: In a majority of European countries, kids are brought up with dreams...
 type: quote
 ---
 

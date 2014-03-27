@@ -1,6 +1,5 @@
 slug: there-is-a-lot-more-urgency-once-you-release
 date: 2011-07-02 14:06:04
-title: There is a lot more urgency once you release. That’s precisely why...
 type: quote
 ---
 

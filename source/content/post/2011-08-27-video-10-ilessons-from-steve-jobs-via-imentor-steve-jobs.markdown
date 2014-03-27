@@ -1,6 +1,5 @@
 slug: 10-ilessons-from-steve-jobs-via-imentor-steve-jobs
 date: 2011-08-27 01:09:09
-title: 10 iLessons from Steve Jobs via 
 type: video
 ---
 

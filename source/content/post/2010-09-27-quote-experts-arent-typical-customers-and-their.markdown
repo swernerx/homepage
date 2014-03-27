@@ -1,6 +1,5 @@
 slug: experts-arent-typical-customers-and-their
 date: 2010-09-27 16:54:48
-title: Experts aren’t typical customers and their judgement is often skewed...
 type: quote
 ---
 

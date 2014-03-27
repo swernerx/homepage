@@ -1,6 +1,5 @@
 slug: interesting-via-lukew-new-layouts-for-the
 date: 2013-05-16 11:10:45
-title: Interesting. Via 
 type: photo
 ---
 

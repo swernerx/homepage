@@ -1,6 +1,5 @@
 slug: just-because-android-is-open-doesnt-mean-google
 date: 2011-02-08 17:17:04
-title: Just because Android is open doesn’t mean Google can’t put controls...
 type: quote
 ---
 

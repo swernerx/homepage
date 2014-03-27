@@ -1,6 +1,5 @@
 slug: trotz-verstarkter-konkurrenz-im-smartphone-markt
 date: 2011-07-21 13:45:29
-title: Trotz verstärkter Konkurrenz im Smartphone-Markt durch Geräte mit dem...
 type: quote
 ---
 

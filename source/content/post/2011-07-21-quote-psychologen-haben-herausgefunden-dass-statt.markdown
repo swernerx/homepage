@@ -1,6 +1,5 @@
 slug: psychologen-haben-herausgefunden-dass-statt
 date: 2011-07-21 13:45:51
-title: Psychologen haben herausgefunden, dass statt Intelligenz eher...
 type: quote
 ---
 

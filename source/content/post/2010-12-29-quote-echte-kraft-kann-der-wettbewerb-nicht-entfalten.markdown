@@ -1,6 +1,5 @@
 slug: echte-kraft-kann-der-wettbewerb-nicht-entfalten
 date: 2010-12-29 17:56:40
-title: Echte Kraft kann der Wettbewerb nicht entfalten, solange die...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: nice-web-design-by-apple
 date: 2010-11-22 20:38:31
-title: Nice web design by Apple.
 type: photo
 ---
 

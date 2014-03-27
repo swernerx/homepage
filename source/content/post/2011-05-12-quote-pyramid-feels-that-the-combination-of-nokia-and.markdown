@@ -1,6 +1,5 @@
 slug: pyramid-feels-that-the-combination-of-nokia-and
 date: 2011-05-12 20:23:55
-title: Pyramid feels that the combination of Nokia and Microsoft will prove...
 type: quote
 ---
 

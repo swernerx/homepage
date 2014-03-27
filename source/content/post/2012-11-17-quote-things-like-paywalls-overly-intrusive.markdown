@@ -1,6 +1,5 @@
 slug: things-like-paywalls-overly-intrusive
 date: 2012-11-17 17:52:28
-title: Things like paywalls, overly intrusive advertising, limited community...
 type: quote
 ---
 

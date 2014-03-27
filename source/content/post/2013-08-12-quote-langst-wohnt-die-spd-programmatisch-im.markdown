@@ -1,6 +1,5 @@
 slug: langst-wohnt-die-spd-programmatisch-im
 date: 2013-08-12 08:48:46
-title: Längst wohnt die SPD programmatisch im Karl-Liebknecht-Haus der...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: apple-is-the-up-and-coming-rockstar-hp-is-the
 date: 2010-07-23 16:59:49
-title: Apple is the up-and-coming rockstar, HP is the aging one. And they’re...
 type: quote
 ---
 

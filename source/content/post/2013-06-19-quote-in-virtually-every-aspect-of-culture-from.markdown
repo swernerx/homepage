@@ -1,6 +1,5 @@
 slug: in-virtually-every-aspect-of-culture-from
 date: 2013-06-19 08:25:41
-title: In virtually every aspect of culture, from business to technology to...
 type: quote
 ---
 

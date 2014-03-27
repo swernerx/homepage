@@ -1,6 +1,5 @@
 slug: android-fans-would-be-better-served-going-with-the
 date: 2011-11-09 10:29:46
-title: Android fans would be better-served going with the “Good artists...
 type: quote
 ---
 

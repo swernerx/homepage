@@ -1,6 +1,5 @@
 slug: funny-printing-to-the-cloud-via-thecobrapython
 date: 2011-02-02 19:33:29
-title: Funny: 
 type: video
 ---
 

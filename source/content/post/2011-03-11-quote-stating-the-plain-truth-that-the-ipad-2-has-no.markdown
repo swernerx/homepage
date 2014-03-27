@@ -1,6 +1,5 @@
 slug: stating-the-plain-truth-that-the-ipad-2-has-no
 date: 2011-03-11 21:19:25
-title: Stating the plain truth, that the iPad 2 has no serious competition...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: the-amount-of-times-a-developers-input-has
 date: 2013-05-24 11:59:53
-title: The amount of times a developer’s input has critically altered my...
 type: quote
 ---
 

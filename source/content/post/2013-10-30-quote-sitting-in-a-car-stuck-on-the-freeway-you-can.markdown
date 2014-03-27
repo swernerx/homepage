@@ -1,6 +1,5 @@
 slug: sitting-in-a-car-stuck-on-the-freeway-you-can
 date: 2013-10-30 18:22:39
-title: Sitting in a car, stuck on the freeway, you can literally feel the...
 type: quote
 ---
 

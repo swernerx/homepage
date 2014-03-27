@@ -1,6 +1,5 @@
 slug: gerade-in-der-anfangsphase-wo-viele-leute-denken
 date: 2011-05-21 14:42:38
-title: Gerade in der Anfangsphase, wo viele Leute denken, dass das, was man...
 type: quote
 ---
 

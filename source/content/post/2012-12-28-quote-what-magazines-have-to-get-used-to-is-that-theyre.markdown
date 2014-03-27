@@ -1,6 +1,5 @@
 slug: what-magazines-have-to-get-used-to-is-that-theyre
 date: 2012-12-28 19:21:38
-title: What magazines have to get used to is that they’re now competing...
 type: quote
 ---
 

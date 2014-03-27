@@ -1,6 +1,5 @@
 slug: vudu-has-deals-in-place-that-will-put-its-software
 date: 2010-03-29 10:57:00
-title: Vudu has deals in place that will put its software on TVs or Blu-ray...
 type: quote
 ---
 

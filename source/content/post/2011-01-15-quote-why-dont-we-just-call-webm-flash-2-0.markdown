@@ -1,6 +1,5 @@
 slug: why-dont-we-just-call-webm-flash-2-0
 date: 2011-01-15 12:46:56
-title: Why don’t we just call WebM, Flash 2.0?
 type: quote
 ---
 

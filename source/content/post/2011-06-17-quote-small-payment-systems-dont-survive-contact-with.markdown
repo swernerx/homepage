@@ -1,6 +1,5 @@
 slug: small-payment-systems-dont-survive-contact-with
 date: 2011-06-17 22:20:37
-title: Small payment systems don’t survive contact with online markets,...
 type: quote
 ---
 

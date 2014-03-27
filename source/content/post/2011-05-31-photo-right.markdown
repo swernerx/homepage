@@ -1,6 +1,5 @@
 slug: right
 date: 2011-05-31 11:25:36
-title: Right!
 type: photo
 ---
 

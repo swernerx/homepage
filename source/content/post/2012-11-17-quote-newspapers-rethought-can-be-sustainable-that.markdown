@@ -1,6 +1,5 @@
 slug: newspapers-rethought-can-be-sustainable-that
 date: 2012-11-17 17:53:09
-title: Newspapers, rethought, can be sustainable — that is, profitable. The...
 type: quote
 ---
 

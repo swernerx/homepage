@@ -1,6 +1,5 @@
 slug: in-theory-working-with-an-ssd-drive-attached-via
 date: 2011-06-30 09:22:07
-title: In theory, working with an SSD drive attached via Thunderbolt should...
 type: quote
 ---
 

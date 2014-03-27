@@ -1,6 +1,5 @@
 slug: patent-issues-may-turn-android-based-devices-into
 date: 2011-01-20 16:27:05
-title: Patent issues may turn Android-based devices into an unprofitable...
 type: quote
 ---
 

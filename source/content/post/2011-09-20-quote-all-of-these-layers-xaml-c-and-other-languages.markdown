@@ -1,6 +1,5 @@
 slug: all-of-these-layers-xaml-c-and-other-languages
 date: 2011-09-20 19:58:19
-title: All of these layers—XAML/C# (and other languages), HTML/JavaScript,...
 type: quote
 ---
 

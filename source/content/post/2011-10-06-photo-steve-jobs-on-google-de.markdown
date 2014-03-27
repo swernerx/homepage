@@ -1,6 +1,5 @@
 slug: steve-jobs-on-google-de
 date: 2011-10-06 10:59:00
-title: Steve Jobs on [Google.de](http://www.google.de)
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: hopefully-chrome-for-android-quickly-becomes-the
 date: 2012-02-12 17:23:52
-title: Hopefully Chrome for Android quickly becomes the only browser for...
 type: quote
 ---
 

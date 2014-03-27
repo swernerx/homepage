@@ -1,6 +1,5 @@
 slug: if-you-sell-innovation-as-one-of-your-agencies
 date: 2013-09-05 11:52:00
-title: If you sell ‘innovation’ as one of your agencies capabilities (who...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: ipad-dock-was-packaged-quite-extensive-for-such-a
 date: 2010-05-28 17:22:21
-title: iPad dock was packaged quite extensive for such a small tool.
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: das-system-kostenloser-beziehungsweise-staatlich
 date: 2010-10-25 10:41:03
-title: Das System kostenloser beziehungsweise staatlich hoch...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: its-ironic-that-ios-is-far-ahead-of-android-when
 date: 2011-07-01 08:13:21
-title: It’s ironic that iOS is far ahead of Android when it comes to mobile...
 type: quote
 ---
 

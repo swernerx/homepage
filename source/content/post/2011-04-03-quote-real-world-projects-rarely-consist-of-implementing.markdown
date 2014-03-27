@@ -1,6 +1,5 @@
 slug: real-world-projects-rarely-consist-of-implementing
 date: 2011-04-03 04:10:15
-title: Real world projects rarely consist of implementing binary searches...
 type: quote
 ---
 

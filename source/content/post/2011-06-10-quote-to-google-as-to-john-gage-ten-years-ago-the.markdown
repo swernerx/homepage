@@ -1,6 +1,5 @@
 slug: to-google-as-to-john-gage-ten-years-ago-the
 date: 2011-06-10 08:09:38
-title: To Google, as to John Gage ten years ago, the network is still the...
 type: quote
 ---
 

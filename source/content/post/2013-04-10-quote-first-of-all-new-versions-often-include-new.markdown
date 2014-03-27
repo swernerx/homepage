@@ -1,6 +1,5 @@
 slug: first-of-all-new-versions-often-include-new
 date: 2013-04-10 12:29:05
-title: First of all new versions often include new features that help you...
 type: quote
 ---
 

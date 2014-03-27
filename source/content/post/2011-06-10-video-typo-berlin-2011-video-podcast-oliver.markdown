@@ -1,6 +1,5 @@
 slug: typo-berlin-2011-video-podcast-oliver
 date: 2011-06-10 18:16:43
-title: TYPO Berlin 2011 Video Podcast - Oliver Reichenstein of iA (via 
 type: video
 ---
 

@@ -1,6 +1,5 @@
 slug: none-of-the-devices-released-look-and-feel-strong
 date: 2013-09-10 18:18:55
-title: None of the devices released look and feel strong enough to withstand...
 type: quote
 ---
 

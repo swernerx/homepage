@@ -1,6 +1,5 @@
 slug: german-video-by-a-golemde-wetab-im-test-holla
 date: 2010-10-06 13:58:14
-title: German video by a 
 type: video
 ---
 

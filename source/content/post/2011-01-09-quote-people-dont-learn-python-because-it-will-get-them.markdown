@@ -1,6 +1,5 @@
 slug: people-dont-learn-python-because-it-will-get-them
 date: 2011-01-09 12:58:24
-title: People don’t learn Python because it will get them a job; they...
 type: quote
 ---
 

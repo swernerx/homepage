@@ -1,6 +1,5 @@
 slug: der-zeitpunkt-ein-webstartup-zu-grunden-ist
 date: 2011-06-01 18:38:17
-title: Der Zeitpunkt, ein Webstartup zu gründen, ist optimal.
 type: quote
 ---
 

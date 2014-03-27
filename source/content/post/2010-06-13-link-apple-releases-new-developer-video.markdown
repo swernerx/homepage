@@ -1,6 +1,5 @@
 slug: apple-releases-new-developer-video
 date: 2010-06-13 12:28:47
-title: Apple Releases New Developer Video
 type: link
 ---
 

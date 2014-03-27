@@ -1,6 +1,5 @@
 slug: ha-ha-via-fun-drno-de
 date: 2010-05-22 20:52:22
-title: Ha ha … via 
 type: photo
 ---
 

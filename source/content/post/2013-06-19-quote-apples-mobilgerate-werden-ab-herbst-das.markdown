@@ -1,6 +1,5 @@
 slug: apples-mobilgerate-werden-ab-herbst-das
 date: 2013-06-19 15:30:57
-title: Apples Mobilgeräte werden ab Herbst das höchstentwickelte...
 type: quote
 ---
 

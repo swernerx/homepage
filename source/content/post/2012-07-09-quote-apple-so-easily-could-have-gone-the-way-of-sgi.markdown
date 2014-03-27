@@ -1,6 +1,5 @@
 slug: apple-so-easily-could-have-gone-the-way-of-sgi
 date: 2012-07-09 09:58:41
-title: Apple so easily could have gone the way of SGI, the way of Sun...
 type: quote
 ---
 

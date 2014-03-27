@@ -1,6 +1,5 @@
 slug: there-isnt-a-single-great-work-in-the-history-of
 date: 2013-06-14 16:24:51
-title: There isn’t a single great work in the history of civilization, no...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: nail-the-basic-features-and-you-will-have-a-solid
 date: 2013-07-24 18:01:03
-title: Nail the basic features and you will have a solid product. Miss them...
 type: quote
 ---
 

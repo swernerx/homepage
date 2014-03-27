@@ -1,6 +1,5 @@
 slug: with-the-new-transmit-disk-feature-you-can-now
 date: 2010-04-28 22:00:29
-title: With the new Transmit Disk feature, you can now mount any of your...
 type: quote
 ---
 

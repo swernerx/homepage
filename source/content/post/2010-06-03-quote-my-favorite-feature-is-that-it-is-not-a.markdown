@@ -1,6 +1,5 @@
 slug: my-favorite-feature-is-that-it-is-not-a
 date: 2010-06-03 17:48:00
-title: My favorite feature is that it is not a full-fledged computer that...
 type: quote
 ---
 

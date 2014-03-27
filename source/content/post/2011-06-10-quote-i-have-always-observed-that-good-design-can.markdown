@@ -1,6 +1,5 @@
 slug: i-have-always-observed-that-good-design-can
 date: 2011-06-10 16:53:11
-title: I have always observed that good design can normally only emerge if...
 type: quote
 ---
 

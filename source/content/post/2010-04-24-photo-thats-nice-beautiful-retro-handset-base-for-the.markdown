@@ -1,6 +1,5 @@
 slug: thats-nice-beautiful-retro-handset-base-for-the
 date: 2010-04-24 08:30:03
-title: That’s nice: 
 type: photo
 ---
 

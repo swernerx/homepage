@@ -1,6 +1,5 @@
 slug: es-sei-besonders-fur-manner-sehr-schwierig-so
 date: 2011-04-27 21:44:08
-title: Es sei besonders für Männer „sehr schwierig, so alt zu werden, dass...
 type: quote
 ---
 

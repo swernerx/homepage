@@ -1,6 +1,5 @@
 slug: interesting-chart-from-the-sencha-guys-but-keep
 date: 2010-12-10 11:08:47
-title: Interesting chart from the Sencha guys. But keep this in mind:...
 type: photo
 ---
 

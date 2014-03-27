@@ -1,6 +1,5 @@
 slug: das-vertrauen-in-soziale-google-dienste-ist
 date: 2013-04-05 22:31:04
-title: Das Vertrauen in soziale Google-Dienste ist praktisch auf null...
 type: quote
 ---
 

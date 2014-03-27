@@ -1,6 +1,5 @@
 slug: if-we-continue-to-bombard-and-bamboozle-our-users
 date: 2012-12-29 19:28:16
-title: if we continue to bombard and bamboozle our users with cluttered...
 type: quote
 ---
 

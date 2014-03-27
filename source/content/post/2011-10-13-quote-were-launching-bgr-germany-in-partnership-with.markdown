@@ -1,6 +1,5 @@
 slug: were-launching-bgr-germany-in-partnership-with
 date: 2011-10-13 13:25:52
-title: We’re launching BGR Germany in partnership with the largest Internet...
 type: quote
 ---
 

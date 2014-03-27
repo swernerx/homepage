@@ -1,6 +1,5 @@
 slug: android-came-in-at-the-high-end-they-are-now
 date: 2011-02-09 10:54:00
-title: Android came in at the high-end, they are now winning the mid-range,...
 type: quote
 ---
 

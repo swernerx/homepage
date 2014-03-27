@@ -1,6 +1,5 @@
 slug: bing-extracts-the-css-js-and-images-from-the
 date: 2011-12-26 18:08:27
-title: Bing extracts the CSS, JS and images from the original download, and...
 type: quote
 ---
 

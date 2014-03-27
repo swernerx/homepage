@@ -1,6 +1,5 @@
 slug: hidden-features-of-python-stack-overflow
 date: 2011-01-24 08:39:32
-title: Hidden features of Python - Stack Overflow
 type: link
 ---
 

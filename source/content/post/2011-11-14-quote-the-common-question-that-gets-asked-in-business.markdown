@@ -1,6 +1,5 @@
 slug: the-common-question-that-gets-asked-in-business
 date: 2011-11-14 08:59:19
-title: The common question that gets asked in business is, why? That’s a...
 type: quote
 ---
 

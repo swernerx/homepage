@@ -1,6 +1,5 @@
 slug: nice-from-google-to-make-this-available-great
 date: 2010-10-16 19:38:24
-title: Nice from Google to make this available. Great...
 type: video
 ---
 

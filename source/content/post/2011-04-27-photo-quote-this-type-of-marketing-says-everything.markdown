@@ -1,6 +1,5 @@
 slug: quote-this-type-of-marketing-says-everything
 date: 2011-04-27 11:57:36
-title: Quote: This type of marketing says everything about...
 type: photo
 ---
 

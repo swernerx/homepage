@@ -1,6 +1,5 @@
 slug: syncing-is-another-feature-unique-to-echofon
 date: 2010-04-14 09:53:13
-title: Syncing is another feature unique to Echofon. Unread tweets are...
 type: quote
 ---
 

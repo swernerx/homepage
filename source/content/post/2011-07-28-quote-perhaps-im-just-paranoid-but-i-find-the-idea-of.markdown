@@ -1,6 +1,5 @@
 slug: perhaps-im-just-paranoid-but-i-find-the-idea-of
 date: 2011-07-28 15:00:03
-title: Perhaps I’m just paranoid, but I find the idea of Google sucking data...
 type: quote
 ---
 

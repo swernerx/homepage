@@ -1,6 +1,5 @@
 slug: graffiti-happens-at-the-intersection-of-ambition
 date: 2011-12-14 11:20:16
-title: Graffiti happens at the intersection of ambition and incompetence:...
 type: quote
 ---
 

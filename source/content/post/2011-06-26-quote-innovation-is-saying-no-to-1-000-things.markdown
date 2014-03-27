@@ -1,6 +1,5 @@
 slug: innovation-is-saying-no-to-1-000-things
 date: 2011-06-26 15:23:22
-title: Innovation is saying ‘no’ to 1,000 things.
 type: quote
 ---
 

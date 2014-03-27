@@ -1,6 +1,5 @@
 slug: wer-fur-digitalen-journalismus-zahlt-der-erwartet
 date: 2012-12-09 21:30:38
-title: Wer für digitalen Journalismus zahlt, der erwartet dafür einerseits...
 type: quote
 ---
 

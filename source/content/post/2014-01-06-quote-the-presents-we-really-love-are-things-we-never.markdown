@@ -1,6 +1,5 @@
 slug: the-presents-we-really-love-are-things-we-never
 date: 2014-01-06 08:34:59
-title: The presents we really love are things we never would have thought to...
 type: quote
 ---
 

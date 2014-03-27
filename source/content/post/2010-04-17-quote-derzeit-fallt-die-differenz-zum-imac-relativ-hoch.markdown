@@ -1,6 +1,5 @@
 slug: derzeit-fallt-die-differenz-zum-imac-relativ-hoch
 date: 2010-04-17 13:13:28
-title: Derzeit fällt die Differenz zum iMac relativ hoch aus, da dieser von...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: pepsi-logo-by-lawrence-yang
 date: 2011-06-19 21:02:30
-title: Pepsi logo by Lawrence Yang
 type: photo
 ---
 

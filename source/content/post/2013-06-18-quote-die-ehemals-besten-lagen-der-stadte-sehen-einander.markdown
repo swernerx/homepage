@@ -1,6 +1,5 @@
 slug: die-ehemals-besten-lagen-der-stadte-sehen-einander
 date: 2013-06-18 08:51:32
-title: Die ehemals besten Lagen der Städte sehen einander immer ähnlicher,...
 type: quote
 ---
 

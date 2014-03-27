@@ -1,6 +1,5 @@
 slug: the-ipad-versions-arent-touch-friendly-versions
 date: 2011-06-03 20:50:40
-title: The iPad versions aren’t “touch friendly” versions of the Mac apps —...
 type: quote
 ---
 

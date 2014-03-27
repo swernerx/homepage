@@ -1,6 +1,5 @@
 slug: der-tolino-ist-zum-start-ein-nobler-versuch
 date: 2013-03-11 15:32:16
-title: Der tolino ist zum Start ein nobler Versuch, Amazon zumindest in...
 type: quote
 ---
 

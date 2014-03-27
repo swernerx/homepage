@@ -1,6 +1,5 @@
 slug: the-key-to-success-in-start-ups-is-making-sure
 date: 2011-05-25 19:25:27
-title: The key to success in start-ups is making sure you’re young,...
 type: quote
 ---
 

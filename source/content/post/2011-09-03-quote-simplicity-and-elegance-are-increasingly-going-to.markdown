@@ -1,6 +1,5 @@
 slug: simplicity-and-elegance-are-increasingly-going-to
 date: 2011-09-03 10:25:48
-title: Simplicity and elegance are increasingly going to win the day as...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: i-absolutely-loved-the-hangover-ive-watched-it
 date: 2011-02-28 21:21:13
-title: I absolutely loved The Hangover. I’ve watched it start-to-finish at...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: ironically-most-indicators-make-users-focus-on
 date: 2013-09-30 16:02:47
-title: Ironically, most indicators make users focus on the indicator itself...
 type: quote
 ---
 

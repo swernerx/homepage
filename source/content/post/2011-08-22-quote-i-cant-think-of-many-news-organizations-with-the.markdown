@@ -1,6 +1,5 @@
 slug: i-cant-think-of-many-news-organizations-with-the
 date: 2011-08-22 08:29:57
-title: I can’t think of many news organizations with the courage and ability...
 type: quote
 ---
 

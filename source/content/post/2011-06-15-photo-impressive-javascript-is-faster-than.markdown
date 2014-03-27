@@ -1,6 +1,5 @@
 slug: impressive-javascript-is-faster-than
 date: 2011-06-15 23:50:22
-title: Impressive: JavaScript is faster than ActionScript. Via 
 type: photo
 ---
 

@@ -1,6 +1,5 @@
 slug: nice-nice-firefox-makes-progress-firefox-4-beta
 date: 2010-07-28 21:59:17
-title: Nice, nice. Firefox makes progress: 
 type: video
 ---
 

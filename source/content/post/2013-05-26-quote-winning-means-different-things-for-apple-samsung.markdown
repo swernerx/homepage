@@ -1,6 +1,5 @@
 slug: winning-means-different-things-for-apple-samsung
 date: 2013-05-26 14:00:55
-title: Winning means different things for Apple, Samsung or Google. After...
 type: quote
 ---
 

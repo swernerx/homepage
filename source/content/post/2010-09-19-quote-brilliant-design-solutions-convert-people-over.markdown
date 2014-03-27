@@ -1,6 +1,5 @@
 slug: brilliant-design-solutions-convert-people-over
 date: 2010-09-19 21:13:38
-title: Brilliant design solutions convert people over time, because they’re...
 type: quote
 ---
 

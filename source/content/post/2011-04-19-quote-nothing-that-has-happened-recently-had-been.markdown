@@ -1,6 +1,5 @@
 slug: nothing-that-has-happened-recently-had-been
 date: 2011-04-19 22:54:57
-title: Nothing that has happened recently had been predicted by those who...
 type: quote
 ---
 

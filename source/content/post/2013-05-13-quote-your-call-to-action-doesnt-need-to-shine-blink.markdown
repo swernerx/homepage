@@ -1,6 +1,5 @@
 slug: your-call-to-action-doesnt-need-to-shine-blink
 date: 2013-05-13 16:07:35
-title: Your call-to-action doesn’t need to shine, blink, and appear to hover...
 type: quote
 ---
 

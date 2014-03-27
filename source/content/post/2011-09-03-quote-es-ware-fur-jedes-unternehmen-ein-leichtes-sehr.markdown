@@ -1,6 +1,5 @@
 slug: es-ware-fur-jedes-unternehmen-ein-leichtes-sehr
 date: 2011-09-03 10:16:57
-title: Es wäre für jedes Unternehmen ein Leichtes, sehr erfolgreich zu sein...
 type: quote
 ---
 

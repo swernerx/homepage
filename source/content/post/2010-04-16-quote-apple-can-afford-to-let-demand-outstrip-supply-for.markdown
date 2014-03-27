@@ -1,6 +1,5 @@
 slug: apple-can-afford-to-let-demand-outstrip-supply-for
 date: 2010-04-16 15:52:32
-title: Apple can afford to let demand outstrip supply for a few months,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: weve-modeled-our-implementation-after-twitters
 date: 2010-07-17 16:10:15
-title: We’ve modeled our implementation after Twitter’s in many ways,...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: were-embarking-on-a-series-of-interface-updates
 date: 2011-07-01 08:32:24
-title: We’re embarking on a series of interface updates to help strip out...
 type: quote
 ---
 

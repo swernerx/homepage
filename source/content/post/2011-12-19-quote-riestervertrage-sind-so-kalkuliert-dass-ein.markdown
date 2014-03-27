@@ -1,6 +1,5 @@
 slug: riestervertrage-sind-so-kalkuliert-dass-ein
 date: 2011-12-19 16:05:15
-title: Riesterverträge sind so kalkuliert, dass ein Versicherter weit über...
 type: quote
 ---
 

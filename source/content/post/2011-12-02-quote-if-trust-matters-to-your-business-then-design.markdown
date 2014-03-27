@@ -1,6 +1,5 @@
 slug: if-trust-matters-to-your-business-then-design
 date: 2011-12-02 09:05:51
-title: If trust matters to your business, then design details should matter...
 type: quote
 ---
 

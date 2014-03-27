@@ -1,6 +1,5 @@
 slug: uiwebviews-for-logging-into-services-like
 date: 2012-01-17 11:06:27
-title: UIWebViews for logging into services like Facebook, Twitter or...
 type: quote
 ---
 

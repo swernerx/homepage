@@ -1,6 +1,5 @@
 slug: one-naturally-thinks-that-a-seven-inch-screen
 date: 2010-10-19 17:02:38
-title: One naturally thinks that a seven-inch screen would offer 70 percent...
 type: quote
 ---
 

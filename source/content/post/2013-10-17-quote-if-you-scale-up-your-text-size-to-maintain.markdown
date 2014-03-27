@@ -1,6 +1,5 @@
 slug: if-you-scale-up-your-text-size-to-maintain
 date: 2013-10-17 11:48:35
-title: If you scale up your text size to maintain approximately sixty...
 type: quote
 ---
 

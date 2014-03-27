@@ -1,6 +1,5 @@
 slug: a-flat-user-interface-simplifies-the-visual
 date: 2013-04-10 13:01:11
-title: A flat user interface simplifies the visual richness, but can...
 type: quote
 ---
 

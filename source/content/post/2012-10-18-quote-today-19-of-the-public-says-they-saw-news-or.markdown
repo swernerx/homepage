@@ -1,6 +1,5 @@
 slug: today-19-of-the-public-says-they-saw-news-or
 date: 2012-10-18 17:34:28
-title: Today, 19% of the public says they saw news or news headlines on...
 type: quote
 ---
 

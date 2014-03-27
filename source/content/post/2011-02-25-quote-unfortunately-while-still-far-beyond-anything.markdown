@@ -1,6 +1,5 @@
 slug: unfortunately-while-still-far-beyond-anything
 date: 2011-02-25 23:22:59
-title: Unfortunately, while still far beyond anything that other browser...
 type: quote
 ---
 

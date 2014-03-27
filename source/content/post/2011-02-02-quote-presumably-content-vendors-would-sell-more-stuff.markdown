@@ -1,6 +1,5 @@
 slug: presumably-content-vendors-would-sell-more-stuff
 date: 2011-02-02 10:40:14
-title: Presumably content vendors would sell more stuff if they were able to...
 type: quote
 ---
 

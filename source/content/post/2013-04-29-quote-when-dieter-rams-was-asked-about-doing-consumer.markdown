@@ -1,6 +1,5 @@
 slug: when-dieter-rams-was-asked-about-doing-consumer
 date: 2013-04-29 15:15:44
-title: When Dieter Rams was asked about doing consumer research during his...
 type: quote
 ---
 

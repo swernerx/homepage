@@ -1,6 +1,5 @@
 slug: everything-thats-good-about-the-air-will-make-its
 date: 2010-10-22 22:43:07
-title: Everything that’s good about the Air will make its way into the...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: google-is-simply-incapable-of-creating-user-facing
 date: 2010-09-06 00:16:28
-title: Google is simply incapable of creating user-facing applications, for...
 type: quote
 ---
 

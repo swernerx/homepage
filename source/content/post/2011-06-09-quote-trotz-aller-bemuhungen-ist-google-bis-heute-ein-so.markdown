@@ -1,6 +1,5 @@
 slug: trotz-aller-bemuhungen-ist-google-bis-heute-ein-so
 date: 2011-06-09 19:02:48
-title: Trotz aller Bemühungen ist Google bis heute ein so genanntes...
 type: quote
 ---
 

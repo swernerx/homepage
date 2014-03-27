@@ -1,6 +1,5 @@
 slug: these-are-dark-days-for-net-because-microsoft
 date: 2011-06-09 18:49:23
-title: These are dark days for .NET, because Microsoft now seems to be...
 type: quote
 ---
 

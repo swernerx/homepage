@@ -1,6 +1,5 @@
 slug: die-verlage-haben-gar-nichts-dagegen-dass-google
 date: 2013-04-05 22:36:41
-title: Die Verlage haben gar nichts dagegen, dass Google Daten sammelt, sie...
 type: quote
 ---
 

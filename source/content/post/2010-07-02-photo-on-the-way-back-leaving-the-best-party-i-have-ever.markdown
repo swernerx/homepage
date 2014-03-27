@@ -1,6 +1,5 @@
 slug: on-the-way-back-leaving-the-best-party-i-have-ever
 date: 2010-07-02 05:46:45
-title: On the way back leaving the best party I have ever had...
 type: photo
 ---
 

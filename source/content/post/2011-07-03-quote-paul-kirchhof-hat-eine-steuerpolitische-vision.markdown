@@ -1,6 +1,5 @@
 slug: paul-kirchhof-hat-eine-steuerpolitische-vision
 date: 2011-07-03 17:38:59
-title: Paul Kirchhof hat eine steuerpolitische Vision formuliert, die ich...
 type: quote
 ---
 

@@ -1,6 +1,5 @@
 slug: if-youre-an-iphone-user-you-head-down-to-at-t-and
 date: 2010-04-28 22:06:40
-title: If you’re an iPhone user you head down to AT&T and buy another...
 type: quote
 ---
 

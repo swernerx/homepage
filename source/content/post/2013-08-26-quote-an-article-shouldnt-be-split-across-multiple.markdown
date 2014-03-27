@@ -1,6 +1,5 @@
 slug: an-article-shouldnt-be-split-across-multiple
 date: 2013-08-26 13:05:27
-title: An article shouldn’t be split across multiple pages on the web! We...
 type: quote
 ---
 

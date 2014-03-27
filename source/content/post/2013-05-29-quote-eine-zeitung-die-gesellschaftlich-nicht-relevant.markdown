@@ -1,6 +1,5 @@
 slug: eine-zeitung-die-gesellschaftlich-nicht-relevant
 date: 2013-05-29 18:00:22
-title: Eine Zeitung, die gesellschaftlich nicht relevant ist, hat verloren.
 type: quote
 ---
 

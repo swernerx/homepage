@@ -1,6 +1,5 @@
 slug: verbraucher-haben-die-milch-schnitte-von-ferrero
 date: 2011-06-17 17:04:00
-title: Verbraucher haben die Milch-Schnitte von Ferrero zur dreistesten...
 type: quote
 ---
 

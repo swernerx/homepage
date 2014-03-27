@@ -1,6 +1,5 @@
 slug: your-work-is-going-to-fill-a-large-part-of-your
 date: 2011-10-06 18:31:14
-title: Your work is going to fill a large part of your life, and the only...
 type: quote
 ---
 
