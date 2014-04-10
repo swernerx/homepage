@@ -1,8 +1,8 @@
 name: swerner
 
 requires:
-- source: /Users/Sebastian/Workspace/konstrukteur
-- source: https://github.com/sebastian-software/core.git
+- konstrukteur
+- https://github.com/sebastian-software/core.git
 
 scan:
   "source/class/*.js": jasy.Class
@@ -16,17 +16,18 @@ konstrukteur:
     name: Sebastian Werner
     url: //localhost:8000
 
+  extensions:
+    - markdown
+    - html
+
   blog:
     defaultAuthor: Sebastian Werner
     itemsInFeed: 25
     itemsInIndex: 10
-    postUrl: "archive/{{current.date}}/{{current.slug}}.html"
-    archiveUrl: "archive-{{current.pageno}}.html"
+    postUrl: "archive/{{date-monthly}}/{{slug}}.html"
+    archiveUrl: "archive-{{pageno}}.html"
     feedUrl: "feed.xml"
 
-  pageUrl: "{{current.slug}}.html"
-  extensions:
-    - markdown
-    - html
+  pageUrl: "{{slug}}.html"
 
   defaultLanguage: en
