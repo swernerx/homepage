@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <title>{{title}} - {{config.site.name}}</title>
+    <title>{{current.title}} - {{config.site.name}}</title>
     <link rel="stylesheet" href="{{@part.url main css}}">
   </head>
   <body>
@@ -35,9 +35,9 @@
       <div class="languages">
         Alternative Languages:
         {{#languages}}
-          {{^current}}
+          {{^isCurrent}}
             <a href="{{relativeUrl}}">{{name}}</a>
-          {{/current}}
+          {{/isCurrent}}
         {{/languages}}
       </div>
     </footer>
