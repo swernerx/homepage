@@ -1,5 +1,6 @@
 slug: index
 title: Home
+translations: de
 ---
 
 # Sebastian Werner
