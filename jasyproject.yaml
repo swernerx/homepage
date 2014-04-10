@@ -22,12 +22,15 @@ konstrukteur:
 
   blog:
     defaultAuthor: Sebastian Werner
-    itemsInFeed: 25
-    itemsInIndex: 10
+
     postUrl: "archive/{{date-monthly}}/{{slug}}.html"
-    archiveUrl: "archive-{{pageno}}.html"
+
     feedUrl: "feed.xml"
+    itemsInFeed: 25
+
+    archiveTitle: "FooBar {{pageno}}"
+    archiveUrl: "archive-{{pageno}}.html"
+    archiveItemsPerPage: 10
 
   pageUrl: "{{slug}}.html"
-
   defaultLanguage: en
