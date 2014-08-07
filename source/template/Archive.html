@@ -29,7 +29,7 @@
       <h2>Posts:</h2>
       <ul>
         {{#posts}}
-          {{?publish}}
+          {{?isPublished}}
             <li>
               {{type}} from {{date-daily}}:
               {{?title}}
@@ -39,19 +39,21 @@
                 <a href="{{relativeUrl}}">{{summary}}</a>
               {{/title}}
             </li>
-          {{/publish}}
+          {{/isPublished}}
         {{/posts}}
       </ul>
     </main>
     <footer>
-      <div class="languages">
-        Alternative Languages:
-        {{#languages}}
-          {{^current}}
-            <a href="{{relativeUrl}}">{{name}}</a>
-          {{/current}}
-        {{/languages}}
-      </div>
+      {{?hasOtherLanguages}}
+        <div class="languages">
+          Other Languages:
+          {{#languages}}
+            {{^isCurrent}}
+              <a href="{{relativeUrl}}">{{localizedName}}</a>
+            {{/isCurrent}}
+          {{/languages}}
+        </div>
+      {{/hasOtherLanguages}}
     </footer>
   </body>
 </html>

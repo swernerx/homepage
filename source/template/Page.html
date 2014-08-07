@@ -14,12 +14,12 @@
         <ul>
           {{#pages}}
             <li>
-              {{?active}}
+              {{?isActive}}
                 <a href="#" class="active">{{title}}</a>
-              {{/active}}
-              {{^active}}
+              {{/isActive}}
+              {{^isActive}}
                 <a href="{{relativeUrl}}">{{title}}</a>
-              {{/active}}
+              {{/isActive}}
             </li>
           {{/pages}}
         </ul>
@@ -30,14 +30,16 @@
       {{=content}}
     </main>
     <footer>
-      <div class="languages">
-        Alternative Languages:
-        {{#languages}}
-          {{^isCurrent}}
-            <a href="{{relativeUrl}}">{{name}}</a>
-          {{/isCurrent}}
-        {{/languages}}
-      </div>
+      {{?hasOtherLanguages}}
+        <div class="languages">
+          Other Languages:
+          {{#languages}}
+            {{^isCurrent}}
+              <a href="{{relativeUrl}}">{{localizedName}}</a>
+            {{/isCurrent}}
+          {{/languages}}
+        </div>
+      {{/hasOtherLanguages}}
     </footer>
   </body>
 </html>
