@@ -8,15 +8,13 @@ profile.setDestinationPath("build")
 @task
 def build():
     """Generate build version"""
-
     Build.run(profile)
 
 
 @task
-def content(regenerate=False):
+def content():
     """Generate content files"""
-
-    konstrukteur.build(profile, regenerate)
+    konstrukteur.build(profile)
 
 
 @task

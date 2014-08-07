@@ -16,21 +16,10 @@ konstrukteur:
     name: Sebastian Werner
     url: //localhost:8000
 
-  extensions:
-    - markdown
-    - html
-
   blog:
     defaultAuthor: Sebastian Werner
-
-    postUrl: "archive/{{date-monthly}}/{{slug}}.html"
-
-    feedUrl: "feed.xml"
     itemsInFeed: 25
+    postsPerArchivePage: 20
 
-    archiveTitle: "FooBar {{pageno}}"
-    archiveUrl: "archive-{{pageno}}.html"
-    archiveItemsPerPage: 10
-
-  pageUrl: "{{slug}}.html"
+  pageUrl: "{{slug}}.{{language}}.html"
   defaultLanguage: en
